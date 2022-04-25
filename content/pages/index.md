@@ -12,10 +12,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Ciao, sono daniele D'Amico
-    subtitle: >-
-      Proviamo a togliere questo testo
+    title: 'Ciao, sono danieLle D''Amico'
+    subtitle: Proviamo a togliere questo testo
     styles:
       self:
         height: auto
