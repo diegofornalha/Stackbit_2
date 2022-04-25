@@ -53,7 +53,12 @@ function HeroBody(props) {
         <>
             {title && (
                 <h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                    {title}
+                    <Typewriter
+                    options={{
+                        strings: ['CAFFÈ...', 'APEROL SPRITZ...', 'GELATO...', 'CAPPUCCINO...', 'THÈ...'],
+                        autoStart: true,
+                        loop: true,
+                    }}
                 </h2>
             )}
             {subtitle && (
