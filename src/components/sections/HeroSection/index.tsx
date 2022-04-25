@@ -56,14 +56,7 @@ function HeroBody(props) {
                     {title}
                 </h2>
             )}
-            {<h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null, { 'mt-4': props.badge?.label })} data-sb-field-path=".title" style={{ color: '#FFD662' }}>
-                <Typewriter
-                    options={{
-                        strings: ['CAFFÈ...', 'APEROL SPRITZ...', 'GELATO...', 'CAPPUCCINO...', 'THÈ...'],
-                        autoStart: true,
-                        loop: true,
-                    }}
-                /></h2>}
+            
             {subtitle && (
                 <p
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': title })}
