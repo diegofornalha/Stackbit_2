@@ -25,7 +25,7 @@ media:
 client: Cose
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Midnight-City-8f79d758.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
