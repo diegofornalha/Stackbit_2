@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Ciao, sono danieLle D''Amico'
+    title: 'Ciao, sono danieLe D''Amico'
     subtitle: Proviamo a togliere questo testo
     styles:
       self:
