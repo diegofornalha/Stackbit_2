@@ -77,7 +77,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    title: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
   - type: LabelsSection
     colors: colors-d
     elementId: ''
