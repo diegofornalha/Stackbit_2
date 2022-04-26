@@ -1,5 +1,5 @@
 ---
-title: Another cool project
+title: La sottile antifragilità del freelancer
 colors: colors-a
 layout: ProjectLayout
 client: Awesome client
