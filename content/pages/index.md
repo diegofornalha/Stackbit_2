@@ -95,7 +95,7 @@ sections:
     items:
       - type: Label
         label: Product Management
-        url: /productmanagement
+        url: /product-management
       - type: Label
         label: Notion
       - type: Label
