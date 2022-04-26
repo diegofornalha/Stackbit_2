@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Ciao, sono danieLe D''Amico'
-    subtitle: Proviamo a togliere questo testo
+    subtitle: Un giovane (e pelato) Product Manager in costante crescita!
     styles:
       self:
         height: auto
