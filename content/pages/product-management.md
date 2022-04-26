@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: PRODUCT MANAGEMENT
+title: Product Management
 colors: colors-a
 backgroundImage:
   url: /images/Midnight-City-748a8415.webp
