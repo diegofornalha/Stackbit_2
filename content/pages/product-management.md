@@ -8,7 +8,7 @@ metaTags: []
 title: Empty page
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: /images/Midnight-City-748a8415.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
