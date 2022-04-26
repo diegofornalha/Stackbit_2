@@ -86,7 +86,7 @@ sections:
       - type: Label
         label: Product Management
       - type: Label
-        label: React
+        label: Notion
       - type: Label
         label: Microsoft Office
       - type: Label
