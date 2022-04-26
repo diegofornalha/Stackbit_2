@@ -44,7 +44,7 @@ sections:
       actions:
         justifyContent: center
     title: null
-    subtitle: 'Projects:'
+    subtitle: VUOI LEGGERE QUALCOSA SUL PRODUCT MANAGEMENT EH?
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
