@@ -77,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects:'
+    subtitle: Non sai da dove cominciare? Ecco qualche consiglio
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
