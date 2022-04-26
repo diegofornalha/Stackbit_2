@@ -23,6 +23,13 @@ media:
   url: /images/Frame-1-_1_-ba4a6e22.webp
   altText: Project image
 client: Cose
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Uno dei consigli che più ho ricevuto fin da quando ho memoria è stato quello di seguire la mia passione.
 
