@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 colors: colors-a
 backgroundImage:
-  url: /images/bg4.jpg
+  url: /images/Midnight-City-c404f5b8.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
