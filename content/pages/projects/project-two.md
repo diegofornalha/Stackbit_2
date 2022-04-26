@@ -20,7 +20,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Frame-1 (1)-7cc43b2c.webp
   altText: Project image
 client: Cose
 ---
