@@ -81,7 +81,7 @@ sections:
   - type: LabelsSection
     colors: colors-d
     elementId: ''
-    title: Skills
+    title: Argomenti
     items:
       - type: Label
         label: Product Management
