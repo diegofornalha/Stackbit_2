@@ -24,7 +24,7 @@ export default function ProjectLayout(props) {
                     <div className="max-w-5xl mx-auto">
                         <header className="mb-10 sm:mb-16">
                             {client && (
-                                <div className="text-lg uppercase mb-2 md:mb-6" data-sb-field-path="client">
+                                <a className="text-lg uppercase mb-2 md:mb-6" data-sb-field-path="client">
                                     {client}
                                 </div>
                             )}
