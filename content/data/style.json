@@ -54,7 +54,7 @@
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
     "buttonPrimary": {
-        "weight": "normal",
+        "weight": "medium",
         "case": "none",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
