@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/house_light_idea-1 (1).svg",
     "header": {
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "DANIELE D'AMICO",
         "isTitleVisible": true,
