@@ -3,9 +3,17 @@ title: La sottile antifragilità del freelancer
 colors: colors-a
 layout: ProjectLayout
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Uno dei consigli che più ho ricevuto fin da quando ho memoria è stato quello
+  di seguire la mia passione.
+
+  Non credo di essere stato l’unico a ricevere tale consiglio e non credo di
+  essere stato l’unico neanche a ricevere il consiglio che segue.
+
+  “Non c’è nulla di più sicuro del posto fisso!”
+
+  Credo che questi due siano tra i consigli più diffusi e cliché.
+
+  Ma hanno davvero senso?
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
