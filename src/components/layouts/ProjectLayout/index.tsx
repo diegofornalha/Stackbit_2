@@ -26,7 +26,7 @@ export default function ProjectLayout(props) {
                             {client && (
                                 <a className="text-lg uppercase mb-2 md:mb-6" data-sb-field-path="client">
                                     {client}
-                                </div>
+                                </a>
                             )}
                             <div className="md:flex md:justify-between">
                                 <div className="text-lg mb-6 md:mb-0 md:ml-12 md:order-last">
