@@ -16,7 +16,7 @@ description: >-
   Ma hanno davvero senso?
 featuredImage:
   type: ImageBlock
-  url: /images/Frame-1.webp
+  url: /images/Frame-1 (1).webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
