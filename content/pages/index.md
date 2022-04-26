@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home - Daniele D'Amico
 layout: PageLayout
 colors: colors-a
 backgroundImage:
