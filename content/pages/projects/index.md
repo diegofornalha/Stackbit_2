@@ -3,7 +3,7 @@ layout: ProjectFeedLayout
 title: CONSIGLI DI LETTURA
 colors: colors-a
 backgroundImage:
-  url: /images/bg1.jpg
+  url: /images/Midnight-City-185c52b9.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
