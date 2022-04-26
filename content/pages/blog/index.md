@@ -11,7 +11,7 @@ backgroundImage:
 numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
-  showDate: true
+  showDate: false
   showAuthor: false
   showExcerpt: true
   showFeaturedImage: true
