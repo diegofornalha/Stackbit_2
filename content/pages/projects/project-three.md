@@ -4,10 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2022-01-22'
 client: Notion
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: "\U0001D403\U0001D41A\U0001D42B\U0001D41E\U0001D42C\U0001D42D\U0001D422 \U0001D426\U0001D41A\U0001D422 \U0001D41D\U0001D41A \U0001D41B\U0001D41E\U0001D42B\U0001D41E \U0001D41A\U0001D425\U0001D41C\U0001D428\U0001D425 \U0001D41A\U0001D41D \U0001D42E\U0001D427 \U0001D41B\U0001D41A\U0001D426\U0001D41B\U0001D422\U0001D427\U0001D428 \U0001D41A\U0001D429\U0001D429\U0001D41E\U0001D427\U0001D41A \U0001D427\U0001D41A\U0001D42D\U0001D428? Allora perché vuoi dare alla tua startup qualcosa di cui non ha bisogno (o che magari le fa male)? \U0001F447\U0001F447\U0001F447\n\nAspetta, aspetta, non sono impazzito. "
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
