@@ -1,5 +1,5 @@
 ---
-title: One more cool project
+title: NON AVVELENARE LA TUA STARTUP
 colors: colors-a
 layout: ProjectLayout
 date: '2022-01-22'
