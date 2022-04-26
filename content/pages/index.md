@@ -120,6 +120,42 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: LabelsSection
+    colors: colors-d
+    elementId: ''
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: React
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: Stackbit
+      - type: Label
+        label: Pancakes
+      - type: Label
+        label: C++
+      - type: Label
+        label: Swift
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -187,41 +223,5 @@ sections:
       title:
         textAlign: left
       text:
-        textAlign: left
-  - type: LabelsSection
-    colors: colors-d
-    elementId: ''
-    title: Skills
-    subtitle: The section subtitle
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Stackbit
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
         textAlign: left
 ---
