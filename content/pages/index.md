@@ -88,7 +88,7 @@ sections:
       - type: Label
         label: Notion
       - type: Label
-        label: Microsoft Office
+        label: Produttività
       - type: Label
         label: Next.js
       - type: Label
