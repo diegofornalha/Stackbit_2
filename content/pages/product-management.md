@@ -15,7 +15,7 @@ backgroundImage:
   opacity: 80
 sections:
   - type: FeaturedProjectsSection
-    colors: colors-d
+    colors: colors-f
     elementId: ''
     showDate: false
     showDescription: true
