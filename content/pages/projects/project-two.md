@@ -22,6 +22,7 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+client: Cose
 ---
 Uno dei consigli che più ho ricevuto fin da quando ho memoria è stato quello di seguire la mia passione.
 
