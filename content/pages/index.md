@@ -90,8 +90,6 @@ sections:
       - type: Label
         label: Produttività
       - type: Label
-        label: Next.js
-      - type: Label
         label: Stackbit
       - type: Label
         label: Pancakes
