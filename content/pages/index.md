@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundSize: full
     title: 'Ciao, sono danieLe D''Amico'
     subtitle: Un giovane (e pelato) Product Manager in costante crescita!
