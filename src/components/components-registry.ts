@@ -60,6 +60,6 @@ const components = {
     'PostFeedLayout': dynamic(() => import('./layouts/PostFeedLayout')),
     'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout')),
     'ProjectLayout': dynamic(() => import('./layouts/ProjectLayout')),
-    'ProjectFeedLayout': dynamic(() => import('./layouts/ProjectFeedLayout'))
+    'ProjectFeedLayout': dynamic(() => import('./layouts/ProjectFeedLayout')),
     'ReadingBar': dynamic(() => import('./atoms/ReadingBar'))
 };
