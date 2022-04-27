@@ -4,7 +4,8 @@ import React from 'react'
 const AlertSection = ({ text }) => {
   return (
     <div id="reading-progress" class="border-yellow squiggle">
-        <div id="reading-progress-fill"></div></div>
+        <div id="reading-progress-fill"></div>
+    </div>
   )
 }
 
