@@ -8,6 +8,8 @@ import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
+import ReadingBar from 
+
 
 export default function PostLayout(props) {
     const { page, site } = props;
