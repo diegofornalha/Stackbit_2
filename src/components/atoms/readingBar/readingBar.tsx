@@ -3,7 +3,6 @@ import classNames from 'classnames';
 import Link from '../Link';
 import { iconMap } from '../../svgs';
 
-
 const readingProgress = document.querySelector("#reading-progress-fill");
 document.addEventListener("scroll", function (e) {
   let w =
