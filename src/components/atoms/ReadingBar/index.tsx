@@ -1,4 +1,3 @@
-// src/components/sections/AlertSection.tsx
 import React from 'react'
 
 const ReadingBar = ({ text }) => {
