@@ -9,4 +9,4 @@ const ReadingBar = ({ text }) => {
   )
 }
 
-export default AlertSection
+export default ReadingBar
