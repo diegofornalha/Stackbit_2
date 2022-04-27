@@ -2,7 +2,7 @@ import React from 'react'
 
 const ReadingBar = ({ text }) => {
   return (
-    <div id="readingProgress" className="border-yellow squiggle">
+    <div id="reading-progress" className="border-yellow squiggle">
         <div id="reading-progress-fill"></div>
     </div>
   )
