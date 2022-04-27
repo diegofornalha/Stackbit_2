@@ -61,5 +61,5 @@ const components = {
     'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout')),
     'ProjectLayout': dynamic(() => import('./layouts/ProjectLayout')),
     'ProjectFeedLayout': dynamic(() => import('./layouts/ProjectFeedLayout'))
-    '''
+    '
 };
