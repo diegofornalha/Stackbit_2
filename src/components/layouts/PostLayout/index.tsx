@@ -113,8 +113,8 @@ function postAuthor(author) {
             {children}
         </Link>
     ) : (
-        <span data-sb-field-path="author">{children}</span>
-    );
+            <span data-sb-field-path="author">{children}</span>
+        );
 }
 
 function postCategory(category) {
