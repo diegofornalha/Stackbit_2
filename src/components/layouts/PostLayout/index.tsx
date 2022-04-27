@@ -2,7 +2,6 @@ import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import ReadingBar from 
 
 import HighlightedPreBlock from './../../../utils/highlighted-markdown';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
