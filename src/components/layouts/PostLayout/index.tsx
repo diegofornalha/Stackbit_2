@@ -20,6 +20,7 @@ export default function PostLayout(props) {
 
     return (
         <BaseLayout page={page} site={site}>
+            
             <main id="main" className="sb-layout sb-post-layout">
                 <article className="px-4 py-14 lg:py-20">
                     <div className="max-w-5xl mx-auto">
