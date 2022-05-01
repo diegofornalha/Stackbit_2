@@ -7,6 +7,7 @@ client: Curation
 description: |-
   Per output migliori non devi aumentare l'input, devi migliorarne la qualità!
   Lo stesso vale per il lavoro d'intelletto.
+  Ecco una selezione dei contenuti che più hanno influenzato il mio pensiero 
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
