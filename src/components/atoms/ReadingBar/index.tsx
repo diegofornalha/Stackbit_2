@@ -14,4 +14,4 @@
 //  readingProgress.style.setProperty('width', w + '%');
 // });
 
-export default ReadingBar
+// export default ReadingBar
