@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Frame-2-8758b889.webp
   altText: Project image
 ---
 𝐃𝐚𝐫𝐞𝐬𝐭𝐢 𝐦𝐚𝐢 𝐝𝐚 𝐛𝐞𝐫𝐞 𝐚𝐥𝐜𝐨𝐥 𝐚𝐝 𝐮𝐧 𝐛𝐚𝐦𝐛𝐢𝐧𝐨 𝐚𝐩𝐩𝐞𝐧𝐚 𝐧𝐚𝐭𝐨? Allora perché vuoi dare alla tua startup qualcosa di cui non ha bisogno (o che magari le fa male)? 👇👇👇
