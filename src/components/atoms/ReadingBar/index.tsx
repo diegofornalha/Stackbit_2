@@ -1,7 +1,7 @@
 //import React from 'react'
 
 //const ReadingBar = ({ text }) => {
-  return (
+//  return (
     <div id="reading-progress" className="border-yellow squiggle" style={{ width= 0;}}>
         <div id="reading-progress-fill"></div>
     </div>
