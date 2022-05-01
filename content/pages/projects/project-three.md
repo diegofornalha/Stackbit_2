@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Midnight City.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
