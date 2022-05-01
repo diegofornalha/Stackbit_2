@@ -24,4 +24,16 @@ backgroundImage:
   opacity: 100
   url: /images/Midnight City.jpg
 ---
-[Naval su Twitter: "How to Get Rich (without getting lucky):" / Twitter](https://twitter.com/naval/status/1002103360646823936)
+> \<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+code block
+
+```
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+
+
+inline code
+
+`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
