@@ -32,3 +32,7 @@ backgroundImage:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be rewarded, you have to be irreplaceable.<br><br>If you want to be irreplaceable, you have to be unique.<br><br>If you want to be unique, you have to be authentic.<br><br>If you want to be authentic, stop listening to everyone and everything else. <br><br>It’s drowning “you” out.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1210087254925836289?ref_src=twsrc%5Etfw">December 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doctors won’t make you healthy.<br><br>Nutritionists won’t make you slim.<br><br>Teachers won’t make you smart.<br><br>Gurus won’t make you calm.<br><br>Mentors won’t make you rich.<br><br>Trainers won’t make you fit.<br><br>Ultimately, you have to take responsibility. <br><br>Save yourself.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1027776399329898496?ref_src=twsrc%5Etfw">August 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
