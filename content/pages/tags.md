@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Empty page
+title: Consigli di lettura
 colors: colors-a
 backgroundImage:
   url: /images/bg2.jpg
