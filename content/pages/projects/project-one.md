@@ -16,5 +16,12 @@ media:
   type: ImageBlock
   url: /images/Frame-5.webp
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 [Naval su Twitter: "How to Get Rich (without getting lucky):" / Twitter](https://twitter.com/naval/status/1002103360646823936)
