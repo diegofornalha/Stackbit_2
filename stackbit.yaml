@@ -38,7 +38,7 @@ contentModels:
     singleInstance: true
     urlPath: '/tags'
     file: 'tags/index.md'
-    newFilePath: 'projects/index.md'
+    newFilePath: 'tags/index.md'
 modelsSource:
   type: files
   modelDirs:
