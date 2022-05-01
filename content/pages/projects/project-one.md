@@ -1,5 +1,5 @@
 ---
-title: Selection > Overload
+title: Curation > Overload
 colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
