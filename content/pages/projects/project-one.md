@@ -4,7 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
-description: |-
+description: |
   Per output migliori non devi aumentare l'input, devi migliorarne la qualità!
   Lo stesso vale per il lavoro d'intelletto.
 featuredImage:
