@@ -4,10 +4,13 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
-description: |-
+description: >-
   Per output migliori non devi aumentare l'input, devi migliorarne la qualità!
+
   Lo stesso vale per il lavoro d'intelletto.
-  Ecco una selezione dei contenuti che più hanno influenzato il mio pensiero 
+
+  Ecco allora una selezione dei contenuti che più hanno influenzato il mio
+  pensiero 
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
