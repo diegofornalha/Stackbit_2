@@ -31,7 +31,7 @@ contentModels:
     newFilePath: 'blog/index.md'
   ProjectLayout:
     isPage: true
-    urlPath: '/projects/{slug}'
+    urlPath: '/tags/{slug}'
     newFilePath: 'projects/{slug}.md'
   ProjectFeedLayout:
     isPage: true
