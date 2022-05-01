@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Frame-5.webp
   altText: Project image
 ---
 [Naval su Twitter: "How to Get Rich (without getting lucky):" / Twitter](https://twitter.com/naval/status/1002103360646823936)
