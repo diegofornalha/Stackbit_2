@@ -37,7 +37,7 @@ contentModels:
     isPage: true
     singleInstance: true
     urlPath: '/tags'
-    file: 'projects/index.md'
+    file: 'tags/index.md'
     newFilePath: 'projects/index.md'
 modelsSource:
   type: files
