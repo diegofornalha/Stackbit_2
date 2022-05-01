@@ -32,7 +32,7 @@ contentModels:
   ProjectLayout:
     isPage: true
     urlPath: '/tags/{slug}'
-    newFilePath: 'tags/{slug}.md'
+    newFilePath: 'tags/{slug}content.md'
   ProjectFeedLayout:
     isPage: true
     singleInstance: true
