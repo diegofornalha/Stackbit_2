@@ -4,7 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
-description: 'Molto spesso, il modo migliore per rendere '
+description: 'Per output migliori non devi aumentare l''input, '
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
