@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Frame-2-8758b889.webp
+  url: /images/Frame-2-_1_.webp
   altText: Project image
 backgroundImage:
   type: BackgroundImage
