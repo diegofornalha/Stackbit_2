@@ -36,7 +36,7 @@ contentModels:
   ProjectFeedLayout:
     isPage: true
     singleInstance: true
-    urlPath: '/projects'
+    urlPath: '/tags'
     file: 'projects/index.md'
     newFilePath: 'projects/index.md'
 modelsSource:
