@@ -6,7 +6,7 @@
 //        <div id="reading-progress-fill"></div>
 //    </div>
 //  )
-}
+// }
 
 const readingProgress = document.querySelector('#reading-progress-fill');
 document.addEventListener('scroll', function(e) {
