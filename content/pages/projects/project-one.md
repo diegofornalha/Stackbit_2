@@ -4,10 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'Molto spesso, il modo migliore per rendere '
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
