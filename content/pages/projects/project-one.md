@@ -22,5 +22,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/Midnight City.jpg
 ---
 [Naval su Twitter: "How to Get Rich (without getting lucky):" / Twitter](https://twitter.com/naval/status/1002103360646823936)
