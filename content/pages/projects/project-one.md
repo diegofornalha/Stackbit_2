@@ -4,7 +4,7 @@ colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
-description: 'Per output migliori non devi aumentare l''input, '
+description: 'Per output migliori non devi aumentare l''input, devi migliorarne la qualità'
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
