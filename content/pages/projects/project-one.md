@@ -26,9 +26,7 @@ backgroundImage:
 ---
 ## I migliori tweet di **Naval Ravikant**
 
-> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fast, lift, sprint, stretch, and meditate.<br><br>Build, sell, write, create, invest, and own.<br><br>Read, reflect, love, seek truth, and ignore society.<br><br>Make these habits. Say no to everything else.<br><br>Avoid debt, jail, addiction, disgrace, shortcuts, and media.<br><br>Relax. Victory is assured.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1254177712945500160?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
