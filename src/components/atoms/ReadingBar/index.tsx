@@ -2,10 +2,10 @@
 
 //const ReadingBar = ({ text }) => {
 //  return (
-    <div id="reading-progress" className="border-yellow squiggle" style={{ width= 0;}}>
-        <div id="reading-progress-fill"></div>
-    </div>
-  )
+//    <div id="reading-progress" className="border-yellow squiggle" style={{ width= 0;}}>
+//        <div id="reading-progress-fill"></div>
+//    </div>
+//  )
 }
 
 const readingProgress = document.querySelector('#reading-progress-fill');
