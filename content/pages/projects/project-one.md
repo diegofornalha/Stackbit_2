@@ -6,7 +6,7 @@ date: '2021-10-15'
 client: Curation
 description: |-
   Per output migliori non devi aumentare l'input, devi migliorarne la qualità!
-  Lo stesso vale per il lavoro d
+  Lo stesso vale per il lavoro d'intelletto.
 featuredImage:
   type: ImageBlock
   url: /images/Frame-5-716f7664.webp
