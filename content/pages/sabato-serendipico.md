@@ -15,7 +15,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: HeroSection
-    colors: colors-c
+    colors: colors-f
     elementId: ''
     backgroundSize: full
     title: ISCRIVITI A SABATO SERENDIPICO
