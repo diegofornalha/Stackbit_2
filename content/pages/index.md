@@ -127,7 +127,7 @@ sections:
         textAlign: left
     subtitle: >-
       C'è un argomento che ti interessa in particolare? Ho raccolto quelli che
-      più tratto in questo sito, 
+      più tratto in questo sito e 
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
