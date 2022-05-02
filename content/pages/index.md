@@ -104,7 +104,7 @@ sections:
       - type: Label
         label: Produttività
       - type: Label
-        label: Stackbit
+        label: Curation
       - type: Label
         label: Pancakes
       - type: Label
