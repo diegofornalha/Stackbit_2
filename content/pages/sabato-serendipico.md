@@ -34,7 +34,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero.webp
       altText: Image alt text
     styles:
       self:
