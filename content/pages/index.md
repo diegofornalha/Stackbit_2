@@ -94,7 +94,7 @@ sections:
   - type: LabelsSection
     colors: colors-d
     elementId: ''
-    title: Argomenti
+    title: Scorciatoie
     items:
       - type: Label
         label: Product Management
