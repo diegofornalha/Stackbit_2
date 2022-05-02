@@ -22,7 +22,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame-6.webp
   altText: Project image
 bottomSections: []
 ---
