@@ -8,7 +8,7 @@ metaTags: []
 title: Sabato Serendipico
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: /images/Midnight City.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
