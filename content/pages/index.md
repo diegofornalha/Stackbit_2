@@ -108,7 +108,7 @@ sections:
       - type: Label
         label: Content Strategy
       - type: Label
-        label: C++
+        label: Random
       - type: Label
         label: Swift
     styles:
