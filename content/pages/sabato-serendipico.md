@@ -87,7 +87,28 @@ sections:
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
       can continue to scroll down to see more details and credentials about me.
-    text: null
+    text: >+
+      Ogni settimana riceverai una email con:
+
+
+      *   il **prodotto di** **Product Hunt** che più mi ha colpito nella
+      settimana;
+
+
+      *   una **risorsa Notion** che potrebbe esserti utile;
+
+
+      *   un **framework/modello mentale **di cui non potrai fare a meno;
+
+
+      Inoltre, avrai **accesso completo** a:
+
+
+      *   il **database di prodotti da Product Hunt (ed i suoi aggiornamenti)**;
+
+
+      *   Il **database di risorse Notion** (ed i suoi aggiornamenti);
+
     actions:
       - label: Hire me
         altText: ''
