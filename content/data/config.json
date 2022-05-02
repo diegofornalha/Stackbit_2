@@ -9,6 +9,11 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Comincia qui",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
                 "label": "Sabato Serendipico",
                 "altText": "",
                 "url": "/",
@@ -16,11 +21,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Comincia qui",
-                "url": "/info"
             },
             {
                 "type": "Link",
