@@ -26,4 +26,5 @@ media:
   altText: Project image
 bottomSections: []
 ---
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrstamXmJOpnhBU7?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrstamXmJOpnhBU7?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
