@@ -16,7 +16,6 @@ backgroundImage:
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    title: This Is A Big Hero Headline
     text: >-
       <script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js"></script>
@@ -52,5 +51,3 @@ sections:
       actions:
         justifyContent: flex-start
 ---
-
-<script async data-uid="c4fbdd0325" src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js"></script>
