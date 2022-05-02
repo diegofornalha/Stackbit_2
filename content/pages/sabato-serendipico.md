@@ -87,8 +87,7 @@ sections:
       Ogni settimana riceverai una email con:
 
 
-      *   il **prodotto di** **Product Hunt** che più mi ha colpito nella
-      settimana;
+      *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
 
 
       *   una **risorsa Notion** che potrebbe esserti utile;
@@ -104,6 +103,12 @@ sections:
 
 
       *   Il **database di risorse Notion** (ed i suoi aggiornamenti);
+
+
+      <script async data-uid="c4fbdd0325"
+      src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js"></script>
+
+
 
     actions: []
     media:
