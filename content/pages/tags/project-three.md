@@ -1,5 +1,5 @@
 ---
-title: NON AVVELENARE LA TUA STARTUP
+title: UNA DIETA PER LA TUA STARTUP
 colors: colors-a
 layout: ProjectLayout
 date: '2022-01-22'
