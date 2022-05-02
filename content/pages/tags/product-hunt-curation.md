@@ -30,7 +30,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: null
     text: >-
 
