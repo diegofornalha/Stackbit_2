@@ -68,6 +68,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/tags/curation-overload.md
       - content/pages/tags/product-hunt-curation.md
+      - content/pages/tags/project-three.md
     styles:
       self:
         height: auto
