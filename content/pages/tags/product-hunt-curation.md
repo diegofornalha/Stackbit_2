@@ -17,7 +17,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/Frame 6.png
+  url: /images/Frame-6-f4b31e0b.webp
   altText: Project thumbnail image
   caption: ''
 media:
