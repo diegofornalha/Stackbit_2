@@ -70,7 +70,7 @@ function HeroBody(props) {
                 <Markdown
                     options={{ forceBlock: true, forceWrapper: true }}
                     className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, {
-                        'mt-5': title || subtitle
+                        'mt-6': title || subtitle
                     })}
                     data-sb-field-path=".text"
                 >
