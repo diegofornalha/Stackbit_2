@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: This is a project title
+title: Product Hunt Curation
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
