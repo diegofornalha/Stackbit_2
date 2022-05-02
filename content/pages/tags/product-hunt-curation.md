@@ -13,8 +13,9 @@ backgroundImage:
 date: '2022-05-02'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Ogni giorno su Product Hunt escono centinaia di prodotti. Io ne raccolgo i più
+  interessanti, li salvo e questo è il database in cui li raccolgo per analisi,
+  confronto e perché sono un nerd.
 featuredImage:
   type: ImageBlock
   url: /images/Frame-6-f4b31e0b.webp
