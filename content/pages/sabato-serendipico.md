@@ -28,10 +28,6 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
     media:
       type: ImageBlock
       altText: Image alt text
