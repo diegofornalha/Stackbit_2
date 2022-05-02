@@ -125,9 +125,11 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: |-
+    subtitle: >-
       C'è un argomento che ti interessa in particolare? 
-      Ho raccolto quelli che più tratto in questo sito 
+
+      Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
+      scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
