@@ -105,16 +105,7 @@ sections:
 
       *   Il **database di risorse Notion** (ed i suoi aggiornamenti);
 
-    actions:
-      - label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
