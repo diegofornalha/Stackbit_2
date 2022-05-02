@@ -110,7 +110,7 @@ sections:
       - type: Label
         label: Random
       - type: Label
-        label: Swift
+        label: User Research
     styles:
       self:
         height: auto
