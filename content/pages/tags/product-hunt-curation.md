@@ -32,13 +32,11 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: null
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+
+
+      <script async data-uid="4d9e9cdb06"
+      src="https://exceptional-author-9523.ck.page/4d9e9cdb06/index.js"></script>
     styles:
       self:
         height: auto
