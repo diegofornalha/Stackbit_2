@@ -106,7 +106,7 @@ sections:
       - type: Label
         label: Curation
       - type: Label
-        label: Pancakes
+        label: Content Strategy
       - type: Label
         label: C++
       - type: Label
