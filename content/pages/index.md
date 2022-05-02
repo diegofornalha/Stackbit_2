@@ -108,9 +108,9 @@ sections:
       - type: Label
         label: Content Strategy
       - type: Label
-        label: Random
-      - type: Label
         label: User Research
+      - type: Label
+        label: Random
     styles:
       self:
         height: auto
