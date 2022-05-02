@@ -18,7 +18,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: ISCRIVITI A SABATO SERENDIPICO
+    title: SABATO SERENDIPICO
     text: >+
       Ogni sabato riceverai una email con:
 
