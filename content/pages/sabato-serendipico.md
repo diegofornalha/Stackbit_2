@@ -20,7 +20,7 @@ sections:
     backgroundSize: full
     title: ISCRIVITI A SABATO SERENDIPICO
     text: >+
-      Ogni settimana riceverai una email con:
+      Ogni sabato riceverai una email con:
 
 
       *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
@@ -29,7 +29,7 @@ sections:
       *   una **risorsa Notion** che potrebbe esserti utile;
 
 
-      *   un **framework/modello mentale **di cui non potrai fare a meno;
+      *   un \*\*framework/modello mentale \*\*di cui non potrai fare a meno;
 
 
       Inoltre, avrai **accesso completo** a:
@@ -43,8 +43,6 @@ sections:
 
       <script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js"></script>
-
-
 
     actions: []
     media:
