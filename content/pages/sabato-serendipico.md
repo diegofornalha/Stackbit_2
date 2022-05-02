@@ -29,7 +29,7 @@ sections:
       *   una **risorsa Notion** che potrebbe esserti utile;
 
 
-      *   un \*\*framework/modello mentale \*\*di cui non potrai fare a meno;
+      *   un \*\*framework o modello mentale\*\* di cui non potrai fare a meno;
 
 
       Inoltre, avrai **accesso completo** a:
