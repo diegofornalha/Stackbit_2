@@ -14,11 +14,6 @@
             },
             {
                 "type": "Link",
-                "label": "SCORCIATOIE",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
                 "label": "Sabato Serendipico",
                 "altText": "",
                 "url": "/",
@@ -26,6 +21,11 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "SCORCIATOIE",
+                "url": "/projects"
             },
             {
                 "type": "Link",
