@@ -30,7 +30,7 @@ export default function DefaultBaseLayout(props) {
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                    <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/a1946ef3a72cf26b47f65c67/script.js"></script> 
+                    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/a1946ef3a72cf26b47f65c67/script.js"></script> 
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
