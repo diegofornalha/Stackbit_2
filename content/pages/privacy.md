@@ -132,11 +132,7 @@ sections:
 
 
       Privacy Policy generated with CookieYes.
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.webp
