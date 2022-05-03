@@ -11,7 +11,7 @@ excerpt: >-
   altro: usalo e ne trarrai dei benefici, ne sono convinto.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/Frame-9.webp
   altText: Post thumbnail image
 media:
   url: /images/post-2.jpg
