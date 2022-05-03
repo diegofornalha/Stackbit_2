@@ -104,7 +104,7 @@ sections:
         url: /tags/notion
       - type: Label
         label: Produttività
-        url: /produttività
+        url: /tags/produttività
       - type: Label
         label: Curation
         url: /curation
