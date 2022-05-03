@@ -20,16 +20,17 @@ sections:
     backgroundSize: full
     title: SABATO SERENDIPICO
     text: >+
-      Ogni sabato riceverai una email con:
+      Iscriviti alla newsletter Sabato Serendipico e ogni sabato riceverai una
+      email con:
 
 
-      - il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
+      *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
 
 
-      - una **risorsa Notion** che potrebbe esserti utile;
+      *   una **risorsa Notion** che potrebbe esserti utile;
 
 
-      - un **framework o modello mentale** di cui non potrai fare a meno;
+      *   un **framework o modello mentale** di cui non potrai fare a meno;
 
 
       Inoltre, avrai anche un **regalo (a sorpresa)!**
