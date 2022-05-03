@@ -20,9 +20,7 @@ sections:
     variant: variant-a
     title: PRIVACY POLICY
     subtitle: null
-    text: |-
-      <br><span></span><br><span></span>
-      </h1>
+    text: |
       <p class="privacy-policy-p">
           This Privacy Policy describes the policies of
       Danieledamico.tech,
@@ -42,6 +40,7 @@ sections:
       disclosure of your information in accordance with this
       Privacy Policy. If you do not consent to the same,
       please do not access or use the Service.
+
       </p>
       <p class="privacy-policy-p">
           We may modify this Privacy Policy at any time without
@@ -65,77 +64,79 @@ sections:
           </p>
           <ol class="privacy-policy-ol">
 
-                          <li>Marketing/ Promotional</li>
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-          </ol>
-          <p class="privacy-policy-p">
-              If we want to use your information for any other
-              purpose, we will ask you for consent and will
-              use your information only on receiving your
-              consent and then, only for the purpose(s) for
-              which grant consent unless we are required to do
-              otherwise by law.
-          </p>
-      </li>
+      ```
+                      <li>Marketing/ Promotional</li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+      </ol>
+      <p class="privacy-policy-p">
+          If we want to use your information for any other
+          purpose, we will ask you for consent and will
+          use your information only on receiving your
+          consent and then, only for the purpose(s) for
+          which grant consent unless we are required to do
+          otherwise by law.
+      </p>
+      ```
 
+      </li>
 
       <li>
           <h2 class="privacy-policy-h2">
               How We Share Your Information:
           </h2>
 
-
-                  <p class="privacy-policy-p">
-              We will not transfer your personal information
-              to any third party without seeking your consent,
-              except in limited circumstances as described
-              below:
-          </p>
-          <ol class="privacy-policy-ol">
-              
-              
-              
-              
-                          <li>Analytics</li>
-              
-              
-                      </ol>
+      ```
+              <p class="privacy-policy-p">
+          We will not transfer your personal information
+          to any third party without seeking your consent,
+          except in limited circumstances as described
+          below:
+      </p>
+      <ol class="privacy-policy-ol">
           
-          <p class="privacy-policy-p">
-              We require such third party’s to use the
-              personal information we transfer to them only
-              for the purpose for which it was transferred and
-              not to retain it for longer than is required for
-              fulfilling the said purpose.
-          </p>
-          <p class="privacy-policy-p">
-              We may also disclose your personal information
-              for the following: (1) to comply with applicable
-              law, regulation, court order or other legal
-              process; (2) to enforce your agreements with us,
-              including this Privacy Policy; or (3) to respond
-              to claims that your use of the Service violates
-              any third-party rights. If the Service or our
-              company is merged or acquired with another
-              company, your information will be one of the
-              assets that is transferred to the new owner.
-          </p>
+          
+          
+          
+                      <li>Analytics</li>
+          
+          
+                  </ol>
+
+      <p class="privacy-policy-p">
+          We require such third party’s to use the
+          personal information we transfer to them only
+          for the purpose for which it was transferred and
+          not to retain it for longer than is required for
+          fulfilling the said purpose.
+      </p>
+      <p class="privacy-policy-p">
+          We may also disclose your personal information
+          for the following: (1) to comply with applicable
+          law, regulation, court order or other legal
+          process; (2) to enforce your agreements with us,
+          including this Privacy Policy; or (3) to respond
+          to claims that your use of the Service violates
+          any third-party rights. If the Service or our
+          company is merged or acquired with another
+          company, your information will be one of the
+          assets that is transferred to the new owner.
+      </p>
+      ```
+
       </li>
-
-
 
       <li>
           <h2 class="privacy-policy-h2">
@@ -158,21 +159,24 @@ sections:
               request in accordance with applicable law.
           </p>
 
-                  <p class="privacy-policy-p">
-              You may opt-out of direct marketing
-              communications or the profiling we carry out for
-              marketing purposes by writing to us at
-              dandele93@gmail.com.
-          </p>
-          
-          <p class="privacy-policy-p">
-              Do note that if you do not allow us to collect
-              or process the required personal information or
-              withdraw the consent to process the same for the
-              required purposes, you may not be able to access
-              or use the services for which your information
-              was sought.
-          </p>
+      ```
+              <p class="privacy-policy-p">
+          You may opt-out of direct marketing
+          communications or the profiling we carry out for
+          marketing purposes by writing to us at
+          dandele93@gmail.com.
+      </p>
+
+      <p class="privacy-policy-p">
+          Do note that if you do not allow us to collect
+          or process the required personal information or
+          withdraw the consent to process the same for the
+          required purposes, you may not be able to access
+          or use the services for which your information
+          was sought.
+      </p>
+      ```
+
       </li>
           <li>
           <h2 class="privacy-policy-h2">
@@ -180,12 +184,14 @@ sections:
           </h2>
           <p class="privacy-policy-p">
 
-              
-              To learn more about how we use these
-              and your choices in relation to these tracking
-              technologies, please refer to our
-              <a href="danieledamico.tech/cookie">Cookie Policy.</a>
-          </p>
+      ```
+          To learn more about how we use these
+          and your choices in relation to these tracking
+          technologies, please refer to our
+          <a href="danieledamico.tech/cookie">Cookie Policy.</a>
+      </p>
+      ```
+
       </li>
 
       <li>
@@ -205,23 +211,26 @@ sections:
           </p>
       </li>
 
-          <li>
-          <h2 class="privacy-policy-h2">
-              Third Party Links & Use Of Your Information:
-          </h2>
-          <p class="privacy-policy-p">
-              Our Service may contain links to other websites
-              that are not operated by us. This Privacy Policy
-              does not address the privacy policy and other
-              practices of any third parties, including any
-              third party operating any website or service
-              that may be accessible via a link on the
-              Service. We strongly advise you to review the
-              privacy policy of every site you visit. We have
-              no control over and assume no responsibility for
-              the content, privacy policies or practices of
-              any third party sites or services.
-          </p>
+      ```
+      <li>
+      <h2 class="privacy-policy-h2">
+          Third Party Links & Use Of Your Information:
+      </h2>
+      <p class="privacy-policy-p">
+          Our Service may contain links to other websites
+          that are not operated by us. This Privacy Policy
+          does not address the privacy policy and other
+          practices of any third parties, including any
+          third party operating any website or service
+          that may be accessible via a link on the
+          Service. We strongly advise you to review the
+          privacy policy of every site you visit. We have
+          no control over and assume no responsibility for
+          the content, privacy policies or practices of
+          any third party sites or services.
+      </p>
+      ```
+
       </li>
 
       <li>
