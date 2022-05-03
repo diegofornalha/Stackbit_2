@@ -110,6 +110,7 @@ sections:
         url: /curation
       - type: Label
         label: Content Strategy
+        url: /content-strategy
       - type: Label
         label: User Research
       - type: Label
