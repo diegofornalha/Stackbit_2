@@ -1,11 +1,10 @@
 ---
-title: How I started a startup 🚀
+title: "How I started a startup \U0001F680"
 colors: colors-a
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -51,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -111,19 +110,57 @@ bottomSections:
       text:
         textAlign: left
 ---
+Esiste un modo per comunicare in maniera strutturata con i dirigenti.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Non importa se sei un product manager, un imprenditore, un dipendente o che altro: usalo e ne trarrai dei benefici, ne sono convinto.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Si chiama Piramide di Minto, o Minto Pyramid, oppure Pyramid principle.
 
-## About Coding
+In pratica è una tecnica di esposizione del nostro messaggio molto strutturata e che si adatta in pieno alla vita e modo di pensare di molto dirigenti.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+In cosa consiste?
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Rispondi con la conclusione:
 
-## Productivity
+I dirigenti (e non solo loro), hanno poco tempo per ascoltare in dettaglio le nostre argomentazioni, i nostri dubbi o paturnie.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Hanno bisogno di informazioni, di arrivare al punto e poter prendere decisioni.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Per trarre il meglio dalla comunicazione verso di loro è allora necessario sfruttare al meglio il tempo a nostra disposizione.
+
+In quest’ottica ha quindi senso rispondere direttamente ad una domanda, senza giri di parole, senza dubbi o ragionamenti elaborati.
+
+“Cosa dovremmo fare?” “Dovremmo fare X”.
+
+Dopo aver dato la risposta, pensa ad argomentarla:
+
+Passiamo alle argomentazioni che spiegano la nostra risposta solo dopo averla data.
+
+Secondo la Piramide di Minto “le idee dovrebbero sempre assumere la forma di una piramide sotto il pensiero principale”.
+
+In pratica, le idee ed argomenti che supportano la nostra conclusione dovrebbero essere esposti in maniera riassuntiva ed a piccoli gruppi.
+
+“Cosa dovremmo fare?” “Dovremmo fare X perché A, B, C”
+
+Alla fine di tutto, fornisci i dettagli e fallo in maniera coerente:
+
+Si, devi fornire i dettagli alla fine di tutto e devi farlo in maniera coerente.
+
+Ogni idea a supporto del tuo pensiero principale, se esplorata in dettaglio, deve essere supportata da una serie di motivazioni ulteriori.
+
+Secondo il principio della Piramide è ideale se queste motivazioni ulteriori sono tre e sono esposte e classificate in maniera coerente.
+
+Ad esempio, potresti esporre:
+
+in ordine cronologico;
+
+in parti più piccole;
+
+in ordine di importanza;
+
+“Cosa dovremmo fare?” “Dovremmo fare X perché A, B, C. Ed A perché 1, 2 e 3, mentre B per 4, 5, 6”...ho reso l’idea?
+
+Cosa ne pensi?
+
+Hai mai provato a comunicare in questo modo o hai intenzione di farlo?
+
