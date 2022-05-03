@@ -10,7 +10,7 @@ excerpt: >-
   domanda.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/Frame-8.webp
   altText: Post thumbnail image
 backgroundImage:
   url: /images/gallery-3.jpg
