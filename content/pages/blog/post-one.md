@@ -14,7 +14,7 @@ featuredImage:
   url: /images/Frame-9.webp
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: /images/Frame-9-687e26d2.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
