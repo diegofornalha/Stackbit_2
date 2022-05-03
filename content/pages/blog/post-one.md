@@ -1,5 +1,5 @@
 ---
-title: "How I started a startup \U0001F680"
+title: 'Comunicazione efficace '
 colors: colors-a
 layout: PostLayout
 date: '2021-06-28'
