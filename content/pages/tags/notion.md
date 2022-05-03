@@ -21,7 +21,7 @@ bottomSections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: false
     variant: variant-c
     actions:
