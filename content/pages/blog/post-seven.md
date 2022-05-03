@@ -78,17 +78,44 @@ bottomSections:
       text:
         textAlign: left
 ---
+Nel tuo lavoro dovresti concentrarti più sulla quantità o sulla qualità? 👇👇👇
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+In questi giorni ho letto un aneddoto che penso risponda al meglio a questa domanda.
 
-## Good habits
+Un insegnante di ceramica fece un esperimento con i suoi studenti.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Divise la classe in due gruppi ed annunciò:
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+Il primo gruppo avrebbe ricevuto un voto a seconda della qualità del lavoro che avrebbe prodotto;
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Il secondo gruppo invece avrebbe ricevuto un voto in funzione della quantità di lavori prodotti.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Per avere il voto massimo, il primo gruppo avrebbe dovuto produrre il lavoro della miglior qualità possibile, il secondo gruppo invece avrebbe dovuto produrre più lavori possibile.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Alla fine il gruppo vincitore fu il secondo, il gruppo della "quantità".
+
+Come mai?
+
+Mentre il primo gruppo era ancora impegnato a teorizzare, a blaterare riguardo il miglior lavoro possibile, il secondo gruppo era impagnato a FARE, a produrre sempre di più, fino al punto in cui il lavoro migliore possibile arrivò.
+
+A quanto pare, quanto raccontato da questo aneddoto ha conferma anche nelle ricerche psicologiche.
+
+Alcuni studi psicologici, infatti, indicano che quando si parla di sforzo creativo la quantità sia il presupposto fondamentale della qualità.
+
+Insomma, più lavori produci e più alta sarà la probabilità di creare qualcosa di qualità.
+
+Bisogna solo trovare un modo per rendere l'output creativo il più frequente possibile ed accrescere la quantità, ma come facciamo?
+
+**Basta trattare la nostra creatività come un muscolo.**
+
+Proprio come i muscoli che alleniamo in palestra, tramite una routine definita, possiamo allenare la nostra creatività.
+
+Ecco alcuni consigli per rendere lo sforzo creativo parte della nostra routine quotidiana:
+
+**Svegliati prima o vai a dormire più tardi:** ogni creativo ha la sua routine, alcune persone sono notturne, altre invece sono mattiniere, trova la soluzione che ti è più comoda e mettila in pratica;
+
+**Fai del sano riscaldamento creativo**: prenditi del tempo per fare riscaldamento (scrivi qualcosa a mente libera e senza condizionamenti, gioca con il tuo software di design senza un obiettivo) con calma entrerai sempre più in un mindset creativo;
+
+**Crea un ambiente riservato agli sforzi creativi:** trova un posto da utilizzare solo quando devi fare esercizio creativo;
+
+Se vuoi scoprire qualcosa di più riguardo le routine di grandi creativi, a prescindere dalla loro area di lavoro, ti consiglio il libro Daily Rituals di Mason Currey.
