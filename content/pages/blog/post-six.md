@@ -1,5 +1,5 @@
 ---
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: 'A lezione di decision making,'
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
