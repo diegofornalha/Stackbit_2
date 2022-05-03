@@ -4,7 +4,12 @@ colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Jeff Bezos non è un product manager, almeno non tecnicamente, ma utilizza un
+  framework di decision making da cui tutti i product manager potrebbero trarre
+  beneficio.
+
+  Anzi, non solo i product manager, anche tu stesso.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
