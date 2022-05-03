@@ -24,11 +24,7 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: false
     variant: variant-c
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     styles:
       self:
         height: auto
