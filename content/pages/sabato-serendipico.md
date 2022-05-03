@@ -31,7 +31,7 @@ sections:
 
 
       *   un **framework o modello mentale** di cui non potrai fare a meno;
-
+      
       Inoltre, avrai anche un **regalo (a sorpresa)!**
 
 
