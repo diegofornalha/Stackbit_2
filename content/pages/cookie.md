@@ -21,8 +21,6 @@ sections:
     title: PRIVACY POLICY
     subtitle: null
     text: >
-      Privacy Policy
-
       Last Updated On 03-May-2022
 
       Effective Date 03-May-2022
