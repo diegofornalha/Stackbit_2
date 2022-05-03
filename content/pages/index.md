@@ -140,7 +140,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Posts
+    subtitle: Alcune delle cose che ho scritto
     showFeaturedImage: true
     actions:
       - type: Link
