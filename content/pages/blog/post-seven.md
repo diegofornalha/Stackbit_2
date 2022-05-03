@@ -4,7 +4,7 @@ colors: colors-a
 layout: PostLayout
 date: '2022-01-04'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: "Nel tuo lavoro dovresti concentrarti più sulla quantità o sulla qualità? \U0001F447\U0001F447\U0001F447\nIn questi giorni ho letto un aneddoto che penso risponda al meglio a questa domanda."
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
