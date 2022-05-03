@@ -133,10 +133,6 @@ sections:
 
       Privacy Policy generated with CookieYes.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero.webp
-      altText: Image alt text
     styles:
       self:
         height: auto
