@@ -1,5 +1,5 @@
 ---
-title: 'A lezione di decision making,'
+title: 'A lezione di decision making, da Jeff Bezos'
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
