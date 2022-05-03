@@ -1,5 +1,5 @@
 ---
-title: Habits of highly productive web developers ⌨️
+title: Qualità o quantià? Tu cosa scegli?
 colors: colors-a
 layout: PostLayout
 date: '2022-01-04'
