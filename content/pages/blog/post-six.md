@@ -1,11 +1,10 @@
 ---
-title: How to Structure and Organize a Next.js Project 🗂️
+title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -105,13 +104,46 @@ bottomSections:
       text:
         textAlign: left
 ---
+Jeff Bezos non è un product manager, almeno non tecnicamente, ma utilizza un framework di decision making da cui tutti i product manager potrebbero trarre beneficio.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Anzi, non solo i product manager, anche tu stesso.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+In breve, Bezos non si concentra su decisioni che possono essere facilmente reversibili, anzi.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Secondo Bezos, infatti, esistono due tipi di decisioni che ognuno di noi prende ogni giorno:
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Decisioni di tipo 1: quelle decisioni che  non garantiscono la possibilità di tornare sui propri passi.
+    Si tratta di quelle decisioni che ti fanno “bruciare i ponti”, una volta prese, non si torna più indietro.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   Decisioni di tipo 2: queste sono decisioni per cui c’è il modo di tornare indietro (e non è detto che questo modo sia facile eh).
+
+Vuoi un esempio?
+Dare le dimissioni, vendere la tua azienda, cambiare carriera: queste sono decisioni di tipo 1.
+
+Avviare un side hustle, cambiare modello di pricing, offrire nuovi servizi: queste sono decisioni di tipo 2.
+
+Lo scrive lo stesso Bezos in una delle sue lettere agli shareholder:
+
+> “Some decisions are consequential and irreversible or nearly irreversible -- one-way doors -- and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don't like what you see on the other side, you can't get back to where you were before. We can call these Type 1 decisions.
+
+> But most decisions aren't like that -- they are changeable, reversible -- they're two-way doors. If you've made a sub-optimal Type 2 decision, you don't have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.”
+
+Come possiamo applicare questa distinzione nella nostra vita?
+
+Ogni volta che dobbiamo prendere una decisione ci basta capire che tipo di decisione stiamo per prendere.
+
+Se è una decisione di tipo 1 allora ha senso prendere il tempo necessario, valutare diversi fattori ecc.
+
+Se è una decisione di tipo 2, invece, le cose cambiano.
+
+Con le decisioni di tipo 2 la cosa migliore che si può fare è decidere, buttarsi, prendere una decisione, qualsiasi essa sia ed importa poco se la decisione che si prenderà è giusta o sbagliata.
+
+C’è sempre un modo per ritornare indietro, per riprendere quella decisione.
+
+Ha senso prendere più decisioni di tipo 2 possibile per due motivi:
+
+miglioreremo la nostra efficacia nel prenderle e affrontare le conseguenze di decisioni sbagliate;
+
+avremo più risorse cognitive da investire nel prendere decisioni di tipo 1.
+
+Hai mai usato un framework di questo tipo nel prendere decisioni?
