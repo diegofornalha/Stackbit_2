@@ -20,15 +20,11 @@ sections:
     variant: variant-a
     title: PRIVACY POLICY
     subtitle: null
-    text: |+
-      <br><span>Last Updated On 03-May-2022</span>
-      <br><span>Effective Date 03-May-2022</span>
+    text: |-
+      <br><span></span><br><span></span>
       </h1>
-
       <p class="privacy-policy-p">
           This Privacy Policy describes the policies of
-
-      ```
       Danieledamico.tech,
       Via Carlo Cattaneo,
       Milano
@@ -46,10 +42,7 @@ sections:
       disclosure of your information in accordance with this
       Privacy Policy. If you do not consent to the same,
       please do not access or use the Service.
-      ```
-
       </p>
-
       <p class="privacy-policy-p">
           We may modify this Privacy Policy at any time without
           any prior notice to you and will post the revised
@@ -61,10 +54,7 @@ sections:
           Policy. We therefore recommend that you periodically
           review this page.
       </p>
-
       <ol class="privacy-policy-ol">
-
-      ```
           <li>
           <h2 class="privacy-policy-h2">
               How We Use Your Information:
@@ -248,13 +238,10 @@ sections:
               We will address your concerns in accordance with applicable law.
           </p>
       </li>
-      ```
-
       </ol>
       <p class="privacy-policy-p">
           Privacy Policy generated with  <a target="_blank" href="https://www.cookieyes.com/?utm_source=PP&utm_medium=footer&utm_campaign=UW">CookieYes</a>.
       </p>
-
     styles:
       self:
         height: auto
