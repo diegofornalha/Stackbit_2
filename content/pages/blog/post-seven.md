@@ -1,5 +1,5 @@
 ---
-title: Qualità o quantià? Tu cosa scegli?
+title: Qualità o quantiTà? Tu cosa scegli?
 colors: colors-a
 layout: PostLayout
 date: '2022-01-04'
