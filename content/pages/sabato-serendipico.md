@@ -31,8 +31,10 @@ sections:
 
 
       *   un **framework o modello mentale** di cui non potrai fare a meno;
-      
+
+
       Inoltre, avrai anche un **regalo (a sorpresa)!**
+
 
       <script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js"></script>
