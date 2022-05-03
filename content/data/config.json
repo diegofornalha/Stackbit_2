@@ -85,7 +85,7 @@
                 "type": "Link",
                 "label": "PRIVACY",
                 "altText": "",
-                "url": "/",
+                "url": "/privacy",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
