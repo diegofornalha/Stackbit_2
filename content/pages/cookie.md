@@ -18,7 +18,7 @@ sections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: PRIVACY POLICY
     subtitle: null
     text: |-
       <h1 class="privacy-policy-h1">Privacy Policy
