@@ -95,7 +95,7 @@
                 "type": "Link",
                 "label": "Cookie",
                 "altText": "",
-                "url": "/",
+                "url": "/cookie",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
