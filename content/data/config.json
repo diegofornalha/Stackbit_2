@@ -78,15 +78,6 @@
                 "elementId": ""
             }
         ],
-        "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
         "copyrightText": "Created with ❤️ by [**Daniele D'Amico**](https://www.linkedin.com/in/daniele-damico/)\n",
         "styles": {
             "self": {
