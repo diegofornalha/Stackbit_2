@@ -12,7 +12,7 @@ excerpt: >-
   Anzi, non solo i product manager, anche tu stesso.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/Frame-10.webp
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
