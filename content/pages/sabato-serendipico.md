@@ -25,7 +25,9 @@ sections:
 
       *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
 
+
       *   una **risorsa Notion** che potrebbe esserti utile;
+
 
       *   un **framework o modello mentale** di cui non potrai fare a meno;
 
