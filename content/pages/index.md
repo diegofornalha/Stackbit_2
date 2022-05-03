@@ -113,6 +113,7 @@ sections:
         url: /content-strategy
       - type: Label
         label: User Research
+        url: /user-research
       - type: Label
         label: Random
     styles:
