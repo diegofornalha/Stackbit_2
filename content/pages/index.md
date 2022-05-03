@@ -116,7 +116,7 @@ sections:
         url: /tags/user-research
       - type: Label
         label: Random
-        url: /random
+        url: /tags/random
     styles:
       self:
         height: auto
