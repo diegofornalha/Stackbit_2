@@ -107,6 +107,7 @@ sections:
         url: /produttività
       - type: Label
         label: Curation
+        url: /curation
       - type: Label
         label: Content Strategy
       - type: Label
