@@ -108,6 +108,12 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Jeff Bezos non è un product manager, almeno non tecnicamente, ma utilizza un framework di decision making da cui tutti i product manager potrebbero trarre beneficio.
 
