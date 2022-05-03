@@ -4,7 +4,11 @@ colors: colors-a
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Esiste un modo per comunicare in maniera strutturata con i dirigenti.
+
+  Non importa se sei un product manager, un imprenditore, un dipendente o che
+  altro: usalo e ne trarrai dei benefici, ne sono convinto.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
