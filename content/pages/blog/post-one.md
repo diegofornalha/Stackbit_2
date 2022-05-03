@@ -1,5 +1,5 @@
 ---
-title: 'Comunicazione efficace '
+title: Comunicazione efficace for dummies
 colors: colors-a
 layout: PostLayout
 date: '2021-06-28'
