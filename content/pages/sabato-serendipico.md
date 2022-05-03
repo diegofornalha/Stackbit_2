@@ -23,6 +23,7 @@ sections:
       Iscriviti alla newsletter Sabato Serendipico e ogni sabato riceverai una
       email con:
 
+
       *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
 
 
