@@ -144,7 +144,7 @@ sections:
     showFeaturedImage: true
     actions:
       - type: Link
-        label: See all posts
+        label: LEGGI DI PIÙ
         url: /blog
     posts:
       - content/pages/blog/post-seven.md
