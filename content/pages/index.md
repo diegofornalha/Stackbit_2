@@ -101,6 +101,7 @@ sections:
         url: /product-management
       - type: Label
         label: Notion
+        url: /notion
       - type: Label
         label: Produttività
       - type: Label
