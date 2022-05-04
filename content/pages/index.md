@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Ciao, sono daniele D''Amico'
+    title: 'Ciao, sono'
     subtitle: Un giovane Product Manager in costante crescita!
     styles:
       self:
