@@ -30,7 +30,7 @@
         "sourcebit-target-next": "^0.7.1",
         "tailwindcss": "^2.2.4",
         "typewriter-effect": "^2.18.2"
-        react-typewriter-effect
+        "react-typewriter-effect"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",
