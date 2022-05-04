@@ -189,7 +189,7 @@ sections:
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
-          label: First Name
+          label: Com
           hideLabel: true
           placeholder: First Name
           isRequired: true
