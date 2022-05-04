@@ -193,7 +193,7 @@ sections:
           hideLabel: true
           placeholder: Com'è che ti chiami?
           isRequired: true
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: email
           label: Email
