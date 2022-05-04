@@ -191,7 +191,7 @@ sections:
         - name: firstName
           label: Nome
           hideLabel: true
-          placeholder: Com
+          placeholder: Com'è che ti chiami?
           isRequired: true
           width: 1/2
           type: TextFormControl
