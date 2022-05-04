@@ -189,7 +189,7 @@ sections:
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
-          label: Com'è che ti chiami?
+          label: Nome
           hideLabel: true
           placeholder: First Name
           isRequired: true
