@@ -56,7 +56,6 @@ function HeroBody(props) {
                     {title}
                     <span className="text-red">cosissime</span>
                 </h2>
-
             )}
 
             {subtitle && (
