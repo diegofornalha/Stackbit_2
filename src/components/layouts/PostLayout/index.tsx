@@ -21,14 +21,7 @@ export default function PostLayout(props) {
 
     return (
         <BaseLayout page={page} site={site}>
-            <ProgressBar
-  backgroundColor="rgba(125, 125, 125, 0.8)"
-  callback={() => console.log("Reached the end of my document")}
-  color="#fff"
-  radius={2}
-  style="solid"
-  thickness={3}
-/>
+            
             <main id="main" className="sb-layout sb-post-layout">
                 
                 <article className="px-4 py-14 lg:py-20">
