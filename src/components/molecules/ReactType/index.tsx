@@ -6,5 +6,5 @@ import TypeWriterEffect from 'react-typewriter-effect';
             cursorColor="black"
             text="This is a single text"
             typeSpeed={100}
-            scrollArea={myAppRef}
+            scrollArea={App}
           />
