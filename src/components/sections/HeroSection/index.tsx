@@ -70,7 +70,7 @@ function HeroBody(props) {
                 >
                     
                     {subtitle} 
-                    <span>
+                    <p>
                         <Typewriter
                             options={{
                                 strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
