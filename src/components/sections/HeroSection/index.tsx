@@ -50,7 +50,7 @@ function HeroMedia({ media }) {
 }
 
 function HeroBody(props) {
-    const { title, subtitle, text, styles = {} } = props;
+    const { title, subtitle, subtitle2, text, styles = {} } = props;
     return (
         <>
             {title && (
