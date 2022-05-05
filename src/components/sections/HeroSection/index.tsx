@@ -69,6 +69,7 @@ function HeroBody(props) {
                     data-sb-field-path=".subtitle"
                 >
                     
+                    {subtitle} 
                     <span>
                         <Typewriter
                             options={{
