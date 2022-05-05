@@ -61,6 +61,6 @@ const components = {
     'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout')),
     'ProjectLayout': dynamic(() => import('./layouts/ProjectLayout')),
     'ProjectFeedLayout': dynamic(() => import('./layouts/ProjectFeedLayout')),
-    'react-typewriter-effect': dynamic(() => import('./layouts/ProjectFeedLayout')),
+    'ReactType': dynamic(() => import('./layouts/ProjectFeedLayout')),
     // 'ReadingBar': dynamic(() => import('./atoms/ReadingBar'))
 };
