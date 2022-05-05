@@ -43,4 +43,4 @@ modelsSource:
   type: files
   modelDirs:
     - .stackbit/models
-    - node_modules/stackbit-typist/models
+    - node_modules/typewriter/models
