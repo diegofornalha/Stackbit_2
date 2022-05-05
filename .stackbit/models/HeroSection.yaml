@@ -29,8 +29,8 @@ fields:
     label: Title
     default: This Is A Big Hero Headline
   - type: string
-    name: title
-    label: Title
+    name: title2
+    label: Title2
     default: This Is A Big Hero Headline
   - type: string
     name: subtitle
