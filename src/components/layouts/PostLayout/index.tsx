@@ -8,7 +8,7 @@ import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
-import ProgressBar from "react-content-progress-bar";
+import ProgressBar from "react-content-progress-bar';
 // import ReadingBar from '../../atoms/ReadingBar';
 
 
