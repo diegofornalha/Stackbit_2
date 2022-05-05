@@ -32,7 +32,7 @@ fields:
         backgroundColor: '$light'
         borderColor: '#ececec'
       - label: Colors C
-        value: colorsc
+        value: colors-c
         textColor: '$onPrimary'
         backgroundColor: '$primary'
         borderColor: '#ececec'
