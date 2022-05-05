@@ -14,7 +14,7 @@ sections:
     backgroundSize: full
     title: 'Ciao, sono Daniele D''Amico'
     subtitle: Un giovane
-    subtitle2: 
+    subtitle2: in costante crescita!
     styles:
       self:
         height: auto
