@@ -71,7 +71,8 @@ function HeroBody(props) {
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
                             loop: true,
-                            wrapperClassName: subtitle,ù
+                            wrapperClassName: subtitle,
+                            skipAddStyles: true,
                         }}
                     /></span>
                     {subtitle2}
