@@ -33,7 +33,7 @@ fields:
     label: Subtitle
     default: The section subtitle
   - type: string
-    namem: sub  
+    namem: subtitle2  
   - type: markdown
     name: text
     label: Text
