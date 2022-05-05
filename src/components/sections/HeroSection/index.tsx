@@ -78,6 +78,7 @@ function HeroBody(props) {
                             skipAddStyles: true,
                         }}
                     /></span>
+                    
                     {subtitle2}
 
                 </p>
