@@ -73,7 +73,7 @@ function HeroBody(props) {
                             loop: true,
                             wrapperClassName: subtitle,
                         }}
-                    />
+                    /></span>
                     {subtitle2}
 
                 </p>
