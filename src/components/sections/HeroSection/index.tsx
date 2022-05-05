@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import Typewriter from 'typewriter-effect/dist/core';
+// import Typewriter from 'typewriter-effect/dist/core';
 import Typewriter from 'typewriter-effect';
 
 
