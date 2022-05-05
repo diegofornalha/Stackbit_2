@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Ciao, sono '
-    title2: 'Daniele D'Amico'
+    title2: 'Daniele DAmico'
     subtitle: 'Un giovane '
     subtitle2: in costante crescita!
     styles:
