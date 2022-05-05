@@ -2,6 +2,8 @@ import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 import Typewriter from 'typewriter-effect/dist/core';
+import Typewriter from 'typewriter-effect';
+
 
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
