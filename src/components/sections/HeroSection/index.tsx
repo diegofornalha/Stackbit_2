@@ -78,7 +78,7 @@ function HeroBody(props) {
                                 loop: true,
                             }}
                         /></p>
-                                            {subtitle} 
+                    {subtitle} 
 
 
                 </p>
