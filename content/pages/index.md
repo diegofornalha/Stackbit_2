@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Ciao, sono '
-    subtitle: 'Un giovane '
+    subtitle: Un giovane
     styles:
       self:
         height: auto
