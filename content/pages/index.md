@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Ciao, sono'
+    title: 'Ciao, sono '
     subtitle: 'Un giovane '
     subtitle2: in costante crescita!
     styles:
