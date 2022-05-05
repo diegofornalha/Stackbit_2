@@ -75,7 +75,7 @@ function HeroBody(props) {
                             skipAddStyles: true,
                         }}
                     /></span>
-                    {subtitle2 cla}
+                    {subtitle2 className}
 
                 </p>
             )}
