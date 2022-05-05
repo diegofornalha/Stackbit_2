@@ -35,7 +35,7 @@ fields:
   - type: string
     namem: subtitle2
     label: subtitle2
-      
+    default: altra parte di testo  
   - type: markdown
     name: text
     label: Text
