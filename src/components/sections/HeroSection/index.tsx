@@ -54,7 +54,6 @@ function HeroBody(props) {
             {title && (
                 <h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {title}
-                    <span style={{color:'#FEE715'}}>Daniele D'Amico</span>
                 </h2>
             )}
 
