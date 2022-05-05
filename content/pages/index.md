@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Ciao, sono '
+    title: 'Ciao, sono Daniele D''Amico'
     subtitle: Un giovane
     styles:
       self:
