@@ -71,7 +71,7 @@ function HeroBody(props) {
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
                             loop: true,
-                            wrapperClassName: 'inline-block',
+                            wrapperClassName: '#FEE715',
                             skipAddStyles: true,
                         }}
                     /></span>
