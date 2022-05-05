@@ -74,7 +74,7 @@ function HeroBody(props) {
                             }}
                         />
 
-                        
+                        {subtitle2}
                 </p>
             )}
             {text && (
