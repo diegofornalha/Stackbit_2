@@ -24,7 +24,7 @@ export default function HeroSection(props) {
                 })}
             >
                 <div className="flex-1 w-full">
-                    <HeroBody title={title} title={title2}subtitle={subtitle} subtitle2={subtitle2} text={text} styles={styles} />
+                    <HeroBody title={title} title={title2} subtitle={subtitle} subtitle2={subtitle2} text={text} styles={styles} />
                     <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
                 </div>
                 {media && (
