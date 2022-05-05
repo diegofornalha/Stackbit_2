@@ -81,7 +81,7 @@ function HeroBody(props) {
 }
 
 function HeroActions(props) {
-    const { actions = [], styles = {}, hasTopMargin } = props;
+    const { actions = [], styles = {#FEE715}, hasTopMargin } = props;
     if (actions.length === 0) {
         return null;
     }
