@@ -42,5 +42,6 @@ contentModels:
 modelsSource:
   type: files
   modelDirs:
+  - node_modules/react-typewriter-effect/models
     - .stackbit/models
     
