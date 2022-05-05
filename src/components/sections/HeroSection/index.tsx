@@ -69,7 +69,7 @@ function HeroBody(props) {
                     data-sb-field-path=".subtitle"
                 >
                     {subtitle}
-                    <p>
+                    <span>
                     <Typewriter
                         options={{
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator', ''],
