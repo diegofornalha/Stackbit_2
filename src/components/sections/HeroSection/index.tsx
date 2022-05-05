@@ -57,7 +57,7 @@ function HeroBody(props) {
                 <h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {title}
                     
-                    <span className={classNames('colorsc')}>{title2}</span>
+                    <span className={classNames('text-colorsc')}>{title2}</span>
                 </h2>
                 
             )}
