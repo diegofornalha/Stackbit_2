@@ -71,7 +71,7 @@ function HeroBody(props) {
                     {subtitle}
                     <Typewriter
                         options={{
-                            strings: ['product manager', 'nerd...', 'GELATO...', 'CAPPUCCINO...', 'THÈ...'],
+                            strings: ['product manager', 'nerd', 'GELATO...', 'CAPPUCCINO...', 'THÈ...'],
                             autoStart: true,
                             loop: true,
                         }}
