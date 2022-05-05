@@ -70,14 +70,14 @@ function HeroBody(props) {
                 >
                     {subtitle}
                     <span>
-                    <Typewriter
-                        options={{
-                            strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
-                            autoStart: true,
-                            loop: true,
-                        }}
-                    /></span>
-                    
+                        <Typewriter
+                            options={{
+                                strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
+                                autoStart: true,
+                                loop: true,
+                            }}
+                        /></span>
+
                 </p>
             )}
             {text && (
