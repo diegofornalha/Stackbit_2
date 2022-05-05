@@ -76,7 +76,8 @@ function HeroBody(props) {
                                 autoStart: true,
                                 loop: true,
                             }}
-                        /></span>
+                        />                        {subtitle}
+</span>
 
                 </p>
             )}
