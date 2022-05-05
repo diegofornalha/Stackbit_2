@@ -77,7 +77,7 @@ function HeroBody(props) {
                             loop: true,
                         }}
                     /></span>
-                    }
+                    
                 </p>
             )}
             {text && (
