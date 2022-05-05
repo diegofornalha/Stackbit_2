@@ -74,7 +74,7 @@ function HeroBody(props) {
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
                             loop: true,
-                            wrapperClassName: 'Primary',
+                            wrapperClassName: 'colors-s',
                             skipAddStyles: true,
                         }}
                     /></span>
