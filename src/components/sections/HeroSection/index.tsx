@@ -76,7 +76,7 @@ function HeroBody(props) {
                             loop: true,
                             wrapperClassName: 'text-primary',
                             skipAddStyles: true,
-                            cursorClassName: 'border-primary',
+                            cursorClassName: 'primary',
                         }}
                     /></span>
                     
