@@ -32,6 +32,7 @@ fields:
     name: subtitle
     label: Subtitle
     default: The section subtitle
+    
   - type: markdown
     name: text
     label: Text
