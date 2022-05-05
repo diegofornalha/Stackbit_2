@@ -76,7 +76,7 @@ function HeroBody(props) {
                             autoStart: true,
                             loop: true,
                         }}
-                    /></h2>
+                    />
                 </p>
             )}
             {text && (
