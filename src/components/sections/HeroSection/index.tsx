@@ -66,7 +66,7 @@ function HeroBody(props) {
                 >
                     {subtitle}
 
-                    <span className=><Typewriter
+                    <span className={}><Typewriter
                         options={{
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
