@@ -79,7 +79,7 @@ function HeroBody(props) {
                         }}
                     /></span>
                     
-                    <p>{subtitle2}
+                    <p>{subtitle2}</p>
 
                 </p>
             )}
