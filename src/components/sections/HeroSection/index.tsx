@@ -66,7 +66,7 @@ function HeroBody(props) {
                 >
                     {subtitle}
 
-                    <span className={classNames('inline-block')}><Typewriter
+                    <span className={classNames('inline-block', )}><Typewriter
                         options={{
                             strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
