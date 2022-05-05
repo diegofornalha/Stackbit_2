@@ -26,7 +26,6 @@ export default function PostLayout(props) {
   callback={() => console.log("Reached the end of my document")}
   color="#fff"
   radius={2}
-  ref={this.myRef}
   style="solid"
   thickness={3}
 />
