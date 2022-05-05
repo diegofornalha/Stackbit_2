@@ -59,10 +59,6 @@ function HeroBody(props) {
                 </h2>
             )}
 
-
-
-
-
             {subtitle && (
                 <p
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': title })}
