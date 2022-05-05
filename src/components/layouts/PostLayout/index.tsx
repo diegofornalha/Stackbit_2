@@ -2,6 +2,7 @@ import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
+import ProgressBar from 'react-content-progress-bar';
 
 import HighlightedPreBlock from './../../../utils/highlighted-markdown';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
