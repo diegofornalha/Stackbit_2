@@ -64,16 +64,16 @@ function HeroBody(props) {
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': title })}
                     data-sb-field-path=".subtitle"
                 >
-                    {subtitle} 
-                    
-                        <Typewriter
-                            options={{
-                                strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
-                                autoStart: true,
-                                loop: true,
-                            }}
-                        />
-                        {subtitle2}
+                    {subtitle}
+
+                    <Typewriter
+                        options={{
+                            strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
+                            autoStart: true,
+                            loop: true,
+                        }}
+                    />
+                    {subtitle2}
 
                 </p>
             )}
