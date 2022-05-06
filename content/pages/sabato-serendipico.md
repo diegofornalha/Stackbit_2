@@ -61,3 +61,8 @@ sections:
       actions:
         justifyContent: flex-start
 ---
+
+
+<Script id="show-banner" strategy="lazyOnload">
+  {`document.getElementById('banner').classList.remove('hidden')`}
+</Script>
