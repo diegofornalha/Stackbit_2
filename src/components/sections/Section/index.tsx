@@ -93,7 +93,7 @@ function SectionFullWidth(props: SectionProps) {
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: styles.justifyContent ?? 'center' }))}>
                 <div className={classNames('relative', 'w-full', mapStyles({ width: styles.width ?? 'wide' }))}>{children}</div>
             </div>
-            <Newsletter/>
+            <Newsletter />
         </div>
     );
 }
