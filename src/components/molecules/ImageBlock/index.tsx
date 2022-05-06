@@ -13,7 +13,7 @@ export default function ImageBlock(props) {
     return (
         <img
             id={elementId || null}
-            className={classNames('absolute', 'sb-component', 'sb-component-block', 'sb-component-image-block', className)}
+            className={classNames('absolute', 'left-0', 'sb-component', 'sb-component-block', 'sb-component-image-block', className)}
             src={url}
             alt={altText}
             {...annotations}
