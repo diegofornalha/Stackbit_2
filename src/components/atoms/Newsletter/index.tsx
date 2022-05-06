@@ -7,7 +7,7 @@ const AlertSection = ({ text }) => {
   )
 }
 
-export default AlertSection
+export default Newsletter
 
 
 
