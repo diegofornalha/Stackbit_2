@@ -1,7 +1,6 @@
 // src/components/sections/AlertSection.tsx
 import React from 'react'
-
-cimport Script from 'next/script'
+import Script from 'next/script'
 
 export default function Home() {
   return (
