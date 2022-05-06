@@ -63,4 +63,8 @@ const components = {
     'ProjectFeedLayout': dynamic(() => import('./layouts/ProjectFeedLayout')),
     // 'ReactType': dynamic(() => import('./molecules/ReactType')),
     // 'ReadingBar': dynamic(() => import('./atoms/ReadingBar'))
+    const components = {
+  AlertSection: dynamic(() => import('./sections/AlertSection'))
+  // ...
+}
 };
