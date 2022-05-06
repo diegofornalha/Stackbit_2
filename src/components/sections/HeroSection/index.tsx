@@ -46,7 +46,7 @@ function HeroMedia({ media }) {
     if (!Media) {
         throw new Error(`no component matching the hero section media type: ${mediaType}`);
     }
-    return <Media {...media} data-sb-field-path=".media" className={classNames('inline-block', 'left-0')} />;
+    return <Media {...media} data-sb-field-path=".media" className={classNames('inline-block', 'right-0')} />;
 }
 
 function HeroBody(props) {
