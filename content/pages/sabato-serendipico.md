@@ -61,6 +61,3 @@ sections:
       actions:
         justifyContent: flex-start
 ---
-
-
-<Newsletter />
