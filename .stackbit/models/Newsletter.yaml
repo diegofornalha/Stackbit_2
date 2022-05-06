@@ -4,4 +4,4 @@ groups:
   - sectionComponent
 fields:
   - type: script
-    name: text
+    name: script
