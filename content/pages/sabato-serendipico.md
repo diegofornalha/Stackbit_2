@@ -65,4 +65,5 @@ sections:
       actions:
         justifyContent: flex-start
   - type: Newsletter
+    text: prova
 ---
