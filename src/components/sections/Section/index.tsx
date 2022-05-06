@@ -1,6 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import Newsletter from '../../atoms/Newsletter';
 
 type SectionProps = React.PropsWithChildren<{
     type?: string;
@@ -92,6 +93,7 @@ function SectionFullWidth(props: SectionProps) {
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: styles.justifyContent ?? 'center' }))}>
                 <div className={classNames('relative', 'w-full', mapStyles({ width: styles.width ?? 'wide' }))}>{children}</div>
             </div>
+            <Newsletter />
         </div>
     );
 }
