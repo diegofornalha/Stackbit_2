@@ -1,7 +1,6 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
-// import Newsletter from '../../atoms/Newsletter';
 
 type SectionProps = React.PropsWithChildren<{
     type?: string;
