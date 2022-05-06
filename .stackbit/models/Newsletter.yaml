@@ -3,5 +3,5 @@ label: Newsletter
 groups:
   - sectionComponent
 fields:
-  - type: text
+  - type: script
     name: text
