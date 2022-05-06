@@ -30,7 +30,7 @@ sections:
           - pb-48
           - pl-0
           - pr-0
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
         flexDirection: row-reverse
         borderStyle: solid
