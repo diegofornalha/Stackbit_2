@@ -29,7 +29,7 @@ export default function HeroSection(props) {
                 </div>
                 {media && (
                     <div className="flex-1 w-full">
-                        <HeroMedia media={media} />
+                        <HeroMedia media={media}/>
                     </div>
                 )}
             </div>
