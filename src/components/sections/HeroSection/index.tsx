@@ -28,7 +28,7 @@ export default function HeroSection(props) {
                     <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
                 </div>
                 {media && (
-                    <div className="flex-1 w-full inline-block absolute left-0 p-0 m-0">
+                    <div className="flex-1 w-full">
                         <HeroMedia media={media} />
                     </div>
                 )}
