@@ -31,7 +31,7 @@ sections:
           - pl-0
           - pr-0
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row-reverse
         borderStyle: solid
       title:
