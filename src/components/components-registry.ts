@@ -66,4 +66,4 @@ const components = {
     Newsletter: dynamic(() => import('./atoms/Newsletter')),
   // ...
 }
-};
+// };
