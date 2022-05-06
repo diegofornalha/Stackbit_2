@@ -189,7 +189,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       destination: ''
-      action: 'https://exceptional-author-9523.ck.page/c4fbdd0325/index.js'
       fields:
         - name: firstName
           label: Nome
