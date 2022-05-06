@@ -55,7 +55,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/22.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
