@@ -9,8 +9,6 @@ export default function Newsletter() {
   )
 }
 
-export default Newsletter
-
 
 
 
