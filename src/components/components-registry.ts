@@ -64,7 +64,7 @@ const components = {
     // 'ReactType': dynamic(() => import('./molecules/ReactType')),
     // 'ReadingBar': dynamic(() => import('./atoms/ReadingBar'))
     //Newsletter: dynamic(() => import('./atoms/Newsletter')),
-    const components = {
+
   AlertSection: dynamic(() => import('./sections/AlertSection'))
   // ...
 }
