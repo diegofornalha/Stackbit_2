@@ -1,3 +1,5 @@
+
+
 <div id="reading-progress" class="border-yellow squiggle"><div id="reading-progress-fill"></div></div>
 
 <script>
