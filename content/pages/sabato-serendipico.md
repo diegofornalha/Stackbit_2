@@ -20,8 +20,8 @@ sections:
     backgroundSize: full
     title: SABATO SERENDIPICO
     text: >+
-      Iscriviti alla newsletter Sabato Serendipico e ogni sabato riceverai una
-      email con:
+      Iscriviti alla newsletter Kit di Sopravvivenza per Product Nerd e ogni
+      sabato riceverai una email con 3 link:
 
 
       *   il **prodotto di Product Hunt** che più mi ha colpito nella settimana;
@@ -38,6 +38,8 @@ sections:
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
