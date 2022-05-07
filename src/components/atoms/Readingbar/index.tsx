@@ -3,7 +3,7 @@ import Script from 'next/script';
 
 
 
-export default function Newsletter() {
+export default function ReadingBar() {
   return (
     <>
     <div id="reading-progress" class="border-yellow squiggle"><div id="reading-progress-fill"></div></div>
