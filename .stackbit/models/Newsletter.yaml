@@ -1,6 +1,6 @@
 # .stackbit/models/AlertSection.yaml
 
-name: AlertSection
+name: Newsletter
 label: Alert Section
 groups:
   - sectionComponent
