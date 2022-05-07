@@ -13,7 +13,7 @@ document.addEventListener('scroll', function(e) {
   readingProgress.style.setProperty('width', w + '%');
 }); />
 
-<Style
+<Style>
 #reading-progress {
   position: fixed;
   width: 100%;
@@ -33,7 +33,7 @@ document.addEventListener('scroll', function(e) {
   transition: width 100ms ease;
   background-color: #FEE715;
 }
-/>  
+<>  
   
   )
 }
