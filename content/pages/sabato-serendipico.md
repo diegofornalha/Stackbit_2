@@ -60,6 +60,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: string
+  - type: Newsletter
     text: abla
 ---
