@@ -33,7 +33,7 @@ document.addEventListener('scroll', function(e) {
   transition: width 100ms ease;
   background-color: #FEE715;
 }
-  
+/>  
   
   )
 }
