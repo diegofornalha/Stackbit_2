@@ -35,6 +35,13 @@ sections:
 
       Inoltre, avrai anche un **regalo (a sorpresa)!**
 
+
+      ```
+
+      <Newsletter />
+
+      ```
+
     actions: []
     media:
       type: ImageBlock
