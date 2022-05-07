@@ -2,7 +2,7 @@ import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 import { Action } from '../../atoms';
-import Script from 'next/script'
+import Script from 'next/script';
 
 export default function Footer(props) {
     const { primaryLinks = [], contacts, copyrightText, styles = {}, annotationPrefix } = props;
