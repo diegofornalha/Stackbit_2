@@ -39,4 +39,4 @@ document.addEventListener('scroll', function(e) {
   )
 }
 
-export default AlertSection
+export default Readingbar
