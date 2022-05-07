@@ -93,7 +93,7 @@ function HeroBody(props) {
                     data-sb-field-path=".text"
                 >
                     {text}
-                    <Newsletter></Newsletter>
+                    
                 </Markdown>
             )}
         </>
