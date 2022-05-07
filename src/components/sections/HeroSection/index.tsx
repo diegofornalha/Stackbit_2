@@ -97,6 +97,7 @@ function HeroBody(props) {
                 </Markdown>
                 
             )}
+            <Newsletter></Newsletter>
         </>
     );
 }
