@@ -1,6 +1,6 @@
 import Script from 'next/script'
 
-export default function Home() {
+export default function Newsletter() {
   return (
     <>
       <Script src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
