@@ -66,7 +66,6 @@ const components = {
     //Newsletter: dynamic(() => import('./atoms/Newsletter')),
     AlertSection: dynamic(() => import('./sections/AlertSection'))
   // ...
-}
   // ...
 }
 // };
