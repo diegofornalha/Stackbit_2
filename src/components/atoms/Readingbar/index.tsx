@@ -6,7 +6,7 @@ const Readingbar = ({ text }) => {
   return (
     <div id="reading-progress" class="border-yellow squiggle"><div id="reading-progress-fill"></div></div>
 
-  <script>
+  <Script>
 const readingProgress = document.querySelector('#reading-progress-fill');
 document.addEventListener('scroll', function(e) {
   let w = (document.body.scrollTop || document.documentElement.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight) * 100;
