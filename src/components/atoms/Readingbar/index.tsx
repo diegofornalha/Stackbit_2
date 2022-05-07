@@ -2,8 +2,6 @@ import * as React from 'react';
 import Script from 'next/script';
 
 
-import React from 'react'
-
 const AlertSection = ({ text }) => {
   return (
     <div className="py-6 bg-primary">
