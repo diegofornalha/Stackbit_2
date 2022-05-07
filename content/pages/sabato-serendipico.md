@@ -19,7 +19,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: SABATO SERENDIPICO
-    text: >+
+    text: >-
       Iscriviti alla newsletter Sabato Serendipico e ogni sabato riceverai una
       email con:
 
@@ -36,12 +36,17 @@ sections:
       Inoltre, avrai anche un **regalo (a sorpresa)!**
 
 
+      `<Newsletter />
+
+      `
+
+
+
       ```
 
       <Newsletter />
 
       ```
-
     actions: []
     media:
       type: ImageBlock
