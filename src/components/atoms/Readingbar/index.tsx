@@ -2,7 +2,6 @@ import * as React from 'react';
 import Script from 'next/script';
 
 
-
 var Readingbar = React.createClass({
   render: function() {
     return (
