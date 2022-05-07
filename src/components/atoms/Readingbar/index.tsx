@@ -3,7 +3,7 @@ import Script from 'next/script';
 
 
 
-var ReadingBar = React.createClass({
+var Readingbar = React.createClass({
   render: function() {
     return (
       <div>
