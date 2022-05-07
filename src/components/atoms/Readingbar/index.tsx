@@ -1,4 +1,5 @@
 import * as React from 'react';
+import Script from 'next/script'
 
 
 <div id="reading-progress" class="border-yellow squiggle"><div id="reading-progress-fill"></div></div>
