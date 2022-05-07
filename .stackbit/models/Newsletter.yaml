@@ -7,4 +7,4 @@ groups:
 fields:
   - type: text
     name: text
-    cons:
+    cons: 
