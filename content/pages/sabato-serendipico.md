@@ -19,7 +19,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: SABATO SERENDIPICO
-    text: >+
+    text: >-
       Iscriviti alla newsletter Sabato Serendipico e ogni sabato riceverai una
       email con:
 
@@ -56,17 +56,24 @@ sections:
       ```
 
 
-      import Script from 'next/script'
+      `import Script from 'next/script'
 
 
       export default function Home() {
-        return (
-          <>
-            <Script src="https://www.google-analytics.com/analytics.js" />
-          </>
-        )
+
+      return (
+
+      <>
+
+      <Script src="https://www.google-analytics.com/analytics.js" />
+
+      \</>
+
+      )
+
       }
 
+      `
     actions: []
     media:
       type: ImageBlock
