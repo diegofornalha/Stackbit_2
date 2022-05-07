@@ -9,6 +9,9 @@ const Readingbar = ({ text }) => {
         <p className="text-center text-xl text-white">{text}</p>
       </div>
     </div>
+  
+  
+  
   )
 }
 
