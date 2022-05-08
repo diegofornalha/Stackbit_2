@@ -11,8 +11,6 @@ export default function LabelsSection(props) {
     const { type, elementId, colors, title, subtitle, items = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
-            <BackgroundImage {...LabelsSection?.backgroundImage} />}
-
             {title && (
                 <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {title}
