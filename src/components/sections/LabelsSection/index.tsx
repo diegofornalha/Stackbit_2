@@ -9,7 +9,6 @@ export default function LabelsSection(props) {
     const { type, elementId, colors, title, subtitle, items = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
-            import { BackgroundImage } from '../../atoms';
             {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
 
             {title && (
