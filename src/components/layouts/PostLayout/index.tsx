@@ -4,7 +4,6 @@ import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 import ProgressBar from "react-content-progress-bar";
 // import ProgressBar from 'react-content-progress-bar';
-import  { useRef } from "https://cdn.skypack.dev/react@17.0.1";
 
 import HighlightedPreBlock from './../../../utils/highlighted-markdown';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
