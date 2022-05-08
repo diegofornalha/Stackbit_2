@@ -17,7 +17,14 @@ const Readingbar = ({ text }) => {
     className={classNames('border-yellow', 'squiggle',)}
 
     style={{
-
+#reading-progress {
+  position: fixed;
+  width: 100%;
+  height: 5px;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+}
     }}
 
 
