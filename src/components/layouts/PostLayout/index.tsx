@@ -10,7 +10,6 @@ import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
 // import ReadingBar from '../../atoms/ReadingBar';
-import ProgressBar from "react-content-progress-bar";
 
 
 export default function PostLayout(props) {
