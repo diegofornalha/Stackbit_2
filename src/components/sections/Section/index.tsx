@@ -84,7 +84,7 @@ function SectionFullWidth(props: SectionProps) {
                 styles.borderColor,
                 styles.borderStyle ? mapStyles({ borderStyle: styles.borderStyle }) : null,
                 styles.borderRadius ? mapStyles({ borderRadius: styles.borderRadius }) : null,
-                styles.boxShadow ? mapStyles({ boxShadow: styles.boxShadow }) : null
+                styles.boxShadow ? mapStyles({ boxShadow: styles.boxShadow }) : null,
                 styles.BackgroundImage ? mapStyles({BackgroundImage: styles.BackgroundImage}) :
             )}
             style={{
