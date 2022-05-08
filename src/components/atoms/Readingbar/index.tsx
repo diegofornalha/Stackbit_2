@@ -19,8 +19,8 @@ const Readingbar = ({ text }) => {
     style={{
 
     }}
+        <div id="reading-progress-fill"></div>
 
-    
 
 
     
