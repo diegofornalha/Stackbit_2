@@ -141,7 +141,7 @@ sections:
       scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg2.jpg
+      url: /images/Group-f0561056.webp
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
