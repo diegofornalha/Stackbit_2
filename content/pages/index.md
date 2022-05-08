@@ -3,7 +3,7 @@ title: Home - Daniele D'Amico
 layout: PageLayout
 colors: colors-e
 backgroundImage:
-  url: /images/Midnight-City.webp
+  url: /images/Group.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
