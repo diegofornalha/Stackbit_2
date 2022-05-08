@@ -41,3 +41,25 @@ document.addEventListener('scroll', function(e) {
 }
 
 export default Readingbar
+
+
+
+ return (
+        <div
+            className={classNames(
+                'fixed',
+                'inset-0',
+                mapStyles({
+                    backgroundSize: backgroundSize ?? 'cover',
+                    backgroundPosition: backgroundPosition ?? 'center',
+                    backgroundRepeat: backgroundRepeat ?? 'no-repeat'
+                }),
+                className
+            )}
+            style={{
+                backgroundImage: `url('${url}')`,
+                opacity: (opacity ?? 100) * 0.01
+            }}
+        />
+    );
+}
