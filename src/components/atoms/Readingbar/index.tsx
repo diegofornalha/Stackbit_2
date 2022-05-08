@@ -14,7 +14,7 @@ const Readingbar = ({ text }) => {
 
     className='border-yellow squiggle'
 
-    className={classNames('',
+    className={classNames('border-yellow',
 
 
     
