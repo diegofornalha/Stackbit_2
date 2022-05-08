@@ -16,9 +16,6 @@ const Readingbar = ({ text }) => {
 
     className={classNames('border-yellow', 'squiggle',)}
 
-    style={{
-
-    }}
         <div id="reading-progress-fill" />
 
 
