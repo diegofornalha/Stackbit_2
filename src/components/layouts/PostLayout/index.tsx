@@ -21,12 +21,7 @@ export default function PostLayout(props) {
     const { title, date, author, category, markdown_content, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
-constructor(props) {
-    super(props)
 
-    // Create the ref
-    this.exampleRef = React.createRef()
-  }
     
 
     return (
