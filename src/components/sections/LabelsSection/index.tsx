@@ -13,7 +13,9 @@ export default function LabelsSection(props) {
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {type?.backgroundImage && <BackgroundImage {...type?.backgroundImage} />}
-            
+            <div style={{ 
+      backgroundImage: `url("https://via.placeholder.com/500")` 
+    }}></div>
             {title && (
                 <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {title}
