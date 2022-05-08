@@ -49,9 +49,6 @@ sections:
 
 
 
-
-
-
     actions: []
     media:
       type: ImageBlock
