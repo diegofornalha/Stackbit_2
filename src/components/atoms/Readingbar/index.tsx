@@ -8,6 +8,8 @@ const Readingbar = ({ text }) => {
   return (
     <div id="reading-progress" className='border-yellow squiggle'><div id="reading-progress-fill"></div></div>
 
+    
+
   <Script
 const readingProgress = document.querySelector('#reading-progress-fill');
 document.addEventListener('scroll', function(e) {
