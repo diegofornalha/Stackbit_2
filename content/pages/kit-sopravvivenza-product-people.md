@@ -18,7 +18,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Da vittima a padrone del caos di prodotto
+    title: Diventa padrone del caos di prodotto
     text: >+
       Iscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse
       della giornata più utili per sopravvivere al caos di prodotto.
