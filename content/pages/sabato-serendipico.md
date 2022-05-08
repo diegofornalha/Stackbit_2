@@ -19,7 +19,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: KIT DI SOPRAVVIVENZA PER PRODUCT PEOPLE
-    text: "Da vittima del caos di prodotto a padrone del caos di prodotto.\_\n\nIscriviti ed ogni giorno riceverai una mia email con 3 link:\n\n*   un **framework, modello mentale** **o contenuto** a tema prodotto;\n\n*   il **prodotto di Product Hunt** che più mi ha colpito nella giornata precedente;\n\n*   una **risorsa** che potrebbe esserti utile;\n\nInoltre, avrai anche un **regalo (a sorpresa)!**\n\n<Script async data-uid=\"c4fbdd0325\" src=\"https://exceptional-author-9523.ck.page/c4fbdd0325/index.js\" />\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    text: "Da vittima del caos di prodotto a padrone del caos di prodotto.\_\n\nIscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse più utili per sopravvivere al caos di prodotto.\n\nInoltre, avrai anche un **regalo (a sorpresa)!**\n\n<Script async data-uid=\"c4fbdd0325\" src=\"https://exceptional-author-9523.ck.page/c4fbdd0325/index.js\" />\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     actions: []
     media:
       type: ImageBlock
