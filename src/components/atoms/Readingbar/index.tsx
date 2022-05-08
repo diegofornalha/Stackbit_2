@@ -16,6 +16,10 @@ const Readingbar = ({ text }) => {
 
     className={classNames('border-yellow', 'squiggle',)}
 
+    style{
+        
+    }
+
 
     
     />
