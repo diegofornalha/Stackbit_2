@@ -10,6 +10,9 @@ const Readingbar = ({ text }) => {
 
     <div 
     
+    id="reading-progress"
+
+    
     
     />
 
