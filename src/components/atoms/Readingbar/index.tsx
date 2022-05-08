@@ -12,7 +12,9 @@ const Readingbar = ({ text }) => {
     
     id="reading-progress"
 
-    
+    className='border-yellow squiggle'
+
+
     
     />
 
