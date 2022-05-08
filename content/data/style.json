@@ -3,7 +3,7 @@
     "fontBody": "fontPrimary",
     "baseFontSize": "16px",
     "h1": {
-        "size": "4xl",
+        "size": "3xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
