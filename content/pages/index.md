@@ -1,7 +1,7 @@
 ---
 title: Home - Daniele D'Amico
 layout: PageLayout
-colors: colors-e
+colors: colors-d
 backgroundImage:
   url: /images/Group.webp
   backgroundSize: cover
