@@ -12,6 +12,13 @@ import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
 // import ReadingBar from '../../atoms/ReadingBar';
 
+constructor(props) {
+    super(props)
+
+    // Create the ref
+    this.exampleRef = React.createRef()
+  }
+
 
 export default function PostLayout(props) {
     const { page, site } = props;
