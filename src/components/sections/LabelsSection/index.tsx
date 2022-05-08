@@ -1,7 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import { BackgroundImage } from '../../atoms';
-import Image from 'next/image'
+import Image from 'next/image';
 
 
 import { Link } from '../../atoms';
