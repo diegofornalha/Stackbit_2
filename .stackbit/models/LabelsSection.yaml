@@ -13,6 +13,7 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
+
   - type: string
     name: title
     label: Title
