@@ -14,7 +14,7 @@ export default function LabelsSection(props) {
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {type?.backgroundImage && <BackgroundImage {...type?.backgroundImage} />}
             <Image 
-            src=
+            src=""
             
             />
             {title && (
