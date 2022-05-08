@@ -43,7 +43,6 @@ export default function PostLayout(props) {
                         </header>
 
                          <ProgressBar
-
                          
   backgroundColor="rgba(125, 125, 125, 0.8)"
   callback={() => console.log("Reached the end of my document")}
