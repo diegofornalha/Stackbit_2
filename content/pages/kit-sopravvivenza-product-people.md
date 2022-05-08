@@ -20,8 +20,8 @@ sections:
     backgroundSize: full
     title: Diventa padrone del caos di prodotto
     text: >+
-      Iscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse
-      della giornata più utili per sopravvivere al caos di prodotto.
+      Iscriviti ed ogni giorno riceverai una mia email con 3 link: le migliori 3
+      risorse della giornata per sopravvivere al caos di prodotto.
 
 
       Inoltre, nella prima email avrai anche un **regalo (a sorpresa)!**
@@ -29,6 +29,8 @@ sections:
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
