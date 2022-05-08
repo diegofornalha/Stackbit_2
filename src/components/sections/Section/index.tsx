@@ -69,7 +69,7 @@ function SectionFullWidth(props: SectionProps) {
     const classSuffix = type && type.replace(/([a-z0-9])([A-Z])/g, '$1-$2').toLowerCase();
     return (
         <div
-        {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
+        {Section?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
             id={elementId || null}
             className={classNames(
                 'sb-component',
