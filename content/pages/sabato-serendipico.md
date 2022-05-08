@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Sabato Serendipico
+title: Kit di sopravvivenza per product people
 colors: colors-a
 backgroundImage:
   url: /images/Midnight City.jpg
