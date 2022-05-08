@@ -4,7 +4,7 @@ import Script from 'next/script';
 
 const Readingbar = ({ text }) => {
   return (
-    <div id="reading-progress" className='border-yellow squiggle"><div id="reading-progress-fill"></div></div>
+    <div id="reading-progress" className='border-yellow squiggle'><div id="reading-progress-fill"></div></div>
 
   <Script
 const readingProgress = document.querySelector('#reading-progress-fill');
