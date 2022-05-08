@@ -95,7 +95,7 @@ sections:
         justifyContent: flex-end
     subtitle: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
   - type: LabelsSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     title: Scorciatoie
     items:
