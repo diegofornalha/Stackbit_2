@@ -43,17 +43,6 @@ export default function PostLayout(props) {
                             </div>
                             <h1 data-sb-field-path="title">{title}</h1>
                         </header>
-
-                         <ProgressBar
-                         
-  backgroundColor="rgba(125, 125, 125, 0.8)"
-  callback={() => console.log("Reached the end of my document")}
-  color="#fff"
-  radius={2}
-  contentRef={this.myRef.bind(this)}
-  style="solid"
-  thickness={3}
-/>
                         {media && (
                             <div className="mb-10 sm:mb-14">
                                 <PostMedia media={media} />
