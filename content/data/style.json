@@ -24,7 +24,7 @@
         "letterSpacing": "normal"
     },
     "h4": {
-        "size": "xl",
+        "size": "lg",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
