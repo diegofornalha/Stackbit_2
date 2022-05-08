@@ -15,7 +15,7 @@ export default function LabelsSection(props) {
             {type?.backgroundImage && <BackgroundImage {...type?.backgroundImage} />}
             <Image 
             src=""
-            width= 
+            width= {500}
 
             
             />
