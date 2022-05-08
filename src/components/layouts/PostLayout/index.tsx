@@ -25,15 +25,7 @@ export default function PostLayout(props) {
             
             <main id="main" className="sb-layout sb-post-layout">
                 
-                <ProgressBar
-  backgroundColor="rgba(125, 125, 125, 0.8)"
-  callback={() => console.log("Reached the end of my document")}
-  color="#fff"
-  radius={2}
-  contentRef={this.myRef}
-  style="solid"
-  thickness={3}
-/>
+               
                 <article className="px-4 py-14 lg:py-20">
                     <div className="max-w-5xl mx-auto">
                         <header className="mb-10 sm:mb-14">
