@@ -12,12 +12,7 @@ import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
 // import ReadingBar from '../../atoms/ReadingBar';
 
-constructor(props) {
-    super(props)
 
-    // Create the ref
-    this.exampleRef = React.createRef()
-  }
 
 
 export default function PostLayout(props) {
@@ -26,7 +21,12 @@ export default function PostLayout(props) {
     const { title, date, author, category, markdown_content, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
+constructor(props) {
+    super(props)
 
+    // Create the ref
+    this.exampleRef = React.createRef()
+  }
     
 
     return (
