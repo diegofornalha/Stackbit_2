@@ -1,80 +1,17 @@
-import * as React from 'react';
-import Script from 'next/script';
-import classNames from 'classnames';
-
-
-
-const Readingbar = ({ text }) => {
-  return (
-    //<div id="reading-progress" className='border-yellow squiggle'><div id="reading-progress-fill"></div></div>
-
-    <div 
-    
-    id="reading-progress"
-
-    className='border-yellow squiggle'
-
-    className={classNames('border-yellow', 'squiggle',)}
-
-
-
-
-    
-    />
-
-  <Script
-const readingProgress = document.querySelector('#reading-progress-fill');
-document.addEventListener('scroll', function(e) {
-  let w = (document.body.scrollTop || document.documentElement.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight) * 100;
-  readingProgress.style.setProperty('width', w + '%');
-}); />
-
-<Style>
-#reading-progress {
+import { React } from "react";
+import styled from "styled-components";
+// Bar Styled Component
+const Bar = styled.div`
   position: fixed;
-  width: 100%;
-  height: 5px;
-  z-index: 9999;
-  top: 0;
-  left: 0;
+  height: 6px;
+  border-radius: 0px 2px 0px 0px;
+  background: linear-gradient(
+    90deg,
+    rgba(109, 227, 219, 1) 0%,
+    rgba(132, 115, 177, 1) 100%,
+    rgba(3, 9, 112, 1) 100%
+  );
+`;
+function ReadingBar() {
+  return <Bar style={{ width: "0%" }}></Bar>;
 }
-#reading-progress-fill {
-  height: 5px;
-  width: 1%;
-}
-/* Theme */
-#reading-progress-fill {
-  -webkit-transition: width 100ms ease;
-  -o-transition: width 100ms ease;
-  transition: width 100ms ease;
-  background-color: #FEE715;
-}
-<>  
-  
-  )
-}
-
-export default Readingbar
-
-
-
- return (
-        <div
-            className={classNames(
-                'fixed',
-                'inset-0',
-                mapStyles({
-                    backgroundSize: backgroundSize ?? 'cover',
-                    backgroundPosition: backgroundPosition ?? 'center',
-                    backgroundRepeat: backgroundRepeat ?? 'no-repeat'
-                }),
-                className
-            )}
-            style={{
-                backgroundImage: `url('${url}')`,
-                opacity: (opacity ?? 100) * 0.01
-            }}
-        />
-    );
-}
-
