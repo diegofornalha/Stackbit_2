@@ -6,7 +6,7 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import Section from '../Section';
 
 export default function LabelsSection(props) {
-    const { type, elementId, colors, title, subtitle, items = [], styles = {backgroundImage}, 'data-sb-field-path': fieldPath } = props;
+    const { type, elementId, colors, title, subtitle, items = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {title && (
