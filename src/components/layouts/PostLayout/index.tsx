@@ -20,12 +20,7 @@ export default function PostLayout(props) {
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
 
-    constructor(props) {
-    super(props)
-
-    // Create the ref
-    this.exampleRef = React.createRef()
-  }
+    
 
     return (
         <BaseLayout page={page} site={site}>
