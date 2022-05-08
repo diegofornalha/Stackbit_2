@@ -1,5 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
+            import { BackgroundImage } from '../../atoms';
+
 
 import { Link } from '../../atoms';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
