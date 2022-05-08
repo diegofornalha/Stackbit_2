@@ -19,7 +19,35 @@ sections:
     elementId: ''
     backgroundSize: full
     title: "Da vittima del caos di prodotto a padrone del caos di prodotto.\_"
-    text: "Da vittima del caos di prodotto a padrone del caos di prodotto.\_\n\nIscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse più utili per sopravvivere al caos di prodotto.\n\nInoltre, avrai anche un **regalo (a sorpresa)!**\n\n<Script async data-uid=\"c4fbdd0325\" src=\"https://exceptional-author-9523.ck.page/c4fbdd0325/index.js\" />\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    text: >+
+
+
+      Iscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse
+      più utili per sopravvivere al caos di prodotto.
+
+
+      Inoltre, avrai anche un **regalo (a sorpresa)!**
+
+
+      <Script async data-uid="c4fbdd0325"
+      src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     actions: []
     media:
       type: ImageBlock
