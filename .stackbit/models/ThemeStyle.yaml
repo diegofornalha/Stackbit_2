@@ -10,6 +10,10 @@ fieldGroups:
   - name: button-styles
     label: Button styles
 fields:
+- type: string
+    name: baseFontSize
+    label: Base Font Size
+    group: font-sizes
   - type: enum
     name: fontBody
     label: Font
