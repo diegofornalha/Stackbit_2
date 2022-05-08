@@ -88,6 +88,8 @@ function SectionFullWidth(props: SectionProps) {
                 borderWidth: styles.borderWidth ? `${styles.borderWidth}px` : null
             }}
             data-sb-field-path={fieldPath}
+
+    
         >
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: styles.justifyContent ?? 'center' }))}>
                 <div className={classNames('relative', 'w-full', mapStyles({ width: styles.width ?? 'wide' }))}>{children}</div>
