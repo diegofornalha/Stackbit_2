@@ -81,3 +81,12 @@ fields:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
+         - type: model
+    name: backgroundImage
+    group: styles
+    label: Post background image
+    models:
+      - BackgroundImage
+    default:
+      type: BackgroundImage
+      url: /images/bg2.jpg
