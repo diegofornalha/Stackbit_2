@@ -16,6 +16,7 @@ export default function LabelsSection(props) {
             <Image 
             src="/22.png"
             width= {500}
+            height
 
             
             />
