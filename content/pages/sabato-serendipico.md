@@ -18,7 +18,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Da vittima del caos di prodotto a padrone del caos di prodotto.
+    title: Da vittima del caos di prodotto a padrone del caos di prodotto
     text: >+
 
 
