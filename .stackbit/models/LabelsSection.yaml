@@ -13,15 +13,6 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
- - type: model
-    name: backgroundImage
-    group: styles
-    label: Post background image
-    models:
-      - BackgroundImage
-    default:
-      type: BackgroundImage
-      url: /images/bg2.jpg
   - type: string
     name: title
     label: Title
