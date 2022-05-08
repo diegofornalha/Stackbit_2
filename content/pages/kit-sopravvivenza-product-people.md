@@ -21,14 +21,16 @@ sections:
     title: Da vittima a padrone del caos di prodotto
     text: >+
       Iscriviti ed ogni giorno riceverai una mia email con 3 link: le 3 risorse
-      più utili per sopravvivere al caos di prodotto.
+      della giornata più utili per sopravvivere al caos di prodotto.
 
 
-      Inoltre, avrai anche un **regalo (a sorpresa)!**
+      Inoltre, nella prima email avrai anche un **regalo (a sorpresa)!**
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
