@@ -40,4 +40,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    title: Arriva
 ---
