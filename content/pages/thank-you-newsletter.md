@@ -9,7 +9,7 @@ title: Empty page
 colors: colors-a
 backgroundImage:
   url: /images/Midnight-City-3ac443f4.webp
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
