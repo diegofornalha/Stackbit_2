@@ -18,9 +18,6 @@ sections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: |-
-      Kit di Sopravvivenza per
-      ​Product People
     subtitle: The section subtitle
     text: >-
       <iframe class="airtable-embed"
