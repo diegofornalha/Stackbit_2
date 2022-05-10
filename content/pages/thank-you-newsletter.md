@@ -43,7 +43,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Ora avrai '
+    title: Complimenti
   - type: TextSection
     colors: colors-f
     elementId: ''
