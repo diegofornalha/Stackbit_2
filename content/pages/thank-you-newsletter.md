@@ -42,7 +42,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Complimenti
+    title: 'Complimenti, domani riceverai il tuo'
   - type: TextSection
     colors: colors-f
     elementId: ''
