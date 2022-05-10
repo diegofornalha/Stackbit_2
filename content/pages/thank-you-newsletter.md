@@ -18,7 +18,6 @@ sections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    subtitle: Kit di sopravvivenza per Product People
     text: >-
       <iframe class="airtable-embed"
       src="https://airtable.com/embed/shrstamXmJOpnhBU7?backgroundColor=purple&viewControls=on"
