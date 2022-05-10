@@ -17,7 +17,7 @@ sections:
   - type: TextSection
     colors: colors-f
     elementId: ''
-    variant: variant-a
+    variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
     text: >-
