@@ -18,7 +18,6 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: I
     title2: mlmlmlmlmlml
     undefined: altra parte di testo
     text: null
