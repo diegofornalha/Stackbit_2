@@ -39,5 +39,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    title: Arriva il tuo
+    title: Kit di sopravvivenza per Product People
 ---
