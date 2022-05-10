@@ -42,7 +42,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Complimenti, domani riceverai il tuo'
+    title: 'Complimenti, domani riceverai il tuo '
     title2: kit di sopravvivenza per product people
   - type: TextSection
     colors: colors-f
