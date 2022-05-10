@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Empty page
-colors: colors-a
+colors: colors-e
 backgroundImage:
   url: /images/Midnight-City-3ac443f4.webp
   backgroundSize: cover
