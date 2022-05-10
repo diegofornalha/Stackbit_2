@@ -40,5 +40,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
-    title: Arriva
+    title: Arriva il tuo
 ---
