@@ -18,9 +18,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: I
     title2: mlmlmlmlmlml
     undefined: altra parte di testo
     text: null
