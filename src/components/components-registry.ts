@@ -65,6 +65,10 @@ const components = {
     // 'ReadingBar': dynamic(() => import('./atoms/ReadingBar'))
     //Newsletter: dynamic(() => import('./atoms/Newsletter')),
     Newsletter: dynamic(() => import('./atoms/Newsletter')),
+    const components = {
+  AlertSection: dynamic(() => import('./sections/AlertSection'))
+  // ...
+}
   // ...
   // ...
 }
