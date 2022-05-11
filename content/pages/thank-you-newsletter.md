@@ -49,10 +49,6 @@ sections:
     variant: variant-a
     subtitle: null
     text: >
-      Grazie per  sono consapevole, se ti sei iscritto a questa newsletter è per
-      un motivo.
-
-
       Kit di Sopravvivenza per Product People è una newsletter con un obiettivo
       molto specifico.
 
@@ -60,33 +56,56 @@ sections:
       L’idea è quella di aiutare le persone che lavorano ad un prodotto nella
       gestione del caos che deriva dal lavorare ad un prodotto.
 
+
+
       Magari sei un designer, oppure un developer, un product manager o chissà
       quale altro job title emerso nel magico mondo del lavoro.
 
+
+
       Magari quell’etichetta non ce l’hai e ti sporchi le mani giorno dopo
       giorno per provare a guadagnartela.
+
+
 
       Oppure quell’etichetta non ce l’hai e non la vuoi nemmeno, magari sei un
       founder, un indie hacker con un’idea nella testa e che cerca giorno dopo
       giorno di trasformarla in realtà.
 
+
+
       Se sei tra queste persone, questa newsletter è per te.
+
+
 
       Aspetta però, non ti agitare.
 
+
+
       Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
+
+
 
       Con questa newsletter condividerò con te, ogni giorno, tre link:
 
-      il link ad un contenuto (un articolo, un podcast, un thread su twitter
+
+
+      *   il link ad un contenuto (un articolo, un podcast, un thread su twitter
       ecc.);
 
-      una risorsa (un tool, framework, modello mentale o template Notion ecc.);
 
-      il prodotto di Product Hunt più interessante che ho trovato nella mia
+      *   una risorsa (un tool, framework, modello mentale o template Notion
+      ecc.);
+
+
+      *   il prodotto di Product Hunt più interessante che ho trovato nella mia
       Product Hunt Curation quotidiana.
 
+
+
       Basta così.
+
+
 
       Si tratta pur sempre una newsletter giornaliera e non voglio rubarti altro
       tempo.
