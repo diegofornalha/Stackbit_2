@@ -131,17 +131,18 @@ sections:
     elementId: primi_tool
     variant: variant-a
     subtitle: null
-    text: >
-      Questo è di sicuro il twitter thread più di impatto che io abbia mai
+    text: >+
+      *   Questo è di sicuro il twitter thread più di impatto che io abbia mai
       letto;
 
 
-      Questo è uno dei modi migliori per confrontarsi con gli stakeholder di
-      un'azienda (o magari con investitori);
+      *   Questo, invece, è uno dei modi migliori per confrontarsi con gli
+      stakeholder di un'azienda (o magari con investitori);
 
 
-      Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da dare
-      ad un tuo contenuto.
+      *   Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da
+      dare ad un tuo contenuto.
+
     styles:
       self:
         height: auto
