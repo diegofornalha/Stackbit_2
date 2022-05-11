@@ -188,7 +188,7 @@ sections:
       Per celebrare questa prima email, facciamo finta che tu me l'abbia
       chiesto, che ne dici?
     actions:
-      - label: 'ACCEDI AL DB '
+      - label: "ACCEDI AL DB \U0001F680"
         altText: ''
         url: >-
           https://danieledamico.notion.site/Product-Hunt-Curation-DB-0f9fed86d736435a8503705ae84141d0
