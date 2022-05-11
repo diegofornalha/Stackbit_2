@@ -136,8 +136,10 @@ sections:
       letto.
 
 
-      *   Questo, invece, è uno dei modi migliori per confrontarsi con gli
-      stakeholder di un'azienda (o magari con investitori).
+      *  
+      ****[**Questo**](https://www.toolshero.com/communication-skills/minto-pyramid-principle/),
+      invece, è uno dei modi migliori per confrontarsi con gli stakeholder di
+      un'azienda (o magari con investitori).
 
 
       *   Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da
