@@ -6,7 +6,7 @@ import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
 import { BackgroundImage } from '../../atoms';
-
+import ScrollToTop from "react-scroll-to-top";
 
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
