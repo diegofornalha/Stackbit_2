@@ -27,6 +27,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+        url: '#accedi_database'
     styles:
       self:
         height: auto
