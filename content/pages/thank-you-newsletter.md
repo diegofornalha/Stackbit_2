@@ -132,18 +132,20 @@ sections:
     variant: variant-a
     subtitle: null
     text: >+
-      *   Questo è di sicuro il twitter thread più di impatto che io abbia mai
-      letto.
+      *  
+      [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it)
+      è di sicuro il twitter thread più di impatto che io abbia mai letto.
 
 
       *  
-      ****[**Questo**](https://www.toolshero.com/communication-skills/minto-pyramid-principle/),
+      [**Questo**](https://www.toolshero.com/communication-skills/minto-pyramid-principle/),
       invece, è uno dei modi migliori per confrontarsi con gli stakeholder di
       un'azienda (o magari con investitori).
 
 
-      *   Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da
-      dare ad un tuo contenuto.
+      *   Grazie a [**questa
+      risorsa**](https://spacers.wannathis.one/?ref=producthunt), non avrai più
+      dubbi sulla linea grafica da dare ad un tuo contenuto.
 
     styles:
       self:
