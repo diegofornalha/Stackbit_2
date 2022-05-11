@@ -149,6 +149,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    title: I PRIMI TOOL DEL TUO KIT
   - type: TextSection
     colors: colors-f
     elementId: ''
