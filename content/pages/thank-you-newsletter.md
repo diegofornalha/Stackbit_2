@@ -58,7 +58,8 @@ sections:
       *   a
 
 
-      *   b
+      *   [I primi tool del tuo
+      kit](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
 
 
       *   [Ho un regalo per
