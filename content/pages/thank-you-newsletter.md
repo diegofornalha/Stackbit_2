@@ -51,9 +51,6 @@ sections:
         justifyContent: flex-start
     title: 'Complimenti,  presto riceverai il tuo '
     title2: kit di sopravvivenza per product people
-    text: |+
-      ###
-
   - type: TextSection
     colors: colors-f
     elementId: ''
