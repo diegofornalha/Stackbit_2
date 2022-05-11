@@ -194,6 +194,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        url: 'https://bit.ly/ph_typ'
     styles:
       self:
         height: auto
