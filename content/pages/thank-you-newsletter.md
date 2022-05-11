@@ -20,7 +20,7 @@ sections:
     backgroundSize: full
     undefined: altra parte di testo
     text: |
-      TL:DR
+      **TL:DR**
 
       Cos'è Kit di Sopravvivenza per Product People?
 
