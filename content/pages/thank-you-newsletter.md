@@ -21,7 +21,7 @@ sections:
     undefined: altra parte di testo
     actions:
       - type: Link
-        label: Learn more
+        label: Ho un regalo per te!
         altText: ''
         showIcon: false
         icon: arrowRight
