@@ -114,6 +114,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    title: Cos'è Kit di Sopravvivenza per Product People?
   - type: TextSection
     colors: colors-f
     elementId: primi_tool
