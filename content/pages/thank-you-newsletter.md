@@ -51,6 +51,19 @@ sections:
         justifyContent: flex-start
     title: 'Complimenti,  presto riceverai il tuo '
     title2: kit di sopravvivenza per product people
+    text: >+
+      ### TL:DR
+
+
+      *   a
+
+
+      *   b
+
+
+      *   [Ho un regalo per
+      te!](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
+
   - type: TextSection
     colors: colors-f
     elementId: ''
