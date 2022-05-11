@@ -21,7 +21,7 @@ sections:
     undefined: altra parte di testo
     actions:
       - type: Link
-        label: Ho un regalo per te!
+        label: 'ACCEDI AL DB '
         altText: ''
         showIcon: false
         icon: arrowRight
