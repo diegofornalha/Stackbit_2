@@ -98,35 +98,6 @@ sections:
 
       Si tratta pur sempre una newsletter giornaliera e non voglio rubarti altro
       tempo.
-
-
-      LA PRIMA SELEZIONE PER TE
-
-
-      Questo è di sicuro il twitter thread più di impatto che io abbia mai
-      letto;
-
-
-      Questo è uno dei modi migliori per confrontarsi con gli stakeholder di
-      un'azienda (o magari con investitori);
-
-
-      Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da dare
-      ad un tuo contenuto.
-
-      PER CHIUDERE IN BELLEZZA, UN REGALO PER TE
-
-      Ogni giorno su Product Hunt escono centinaia di prodotti. Io ne raccolgo i
-      più interessanti e li salvo in un database tutto mio su Notion.
-
-      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
-      proposito, che ne dici di restare in contatto anche lì?).
-
-      Il link al database però è mio, non lo condivido con nessuno a meno che
-      non me lo chiedano.
-
-      Per celebrare questa prima email, facciamo finta che tu me l'abbia
-      chiesto, che ne dici?
     styles:
       self:
         height: auto
