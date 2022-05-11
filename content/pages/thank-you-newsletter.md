@@ -120,9 +120,6 @@ sections:
     variant: variant-a
     subtitle: null
     text: >
-      LA PRIMA SELEZIONE PER TE
-
-
       Questo è di sicuro il twitter thread più di impatto che io abbia mai
       letto;
 
