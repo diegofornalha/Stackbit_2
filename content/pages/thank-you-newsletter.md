@@ -29,7 +29,7 @@ sections:
         elementId: ''
         url: '#accedi_database'
       - type: Button
-        label: Learn more
+        label: "ACCEDI AL DATABASE \U0001F680"
         altText: ''
         url: /
         showIcon: false
