@@ -19,7 +19,14 @@ sections:
     elementId: ''
     backgroundSize: full
     undefined: altra parte di testo
-    text: null
+    text: |
+      TL:DR
+
+      Cos'è Kit di Sopravvivenza per Product People?
+
+      La prima selezione per te
+
+      Ti avevo promesso un regalo
     actions: []
     media: null
     styles:
