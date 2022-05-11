@@ -23,7 +23,6 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
