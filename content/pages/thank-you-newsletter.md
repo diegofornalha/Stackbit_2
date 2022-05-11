@@ -17,7 +17,7 @@ sections:
   - type: HeroSection
     colors: colors-f
     elementId: ''
-    backgroundSize: full
+    backgroundSize: inset
     undefined: altra parte di testo
     actions: []
     media:
