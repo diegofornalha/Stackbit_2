@@ -120,13 +120,20 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: null
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      LA PRIMA SELEZIONE PER TE
+
+
+      Questo è di sicuro il twitter thread più di impatto che io abbia mai
+      letto;
+
+
+      Questo è uno dei modi migliori per confrontarsi con gli stakeholder di
+      un'azienda (o magari con investitori);
+
+
+      Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da dare
+      ad un tuo contenuto.
     styles:
       self:
         height: auto
