@@ -187,56 +187,6 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Let's do this
-    text: >
-      Ogni giorno su Product Hunt escono centinaia di prodotti.
-
-
-      Io ne raccolgo i più interessanti e li salvo in un database tutto mio su
-      Notion.
-
-
-      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
-      proposito, che ne dici di restare in contatto anche lì?).
-
-
-      Il link al database però è mio, non lo condivido con nessuno a meno che
-      non me lo chiedano.
-
-
-      Per celebrare questa prima email, facciamo finta che tu me l'abbia
-      chiesto, che ne dici?
-    actions:
-      - label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
-  - type: CtaSection
-    colors: colors-f
-    elementId: ''
-    backgroundSize: full
     title: UN REGALO PER TE
     text: >
       Ogni giorno su Product Hunt escono centinaia di prodotti.
