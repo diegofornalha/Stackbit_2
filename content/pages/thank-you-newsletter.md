@@ -67,7 +67,7 @@ sections:
 
   - type: TextSection
     colors: colors-f
-    elementId: ''
+    elementId: kit_sopravvivenza_product
     variant: variant-a
     subtitle: null
     text: >
