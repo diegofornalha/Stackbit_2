@@ -133,11 +133,11 @@ sections:
     subtitle: null
     text: >+
       *   Questo è di sicuro il twitter thread più di impatto che io abbia mai
-      letto;
+      letto.
 
 
       *   Questo, invece, è uno dei modi migliori per confrontarsi con gli
-      stakeholder di un'azienda (o magari con investitori);
+      stakeholder di un'azienda (o magari con investitori).
 
 
       *   Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da
