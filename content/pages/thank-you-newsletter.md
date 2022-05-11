@@ -184,7 +184,7 @@ sections:
       text:
         textAlign: left
   - type: CtaSection
-    colors: colors-c
+    colors: colors-e
     elementId: ''
     backgroundSize: full
     title: Let's do this
