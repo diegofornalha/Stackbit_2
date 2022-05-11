@@ -237,7 +237,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Let's do this
+    title: UN REGALO PER TE
     text: >
       Ogni giorno su Product Hunt escono centinaia di prodotti.
 
