@@ -49,14 +49,87 @@ sections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: |
-      TL:DR
+    text: >
+      Grazie per  sono consapevole, se ti sei iscritto a questa newsletter è per
+      un motivo.
 
-      Cos'è Kit di Sopravvivenza per Product People?
 
-      La prima selezione per te
+      Kit di Sopravvivenza per Product People è una newsletter con un obiettivo
+      molto specifico.
 
-      Ti avevo promesso un regalo
+
+      L’idea è quella di aiutare le persone che lavorano ad un prodotto nella
+      gestione del caos che deriva dal lavorare ad un prodotto.
+
+      Magari sei un designer, oppure un developer, un product manager o chissà
+      quale altro job title emerso nel magico mondo del lavoro.
+
+      Magari quell’etichetta non ce l’hai e ti sporchi le mani giorno dopo
+      giorno per provare a guadagnartela.
+
+      Oppure quell’etichetta non ce l’hai e non la vuoi nemmeno, magari sei un
+      founder, un indie hacker con un’idea nella testa e che cerca giorno dopo
+      giorno di trasformarla in realtà.
+
+      Se sei tra queste persone, questa newsletter è per te.
+
+      Aspetta però, non ti agitare.
+
+      Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
+
+      Con questa newsletter condividerò con te, ogni giorno, tre link:
+
+      il link ad un contenuto (un articolo, un podcast, un thread su twitter
+      ecc.);
+
+      una risorsa (un tool, framework, modello mentale o template Notion ecc.);
+
+      il prodotto di Product Hunt più interessante che ho trovato nella mia
+      Product Hunt Curation quotidiana.
+
+      Basta così.
+
+      Si tratta pur sempre una newsletter giornaliera e non voglio rubarti altro
+      tempo.
+
+
+      LA PRIMA SELEZIONE PER TE
+
+
+      Questo è di sicuro il twitter thread più di impatto che io abbia mai
+      letto;
+
+
+      Questo è uno dei modi migliori per confrontarsi con gli stakeholder di
+      un'azienda (o magari con investitori);
+
+
+      Grazie a questa risorsa, non avrai più dubbi sulla linea grafica da dare
+      ad un tuo contenuto.
+
+      PER CHIUDERE IN BELLEZZA, UN REGALO PER TE
+
+      Ogni giorno su Product Hunt escono centinaia di prodotti. Io ne raccolgo i
+      più interessanti e li salvo in un database tutto mio su Notion.
+
+      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
+      proposito, che ne dici di restare in contatto anche lì?).
+
+      Il link al database però è mio, non lo condivido con nessuno a meno che
+      non me lo chiedano.
+
+      Per celebrare questa prima email, facciamo finta che tu me l'abbia
+      chiesto, che ne dici?
+
+      Clicca sul pulsante qui sotto per accedere al database.
+
+
+
+
+      \<iframe class="airtable-embed"
+      src="https://airtable.com/embed/shrstamXmJOpnhBU7?backgroundColor=purple\&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="800"
+      style="background: transparent; border: 1px solid #ccc;">\</iframe>
     styles:
       self:
         height: auto
