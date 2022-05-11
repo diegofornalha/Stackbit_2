@@ -193,7 +193,6 @@ sections:
         url: >-
           https://danieledamico.notion.site/Product-Hunt-Curation-DB-0f9fed86d736435a8503705ae84141d0
         showIcon: true
-        icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
