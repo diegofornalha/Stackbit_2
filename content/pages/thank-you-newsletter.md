@@ -19,16 +19,7 @@ sections:
     elementId: ''
     backgroundSize: full
     undefined: altra parte di testo
-    actions:
-      - type: Button
-        label: "ACCEDI AL DATABASE \U0001F680"
-        altText: ''
-        url: '#accedi_database'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     styles:
       self:
         height: auto
