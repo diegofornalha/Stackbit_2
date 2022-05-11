@@ -28,14 +28,6 @@ sections:
         iconPosition: right
         elementId: ''
         url: '#accedi_database'
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     styles:
       self:
         height: auto
