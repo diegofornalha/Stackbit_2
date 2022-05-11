@@ -140,49 +140,6 @@ sections:
       text:
         textAlign: left
     title: I PRIMI TOOL DEL TUO KIT
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
-    title: UN REGALO PER TE
-    subtitle: null
-    text: >
-      Ogni giorno su Product Hunt escono centinaia di prodotti. 
-
-
-      Io ne raccolgo i più interessanti e li salvo in un database tutto mio su
-      Notion.
-
-
-
-      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
-      proposito, che ne dici di restare in contatto anche lì?).
-
-
-
-      Il link al database però è mio, non lo condivido con nessuno a meno che
-      non me lo chiedano.
-
-
-
-      Per celebrare questa prima email, facciamo finta che tu me l'abbia
-      chiesto, che ne dici?
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: CtaSection
     colors: colors-f
     elementId: ''
