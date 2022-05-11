@@ -19,7 +19,15 @@ sections:
     elementId: ''
     backgroundSize: full
     undefined: altra parte di testo
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     styles:
       self:
         height: auto
