@@ -1,12 +1,13 @@
 import * as React from 'react';
 import Head from 'next/head';
 import classNames from 'classnames';
+import ScrollToTop from "react-scroll-to-top";
+
 
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
 import { BackgroundImage } from '../../atoms';
-import ScrollToTop from "react-scroll-to-top";
 
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
