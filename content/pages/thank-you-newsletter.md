@@ -238,9 +238,24 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Ogni giorno su Product Hunt escono centinaia di prodotti.
+
+
+      Io ne raccolgo i più interessanti e li salvo in un database tutto mio su
+      Notion.
+
+
+      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
+      proposito, che ne dici di restare in contatto anche lì?).
+
+
+      Il link al database però è mio, non lo condivido con nessuno a meno che
+      non me lo chiedano.
+
+
+      Per celebrare questa prima email, facciamo finta che tu me l'abbia
+      chiesto, che ne dici?
     actions:
       - label: Try it now
         altText: ''
