@@ -155,13 +155,20 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: null
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      PER CHIUDERE IN BELLEZZA, UN REGALO PER TE
+
+      Ogni giorno su Product Hunt escono centinaia di prodotti. Io ne raccolgo i
+      più interessanti e li salvo in un database tutto mio su Notion.
+
+      Una selezione di questi prodotti la pubblico sul mio profilo Linkedin (a
+      proposito, che ne dici di restare in contatto anche lì?).
+
+      Il link al database però è mio, non lo condivido con nessuno a meno che
+      non me lo chiedano.
+
+      Per celebrare questa prima email, facciamo finta che tu me l'abbia
+      chiesto, che ne dici?
     styles:
       self:
         height: auto
