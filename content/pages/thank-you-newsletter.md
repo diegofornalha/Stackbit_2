@@ -31,7 +31,7 @@ sections:
       - type: Button
         label: "ACCEDI AL DATABASE \U0001F680"
         altText: ''
-        url: /
+        url: '#accedi_database'
         showIcon: false
         icon: arrowRight
         iconPosition: right
