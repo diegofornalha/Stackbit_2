@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Empty page
+title: Thank You Page
 colors: colors-e
 backgroundImage:
   url: /images/Midnight-City-3ac443f4.webp
