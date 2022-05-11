@@ -172,7 +172,7 @@ sections:
     title: I PRIMI TOOL DEL TUO KIT
   - type: CtaSection
     colors: colors-f
-    elementId: ''
+    elementId: accedi_database
     backgroundSize: full
     title: UN REGALO PER TE
     text: >
