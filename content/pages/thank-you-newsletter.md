@@ -21,7 +21,7 @@ sections:
     undefined: altra parte di testo
     actions:
       - type: Link
-        label: "ACCEDI AL DB \U0001F680"
+        label: "ACCEDI AL DATABASE \U0001F680"
         altText: ''
         showIcon: false
         icon: arrowRight
