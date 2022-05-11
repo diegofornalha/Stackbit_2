@@ -33,7 +33,7 @@
         "react-typewriter-effect": "^1.1.0",
         "typewriter-effect": "^2.18.2",
         "react-content-progress-bar": "^2.4.1"
-        "react-scroll-to-top": "
+        "react-scroll-to-top": "ˆ"
         
     },
     "devDependencies": {
