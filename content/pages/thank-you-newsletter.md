@@ -127,16 +127,6 @@ sections:
 
       Per celebrare questa prima email, facciamo finta che tu me l'abbia
       chiesto, che ne dici?
-
-      Clicca sul pulsante qui sotto per accedere al database.
-
-
-
-
-      \<iframe class="airtable-embed"
-      src="https://airtable.com/embed/shrstamXmJOpnhBU7?backgroundColor=purple\&viewControls=on"
-      frameborder="0" onmousewheel="" width="100%" height="800"
-      style="background: transparent; border: 1px solid #ccc;">\</iframe>
     styles:
       self:
         height: auto
