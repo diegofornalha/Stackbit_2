@@ -55,15 +55,16 @@ sections:
       ### TL:DR
 
 
-      *   a
+      *   [**Cos'è il Kit di Sopravvivenza per Product
+      Peopple?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
 
 
-      *   [I primi tool del tuo
-      kit](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
+      *   [**I primi tool del tuo
+      kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
 
 
-      *   [Ho un regalo per
-      te!](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
+      *   [**Ho un regalo per
+      te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
 
   - type: TextSection
     colors: colors-f
