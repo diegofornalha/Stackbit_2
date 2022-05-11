@@ -153,7 +153,7 @@ sections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: UN REGALO PER TE
     subtitle: null
     text: >
       PER CHIUDERE IN BELLEZZA, UN REGALO PER TE
