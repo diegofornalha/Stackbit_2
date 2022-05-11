@@ -20,14 +20,6 @@ sections:
     backgroundSize: full
     undefined: altra parte di testo
     actions:
-      - type: Link
-        label: "ACCEDI AL DATABASE \U0001F680"
-        altText: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        url: '#accedi_database'
       - type: Button
         label: "ACCEDI AL DATABASE \U0001F680"
         altText: ''
