@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: /images/Daniele D'Amico-732652d3.webp
+      url: /images/ezgif.com-gif-maker.webp
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
