@@ -138,13 +138,6 @@ sections:
 
       Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
       scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/Frame 6.png
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
