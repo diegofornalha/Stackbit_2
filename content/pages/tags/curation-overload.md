@@ -1,6 +1,6 @@
 ---
 title: Curation > Overload
-colors: colors-c
+colors: colors-a
 layout: ProjectLayout
 date: '2021-10-15'
 client: Curation
