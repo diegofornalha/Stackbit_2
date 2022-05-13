@@ -45,7 +45,6 @@
         "styles": {
             "self": {
                 "width": "full",
-                "color": "primary"
             }
         },
         "logo": {
