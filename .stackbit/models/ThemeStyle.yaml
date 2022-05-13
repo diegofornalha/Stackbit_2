@@ -735,12 +735,12 @@ fields:
         default: none
         required: true
       - type: enum
-    name: colors
-    label: Colors
-    description: The color theme of the page
-    group: styles
-    controlType: palette
-    options:
+        name: colors
+        label: Colors
+        description: The color theme of the page
+        group: styles
+        controlType: palette
+        options:
       - label: Colors A
         value: colors-a
         textColor: '$onDark'
