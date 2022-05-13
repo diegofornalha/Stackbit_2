@@ -766,7 +766,7 @@ fields:
             textColor: '$onComplementary'
             backgroundColor: '$complementary'
             borderColor: '#ececec'
-    default: colors-a  
+            default: colors-a  
       - type: enum
         name: letterSpacing
         label: Letter spacing
