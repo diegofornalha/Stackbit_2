@@ -44,7 +44,6 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtu.be/CXnUX2EkicE'
       autoplay: false
       loop: false
       muted: false
