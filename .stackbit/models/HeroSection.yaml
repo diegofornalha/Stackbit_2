@@ -67,7 +67,7 @@ fields:
         url: '/'
         style: secondary
         - type: enum
-    name: colors
+          name: colors
     label: Colors
     description: The color theme of the page
     group: styles
