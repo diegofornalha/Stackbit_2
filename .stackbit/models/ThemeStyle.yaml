@@ -734,7 +734,7 @@ fields:
             value: uppercase
         default: none
         required: true
-      --   - type: enum
+    - type: enum
     name: colors
     label: Colors
     description: The color theme of the page
