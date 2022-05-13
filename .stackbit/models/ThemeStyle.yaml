@@ -748,8 +748,8 @@ fields:
             borderColor: '#ececec'
           - label: Colors B
             value: colors-b
-          textColor: '$onLight'
-        backgroundColor: '$light'
+            textColor: '$onLight'
+            backgroundColor: '$light'
         borderColor: '#ececec'
       - label: Colors C
         value: colors-c
