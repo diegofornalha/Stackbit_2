@@ -741,7 +741,7 @@ fields:
         group: styles
         controlType: palette
         options:
-      - label: Colors A
+          - label: Colors A
         value: colors-a
         textColor: '$onDark'
         backgroundColor: '$dark'
