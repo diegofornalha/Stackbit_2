@@ -760,7 +760,7 @@ fields:
             value: colors-d
             textColor: '$onSecondary'
             backgroundColor: '$secondary'
-        borderColor: '#ececec'
+            borderColor: '#ececec'
       - label: Colors E
         value: colors-e
         textColor: '$onComplementary'
