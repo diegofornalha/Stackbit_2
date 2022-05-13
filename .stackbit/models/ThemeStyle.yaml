@@ -761,11 +761,11 @@ fields:
             textColor: '$onSecondary'
             backgroundColor: '$secondary'
             borderColor: '#ececec'
-      - label: Colors E
-        value: colors-e
-        textColor: '$onComplementary'
-        backgroundColor: '$complementary'
-        borderColor: '#ececec'
+          - label: Colors E
+            value: colors-e
+            textColor: '$onComplementary'
+            backgroundColor: '$complementary'
+            borderColor: '#ececec'
     default: colors-a  
       - type: enum
         name: letterSpacing
