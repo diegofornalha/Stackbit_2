@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Blog
-colors: colors-a
+colors: colors-e
 backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
