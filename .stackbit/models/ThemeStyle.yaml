@@ -742,10 +742,10 @@ fields:
         controlType: palette
         options:
           - label: Colors A
-        value: colors-a
-        textColor: '$onDark'
-        backgroundColor: '$dark'
-        borderColor: '#ececec'
+            value: colors-a
+            textColor: '$onDark'
+            backgroundColor: '$dark'
+            borderColor: '#ececec'
       - label: Colors B
         value: colors-b
         textColor: '$onLight'
