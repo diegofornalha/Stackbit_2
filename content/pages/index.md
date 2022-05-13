@@ -3,7 +3,6 @@ title: Home - Daniele D'Amico
 layout: PageLayout
 colors: colors-e
 backgroundImage:
-  url: /images/Midnight-City-54f6c8aa.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -53,7 +52,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - colors: colors-f
+  - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
     actions:
@@ -95,7 +94,7 @@ sections:
         justifyContent: flex-end
     subtitle: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
   - type: LabelsSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     title: Scorciatoie
     items:
@@ -139,13 +138,6 @@ sections:
 
       Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
       scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/Frame 6.png
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

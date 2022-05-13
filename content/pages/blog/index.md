@@ -1,13 +1,12 @@
 ---
 layout: PostFeedLayout
 title: Blog
-colors: colors-a
+colors: colors-e
 backgroundImage:
-  url: /images/Midnight-City-350698e8.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 100
 numOfPostsPerPage: 10
 postFeed:
   colors: colors-f

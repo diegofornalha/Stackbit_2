@@ -19,13 +19,6 @@ media:
   type: ImageBlock
   url: /images/Frame-5.webp
   altText: Project image
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
-  url: /images/Midnight City.jpg
 ---
 ## I migliori tweet di **Naval Ravikant**
 
