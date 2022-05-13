@@ -142,7 +142,7 @@ fields:
         borderColor: '#ececec'
     default: colors-az
 
-      - type: enum
+  - type: enum
     name: colors
     label: Colors
     description: The color theme of the page
