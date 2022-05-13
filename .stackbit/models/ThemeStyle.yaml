@@ -734,6 +734,7 @@ fields:
             value: uppercase
         default: none
         required: true
+        
       - type: enum
         name: letterSpacing
         label: Letter spacing
