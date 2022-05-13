@@ -43,6 +43,5 @@ modelsSource:
   type: files
   modelDirs:
     - node_modules/react-typewriter-effect/models
-    - node_modules/react-scroll-to-top/models
     - .stackbit/models
     
