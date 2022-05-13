@@ -9,7 +9,7 @@ backgroundImage:
   opacity: 100
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-d
     backgroundSize: full
     title: 'Ciao, sono '
     title2: Daniele D'Amico
