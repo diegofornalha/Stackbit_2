@@ -756,10 +756,10 @@ fields:
             textColor: '$onPrimary'
             backgroundColor: '$primary'
             borderColor: '#ececec'
-      - label: Colors D
-        value: colors-d
-        textColor: '$onSecondary'
-        backgroundColor: '$secondary'
+          - label: Colors D
+            value: colors-d
+            textColor: '$onSecondary'
+            backgroundColor: '$secondary'
         borderColor: '#ececec'
       - label: Colors E
         value: colors-e
