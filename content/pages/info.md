@@ -41,15 +41,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    media:
-      type: VideoBlock
-      title: Title of the video
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      elementId: ''
   - type: DividerSection
     styles:
       self:
