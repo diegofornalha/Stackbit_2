@@ -746,9 +746,9 @@ fields:
             textColor: '$onDark'
             backgroundColor: '$dark'
             borderColor: '#ececec'
-      - label: Colors B
-        value: colors-b
-        textColor: '$onLight'
+          - label: Colors B
+            value: colors-b
+          textColor: '$onLight'
         backgroundColor: '$light'
         borderColor: '#ececec'
       - label: Colors C
