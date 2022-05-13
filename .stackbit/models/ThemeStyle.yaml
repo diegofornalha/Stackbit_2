@@ -753,9 +753,9 @@ fields:
             borderColor: '#ececec'
           - label: Colors C
             value: colors-c
-        textColor: '$onPrimary'
-        backgroundColor: '$primary'
-        borderColor: '#ececec'
+            textColor: '$onPrimary'
+            backgroundColor: '$primary'
+            borderColor: '#ececec'
       - label: Colors D
         value: colors-d
         textColor: '$onSecondary'
