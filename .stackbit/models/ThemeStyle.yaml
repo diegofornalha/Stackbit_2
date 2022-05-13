@@ -751,7 +751,7 @@ fields:
             textColor: '$onLight'
             backgroundColor: '$light'
             borderColor: '#ececec'
-      - label: Colors C
+          - label: Colors C
         value: colors-c
         textColor: '$onPrimary'
         backgroundColor: '$primary'
