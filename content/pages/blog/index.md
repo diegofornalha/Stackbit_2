@@ -3,7 +3,6 @@ layout: PostFeedLayout
 title: Blog
 colors: colors-a
 backgroundImage:
-  url: /images/Midnight-City-350698e8.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
