@@ -60,7 +60,6 @@
         "letterSpacing": "normal",
         "horizontalPadding": 20,
         "verticalPadding": 15,
-        "backgroundColor": "primary"
     },
     "buttonSecondary": {
         "weight": "normal",
