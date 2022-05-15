@@ -1,5 +1,5 @@
 ---
-title: NFTs are so hot right now
+title: 'Perchè '
 colors: colors-e
 layout: PostLayout
 date: '2021-12-02'
