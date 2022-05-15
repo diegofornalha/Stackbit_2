@@ -12,11 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "## Ehi ciao, sono Daniele D'Amico. Sono nato su un piccolo pianeta nel sistema solare ed è lo stesso in cui vivo ancora oggi. &#xA;Al momento della scrittura di queste parole ho 28 anni, lavoro in una startup e ho sul piatto molti progetti in side hustle.&#xA;Quando non leggo libri, creo contenuti sul web (in particolare su Linkedin).&#xA;Questo testo deve essere breve, se vuoi dettagli ulteriori scorri la pagina verso il basso \U0001F447\n\n"
     styles:
       self:
         height: auto
