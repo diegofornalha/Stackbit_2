@@ -66,8 +66,6 @@ fields:
         label: Learn More
         url: '/'
         style: secondary
-        - type: enum
-          name: colors  
   - type: model
     name: media
     label: Media
