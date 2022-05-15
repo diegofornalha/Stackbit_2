@@ -202,7 +202,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Di cosa vorresti parlare?
           isRequired: true
           width: full
           type: TextareaFormControl
