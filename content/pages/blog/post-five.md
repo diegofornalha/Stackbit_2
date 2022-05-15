@@ -1,5 +1,5 @@
 ---
-title: Perchè ho scelto Notion?
+title: Perché ho scelto Notion?
 colors: colors-e
 layout: PostLayout
 date: '2021-12-02'
