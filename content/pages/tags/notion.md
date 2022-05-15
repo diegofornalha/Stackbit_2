@@ -21,11 +21,7 @@ bottomSections:
     showFeaturedImage: false
     showReadMoreLink: true
     variant: variant-c
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
+    actions: []
     styles:
       self:
         height: auto
