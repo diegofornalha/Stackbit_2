@@ -70,7 +70,6 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/tags/curation-overload.md
       - content/pages/tags/project-three.md
-      - content/pages/tags/bere-startup.md
     styles:
       self:
         height: auto
