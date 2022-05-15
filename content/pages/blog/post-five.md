@@ -3,7 +3,7 @@ title: Perché ho scelto Notion?
 colors: colors-e
 layout: PostLayout
 date: '2021-12-02'
-excerpt: More context that may or may not be helpful
+excerpt: Perché Notion non ti permette di prendere appunti
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
