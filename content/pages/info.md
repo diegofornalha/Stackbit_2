@@ -143,7 +143,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [daniele@danieledamico.tech](daniele@danieledamico.tech)
   - type: DividerSection
     styles:
       self:
