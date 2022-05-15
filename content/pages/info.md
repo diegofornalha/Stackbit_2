@@ -181,7 +181,7 @@ sections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Come ti chiami?
           isRequired: true
           width: 1/2
           type: TextFormControl
