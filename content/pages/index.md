@@ -9,7 +9,7 @@ backgroundImage:
   opacity: 100
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: full
     title: 'Ciao, sono '
     title2: Daniele D'Amico
@@ -69,7 +69,6 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/tags/curation-overload.md
-      - content/pages/tags/product-hunt-curation.md
       - content/pages/tags/project-three.md
     styles:
       self:
