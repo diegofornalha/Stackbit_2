@@ -21,7 +21,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame 16-1318abe4.webp
   altText: Post image
 bottomSections: []
 slug: postlayout-5zj57kmef
