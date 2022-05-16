@@ -13,6 +13,12 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections: []
 metaTags: []
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Notion è uno dei prodotti che più mi piace perché oltre il "prendere appunti". 
 
