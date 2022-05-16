@@ -53,7 +53,7 @@ bottomSections:
     subtitle: null
     posts: []
   - type: FeaturedProjectsSection
-    colors: colors-d
+    colors: colors-e
     elementId: ''
     showDate: false
     showDescription: true
