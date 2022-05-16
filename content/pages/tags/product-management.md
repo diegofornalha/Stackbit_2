@@ -7,7 +7,6 @@ socialImage: null
 metaTags: []
 title: Product Management
 colors: colors-e
-date: '2022-05-01'
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
