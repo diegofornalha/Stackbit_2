@@ -402,7 +402,7 @@
 
 svg #featured-post-home {
     @apply text-primary;
-    
+    @apply fill-current;
 }
 
 
