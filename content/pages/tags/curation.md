@@ -27,7 +27,7 @@ bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showFeaturedImage: true
