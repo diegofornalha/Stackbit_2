@@ -26,12 +26,46 @@ media:
 bottomSections: []
 slug: postlayout-gqcucb13d
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Daresti mai da bere alcool ad un bambino appena nato? Allora perché vuoi dare alla tua startup qualcosa di cui non ha bisogno (o che magari le fa male)? 👇👇👇
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Aspetta, aspetta, non sono impazzito.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+È che qualche giorno fa ho letto un articolo, scritto da Brian Balfour (ti lascio la fonte nei commenti), che parla delle tre fasi di vita di una startup ed ho fatto una considerazione.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Il fatto è che la vita di una startup è scandita da tre fasi (proprio come quella di un essere umano) e capire in quale fase si trova la tua ti permette di dare priorità alle cose necessarie per la sua sopravvivenza.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+1️⃣ Traction: è la prima fase di vita, quella in cui si trovano quasi tutte le startup. In questa prima fase l'obiettivo più importante è quello di trovare il Product Market Fit per uno specifico segmento di mercato. Tutto quello che fai deve avere come priorità proprio questo obiettivo.
+
+Come farlo ?
+
+🟡 Cerca di garantire una esposizione costante della tua startup (tramite traffico sul sito web ecc), senza questa materia prima non potrai fare niente di niente, figurarsi il trovare il Product Market Fit.
+
+🟡 Inoltre, concentrati su un canale di esposizione e cerca di avere un team essenziale ma ben costruito.
+
+🟡 Ottimizza solo questioni macro restando focalizzato sull’obiettivo principale.
+
+2️⃣ Transition: questa è la seconda fase di vita e ci accedi dopo aver trovato il Product Market Fit. In questa fase dovresti concentrarti sul tasso di crescita della startup senza far crollare le basi che hai costruito finora.
+
+Come farlo?
+
+🟡 Aumenta il tasso di esposizione a cui è sottoposta la startup, senza preoccuparti della costanza
+
+🟡 Comincia a monitorare il tasso di retention.
+
+🟡 Monitora le metriche di CPA e LTV
+
+🟡 Comincia a costruire un team dedicato alla crescita della tua startup;
+
+🟡 Continua ad ottimizzare a livello macro per poi concentrarti solo in seguito sulle cose più micro.
+
+3️⃣ Growth: in questa fase il tuo obiettivo è quello di spingere al massimo le leve di crescita che hai trovato (e se non le hai ancora trovate allora non sei in fase di growth).
+
+Come farlo?
+
+🟡 Porta l’esposizione al massimo possibile;
+
+🟡 Continua a monitorare CPA e LTV e cerca di ottenerne il meglio;
+
+🟡 Fai crescere il tuo team in maniera strutturata e decentralizzata.
+
+Quanto detto è, ovviamente, una semplificazione di quanto accade nella realtà. Il mercato e la vita di una startup sono molto più rapidi e dinamici di quanto possa risultare dalla lettura di queste parole, credo però che abbia senso sapere in che fase ci si trova, così da poter avere una bussola nelle decisioni che si devono prendere giorno dopo giorno. Proprio come un bambino appena nato non ha bisogno di bere alcool ma latte, così la tua startup ha bisogno di alcune cose e non di altre. La fase di vita di una startup, allora, può essere considerata proprio come una bussola che ci salva dal finire nel burrone, no? Cosa ne pensi? 
