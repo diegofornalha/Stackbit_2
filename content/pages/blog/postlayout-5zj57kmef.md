@@ -5,12 +5,13 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: I MIGLIORI TWEET DI NAVAL RAVIKANT
+title: NAVAL RAVIKANT Curation
 colors: colors-e
 date: '2022-05-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Naval è il CEO e co-founder di AngelList. Inverstitore in più di 100 aziende
+  (Uber, Twitter ecc.). È un pensatore davvero profondo ed è capace di sfidare
+  l'ovvietà di molte cose. Apre la mente.
 featuredImage:
   type: ImageBlock
   url: /images/Frame 16.webp
