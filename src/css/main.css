@@ -400,9 +400,5 @@
 @apply border-primary;
 }
 
-svg {
-    fill: primary;
-}
-
 
 }
