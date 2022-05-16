@@ -401,6 +401,7 @@
 }
 
 svg #featured-post-home {
+    @apply text-primary;
     
 }
 
