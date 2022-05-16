@@ -85,7 +85,6 @@ bottomSections:
     title: 'Posts:'
     subtitle: null
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
 ---
