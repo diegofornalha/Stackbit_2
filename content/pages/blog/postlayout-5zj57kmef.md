@@ -26,12 +26,8 @@ media:
 bottomSections: []
 slug: postlayout-5zj57kmef
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+I migliori tweet di Naval Ravikant
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
-
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fast, lift, sprint, stretch, and meditate.Build, sell, write, create, invest, and own.Read, reflect, love, seek truth, and ignore society.Make these habits. Say no to everything else.Avoid debt, jail, addiction, disgrace, shortcuts, and media.Relax. Victory is assured.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1254177712945500160?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be rewarded, you have to be irreplaceable.If you want to be irreplaceable, you have to be unique.If you want to be unique, you have to be authentic.If you want to be authentic, stop listening to everyone and everything else. It’s drowning “you” out.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1210087254925836289?ref_src=twsrc%5Etfw">December 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Doctors won’t make you healthy.Nutritionists won’t make you slim.Teachers won’t make you smart.Gurus won’t make you calm.Mentors won’t make you rich.Trainers won’t make you fit.Ultimately, you have to take responsibility. Save yourself.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1027776399329898496?ref_src=twsrc%5Etfw">August 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
