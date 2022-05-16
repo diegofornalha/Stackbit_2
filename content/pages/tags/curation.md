@@ -84,6 +84,5 @@ bottomSections:
         justifyContent: center
     title: 'Posts:'
     subtitle: null
-    posts:
-      - content/pages/blog/post-three.md
+    posts: []
 ---
