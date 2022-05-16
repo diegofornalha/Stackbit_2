@@ -126,6 +126,7 @@ sections:
     subtitle: null
     posts:
       - content/pages/blog/postlayout-5zj57kmef.md
+      - content/pages/blog/postlayout-gqcucb13d.md
   - type: LabelsSection
     colors: colors-c
     elementId: ''
