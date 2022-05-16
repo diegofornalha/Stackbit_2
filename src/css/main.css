@@ -401,7 +401,7 @@
 }
 
 #featured-posts-home {
-    @apply fill-current;
+    @apply border-current;
 }
 
 
