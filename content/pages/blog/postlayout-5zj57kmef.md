@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: I MIGLIORI TWEET DI NAVAL RAVIKANT
+title: NAVAL RAVIKANT Curation
 colors: colors-e
 date: '2022-05-16'
 excerpt: >-
