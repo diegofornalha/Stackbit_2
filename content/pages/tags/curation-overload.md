@@ -1,5 +1,5 @@
 ---
-title: Curation > Overload
+title: I MIGLIORI TWEET DI NAVAL RAVIKANT
 colors: colors-e
 layout: ProjectLayout
 date: '2021-10-15'
