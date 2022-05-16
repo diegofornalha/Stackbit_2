@@ -398,7 +398,7 @@
 
 .sb-component-button  .sb-component-button-icon {
 @apply border-primary;
-#apply border-current
+#apply border-current;
 }
 
 
