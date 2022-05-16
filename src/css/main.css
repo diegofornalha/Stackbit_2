@@ -24,6 +24,7 @@
     h6 {
         @apply break-words;
         line-height: 1.15;
+        @apply text-primary;
     }
 }
 
