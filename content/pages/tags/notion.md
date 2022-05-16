@@ -48,4 +48,16 @@ bottomSections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+featuredImage:
+  type: ImageBlock
+  url: /images/Notion.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+media:
+  type: ImageBlock
+  url: /images/Notion-645ff8f9.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
