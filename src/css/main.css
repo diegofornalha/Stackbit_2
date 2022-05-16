@@ -25,12 +25,20 @@
         @apply break-words;
         line-height: 1.15;
     }
+    h1,
+    h2,
     h3,
     h4,
     h5,
     h6 {
     @apply text-primary;
     }
+#hero_newsletter #hero_home 
+h1,
+h2 {
+@apply text-light;
+}
+    
 }
 
 @layer components {

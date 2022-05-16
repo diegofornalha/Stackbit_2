@@ -16,7 +16,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-f
-    elementId: ''
+    elementId: hero_newsletter
     backgroundSize: full
     title: 'Diventa '
     text: >+
