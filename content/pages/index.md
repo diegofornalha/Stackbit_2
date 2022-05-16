@@ -98,7 +98,7 @@ sections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     actions:
