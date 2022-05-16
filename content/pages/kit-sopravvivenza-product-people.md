@@ -20,8 +20,9 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      Iscriviti ed ogni giorno riceverai una mia email con 3 link: le migliori 3
-      risorse per sopravvivere al caos di prodotto.
+      Iscriviti alla newsletter **Kit di Sopravvivenza per Product People** ed
+      ogni giorno riceverai una mia email con 3 link: le migliori 3 risorse per
+      sopravvivere al caos di prodotto.
 
 
       Inoltre, nella prima email avrai anche un **regalo (a sorpresa)!**
@@ -29,6 +30,8 @@ sections:
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
