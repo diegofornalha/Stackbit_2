@@ -155,7 +155,7 @@
 
     #scorciatoie .sb-component-button:not(.sb-component-button-no-hover):hover,
     .group:hover .sb-component-button:not(.sb-component-button-no-hover) {
-        box-shadow: 0 6px 0 0 #31;
+        box-shadow: 0 6px 0 0 #313335;
         transform: translate(0, -6px);
     }
 
