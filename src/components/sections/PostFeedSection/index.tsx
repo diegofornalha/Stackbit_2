@@ -130,7 +130,7 @@ function PostsVariantABC(props) {
                             <div className="mt-8">
                                 <span className="sb-component sb-component-block sb-component-button sb-component-button-secondary sb-component-button-icon">
                                     <span className="sr-only">Read more</span>
-                                    <ArrowUpRightIcon className="fill-current stroke-primary h-5 w-5" />
+                                    <ArrowUpRightIcon className="fill-primary stroke-primary h-5 w-5" />
                                 </span>
                             </div>
                         )}
