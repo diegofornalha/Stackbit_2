@@ -155,7 +155,7 @@
 
    #scorciatoie .sb-component-button {
        box-shadow: 0 6px 0 0 #313335;
-       transform
+       transform: translate(0, -6px);
    }
 
 
