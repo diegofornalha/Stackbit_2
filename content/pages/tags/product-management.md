@@ -37,7 +37,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: Alcune cose che ho scritto sull'argomento
     subtitle: null
     posts:
       - content/pages/blog/post-one.md
