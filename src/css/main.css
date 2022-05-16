@@ -33,6 +33,8 @@
     h6 {
     @apply text-primary;
     }
+
+    
 }
 
 @layer components {
