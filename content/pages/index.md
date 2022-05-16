@@ -92,42 +92,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
-  - type: LabelsSection
-    colors: colors-c
-    elementId: ''
-    title: Scorciatoie
-    items:
-      - type: Label
-        label: Product Management
-        url: /tags/product-management
-      - type: Label
-        label: Notion
-        url: /tags/notion
-      - type: Label
-        label: Curation
-        url: /tags/curation
-      - type: Label
-        label: Random
-        url: /tags/random
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: >-
-      C'è un argomento che ti interessa in particolare? 
-
-      Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
-      scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
@@ -164,6 +128,42 @@ sections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+  - type: LabelsSection
+    colors: colors-c
+    elementId: ''
+    title: Scorciatoie
+    items:
+      - type: Label
+        label: Product Management
+        url: /tags/product-management
+      - type: Label
+        label: Notion
+        url: /tags/notion
+      - type: Label
+        label: Curation
+        url: /tags/curation
+      - type: Label
+        label: Random
+        url: /tags/random
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: >-
+      C'è un argomento che ti interessa in particolare? 
+
+      Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
+      scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
