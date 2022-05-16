@@ -404,7 +404,9 @@ svg.fill-current {
     fill: #FEE715;
 }
 
-#scorciatoie 
+#scorciatoie .sb-component-button {
+@apply border-primary;
+}
 
 
 }
