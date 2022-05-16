@@ -61,6 +61,9 @@ export default function ProjectLayout(props) {
                     </div>
                 </article>
                 
+
+
+                
          {bottomSections.length > 0 && (
                     <div data-sb-field-path="bottomSections">
                         {bottomSections.map((section, index) => {
