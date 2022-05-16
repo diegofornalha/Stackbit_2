@@ -12,8 +12,9 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-05-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Daresti mai da bere alcool ad un bambino appena nato? Allora perché vuoi dare
+  alla tua startup qualcosa di cui non ha bisogno (o che magari le fa male)?
+  Aspetta, aspetta, non sono impazzito.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
