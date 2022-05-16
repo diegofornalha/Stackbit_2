@@ -10,7 +10,6 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
 date: '2022-05-01'
-client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
