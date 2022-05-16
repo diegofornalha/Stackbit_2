@@ -69,13 +69,13 @@ export default function ProjectLayout(props) {
                     </nav>
                 )} 
          {bottomSections.length > 0 && (
-               //     <div data-sb-field-path="bottomSections">
-               //         {bottomSections.map((section, index) => {
-               //             const Component = getComponent(section.type);
-               //             if (!Component) {
-               //                 throw new Error(`no component matching the page section's type: ${section.type}`);
-               //             }
-               //             return <Component key={index} {...section} data-sb-field-path={`bottomSections.${index}`} />;
+                    <div data-sb-field-path="bottomSections">
+                        {bottomSections.map((section, index) => {
+                            const Component = getComponent(section.type);
+                            if (!Component) {
+                                throw new Error(`no component matching the page section's type: ${section.type}`);
+                            }
+                            return <Component key={index} {...section} data-sb-field-path={`bottomSections.${index}`} />;
                         })}
                     </div>
                 )}
