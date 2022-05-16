@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Product Management
-colors: colors-a
+colors: colors-e
 date: '2022-05-01'
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
