@@ -77,7 +77,7 @@ export default function ProjectLayout(props) {
                //             }
                //             return <Component key={index} {...section} data-sb-field-path={`bottomSections.${index}`} />;
                //         })}
-                    </div>
+               //     </div>
                 )}
             </main>
         </BaseLayout>
