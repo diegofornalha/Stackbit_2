@@ -129,6 +129,42 @@ sections:
       Ho raccolto quelli che più tratto in questo sito e ne ho creato delle
       scorciatoie, cliccaci e potrai entrare nella tana del bianconiglio!
   - type: FeaturedPostsSection
+    colors: colors-f
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-b
+    actions:
+      - type: Link
+        label: See all posts
+        altText: See all posts
+        url: /blog
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: 'Posts:'
+    subtitle: null
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
+  - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
@@ -170,42 +206,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: FeaturedPostsSection
-    colors: colors-f
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
-    variant: variant-b
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: 'Posts:'
-    subtitle: null
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
