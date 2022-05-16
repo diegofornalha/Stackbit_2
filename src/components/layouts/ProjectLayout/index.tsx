@@ -61,9 +61,16 @@ export default function ProjectLayout(props) {
                     </div>
                 </article>
                 
+// {(prevProject || nextProject) && (
+                    <nav className="sb-project-nav px-4 sm:px-8 mt-12 mb-20">
+                        <div className="max-w-5xl mx-auto grid gap-x-6 gap-y-12 md:grid-cols-2 lg:gap-x-8">
+                            {prevProject && <ProjectNavItem project={prevProject} label="Previous project" />}
+                            {nextProject && <ProjectNavItem project={nextProject} label="Next project" />}
+                        </div>
+                    </nav>
+                )} 
 
 
-                
          {bottomSections.length > 0 && (
                     <div data-sb-field-path="bottomSections">
                         {bottomSections.map((section, index) => {
