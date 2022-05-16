@@ -126,7 +126,6 @@ sections:
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
       - content/pages/blog/postlayout-5zj57kmef.md
   - type: LabelsSection
