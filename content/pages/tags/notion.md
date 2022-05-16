@@ -18,7 +18,7 @@ bottomSections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-d
     actions:
@@ -46,8 +46,6 @@ bottomSections:
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
 featuredImage:
   type: ImageBlock
   url: /images/Notion.webp

@@ -58,7 +58,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Frame-7.webp
+      url: /images/Frame 14.webp
       altText: Hero image
     styles:
       self:
