@@ -398,7 +398,6 @@
 
 .sb-component-button {
 @apply border-primary;
-@apply fill-current;
 }
 
 
