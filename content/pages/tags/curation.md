@@ -24,38 +24,6 @@ media:
   url: /images/Frame 15.webp
   altText: Project image
 bottomSections:
-  - type: FeaturedProjectsSection
-    colors: colors-e
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: null
-    subtitle: Alcune cose che ho scritto sul tema "Curation"
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/tags/curation-overload.md
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
