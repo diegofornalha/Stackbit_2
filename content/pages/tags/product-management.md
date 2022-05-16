@@ -37,9 +37,21 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: E così vuoi leggere riguardo il product management eh?
     subtitle: null
     posts:
       - content/pages/blog/post-one.md
       - content/pages/blog/post-six.md
+featuredImage:
+  type: ImageBlock
+  url: /images/Product Management.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+media:
+  type: ImageBlock
+  url: /images/Product Management-02f11a47.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
