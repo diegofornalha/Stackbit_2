@@ -87,6 +87,7 @@ sections:
     posts:
       - content/pages/blog/postlayout-5zj57kmef.md
       - content/pages/blog/postlayout-gqcucb13d.md
+      - content/pages/blog/post-five.md
   - type: LabelsSection
     colors: colors-c
     elementId: ''

@@ -3,13 +3,22 @@ title: Perché ho scelto Notion?
 colors: colors-e
 layout: PostLayout
 date: '2021-12-02'
-excerpt: Perché Notion non ti permette di prendere appunti
+excerpt: >-
+  Perché pur essendo un'app per prendere appunti, ormai Notion è diventato
+  qualcosa di molto più grande. L'API mi ha aperto un mondo: tra automazioni e
+  database, ora Notion è il mio second brain.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: /images/Frame 17-f5f20607.webp
   altText: Post thumbnail image
 bottomSections: []
 metaTags: []
+media:
+  type: ImageBlock
+  url: /images/Frame 17.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Notion è uno dei prodotti che più mi piace perché oltre il "prendere appunti". 
 
