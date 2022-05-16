@@ -103,7 +103,7 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: See all posts
+        label: VUOI ALTRI CONSIGLI?
         altText: VUOI ALTRI CONSIGLI?
         url: /blog
     styles:
