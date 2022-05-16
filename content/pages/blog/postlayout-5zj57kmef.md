@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: I MIGLIORI TWEET DI NAVAL RAVIKANT
-colors: colors-a
+colors: colors-e
 date: '2022-05-16'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
