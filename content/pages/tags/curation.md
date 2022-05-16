@@ -23,35 +23,6 @@ media:
   url: /images/Frame 15.webp
   altText: Project image
 bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-f
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: 'Posts:'
-    subtitle: null
-    posts: []
   - type: FeaturedProjectsSection
     colors: colors-e
     elementId: ''
