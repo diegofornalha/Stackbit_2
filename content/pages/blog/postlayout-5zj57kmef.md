@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: I MIGLIORI TWEET DI NAVAL RAVIKANT
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-16'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
