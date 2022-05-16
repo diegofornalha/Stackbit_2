@@ -397,7 +397,8 @@
 }
 
 #featured-posts-home.sb-component-button {
-    sb-component-button 
+border-color: primary;
+
 }
 
 
