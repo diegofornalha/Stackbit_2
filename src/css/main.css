@@ -401,7 +401,7 @@
 }
 
 .sb-component-button-icon {
-    @apply primary;
+    @fillprimary;
 }
 
 
