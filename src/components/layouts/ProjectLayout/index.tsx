@@ -76,8 +76,8 @@ export default function ProjectLayout(props) {
                //                 throw new Error(`no component matching the page section's type: ${section.type}`);
                //             }
                //             return <Component key={index} {...section} data-sb-field-path={`bottomSections.${index}`} />;
-               //         })}
-               //     </div>
+                        })}
+                    </div>
                 )}
             </main>
         </BaseLayout>
