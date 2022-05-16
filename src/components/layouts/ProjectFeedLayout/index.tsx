@@ -39,7 +39,7 @@ export default function ProjectFeedLayout(props) {
                     </div>
                 )}
                 <Sections sections={topSections} data-sb-field-path="topSections" />
-               / <ProjectFeedSection {...projectFeed} projects={items} pageLinks={pageLinks} data-sb-field-path="projectFeed" />
+               / <ProjectFeedSection {...projectFeed} projects={items} pageLinks={pageLinks} data-sb-field-path="projectFeed" /> /
                 <Sections sections={bottomSections} data-sb-field-path="bottomSections" />
             </main>
         </BaseLayout>
