@@ -54,7 +54,7 @@ sections:
         elementId: ''
   - type: FeaturedPostsSection
     colors: colors-f
-    elementId: ''
+    elementId: featured-posts-home
     showDate: false
     showAuthor: false
     showExcerpt: true
@@ -90,7 +90,7 @@ sections:
       - content/pages/blog/post-five.md
   - type: LabelsSection
     colors: colors-c
-    elementId: ''
+    elementId: scorciatoie
     title: Scorciatoie
     items:
       - type: Label
