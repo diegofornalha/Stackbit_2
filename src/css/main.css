@@ -153,7 +153,9 @@
         transform: translate(0, -6px);
     }
 
-   #scorciatoie 
+   #scorciatoie .sb-component-button {
+       
+   }
 
 
 
