@@ -401,8 +401,10 @@
 }
 
 svg.fill-current {
-    fill: #FEE715 !important;
+    fill: #FEE715;
 }
+
+
 
 
 }
