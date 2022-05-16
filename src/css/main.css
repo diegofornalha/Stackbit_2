@@ -25,12 +25,11 @@
         @apply break-words;
         line-height: 1.15;
     }
-    h2,
     h3,
     h4,
     h5,
     h6 {
-        @apply text-primary;
+    @apply text-primary;
     }
 }
 
