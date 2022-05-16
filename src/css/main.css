@@ -396,7 +396,7 @@
   background-color: #FEE715;
 }
 
-.sb-component-button  .sb-component-button-icon {
+.sb-component-button {
 @apply border-primary;
 }
 
