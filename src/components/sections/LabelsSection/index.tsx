@@ -14,7 +14,7 @@ export default function LabelsSection(props) {
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             
             {title && (
-                <h2 className={classNames('' styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                <h2 className={classNames('', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {title}
                 </h2>
             )}
