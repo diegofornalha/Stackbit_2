@@ -54,7 +54,7 @@ sections:
         elementId: ''
   - type: FeaturedPostsSection
     colors: colors-f
-    elementId: ''
+    elementId: featured-posts-home
     showDate: false
     showAuthor: false
     showExcerpt: true
