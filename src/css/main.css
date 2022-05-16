@@ -400,9 +400,5 @@
 @apply border-primary;
 }
 
-#featured-posts-home {
-    @apply fill-current;
-}
-
 
 }
