@@ -51,6 +51,7 @@
         h5,
         h6 {
             margin: 2.5rem 0 1.5rem;
+            @apply text-primary;
         }
         p {
             margin: 1.5rem 0;
