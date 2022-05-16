@@ -90,7 +90,7 @@ sections:
       - content/pages/blog/post-five.md
   - type: LabelsSection
     colors: colors-c
-    elementId: ''
+    elementId: scorciatoie
     title: Scorciatoie
     items:
       - type: Label
