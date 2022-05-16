@@ -52,33 +52,24 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - colors: colors-e
-    type: FeaturedProjectsSection
+  - type: FeaturedPostsSection
+    colors: colors-f
     elementId: ''
-    actions:
-      - type: Link
-        label: VUOI ALTRI CONSIGLI?
-        url: /projects
     showDate: false
-    showDescription: true
+    showAuthor: false
+    showExcerpt: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-      - content/pages/tags/curation-overload.md
-      - content/pages/tags/project-three.md
+    actions:
+      - type: Link
+        label: VUOI ALTRI CONSIGLI?
+        altText: VUOI ALTRI CONSIGLI?
+        url: /blog
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -90,8 +81,12 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
+        justifyContent: center
+    title: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
+    subtitle: null
+    posts:
+      - content/pages/blog/postlayout-5zj57kmef.md
+      - content/pages/blog/postlayout-gqcucb13d.md
   - type: LabelsSection
     colors: colors-c
     elementId: ''
