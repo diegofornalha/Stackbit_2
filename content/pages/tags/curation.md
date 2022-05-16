@@ -53,7 +53,7 @@ bottomSections:
       actions:
         justifyContent: center
     title: null
-    subtitle: 'Projects:'
+    subtitle: Alcune cose che ho scritto sul tema "Curation"
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
