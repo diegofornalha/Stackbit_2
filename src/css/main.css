@@ -39,7 +39,6 @@
         b,
         strong {
             @apply font-medium;
-            @apply font-primary;
         }
         em {
             @apply italic;
