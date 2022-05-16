@@ -9,7 +9,7 @@ excerpt: >-
   tra automazioni e database, ora Notion è il mio second brain.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: /images/Frame 17-f5f20607.webp
   altText: Post thumbnail image
 bottomSections: []
 metaTags: []
