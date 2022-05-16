@@ -398,7 +398,7 @@
 
 #featured-posts-home .sb-component-button {
 @apply border-primary;
-
+@apply fill-primary;
 
 }
 
