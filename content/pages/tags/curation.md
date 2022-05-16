@@ -9,7 +9,6 @@ title: Curation
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-01'
 client: Awesome client
 description: >-
