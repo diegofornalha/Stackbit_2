@@ -41,4 +41,5 @@ bottomSections:
     subtitle: null
     posts:
       - content/pages/blog/post-one.md
+      - content/pages/blog/post-six.md
 ---
