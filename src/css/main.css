@@ -413,6 +413,10 @@ svg.fill-current {
     fill: #FEE715;
 }
 
+header svg.fill-current{
+    fill: #FAF9F9;
+}
+
 #scorciatoie .sb-component-button {
 @apply border-secondary;
 }
