@@ -122,7 +122,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
