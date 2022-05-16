@@ -166,7 +166,7 @@
     }
     .sb-component-link:not(.sb-component-link-fill):hover,
     .group:hover .sb-component-link:not(.sb-component-link-fill) {
-        box-shadow: 0 5px 0 0 currentColor;
+        box-shadow: 0 5px 0 0 primary;
     }
 
     /* Socials */
