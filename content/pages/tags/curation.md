@@ -27,10 +27,10 @@ bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     actions: []
