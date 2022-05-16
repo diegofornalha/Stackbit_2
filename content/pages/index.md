@@ -110,9 +110,6 @@ sections:
         label: Content Strategy
         url: /tags/content-strategy
       - type: Label
-        label: User Research
-        url: /tags/user-research
-      - type: Label
         label: Random
         url: /tags/random
     styles:
