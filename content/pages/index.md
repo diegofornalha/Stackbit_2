@@ -125,7 +125,6 @@ sections:
     title: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
     subtitle: null
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/postlayout-5zj57kmef.md
   - type: LabelsSection
     colors: colors-c
