@@ -51,6 +51,5 @@ bottomSections:
         justifyContent: center
     title: 'Posts:'
     subtitle: null
-    posts:
-      - content/pages/blog/post-five.md
+    posts: []
 ---
