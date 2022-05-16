@@ -37,7 +37,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: Alcune cose che ho scritto sull'argomento
+    title: E così vuoi leggere riguardo il product management eh?
     subtitle: null
     posts:
       - content/pages/blog/post-one.md
