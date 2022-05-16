@@ -33,8 +33,10 @@
     h6 {
     @apply text-primary;
     }
-#hero_newsletter #hero_home {
-    
+#hero_newsletter #hero_home 
+h1,
+h2{
+
 }
     
 }
