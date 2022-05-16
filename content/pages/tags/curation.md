@@ -11,8 +11,9 @@ backgroundImage:
   type: BackgroundImage
 date: '2022-05-01'
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Per output migliori non devi aumentare l'input, devi migliorarne la qualità!
+  Lo stesso vale per il lavoro d'intelletto. Ecco allora una selezione dei
+  contenuti che più hanno influenzato il mio pensiero.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
