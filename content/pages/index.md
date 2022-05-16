@@ -8,7 +8,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - elementId: ''
+  - elementId: hero_home
     colors: colors-e
     backgroundSize: full
     title: 'Ciao, sono '
