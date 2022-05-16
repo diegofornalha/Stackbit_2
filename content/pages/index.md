@@ -107,9 +107,6 @@ sections:
         label: Curation
         url: /tags/curation
       - type: Label
-        label: Content Strategy
-        url: /tags/content-strategy
-      - type: Label
         label: Random
         url: /tags/random
     styles:
