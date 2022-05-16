@@ -67,7 +67,7 @@ export default function ProjectLayout(props) {
                             {nextProject && <ProjectNavItem project={nextProject} label="Next project" />}
                         </div>
                     </nav>
-                )} //
+                )} 
                 {bottomSections.length > 0 && (
                     <div data-sb-field-path="bottomSections">
                         {bottomSections.map((section, index) => {
