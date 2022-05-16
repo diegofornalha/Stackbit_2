@@ -104,7 +104,7 @@ sections:
     actions:
       - type: Link
         label: See all posts
-        altText: See all posts
+        altText: VUOI ALTRI CONSIGLI?
         url: /blog
     styles:
       self:
