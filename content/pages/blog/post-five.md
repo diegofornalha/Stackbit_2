@@ -3,7 +3,10 @@ title: Perché ho scelto Notion?
 colors: colors-e
 layout: PostLayout
 date: '2021-12-02'
-excerpt: Perché Notion non ti permette di prendere appunti
+excerpt: >-
+  Perché pur essendo un'app per prendere appunti, ormai Notion è diventato
+  qualcosa di molto più grande. La pubblicazione dell'API mi ha aperto un mondo:
+  tra automazioni e database, ora Notion è il mio second brain.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
