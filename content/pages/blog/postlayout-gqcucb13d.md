@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: UNA DIETA PER LA TUA STARTUP
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-16'
 excerpt: >-
   Daresti mai da bere alcool ad un bambino appena nato? Allora perché vuoi dare
