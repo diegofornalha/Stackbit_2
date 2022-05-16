@@ -82,7 +82,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: 'ALCUNE DELLE RISORSE DA ME SELEZIONATE:'
     subtitle: null
     posts:
       - content/pages/blog/postlayout-5zj57kmef.md
