@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: NAVAL RAVIKANT Curation
+title: I migliori tweet di Naval Ravikant
 colors: colors-e
 date: '2022-05-16'
 excerpt: >-
