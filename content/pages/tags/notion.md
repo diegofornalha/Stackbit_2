@@ -8,9 +8,6 @@ metaTags: []
 title: Notion
 colors: colors-a
 date: '2022-05-03'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f
