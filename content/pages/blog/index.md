@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Tutte le cose che ho scritto
 colors: colors-e
 backgroundImage:
   backgroundSize: cover
