@@ -24,11 +24,6 @@
             },
             {
                 "type": "Link",
-                "label": "SCORCIATOIE",
-                "url": "/tags"
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             }
