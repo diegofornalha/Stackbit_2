@@ -102,9 +102,6 @@ sections:
       - type: Label
         label: Curation
         url: /tags/curation
-      - type: Label
-        label: Random
-        url: /tags/random
     styles:
       self:
         height: auto
