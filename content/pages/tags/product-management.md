@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Product Management
 colors: colors-e
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f

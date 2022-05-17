@@ -8,24 +8,17 @@ metaTags: []
 title: Notion
 colors: colors-a
 date: '2022-05-03'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-d
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
+    variant: variant-b
+    actions: []
     styles:
       self:
         height: auto
@@ -41,8 +34,8 @@ bottomSections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    title: 'Posts:'
+        justifyContent: center
+    title: Alcune delle cose che ho scritto riguardo Notion
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
