@@ -12,40 +12,6 @@ bottomSections:
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-d
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    title: 'Posts:'
-    subtitle: null
-    posts:
-      - content/pages/blog/post-five.md
-  - type: FeaturedPostsSection
-    colors: colors-f
-    elementId: ''
     showDate: false
     showAuthor: false
     showExcerpt: true
