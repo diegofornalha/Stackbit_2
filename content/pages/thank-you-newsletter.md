@@ -57,6 +57,7 @@ sections:
       *   [**Ho un regalo per
       te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
 
+    subtitle: 'Ma continua a leggere, '
   - type: TextSection
     colors: colors-f
     elementId: kit_sopravvivenza_product
