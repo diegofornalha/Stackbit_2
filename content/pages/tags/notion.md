@@ -35,7 +35,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Posts:'
+    title: Alcune delle cose che ho scritto riguardo Notion
     subtitle: null
     posts:
       - content/pages/blog/post-five.md
