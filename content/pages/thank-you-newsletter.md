@@ -40,7 +40,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Complimenti, domani riceverai il tuo '
+    title: 'Complimenti, da domani riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: "Ma continua a leggere, ho dei regali per te \U0001F447 \n\n### TL:DR\n\n*   [**Cos'è il Kit di Sopravvivenza per Product Peopple?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)\n\n*   [**I primi tool del tuo kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)\n\n*   [**Ho un regalo per te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)\n\n"
   - type: TextSection
@@ -49,23 +49,20 @@ sections:
     variant: variant-a
     subtitle: null
     text: >
-      Kit di Sopravvivenza per Product People è una newsletter con un obiettivo
-      molto specifico.
+      **Kit di Sopravvivenza per Product People** è una newsletter con un
+      obiettivo molto specifico.
 
 
       L’idea è quella di aiutare le persone che lavorano ad un prodotto nella
       gestione del caos che deriva dal lavorare ad un prodotto.
 
 
-
       Magari sei un designer, oppure un developer, un product manager o chissà
       quale altro job title emerso nel magico mondo del lavoro.
 
 
-
       Magari quell’etichetta non ce l’hai e ti sporchi le mani giorno dopo
       giorno per provare a guadagnartela.
-
 
 
       Oppure quell’etichetta non ce l’hai e non la vuoi nemmeno, magari sei un
@@ -73,38 +70,31 @@ sections:
       giorno di trasformarla in realtà.
 
 
-
       Se sei tra queste persone, questa newsletter è per te.
-
 
 
       Aspetta però, non ti agitare.
 
 
-
       Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
-
 
 
       Con questa newsletter condividerò con te, ogni giorno, tre link:
 
 
+      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
+      twitter ecc.);
 
-      *   il link ad un contenuto (un articolo, un podcast, un thread su twitter
+
+      *   una **risorsa** (un tool, framework, modello mentale o template Notion
       ecc.);
 
 
-      *   una risorsa (un tool, framework, modello mentale o template Notion
-      ecc.);
-
-
-      *   il prodotto di Product Hunt più interessante che ho trovato nella mia
-      Product Hunt Curation quotidiana.
-
+      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
+      mia Product Hunt Curation quotidiana.
 
 
       Basta così.
-
 
 
       Si tratta pur sempre una newsletter giornaliera e non voglio rubarti altro
