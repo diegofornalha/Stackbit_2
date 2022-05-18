@@ -11,7 +11,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-05-18'
-client: Awesome client
 description: 'Validazione, Copywriting e stile per i tuoi proget'
 featuredImage:
   type: ImageBlock
