@@ -110,7 +110,7 @@ sections:
       actions:
         justifyContent: center
     title: null
-    subtitle: 'Projects:'
+    subtitle: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
