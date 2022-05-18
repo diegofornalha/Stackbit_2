@@ -104,7 +104,6 @@ sections:
       actions:
         justifyContent: center
     title: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
-    subtitle: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
