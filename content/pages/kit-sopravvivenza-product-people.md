@@ -85,7 +85,7 @@ sections:
         justifyContent: flex-start
     title2: padrone del caos di prodotto
   - type: FeaturedProjectsSection
-    colors: colors-c
+    colors: colors-e
     elementId: ''
     showDate: false
     showDescription: true
