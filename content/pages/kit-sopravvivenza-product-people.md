@@ -83,7 +83,7 @@ sections:
     elementId: ''
     showDate: false
     showDescription: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-d
     actions: []
