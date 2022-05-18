@@ -85,7 +85,7 @@ sections:
     showDescription: true
     showFeaturedImage: false
     showReadMoreLink: true
-    variant: variant-d
+    variant: variant-a
     actions: []
     styles:
       self:
