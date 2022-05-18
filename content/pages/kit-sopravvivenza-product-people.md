@@ -85,7 +85,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-d
+    variant: variant-b
     actions: []
     styles:
       self:
@@ -103,8 +103,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: null
-    subtitle: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
+    title: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
