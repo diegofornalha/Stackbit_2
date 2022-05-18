@@ -7,12 +7,6 @@ socialImage: null
 metaTags: []
 title: Kit di sopravvivenza per product people
 colors: colors-a
-backgroundImage:
-  url: /images/Midnight City.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 sections:
   - type: HeroSection
     colors: colors-f
@@ -84,4 +78,36 @@ sections:
       actions:
         justifyContent: flex-start
     title2: padrone del caos di prodotto
+  - type: FeaturedProjectsSection
+    colors: colors-e
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    variant: variant-d
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/tags/projectlayout-7gx63sfoa.md
 ---
