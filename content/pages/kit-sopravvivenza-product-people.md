@@ -7,12 +7,6 @@ socialImage: null
 metaTags: []
 title: Kit di sopravvivenza per product people
 colors: colors-a
-backgroundImage:
-  url: /images/Midnight City.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 sections:
   - type: HeroSection
     colors: colors-f
