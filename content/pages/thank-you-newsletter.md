@@ -121,9 +121,9 @@ sections:
     elementId: primi_tool
     variant: variant-a
     subtitle: null
-    text: >+
+    text: >
       *  
-      [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it)
+      [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it){:target="_blank"}
       è di sicuro il twitter thread più di impatto che io abbia mai letto.
 
 
@@ -136,7 +136,6 @@ sections:
       *   Grazie a [**questa
       risorsa**](https://spacers.wannathis.one/?ref=producthunt), non avrai più
       dubbi sulla linea grafica da dare ad un tuo contenuto.
-
     styles:
       self:
         height: auto
