@@ -42,8 +42,21 @@ sections:
         justifyContent: flex-start
     title: 'Complimenti, da domani riceverai i tuoi '
     title2: kit di sopravvivenza per product people
-    text: Ma continua a leggere, ho dei regali per te \U0001F447 \n\n### TL:DR\n\n*   [**Cos'è il Kit di Sopravvivenza per Product Peopple?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)\n\n*   [**I primi tool del tuo kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)\n\n*   [**Ho un regalo per te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)\n\n
-    
+    text: >
+      Ma continua a leggere, ho dei regali per te 
+
+       TL:DR
+
+      \*   [**Cos'è il Kit di Sopravvivenza per Product
+      People?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
+
+
+      \*   [**I primi tool del tuo
+      kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
+
+
+      \*   [**Ho un regalo per
+      te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
   - type: TextSection
     colors: colors-f
     elementId: kit_sopravvivenza_product
