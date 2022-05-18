@@ -27,7 +27,7 @@ media:
 bottomSections: []
 slug: projectlayout-ewwi9yjai
 ---
-```
+``
 <!DOCTYPE html>
 <html>
   <head>
@@ -162,7 +162,3 @@ slug: projectlayout-ewwi9yjai
     </div>
   </body>
 </html>
-
-```
-
-
