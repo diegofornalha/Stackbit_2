@@ -12,7 +12,7 @@ bottomSections: []
 slug: projectlayout-7gx63sfoa
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/22.svg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
