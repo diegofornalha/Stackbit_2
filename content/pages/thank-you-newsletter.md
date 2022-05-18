@@ -135,7 +135,7 @@ sections:
     elementId: primi_tool
     variant: variant-a
     subtitle: null
-    text: >
+    text: >+
       *  
       [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it)
       è di sicuro il twitter thread più di impatto che io abbia mai letto.
@@ -152,7 +152,9 @@ sections:
       dubbi sulla linea grafica da dare ad un tuo contenuto.
 
 
-      *  <a href="http://example.com/" target="_blank">Hello, world!</a>
+      *   <a href="http://example.com/" target="_blank">Hello,
+      world!</a><span>prova</span>
+
     styles:
       self:
         height: auto
