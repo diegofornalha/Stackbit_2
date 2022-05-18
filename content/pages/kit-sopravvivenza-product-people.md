@@ -92,11 +92,7 @@ sections:
     showFeaturedImage: false
     showReadMoreLink: false
     variant: variant-d
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
+    actions: []
     styles:
       self:
         height: auto
