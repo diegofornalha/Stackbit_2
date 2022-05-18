@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Ecco il tuo primo kit!
+title: "\U0001F9F0 KSPP #01: Ecco il tuo primo Kit!"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
