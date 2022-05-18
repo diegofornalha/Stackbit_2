@@ -123,7 +123,7 @@ sections:
     subtitle: null
     text: >
       *  
-      [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it){:target="_blank"}
+      [**Questo**](https://twitter.com/naval/status/1002103360646823936?lang=it)
       è di sicuro il twitter thread più di impatto che io abbia mai letto.
 
 
