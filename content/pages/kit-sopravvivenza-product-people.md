@@ -109,5 +109,4 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/tags/projectlayout-7gx63sfoa.md
-      - content/pages/tags/projectlayout-7gx63sfoa.md
 ---
