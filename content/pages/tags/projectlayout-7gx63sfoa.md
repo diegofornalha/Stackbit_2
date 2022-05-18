@@ -11,7 +11,6 @@ date: '2022-05-18'
 description: 'Validazione, Copywriting e stile per i tuoi proget'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Project thumbnail image
   caption: ''
 media:
