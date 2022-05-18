@@ -2,6 +2,8 @@ import * as React from 'react';
 import Head from 'next/head';
 import classNames from 'classnames';
 // import ScrollToTop from 'react-scroll-to-top';
+import Script from 'next/script';
+
 
 
 import Header from '../../sections/Header';
@@ -32,6 +34,7 @@ export default function DefaultBaseLayout(props) {
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
+                    
                     
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
