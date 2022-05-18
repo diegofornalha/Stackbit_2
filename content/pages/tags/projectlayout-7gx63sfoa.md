@@ -27,12 +27,44 @@ media:
 bottomSections: []
 slug: projectlayout-7gx63sfoa
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Kit di Sopravvivenza per
+​Product People
+By Daniele D'Amico​
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Ehi ciao 👋,
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+questo è il numero 1 del Kit di Sopravvivenza per Product People.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Ecco i 3 link della giornata, spero ti siano utili.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+IL CONTENUTO DI OGGI
+Hai sempre tante idee che vorresti trasformare in startup, ma non sai come fare?
+
+Dalla mia newsletter preferita, ogni tuo dubbio risolto.​
+
+LA RISORSA DI OGGI
+Hai bisogno di ispirazione per il prossimo copy da scrivere?
+​Usa questa risorsa e fare copy non sarà più un mistero!
+
+LA SELEZIONE DA PRODUCT HUNT DI OGGI
+Ci sono solo due modi per fare imparare a fare Startup.
+
+Fai Startup oppure impari dalle lezioni di altri.
+
+Se scegli la seconda strada, questo prodotto di Product Hunt è adatto a te.
+
+Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
+
+Un contenuto.
+
+Una risorsa.
+
+Un prodotto di Product Hunt.
+
+Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
+
+Se invece non ti è piaciuta, puoi disiscriverti qui, nessun rancore.
+
+E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
+
+A domani!
