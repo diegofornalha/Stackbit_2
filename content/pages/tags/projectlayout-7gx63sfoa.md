@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSPP #01: Ecco il tuo primo Kit!"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-18'
 description: 'Validazione, Copywriting e stile per i tuoi proget'
 featuredImage:
