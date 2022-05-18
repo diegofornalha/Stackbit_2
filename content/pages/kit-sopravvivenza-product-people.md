@@ -91,7 +91,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-c
     actions: []
     styles:
       self:
