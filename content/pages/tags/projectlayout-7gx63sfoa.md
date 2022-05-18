@@ -9,7 +9,7 @@ title: "\U0001F9F0 KSPP #01: Ecco il tuo primo Kit!"
 colors: colors-a
 description: 'Validazione, Copywriting e stile per i tuoi progetTi'
 bottomSections: []
-slug: projectlayout-7gx63sfoa
+slug: k
 featuredImage:
   type: ImageBlock
   url: /images/Frame 18.webp
