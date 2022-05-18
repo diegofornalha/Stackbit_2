@@ -90,7 +90,7 @@ sections:
     showDate: false
     showDescription: true
     showFeaturedImage: false
-    showReadMoreLink: true
+    showReadMoreLink: false
     variant: variant-d
     actions:
       - type: Link
