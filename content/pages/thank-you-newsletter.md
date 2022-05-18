@@ -136,12 +136,10 @@ sections:
     variant: variant-a
     subtitle: null
     text: >
-
-
-      *   Grazie a \<a
-      href="https://twitter.com/naval/status/1002103360646823936?lang=it"\_blank">Questo</a><span>
-      , è di sicuro il twitter thread più di impatto che io abbia mai
-      letto.</span>
+      *    <a
+      href="https://twitter.com/naval/status/1002103360646823936?lang=it"
+      target="\_blank">Questo</a><span> , è di sicuro il twitter thread più di
+      impatto che io abbia mai letto.</span>
 
 
       *   <a
