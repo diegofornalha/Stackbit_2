@@ -18,7 +18,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/22.svg
+  url: /images/Frame 18-b29e35b8.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
