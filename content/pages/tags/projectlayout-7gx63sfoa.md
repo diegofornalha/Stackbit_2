@@ -9,9 +9,6 @@ title: "\U0001F9F0 KSPP #01: Ecco il tuo primo Kit!"
 colors: colors-a
 date: '2022-05-18'
 description: 'Validazione, Copywriting e stile per i tuoi progetTi'
-media:
-  type: ImageBlock
-  altText: Project image
 bottomSections: []
 slug: projectlayout-7gx63sfoa
 ---
