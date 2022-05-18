@@ -39,7 +39,7 @@ export default function DefaultBaseLayout(props) {
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-Y8CEBYNYN3');</script>
+  gtag('config', 'G-Y8CEBYNYN3');</Script>
                     
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
