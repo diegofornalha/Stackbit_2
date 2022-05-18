@@ -32,7 +32,7 @@ export default function DefaultBaseLayout(props) {
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                Global site tag (gtag.js) - Google Analytics -->
+                        Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8CEBYNYN3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
