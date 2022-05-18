@@ -10,6 +10,12 @@ colors: colors-a
 description: 'Validazione, Copywriting e stile per i tuoi progetTi'
 bottomSections: []
 slug: projectlayout-7gx63sfoa
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Ehi ciao 👋,
 
