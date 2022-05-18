@@ -135,14 +135,14 @@ sections:
     elementId: primi_tool
     variant: variant-a
     subtitle: null
-    text: >-
-      *  Grazie a <a
-      href="https://twitter.com/naval/status/1002103360646823936?lang=it"_blank">Questo</a><span>
+    text: >+
+      *   Grazie a \<a
+      href="https://twitter.com/naval/status/1002103360646823936?lang=it"\_blank">Questo</a><span>
       , è di sicuro il twitter thread più di impatto che io abbia mai
       letto.</span>
 
 
-      *    <a
+      *   <a
       href="https://www.toolshero.com/communication-skills/minto-pyramid-principle/"
       target="_blank">Questo</a><span> , invece, è uno dei modi migliori per
       confrontarsi con gli stakeholder di un'azienda (o magari con investitori)
@@ -152,6 +152,7 @@ sections:
       *   Grazie a <a href="https://spacers.wannathis.one/?ref=producthunt"
       target="_blank">questa risorsa</a><span> , non avrai più dubbi sulla linea
       grafica da dare ad un tuo contenuto.</span>
+
     styles:
       self:
         height: auto
