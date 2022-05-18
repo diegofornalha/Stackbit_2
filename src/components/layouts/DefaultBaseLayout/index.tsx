@@ -2,6 +2,7 @@ import * as React from 'react';
 import Head from 'next/head';
 import classNames from 'classnames';
 // import ScrollToTop from 'react-scroll-to-top';
+import Script from 'next/script';
 
 
 
