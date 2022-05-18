@@ -103,7 +103,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: null
+    title: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
     subtitle: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
     projects:
       - content/pages/projects/project-one.md
