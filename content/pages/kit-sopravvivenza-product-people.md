@@ -76,7 +76,7 @@ sections:
       text:
         textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: flex-start
     title2: padrone del caos di prodotto
   - type: FeaturedProjectsSection
     colors: colors-e
