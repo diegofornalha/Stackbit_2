@@ -43,6 +43,8 @@ export default function DefaultBaseLayout(props) {
                   `,
             }}
           ></script>
+
+          
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
