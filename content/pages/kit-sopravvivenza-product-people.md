@@ -5,7 +5,7 @@ addTitleSuffix: true
 socialImage: /images/504.webp
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 title: Kit di sopravvivenza per product people
 colors: colors-a
