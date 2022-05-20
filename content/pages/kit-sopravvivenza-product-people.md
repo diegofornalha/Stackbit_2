@@ -6,7 +6,7 @@ socialImage: /images/504.webp
 metaTags:
   - type: MetaTag
     property: 'og:image'
-    content: /image/
+    content: /images/504.webp
 title: Kit di sopravvivenza per product people
 colors: colors-a
 sections:
