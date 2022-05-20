@@ -87,5 +87,11 @@
         }
     },
     "defaultSocialImage": "/images/house_light_idea-1 1.jpg",
-    "defaultMetaTags": []
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
