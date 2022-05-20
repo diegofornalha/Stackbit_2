@@ -36,7 +36,7 @@ export default function DefaultBaseLayout(props) {
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8CEBYNYN3"></script>
-<script>
+<Script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
