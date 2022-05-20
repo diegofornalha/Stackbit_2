@@ -2,7 +2,7 @@
 layout: PageLayout
 metaDescription: null
 addTitleSuffix: true
-socialImage: /images/502 (1).png
+socialImage: /images/504.webp
 metaTags: []
 title: Kit di sopravvivenza per product people
 colors: colors-a
