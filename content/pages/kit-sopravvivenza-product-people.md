@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Kit di Sopravvivenza per Product People
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
