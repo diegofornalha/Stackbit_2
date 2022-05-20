@@ -47,7 +47,7 @@ export default function DefaultBaseLayout(props) {
           <Script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8CEBYNYN3"/>
 <script
 dangerouslySetInnerHTML={{
-    __javascript:  `
+    __javascript:  
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());,
