@@ -41,8 +41,7 @@ export default function DefaultBaseLayout(props) {
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
-
-  gtag('config', 'G-Y8CEBYNYN3');
+                    gtag('config', 'G-Y8CEBYNYN3');
                 `}
             </Script>
                 
