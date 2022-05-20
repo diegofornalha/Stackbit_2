@@ -50,7 +50,7 @@ export default function DefaultBaseLayout(props) {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-Y8CEBYNYN3');></Head>
+  gtag('config', 'G-Y8CEBYNYN3');>
 </Script>  
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
