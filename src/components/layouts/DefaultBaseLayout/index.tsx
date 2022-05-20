@@ -41,7 +41,7 @@ export default function DefaultBaseLayout(props) {
   gtag('js', new Date());
 
   gtag('config', 'G-Y8CEBYNYN3');
-</Script>  
+/>  
                     
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
