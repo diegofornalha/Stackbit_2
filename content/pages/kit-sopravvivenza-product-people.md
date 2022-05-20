@@ -6,7 +6,7 @@ socialImage: /images/504.webp
 metaTags:
   - type: MetaTag
     property: 'og:image'
-    content: 'https://danieledamico.tech/images/504.webp'
+    content: 'https://danieledamico.tech/images/bg'
 title: Kit di sopravvivenza per product people
 colors: colors-a
 sections:
