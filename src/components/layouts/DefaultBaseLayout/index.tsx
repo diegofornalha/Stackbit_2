@@ -36,7 +36,7 @@ export default function DefaultBaseLayout(props) {
                     {site.favicon && <link rel="icon" href={site.favicon} />}            
                 
                 <Script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8CEBYNYN3"/>
-                 <Script strategy="lazyOnload">
+                <Script strategy="lazyOnload">
                 {`
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
