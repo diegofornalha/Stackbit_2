@@ -39,8 +39,8 @@ export default function DefaultBaseLayout(props) {
                  <Script strategy="lazyOnload">
                 {`
                     window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
 
   gtag('config', 'G-Y8CEBYNYN3');
                 `}
