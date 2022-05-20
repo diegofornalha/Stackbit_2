@@ -18,11 +18,13 @@ sections:
       sopravvivere al caos di prodotto.
 
 
-      Inoltre, nella prima email avrai anche un **regalo (a sorpresa)!**
+      Inoltre, nella thank you page avrai anche un **regalo (a sorpresa)!**
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
