@@ -3,7 +3,10 @@ layout: PageLayout
 metaDescription: null
 addTitleSuffix: true
 socialImage: /images/504.webp
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: Kit di sopravvivenza per product people
 colors: colors-a
 sections:
