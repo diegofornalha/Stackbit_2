@@ -71,7 +71,7 @@ fields:
             options:
               - label: Font primary
                 value: fontPrimary
-      - label: Font secondary
+              - label: Font secondary
         value: fontSecondary
     default: fontPrimary
     required: true
