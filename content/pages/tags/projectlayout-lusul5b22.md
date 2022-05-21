@@ -21,12 +21,50 @@ media:
 bottomSections: []
 slug: projectlayout-lusul5b22
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Ehi ciao 👋,
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+questo è il numero 2 del Kit di Sopravvivenza per Product People.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Ecco i **3 link della giornata,** spero possano esserti utili!
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+​
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## 📖 IL CONTENUTO DI OGGI
+
+Il processo di design ideale non è quello che trovi nel mondo della teoria, è quello che si ispira alla teoria ma che meglio si applica nella pratica e nel contesto.
+
+Mi spiego meglio, non esiste il processo di design ideale: esiste solo quello che riesci meglio ad applicare.
+
+​[Leggi questo articolo](https://www.tedgoas.com/blog/product-design-process/?ref=refind) per capire come passare dall'ideale alla pratica.
+
+​
+
+## 🛠 LA RISORSA DI OGGI
+
+Lavori con tanti software ed hai difficoltà a ricordare le shortcut da utilizzare?
+
+​[Questo sito](https://shortcuts.design/) risolve tutti i tuoi problemi, è anche molto carino!
+
+​
+
+## 💻 LA SELEZIONE DA PRODUCT HUNT DI OGGI
+
+Stai per lanciare un progetto?
+
+Usa [questo prodotto](https://comingsoonkit.com/?ref=producthunt) per poter generare efficaci pagine Coming Soon.
+
+Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
+
+Un contenuto.
+
+Una risorsa.
+
+Un prodotto di Product Hunt.
+
+Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
+
+Se invece non ti è piaciuta, puoi [disiscriverti qui](https://preview.convertkit-mail2.com/unsubscribe), nessun rancore.
+
+E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
+
+A domani!
