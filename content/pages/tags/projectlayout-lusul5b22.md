@@ -11,7 +11,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-05-19'
-client: Awesome client
 description: 'Processi di design, shortcut e pagine coming soon'
 featuredImage:
   type: ImageBlock
