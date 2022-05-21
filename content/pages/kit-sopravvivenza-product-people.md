@@ -64,6 +64,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+        url: '#anteprima'
     media:
       type: ImageBlock
       url: /images/Frame 14.webp
