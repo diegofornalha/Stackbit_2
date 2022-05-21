@@ -68,7 +68,7 @@ fields:
             name: fontBody
             label: Font
             group: text-styles
-    options:
+            options:
       - label: Font primary
         value: fontPrimary
       - label: Font secondary
