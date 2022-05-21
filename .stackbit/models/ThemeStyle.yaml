@@ -70,7 +70,7 @@ fields:
             group: text-styles
             options:
               - label: Font primary
-        value: fontPrimary
+                value: fontPrimary
       - label: Font secondary
         value: fontSecondary
     default: fontPrimary
