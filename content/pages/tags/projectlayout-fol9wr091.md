@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSPP #04: Lezioni mancate di business"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-21'
 description: 'Aggregation Theory, creazione siti web e OKR'
 featuredImage:
