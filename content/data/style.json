@@ -1,8 +1,6 @@
 {
     "type": "ThemeStyle",
     "fontBody": "fontPrimary",
-    "baseFontSize": "16px",
-    "fontStyle": "fontPrimary",
     "h1": {
         "size": "3xl",
         "weight": "medium",
