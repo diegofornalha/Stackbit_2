@@ -71,5 +71,6 @@
         "weight": "normal",
         "case": "uppercase",
         "letterSpacing": "normal"
-    }
+    },
+    "baseFontSize": "48px"
 }
