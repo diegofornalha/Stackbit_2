@@ -64,7 +64,7 @@ fields:
             value: 9xl
         default: 5xl
         required: true
-        type:
+        type: 
       - type: enum
         name: weight
         label: Font weight
