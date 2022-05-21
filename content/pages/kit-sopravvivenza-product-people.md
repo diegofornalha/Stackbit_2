@@ -62,7 +62,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowUpLeft
+        icon: arrowRight
         iconPosition: right
         elementId: ''
     media:
