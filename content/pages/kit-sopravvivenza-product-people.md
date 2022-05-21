@@ -16,13 +16,15 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      Iscriviti al **Kit di Sopravvivenza per Product Peppole** e ricevi ogni
-      giorno (o una volta a settimana) tre risorse selezionate per gestire il
+      Con **Kit di Sopravvivenza per Product Peppole** ricevi ogni giorno (o una
+      volta a settimana) tre risorse scelte da me per aiutare te a gestire il
       caos di prodotto.
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
