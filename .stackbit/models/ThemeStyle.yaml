@@ -65,7 +65,7 @@ fields:
         default: 5xl
         required: true
       - type: enum
-            name: fontBody
+          name: fontBody
             label: Font
             group: text-styles
             options:
