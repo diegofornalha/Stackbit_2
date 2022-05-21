@@ -14,7 +14,7 @@ module.exports = {
                 base: themeStyle.baseFontSize
             },
             fontFamily: {
-                base: themeStyle.
+                base: themeStyle.fontStyle
             },
             colors: {
                 light: themeStyle.light,
