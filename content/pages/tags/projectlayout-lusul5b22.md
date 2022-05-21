@@ -12,9 +12,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-05-19'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Processi di design, shortcut e pagine coming soon'
 featuredImage:
   type: ImageBlock
   url: /images/Frame 18-0d948a46.webp
