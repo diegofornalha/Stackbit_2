@@ -60,7 +60,6 @@ sections:
       - type: Link
         label: Vuoi un'anteprima?
         altText: ''
-        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
