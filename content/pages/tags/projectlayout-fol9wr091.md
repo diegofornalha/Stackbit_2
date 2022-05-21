@@ -19,7 +19,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame 18-1ab4830b.webp
   altText: Project image
 bottomSections: []
 slug: projectlayout-fol9wr091
