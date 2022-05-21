@@ -67,7 +67,7 @@ fields:
         - type: enum
             name: fontBody
             label: Font
-    group: text-styles
+            group: text-styles
     options:
       - label: Font primary
         value: fontPrimary
