@@ -16,13 +16,19 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      **Kit di Sopravvivenza per Product People** ti aiuta a gestire il caos di
-      prodotto, con 3 risorse scelte ogni giorno (o una volta a settimana,
-      scegli tu)
+      **Kit di Sopravvivenza per Product People** ti aiuta col caos di prodotto,
+      grazie a 3 risorse selezionate da me ogni giorno (o una a settimana,
+      scegli tu).
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
+
+
+
+
 
 
 
