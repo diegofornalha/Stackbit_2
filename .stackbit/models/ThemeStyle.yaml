@@ -72,7 +72,7 @@ fields:
               - label: Font primary
                 value: fontPrimary
               - label: Font secondary
-        value: fontSecondary
+              value: fontSecondary
     default: fontPrimary
     required: true
       - type: enum
