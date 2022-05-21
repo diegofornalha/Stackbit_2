@@ -11,9 +11,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-05-21'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Aggregation Theory, creazione siti web e OKR'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
