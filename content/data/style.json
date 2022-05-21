@@ -2,6 +2,7 @@
     "type": "ThemeStyle",
     "fontBody": "fontPrimary",
     "baseFontSize": "16px",
+    
     "h1": {
         "size": "3xl",
         "weight": "medium",
