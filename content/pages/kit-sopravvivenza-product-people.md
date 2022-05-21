@@ -16,16 +16,15 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      Iscriviti alla newsletter **Kit di Sopravvivenza per Product People** ed
-      ogni giorno riceverai una mia email con 3 link: le migliori 3 risorse per
-      sopravvivere al caos di prodotto.
-
-
-      Inoltre, nella thank you page avrai anche un **regalo (a sorpresa)!**
+      Iscriviti al **Kit di Sopravvivenza per Product Peppole** e ricevi ogni
+      giorno (o una volta a settimana) tre risorse selezionate per gestire il
+      caos di prodotto.
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
