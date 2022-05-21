@@ -58,7 +58,7 @@ sections:
 
     actions:
       - type: Link
-        label: Learn more
+        label: Vuoi un'anteprima?
         altText: ''
         url: /
         showIcon: true
