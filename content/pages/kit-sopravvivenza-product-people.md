@@ -56,7 +56,15 @@ sections:
 
 
 
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Frame 14.webp
