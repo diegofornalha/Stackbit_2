@@ -64,7 +64,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-        url: 'https://danieledamico.tech/kit-sopravvivenza-product-people/'
+        url: 'https://danieledamico.tech/kit-sopravvivenza-product-people/#'
     media:
       type: ImageBlock
       url: /images/Frame 14.webp
