@@ -92,7 +92,7 @@ sections:
     title2: padrone del caos di prodotto
   - type: FeaturedProjectsSection
     colors: colors-e
-    elementId: ''
+    elementId: anteprima
     showDate: false
     showDescription: true
     showFeaturedImage: true
