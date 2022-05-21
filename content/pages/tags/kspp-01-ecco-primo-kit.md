@@ -22,6 +22,7 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+date: '2022-05-18'
 ---
 Ehi ciao 👋,
 

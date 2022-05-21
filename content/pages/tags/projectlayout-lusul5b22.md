@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSPP #02 Coming soon, senza attese!"
+title: "\U0001F9F0 KSPP #02: Coming soon, senza attese!"
 colors: colors-a
 date: '2022-05-19'
 description: 'Processi di design, shortcut e pagine coming soon'
@@ -52,6 +52,8 @@ Lavori con tanti software ed hai difficoltà a ricordare le shortcut da utilizza
 Stai per lanciare un progetto?
 
 Usa [questo prodotto](https://comingsoonkit.com/?ref=producthunt) per poter generare efficaci pagine Coming Soon.
+
+--------
 
 Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
 
