@@ -8,7 +8,6 @@ metaTags: []
 title: "\U0001F9F0 KSPP #03: Diplomazia d'ufficio 1.01"
 colors: colors-a
 date: '2022-05-20'
-client: Awesome client
 description: '103 lezioni, diplomazia in ufficio e tanti doodle!'
 featuredImage:
   type: ImageBlock
