@@ -10,6 +10,7 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
+            
             colors: {
                 light: themeStyle.light,
                 'on-light': themeStyle.onLight,
