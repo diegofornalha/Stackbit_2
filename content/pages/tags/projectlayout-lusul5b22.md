@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSPP #02 Coming soon, senza attese!"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-05-19'
 description: 'Processi di design, shortcut e pagine coming soon'
 featuredImage:
