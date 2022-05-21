@@ -17,12 +17,14 @@ sections:
     title: 'Diventa '
     text: >+
       **Kit di Sopravvivenza per Product People** ti aiuta col caos di prodotto,
-      grazie a 3 risorse selezionate da me ogni giorno (o una a settimana,
+      grazie a 3 risorse selezionate per te ogni giorno (o una a settimana,
       scegli tu).
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
