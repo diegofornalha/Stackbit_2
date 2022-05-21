@@ -10,6 +10,9 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
+            fontSize: {
+        base: themeStyle.baseFontSize
+      }
             colors: {
                 light: themeStyle.light,
                 'on-light': themeStyle.onLight,
