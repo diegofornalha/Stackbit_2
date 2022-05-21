@@ -52,19 +52,3 @@ Lavori con tanti software ed hai difficoltà a ricordare le shortcut da utilizza
 Stai per lanciare un progetto?
 
 Usa [questo prodotto](https://comingsoonkit.com/?ref=producthunt) per poter generare efficaci pagine Coming Soon.
-
-Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
-
-Un contenuto.
-
-Una risorsa.
-
-Un prodotto di Product Hunt.
-
-Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
-
-Se invece non ti è piaciuta, puoi [disiscriverti qui](https://preview.convertkit-mail2.com/unsubscribe), nessun rancore.
-
-E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
-
-A domani!
