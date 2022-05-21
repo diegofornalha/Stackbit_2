@@ -74,7 +74,7 @@ fields:
               - label: Font secondary
               value: fontSecondary
           default: fontPrimary
-    required: true
+          required: true
       - type: enum
         name: weight
         label: Font weight
