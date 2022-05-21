@@ -24,12 +24,56 @@ media:
 bottomSections: []
 slug: projectlayout-fol9wr091
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Ehi ciao 👋,
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+questo è il numero 4 del Kit di Sopravvivenza per Product People.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Ecco i **3 link della giornata**, spero ti siano utili.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+​
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## 📖 IL CONTENUTO DI OGGI
+
+Se un corso di business e strategia [non ti parla di Aggregation Theory, allora è un corso inutile. ](https://stratechery.com/2017/defining-aggregators/)​
+
+E tu dovresti scoprirla di tuo.
+
+Lo dice Naval Ravikant, non io.
+
+​
+
+## 🛠 LA RISORSA DI OGGI
+
+Per creare il mio sito web [ho utilizzato questa piattaforma](https://www.stackbit.com/).
+
+Non è Webflow, non è Wordpress e non è molto famosa.
+
+Ma ti permette di giocare con codice, design e di farlo gratis.
+
+Che vuoi di più?
+
+​
+
+## 💻 LA SELEZIONE DA PRODUCT HUNT DI OGGI
+
+Usi gli OKR?
+
+​[Con questo prodotto, riuscirai a creare i tuoi OKR con estrema facilità.](https://www.zenflowchart.com/okr?ref=producthunt)​
+
+----
+
+Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
+
+Un contenuto.
+
+Una risorsa.
+
+Un prodotto di Product Hunt.
+
+Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
+
+Se invece non ti è piaciuta, puoi [disiscriverti qui](https://preview.convertkit-mail2.com/unsubscribe), nessun rancore.
+
+E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
+
+A domani!
