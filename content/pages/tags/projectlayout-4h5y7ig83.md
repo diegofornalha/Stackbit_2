@@ -25,12 +25,52 @@ media:
 bottomSections: []
 slug: projectlayout-4h5y7ig83
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Ehi ciao 👋,
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+questo è il numero 3 del Kit di Sopravvivenza per Product People.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Ecco i **3 link della giornata**, spero ti siano utili!
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+​
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## 📖 IL CONTENUTO DI OGGI
+
+​[La lista delle cose che Kevin Kelly ha imparato nel 2022](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) è una miniera d'oro.
+
+Lui è il co-fondatore di Wired e tante altre cose, pubblica una lista del genere ogni anno, dagli uno sguardo!
+
+​
+
+## 🛠 LA RISORSA DI OGGI
+
+Non tutti sono portati per la diplomazia da ufficio.
+
+Valeva anche per me, [fino ad aver spulciato questa risorsa.](https://howtoprofessionallysay.akashrajpurohit.com/)​
+
+​
+
+## 💻 LA SELEZIONE DA PRODUCT HUNT DI OGGI
+
+​[Doodle + Figma + SVG = Questo prodotto!](https://svgdoodles.com/?ref=producthunt)​
+
+Devo dire altro?
+
+No, sul serio, devo dire altro?
+
+---------
+
+Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
+
+Un contenuto.
+
+Una risorsa.
+
+Un prodotto di Product Hunt.
+
+Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
+
+Se invece non ti è piaciuta, puoi [disiscriverti qui](https://preview.convertkit-mail2.com/unsubscribe), nessun rancore.
+
+E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
+
+A domani!
