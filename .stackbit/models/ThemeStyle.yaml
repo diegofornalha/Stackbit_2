@@ -64,7 +64,17 @@ fields:
             value: 9xl
         default: 5xl
         required: true
-        type: 
+        - type: enum
+    name: fontBody
+    label: Font
+    group: text-styles
+    options:
+      - label: Font primary
+        value: fontPrimary
+      - label: Font secondary
+        value: fontSecondary
+    default: fontPrimary
+    required: true
       - type: enum
         name: weight
         label: Font weight
