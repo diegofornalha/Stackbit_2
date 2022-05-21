@@ -12,9 +12,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-05-20'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: '103 lezioni, diplomazia in ufficio e tanti doodle!'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
