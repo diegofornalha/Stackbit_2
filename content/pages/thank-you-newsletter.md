@@ -1,9 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
 addTitleSuffix: true
-socialImage: null
 metaTags: []
 title: Thank You Page
 colors: colors-e
@@ -43,9 +40,11 @@ sections:
     title: 'Complimenti, da domani riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: >
-      Ma continua a leggere, ho dei regali per te 
+      Ma continua a leggere, ho dei regali per te
 
-       TL:DR
+
+      TL:DR
+
 
       \*   [**Cos'è il Kit di Sopravvivenza per Product
       People?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
@@ -55,8 +54,8 @@ sections:
       kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
 
 
-      \*   [**Ho un regalo per
-      te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
+      \*   [**Il database di prodotti selezionati da Product
+      Hunt!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
   - type: TextSection
     colors: colors-f
     elementId: kit_sopravvivenza_product
