@@ -70,13 +70,9 @@ sections:
       caos che deriva dal lavorare ad un prodotto.
 
 
-      Se sei tra queste persone, questa newsletter è per te.
+      Sei tra queste persone? Allora questa newsletter è per te.
 
 
-      Aspetta però, non ti agitare.
-
-
-      Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
 
 
       ### Hai scelto il formato giornaliero?
@@ -96,6 +92,8 @@ sections:
 
       *   il **prodotto di Product Hunt** più interessante che ho trovato nella
       mia Product Hunt Curation quotidiana.
+
+
 
 
       ### Hai scelto il formato setitmanale?
