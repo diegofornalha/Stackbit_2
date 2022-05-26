@@ -79,8 +79,11 @@ sections:
       Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
 
 
-      Questa è una newsletter in cui condividerò con te, **ogni giorno**, tre
-      link:
+      ### Hai scelto il formato giornaliero?
+
+
+      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
+      **ogni giorno**, tre link:
 
 
       *   il **link ad un contenuto** (un articolo, un podcast, un thread su
@@ -93,6 +96,9 @@ sections:
 
       *   il **prodotto di Product Hunt** più interessante che ho trovato nella
       mia Product Hunt Curation quotidiana.
+
+
+      ### Hai scelto il formato setitmanale?
 
 
       Se invece hai scelto di iscriverti al **formato settimanale**, riceverai
