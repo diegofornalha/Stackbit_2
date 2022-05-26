@@ -70,19 +70,6 @@ sections:
       caos che deriva dal lavorare ad un prodotto.
 
 
-      Magari sei un designer, oppure un developer, un product manager o chissà
-      quale altro job title emerso nel magico mondo del lavoro.
-
-
-      Magari sei sprovvisto di un'etichetta lavorativa e ti sporchi le mani
-      giorno dopo giorno per provare a guadagnartela.
-
-
-      Oppure quell’etichetta non ce l’hai e non la vuoi nemmeno perché sei un
-      founder, un indie hacker con un’idea nella testa e che cerca di
-      trasformarla in realtà.
-
-
       Se sei tra queste persone, questa newsletter è per te.
 
 
@@ -128,7 +115,7 @@ sections:
 
 
       *   **2 link a sopresa** e che mi riservo di scegliere io settimana dopo
-      settimana. 
+      settimana.
 
 
       Basta così.
