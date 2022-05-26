@@ -1,9 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
 addTitleSuffix: true
-socialImage: null
 metaTags: []
 title: Thank You Page
 colors: colors-e
@@ -43,9 +40,11 @@ sections:
     title: 'Complimenti, da domani riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: >
-      Ma continua a leggere, ho dei regali per te 
+      Ma continua a leggere, ho dei regali per te
 
-       TL:DR
+
+      TL:DR
+
 
       \*   [**Cos'è il Kit di Sopravvivenza per Product
       People?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
@@ -55,8 +54,8 @@ sections:
       kit**](https://www.danieledamico.tech/thank-you-newsletter/#primi_tool)
 
 
-      \*   [**Ho un regalo per
-      te!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
+      \*   [**Il database di prodotti selezionati da Product
+      Hunt!**](https://www.danieledamico.tech/thank-you-newsletter/#accedi_database)
   - type: TextSection
     colors: colors-f
     elementId: kit_sopravvivenza_product
@@ -67,33 +66,20 @@ sections:
       obiettivo molto specifico.
 
 
-      L’idea è quella di aiutare le persone che lavorano ad un prodotto nella
-      gestione del caos che deriva dal lavorare ad un prodotto.
+      Voglio aiutare le persone che lavorano ad un prodotto nella gestione del
+      caos che deriva dal lavorare ad un prodotto.
 
 
-      Magari sei un designer, oppure un developer, un product manager o chissà
-      quale altro job title emerso nel magico mondo del lavoro.
+      Sei tra queste persone? Allora questa newsletter è per te.
 
 
-      Magari quell’etichetta non ce l’hai e ti sporchi le mani giorno dopo
-      giorno per provare a guadagnartela.
 
 
-      Oppure quell’etichetta non ce l’hai e non la vuoi nemmeno, magari sei un
-      founder, un indie hacker con un’idea nella testa e che cerca giorno dopo
-      giorno di trasformarla in realtà.
+      ### Hai scelto il formato giornaliero?
 
 
-      Se sei tra queste persone, questa newsletter è per te.
-
-
-      Aspetta però, non ti agitare.
-
-
-      Questa non sarà una newsletter filosofica, piena di pensieri, analisi ecc.
-
-
-      Con questa newsletter condividerò con te, ogni giorno, tre link:
+      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
+      **ogni giorno**, tre link:
 
 
       *   il **link ad un contenuto** (un articolo, un podcast, un thread su
@@ -108,11 +94,38 @@ sections:
       mia Product Hunt Curation quotidiana.
 
 
+
+
+      ### Hai scelto il formato setitmanale?
+
+
+      Se invece hai scelto di iscriverti al **formato settimanale**, riceverai
+      una email ogni **domenica**.
+
+
+      Nella email troverai una selezione dei link più utili per i lettori del
+      Kit:
+
+
+      *   il **link al contenuto migliore** condiviso nella newsletter
+      giornaliera;
+
+
+      *   il **link alla risorsa più utile** di quelle inviate nel corso della
+      settimana;
+
+
+      *   il **prodotto di Product Hunt che è piaciuto di più**;
+
+
+      *   **2 link a sopresa** e che mi riservo di scegliere io settimana dopo
+      settimana.
+
+
       Basta così.
 
 
-      Si tratta pur sempre una newsletter giornaliera e non voglio rubarti altro
-      tempo.
+      Si tratta pur sempre una newsletter e non voglio rubarti altro tempo.
     styles:
       self:
         height: auto
