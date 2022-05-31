@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/house_light_idea-1 (1).svg",
+    "favicon": "/images/bimi-svg-tiny-12-ps.svg",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": false,
@@ -86,6 +86,6 @@
             }
         }
     },
-    "defaultSocialImage": "/images/house_light_idea-1 1.jpg",
+    "defaultSocialImage": "/images/bimi-svg-tiny-12-ps-ea461190.svg",
     "defaultMetaTags": []
 }
