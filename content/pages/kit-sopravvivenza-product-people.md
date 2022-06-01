@@ -1,6 +1,5 @@
 ---
 layout: PageLayout
-metaDescription: null
 addTitleSuffix: true
 socialImage: /images/504 (1).jpg
 metaTags:
@@ -128,7 +127,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: VUOI DARE UNO SGUARDO AI VECCHI NUMERI?
+    title: DAI UNO SGUARDO AI VECCHI NUMERI
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
