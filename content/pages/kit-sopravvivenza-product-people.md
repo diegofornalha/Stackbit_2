@@ -15,16 +15,15 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      **Unisciti a più di 600 product people** ed Iscriviti a** Kit di
-      Sopravvivenza per Product People**. 
-
-
-      Ogni giorno (oppure una volta a settimana) selezionerò per te 3 risorse
-      per sopravvivere al caos di prodotto.
+      **Unisciti a più di 600 product people **e** **ogni giorno (oppure una
+      volta a settimana) selezionerò per te 3 risorse per sopravvivere al caos
+      di prodotto.
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
