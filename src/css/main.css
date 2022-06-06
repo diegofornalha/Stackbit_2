@@ -178,7 +178,7 @@ h2 {
     }
 
     #iscrizione_kit:hover {
-        @apply bg-secondary;
+        @apply bg-secondary text-secondary;
     }
 
     /* #__next > div > div > header > div > div > ul > li:nth-child(3) {
