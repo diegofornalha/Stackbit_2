@@ -132,7 +132,7 @@ sections:
     elementId: ''
     variant: variant-b
     title: Hai scelto il formato settimanale?
-    subtitle: The section subtitle
+    subtitle: Domenica riceverai il tuo primo Kit!
     text: >+
       Se invece hai scelto di iscriverti al formato settimanale, riceverai una
       email ogni domenica.
