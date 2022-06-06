@@ -47,6 +47,7 @@ sections:
       actions:
         justifyContent: flex-start
     title2: sono Daniele D'Amico
+    subtitle: un giovane product designer in costante crescita!
   - type: FeaturedProjectsSection
     colors: colors-f
     elementId: ''
