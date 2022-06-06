@@ -1,18 +1,9 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
 addTitleSuffix: true
-socialImage: null
 metaTags: []
 title: Daniele D'Amico Portfolio
 colors: colors-a
-backgroundImage:
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
@@ -28,14 +19,6 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero.webp
-      altText: Image alt text
     styles:
       self:
         height: auto
@@ -63,4 +46,97 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedProjectsSection
+    colors: colors-f
+    elementId: ''
+    showDate: false
+    showDescription: false
+    showFeaturedImage: false
+    showReadMoreLink: false
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Featured
+    subtitle: Featured projects section example
+    projects:
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-one.md
+      - content/pages/tags/projectlayout-dqskjgezt.md
+      - content/pages/tags/projectlayout-8wqke584h.md
+      - content/pages/tags/projectlayout-s2adadr6s.md
+      - content/pages/tags/projectlayout-7p8cjgxsw.md
+      - content/pages/tags/projectlayout-gquec2hcz.md
+  - type: TestimonialsSection
+    colors: colors-c
+    elementId: ''
+    variant: variant-b
+    title: null
+    subtitle: null
+    testimonials:
+      - quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+      - quote: >+
+          > Daniele è una persona super affidabile e puntale con i tempi di
+          consegna, per il mio sito e la mia pagina Facebook è stato molto
+          professionale mi ha seguito fin da subito cercando di creare qualcosa
+          di semplice ma che colpisse nel segno proprio come volevo io e non
+          solo è rimasto a disposizione anche nel post-realizzazione per
+          aiutarmi a continuare a far crescere la mia pagina con le giuste
+          pubblicazioni! Vi assicuro che dietro al business online c'è un grande
+          lavoro e Daniele è la persona giusta per potervi aiutare!
+
+        name: Angela Cupo
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 ---
