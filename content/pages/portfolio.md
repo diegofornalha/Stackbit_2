@@ -228,7 +228,7 @@ sections:
 
 
           Consiglio di visitare il suo portfolio, in continua evoluzione!
-        name: Johnna Doe
+        name: Martina Menis
         title: Product Marketing Manager at Acme
         image:
           url: >-
