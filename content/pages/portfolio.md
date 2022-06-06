@@ -160,7 +160,7 @@ sections:
           name: name
           placeholder: Come ti chiami?
           isRequired: true
-          width: 1/2
+          width: full
         - type: EmailFormControl
           name: email
           placeholder: Your email
