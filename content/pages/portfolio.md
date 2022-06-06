@@ -179,7 +179,7 @@ sections:
           Mi è piaciuto molto il suo approccio: sempre positivo e costruttivo,
           pronto a cogliere ogni opportunità e a fare gioco di squadra per
           l'obiettivo comune. Ottima persona ed ottimo professionista.
-        name: Johnna Doe
+        name: Tommaso Zavattaro
         title: Product Marketing Manager at Acme
         image:
           url: >-
