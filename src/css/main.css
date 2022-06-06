@@ -182,7 +182,7 @@ h2 {
     }
 
     #blog_nav #comincia_qui {
-        @apply border-b 
+        @apply border-b border-current;
     }
 
 
