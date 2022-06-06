@@ -40,7 +40,7 @@ sections:
     title: 'Complimenti, presto riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: >
-      Ma continua a leggere, ho dei regali per te
+      Ma continua a leggere, ho delle cose da dirti
 
 
       TL:DR
