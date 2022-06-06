@@ -178,7 +178,7 @@ h2 {
     }
 
 
-    .divide-current>:not([hidden])~:not([hidden])
+     .divide-current>:not([hidden])~:not([hidden])
 
     /* Links */
     .sb-component-link {
