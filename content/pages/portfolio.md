@@ -151,7 +151,7 @@ sections:
           innovativi, in grado di aggiungere valore etico e morale in qualunque
           ambiente professionale fisico o digitale.
         name: Federica Arcangeli
-        title: CEO at Parks
+        title: Customer Service Manager
         image:
           type: ImageBlock
           url: /images/person-2.jpg
