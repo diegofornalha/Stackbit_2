@@ -117,7 +117,7 @@ sections:
           pubblicazioni! Vi assicuro che dietro al business online c'è un grande
           lavoro e Daniele è la persona giusta per potervi aiutare!
         name: Angela Cupo
-        title: Product Marketing Manager at Acme
+        title: CMC Ricambi
         image:
           type: ImageBlock
           url: /images/person-3.jpg
