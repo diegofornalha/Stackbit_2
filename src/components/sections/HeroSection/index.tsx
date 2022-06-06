@@ -11,7 +11,7 @@ import Section from '../Section';
 import { Action } from '../../atoms';
 
 export default function HeroSection(props) {
-    const { type, elementId, colors, backgroundSize, title, title2, subtitle, subtitle2, text, media, actions = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { type, elementId, colors, backgroundSize, title, title2, subtitle, subtitle2, text, media, actions , styles = {}, 'data-sb-field-path': fieldPath } = props;
     const sectionFlexDirection = styles.self?.flexDirection ?? 'row';
     const sectionAlignItems = styles.self?.alignItems ?? 'center';
     return (
