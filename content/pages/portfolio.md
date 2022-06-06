@@ -7,12 +7,9 @@ colors: colors-a
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    title: This Is A Big Hero Headline
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    title: 'Ciao '
+    text: |
+      un giovane **product designer** in costante crescita!
     actions:
       - type: Button
         label: Get Started
@@ -21,7 +18,7 @@ sections:
         elementId: hero-main-button
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
@@ -46,6 +43,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    title2: ' sono Daniele D''Amico'
   - type: FeaturedProjectsSection
     colors: colors-f
     elementId: ''
@@ -82,8 +80,8 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
-    subtitle: Featured projects section example
+    title: UX  e Product Design
+    subtitle: Una selezione dei progetti più interessanti a cui ho lavorato
     projects:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-two.md
@@ -93,6 +91,7 @@ sections:
       - content/pages/tags/projectlayout-s2adadr6s.md
       - content/pages/tags/projectlayout-7p8cjgxsw.md
       - content/pages/tags/projectlayout-gquec2hcz.md
+      - content/pages/tags/projectlayout-id2tmojto.md
   - type: TestimonialsSection
     colors: colors-c
     elementId: ''
@@ -109,8 +108,8 @@ sections:
           type: ImageBlock
           url: /images/person-2.jpg
           altText: John Doe
-      - quote: >+
-          > Daniele è una persona super affidabile e puntale con i tempi di
+      - quote: >
+          Daniele è una persona super affidabile e puntale con i tempi di
           consegna, per il mio sito e la mia pagina Facebook è stato molto
           professionale mi ha seguito fin da subito cercando di creare qualcosa
           di semplice ma che colpisse nel segno proprio come volevo io e non
@@ -118,9 +117,8 @@ sections:
           aiutarmi a continuare a far crescere la mia pagina con le giuste
           pubblicazioni! Vi assicuro che dietro al business online c'è un grande
           lavoro e Daniele è la persona giusta per potervi aiutare!
-
         name: Angela Cupo
-        title: Product Marketing Manager at Acme
+        title: CMC Ricambi
         image:
           type: ImageBlock
           url: /images/person-3.jpg
