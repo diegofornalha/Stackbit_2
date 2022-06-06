@@ -150,7 +150,7 @@ sections:
           Condivide sempre idee originali e processi creativi inaspettati e
           innovativi, in grado di aggiungere valore etico e morale in qualunque
           ambiente professionale fisico o digitale.
-        name: John Doe
+        name: Federica Arcangeli
         title: CEO at Parks
         image:
           type: ImageBlock
