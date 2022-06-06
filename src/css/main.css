@@ -177,7 +177,7 @@ h2 {
         @apply text-primary;
     }
 
-    svg #iscrizione_kit {
+    #iscrizione_kit {
         @apply fill-primary;
     }
 
