@@ -46,6 +46,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    title2: sono Daniele D'Amico
   - type: FeaturedProjectsSection
     colors: colors-f
     elementId: ''
