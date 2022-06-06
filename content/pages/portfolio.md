@@ -4,12 +4,6 @@ addTitleSuffix: true
 metaTags: []
 title: Daniele D'Amico Portfolio
 colors: colors-a
-backgroundImage:
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
