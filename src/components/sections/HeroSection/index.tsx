@@ -71,7 +71,7 @@ function HeroBody(props) {
 
                     <span className={classNames('inline-block')}><Typewriter
                         options={{
-                            strings: ['product manager', 'nerd', 'indie hacker', 'creator'],
+                            strings: ['product manager','product designer', 'nerd', 'indie hacker', 'creator'],
                             autoStart: true,
                             loop: true,
                             wrapperClassName: 'text-primary',

@@ -91,16 +91,19 @@ sections:
       altText: Hero image
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
-          - pt-10
-          - pb-48
+          - pt-0
+          - pb-24
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
+        margin:
+          - mt-0
+          - mb-0
       title:
         textAlign: left
       subtitle:
