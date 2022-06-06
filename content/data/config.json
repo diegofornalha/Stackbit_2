@@ -52,7 +52,7 @@
         "actions": [
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Cose",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
