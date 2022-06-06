@@ -108,7 +108,7 @@ fields:
     label: Element ID
     description: The unique ID for an HTML element, must not contain whitespace
     default: ''
-      - type: enum
+  - type: enum
     name: colors
     label: Colors
     description: The color theme of the page
