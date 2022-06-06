@@ -122,7 +122,7 @@ sections:
           type: ImageBlock
           url: /images/person-3.jpg
           altText: Johnna Doe
-      - quote: >+
+      - quote: >
           Ho iniziato a lavorare insieme a Daniele nel team marketing e
           comunicazione in CybeRefund, una startup Insurtech.
 
@@ -130,19 +130,26 @@ sections:
           in grado di trovare soluzioni sempre creative, soddisfando le
           richieste dei vari organi aziendali.
 
+
+
           Ha collaborato infatti con Product Managers e Developers per integrare
           di innovazioni i nuovi e già presenti prodotti.
+
+
 
           Posso dire di aver imparato molto dalle sue approfondite competenze
           organizzative e dagli strumenti suggeriti, migliorando la qualità
           della mia produttività.
 
+
+
           Daniele è sicuramente una risorsa essenziale per un team.
+
+
 
           Condivide sempre idee originali e processi creativi inaspettati e
           innovativi, in grado di aggiungere valore etico e morale in qualunque
           ambiente professionale fisico o digitale.
-
         name: John Doe
         title: CEO at Parks
         image:
