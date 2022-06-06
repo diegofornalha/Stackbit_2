@@ -95,13 +95,22 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
+      **ogni giorno**, tre link:
+
+
+      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
+      twitter ecc.);
+
+
+      *   una **risorsa** (un tool, framework, modello mentale o template Notion
+      ecc.);
+
+
+      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
+      mia Product Hunt Curation quotidiana.
+
     styles:
       self:
         height: auto
