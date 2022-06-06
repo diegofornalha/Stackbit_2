@@ -177,7 +177,7 @@ h2 {
         @apply text-primary;
     }
 
-    ul #iscrizione_kit {
+    #iscrizione_kit {
         @appky  border-2 border-primary;
     }
 
