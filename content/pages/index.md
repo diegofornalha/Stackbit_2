@@ -43,6 +43,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions:
+     - type: Button
+        label: COMINCIA QUI
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
