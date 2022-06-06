@@ -179,7 +179,7 @@ h2 {
 
 
     #iscrizione_kit #__next > div > div > header > div > div > ul.hidden.lg\:flex.border-l.border-current.divide-x.divide-current.ml-auto {
-            @appky  border-primary;
+            @appky  border border-primary;
 
     }
 
