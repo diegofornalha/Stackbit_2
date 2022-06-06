@@ -174,7 +174,7 @@ h2 {
     }
 
     a #iscrizione_kit {
-        @apply text-primary
+        @apply text-primary;
     }
 
     /* Links */
