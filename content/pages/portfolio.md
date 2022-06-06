@@ -149,7 +149,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Contact Me
+    title: Facciamo 4 chiacchiere?
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
