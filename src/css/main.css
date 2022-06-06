@@ -186,7 +186,7 @@ h2 {
     }
 
     #comincia_qui {
-        @apply border-b border-current;
+        @apply border-b border-current ml-auto;
     }
 
     #__next > div > div > header > div > div > ul {
