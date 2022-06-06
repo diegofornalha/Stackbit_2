@@ -24,7 +24,7 @@ export default function Header(props) {
                     '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
                 })}
             >
-                <Link href="#main" className="sr-only">
+                <Link href="#main" className="sr-only , 'border-b', 'border-current'">
                     Skip to main content
                 </Link>
                 <HeaderVariants
