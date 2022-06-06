@@ -24,7 +24,8 @@
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "iscrizione_kit"
+                "elementId": "iscrizione_kit",
+                "label": "NEWSLETTER"
             }
         ],
         "socialLinks": [],
