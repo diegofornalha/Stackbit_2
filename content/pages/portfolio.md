@@ -150,7 +150,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Facciamo 4 chiacchiere?
-    text: I'm look forward to hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
