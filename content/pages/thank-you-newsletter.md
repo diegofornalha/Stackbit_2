@@ -37,7 +37,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Complimenti, da domani riceverai i tuoi '
+    title: 'Complimenti, presto riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: >
       Ma continua a leggere, ho dei regali per te
