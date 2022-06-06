@@ -186,7 +186,8 @@ h2 {
     }
 
     #comincia_qui {
-        
+                @apply border-b border-current;
+
     }
 
 
