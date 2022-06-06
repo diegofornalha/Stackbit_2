@@ -52,6 +52,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+        colors: colors-e
       - type: Link
         label: Learn more
         altText: ''
