@@ -167,11 +167,6 @@ function MobileMenu(props) {
                                     <ListOfLinks links={primaryLinks} inMobileMenu={true} />
                                 </ul>
                             )}
-                            {primaryLinks.length > 0 && (
-                                <ul className="space-y-6" data-sb-field-path=".primaryLinks">
-                                <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title)} />
-                                </ul>
-                            )}
                             {socialLinks.length > 0 && (
                                 <ul className="flex flex-wrap justify-center" data-sb-field-path=".socialLinks">
                                     <ListOfSocialLinks links={socialLinks} inMobileMenu={true} />
