@@ -178,7 +178,7 @@ h2 {
     }
 
 
-    li #iscrizione_kit {
+    #iscrizione_kit inline-flex items-stretch {
         @appky border-2 border-primary;
     }
 
