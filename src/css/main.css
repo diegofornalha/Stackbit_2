@@ -187,7 +187,6 @@ h2 {
 
     #comincia_qui {
         @apply border-b border-current;
-        @apply ml-auto;
     }
 
     #__next > div > div > header > div > div > ul {
