@@ -19,10 +19,6 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
-    media:
-      type: ImageBlock
-      url: /images/hero.webp
-      altText: Image alt text
     styles:
       self:
         height: auto
