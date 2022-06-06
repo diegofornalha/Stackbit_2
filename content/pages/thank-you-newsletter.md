@@ -131,7 +131,7 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-b
-    title: The Section Title
+    title: Hai scelto il formato settimanale?
     subtitle: The section subtitle
     text: >+
       Se invece hai scelto di iscriverti al formato settimanale, riceverai una
