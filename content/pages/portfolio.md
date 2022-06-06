@@ -162,9 +162,23 @@ sections:
           url: /images/person-2.jpg
           altText: John Doe
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: >
+          Daniele è un product designer attento e rigoroso. Ho avuto il piacere
+          di lavorare con lui su un progetto di lead generation per un SaaS
+          Insurtech.
+
+
+          Il suo lavoro mi ha permesso di avere una visione chiara del brand,
+          del prodotto e dell'USP per poter impostare efficacemente le campagne
+          Google Ads. Inoltre i suoi feedback - e la sua reattività ai miei -
+          hanno permesso di implementare velocemente modifiche in corso d'opera
+          su landing pages e contenuti, massimizzando l'efficacia delle
+          campagne.
+
+
+          Mi è piaciuto molto il suo approccio: sempre positivo e costruttivo,
+          pronto a cogliere ogni opportunità e a fare gioco di squadra per
+          l'obiettivo comune. Ottima persona ed ottimo professionista.
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
