@@ -178,7 +178,7 @@ h2 {
     }
 
     #__next > div > div > header > div > div > ul > li:nth-child(3) {
-        @apply border-b border-primary;
+        @apply border border-primary;
     }
 
     /* Links */
