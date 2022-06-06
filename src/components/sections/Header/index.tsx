@@ -17,7 +17,6 @@ export default function Header(props) {
             className={classNames('sb-component', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative', 'border-b', 'border-current')}
             data-sb-field-path={`${annotationPrefix}:header`}
         >
-            <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title)} />
 
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
