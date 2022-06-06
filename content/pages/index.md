@@ -61,15 +61,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-      - type: Button
-        label: COMINCIA QUI
-        altText: ''
-        url: /info
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: featured-posts-home
