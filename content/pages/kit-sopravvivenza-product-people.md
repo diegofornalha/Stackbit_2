@@ -103,7 +103,7 @@ sections:
         flexDirection: row
         margin:
           - mt-0
-          - mb-24
+          - mb-0
       title:
         textAlign: left
       subtitle:
