@@ -7,7 +7,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    title: This Is A Big Hero Headline
+    title: 'Ciao, sono Daniele D''Amico'
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
