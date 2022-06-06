@@ -12,7 +12,7 @@ sections:
       un giovane **product designer** in costante crescita!
     actions:
       - type: Button
-        label: 'FACCIAMO '
+        label: FACCIAMO UNA CALL
         url: /
         style: primary
         elementId: hero-main-button
