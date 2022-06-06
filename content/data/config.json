@@ -9,13 +9,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Comincia qui",
-                "url": "/info"
+                "label": "ABOUT",
+                "url": "/info",
+                "elementId": "comincia_qui"
             },
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "/blog",
+                "elementId": "blog_nav"
             },
             {
                 "type": "Link",
