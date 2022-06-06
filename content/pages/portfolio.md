@@ -16,6 +16,14 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     styles:
       self:
         height: screen
