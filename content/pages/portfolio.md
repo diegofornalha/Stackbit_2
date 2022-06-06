@@ -93,4 +93,5 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
       - content/pages/tags/projectlayout-dqskjgezt.md
+      - content/pages/tags/projectlayout-8wqke584h.md
 ---
