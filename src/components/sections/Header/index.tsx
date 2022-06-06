@@ -26,7 +26,7 @@ export default function Header(props) {
                     Skip to main content
                 </Link>
                 <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
-<HeaderVariants
+                <HeaderVariants
                     variant={headerVariant}
                     title={title}
                     isTitleVisible={isTitleVisible}
