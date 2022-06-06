@@ -96,7 +96,7 @@ sections:
   - type: TestimonialsSection
     colors: colors-c
     elementId: ''
-    variant: variant-b
+    variant: variant-a
     title: null
     subtitle: null
     testimonials:
