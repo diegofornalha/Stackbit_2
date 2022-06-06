@@ -177,7 +177,7 @@ h2 {
         @apply text-primary;
     }
 
-    #iscrizione_kit .inline-flex .items-stretch {
+    ul #iscrizione_kit .inline-flex .items-stretch {
         @appky  ;
     }
 
