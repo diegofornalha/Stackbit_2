@@ -178,7 +178,7 @@ h2 {
     }
 
 
-    #iscrizione_kit .divide-current>:not([hidden])~:not([hidden]) {
+    li #iscrizione_kit {
         @appky border-primary;
     }
 
