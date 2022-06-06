@@ -8,9 +8,8 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     title: 'Ciao '
-    text: |+
-      ### un giovane **product designer** in costante crescita!
-
+    text: |
+      un giovane **product designer** in costante crescita!
     actions:
       - type: Button
         label: Get Started
