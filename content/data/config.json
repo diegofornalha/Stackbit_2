@@ -9,7 +9,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Comincia qui",
+                "label": "ABOUT",
                 "url": "/info",
                 "elementId": "comincia_qui"
             },
