@@ -181,7 +181,7 @@ h2 {
         @apply border-b border-primary;
     }
 
-    #blog_nav #comincia_qui {
+    #blog_nav {
         @apply border-b border-current;
     }
 
