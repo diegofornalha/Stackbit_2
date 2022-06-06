@@ -126,6 +126,7 @@ sections:
       text:
         textAlign: left
     title: Hai scelto il formato giornaliero?
+    subtitle: a
   - type: TextSection
     colors: colors-f
     elementId: primi_tool
