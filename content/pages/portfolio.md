@@ -54,11 +54,7 @@ sections:
     showFeaturedImage: false
     showReadMoreLink: false
     variant: variant-b
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     styles:
       self:
         height: auto
