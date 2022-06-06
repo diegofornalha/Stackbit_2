@@ -168,7 +168,7 @@ sections:
           width: full
         - type: TextareaFormControl
           name: message
-          label: Tell me about your project
+          label: Come mai vuoi parlare con me?
           hideLabel: true
           placeholder: Tell me about your project
           isRequired: true
