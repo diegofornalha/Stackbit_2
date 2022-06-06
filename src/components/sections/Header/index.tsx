@@ -20,7 +20,7 @@ export default function Header(props) {
 
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
-                    'xl:border-l xl:border-r border-current': headerWidth === 'narrow',
+                    'xl:border-l xl:border-r border-current border-b': headerWidth === 'narrow',
                     '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
                 })}
             >
