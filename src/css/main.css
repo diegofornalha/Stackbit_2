@@ -189,10 +189,7 @@ h2 {
         @apply border-b border-current;
     }
 
-    #__next > div > div > header > div > div > ul {
-        @apply border-b border-current;
-
-    }
+    
 
 
     /* Links */
