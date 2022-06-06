@@ -83,7 +83,7 @@ sections:
       actions:
         justifyContent: center
     title: I miei lavori di UX  e Product Design
-    subtitle: Una
+    subtitle: Una selezione dei progetti più interessanti a cui ho lavorato
     projects:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-two.md
