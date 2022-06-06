@@ -133,13 +133,24 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      Se invece hai scelto di iscriverti al formato settimanale, riceverai una
+      email ogni domenica.
+
+      Nella email troverai una selezione dei link più utili per i lettori del
+      Kit:
+
+      * il link al contenuto migliore condiviso nella newsletter giornaliera;
+
+      * il link alla risorsa più utile di quelle inviate nel corso della
+      settimana;
+
+      * il prodotto di Product Hunt che è piaciuto di più;
+
+      * la risorsa più apprezzata nel corso della settimana precedente;
+
+      * 2 link a sorpresa e che mi riservo di scegliere io settimana dopo
+      settimana.
     styles:
       self:
         height: auto
