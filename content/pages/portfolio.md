@@ -7,7 +7,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    title: 'Ciao '
+    title: 'Ciao sono '
     text: |
       un giovane **product designer** in costante crescita!
     actions:
