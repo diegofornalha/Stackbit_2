@@ -52,6 +52,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+        colors: colors-c
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: featured-posts-home

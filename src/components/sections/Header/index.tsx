@@ -8,14 +8,16 @@ import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 
+
 export default function Header(props) {
-    const { headerVariant, isSticky, title, isTitleVisible, logo, primaryLinks = [], socialLinks = [], styles = {}, annotationPrefix } = props;
+    const { headerVariant, isSticky, title, isTitleVisible, logo, primaryLinks = [], socialLinks = [], actions= [], styles = {}, annotationPrefix } = props;
     const headerWidth = styles.self?.width ?? 'narrow';
     return (
         <header
             className={classNames('sb-component', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative', 'border-b', 'border-current')}
             data-sb-field-path={`${annotationPrefix}:header`}
         >
+
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
                     'xl:border-l xl:border-r border-current': headerWidth === 'narrow',
@@ -51,6 +53,8 @@ function HeaderVariants(props) {
             return null;
     }
 }
+
+
 
 function HeaderVariantA(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
@@ -121,6 +125,8 @@ function HeaderVariantC(props) {
         </div>
     );
 }
+
+
 
 function MobileMenu(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
