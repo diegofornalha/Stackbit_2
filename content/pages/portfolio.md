@@ -110,14 +110,14 @@ sections:
           url: /images/person-2.jpg
           altText: John Doe
       - quote: >+
-          > "Daniele è una persona super affidabile e puntale con i tempi di
+          > Daniele è una persona super affidabile e puntale con i tempi di
           consegna, per il mio sito e la mia pagina Facebook è stato molto
           professionale mi ha seguito fin da subito cercando di creare qualcosa
           di semplice ma che colpisse nel segno proprio come volevo io e non
           solo è rimasto a disposizione anche nel post-realizzazione per
           aiutarmi a continuare a far crescere la mia pagina con le giuste
           pubblicazioni! Vi assicuro che dietro al business online c'è un grande
-          lavoro e Daniele è la persona giusta per potervi aiutare!”
+          lavoro e Daniele è la persona giusta per potervi aiutare!
 
         name: Johnna Doe
         title: Product Marketing Manager at Acme
