@@ -177,9 +177,6 @@ h2 {
         @apply text-primary;
     }
 
-    #__next > div > div > header > div > div > ul.hidden.lg\:flex.border-l.border-current.divide-x.divide-current.ml-auto > li:nth-child(3) {
-        @appky  border-2 border-primary;
-    }
 
     #iscrizione_kit #__next > div > div > header > div > div > ul.hidden.lg\:flex.border-l.border-current.divide-x.divide-current.ml-auto {
             @appky  border-primary;
