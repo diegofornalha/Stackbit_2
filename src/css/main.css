@@ -190,7 +190,7 @@ h2 {
     }
 
     #__next > div > div > header > div > div > ul {
-                @apply border-b border-current;
+        @apply border-b border-current;
 
     }
 
