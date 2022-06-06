@@ -9,7 +9,7 @@ sections:
     elementId: homepage-hero-1
     title: 'Ciao '
     text: |+
-      ## un giovane **product designer** in costante crescita!
+      ### un giovane **product designer** in costante crescita!
 
     actions:
       - type: Button
