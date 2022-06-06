@@ -93,29 +93,6 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-b
-    title: >
-      Hai scelto il formato setitmanale?
-
-      Se invece hai scelto di iscriverti al formato settimanale, riceverai una
-      email ogni domenica.
-
-      Nella email troverai una selezione dei link più utili per i lettori del
-      Kit:
-
-      il link al contenuto migliore condiviso nella newsletter giornaliera;
-
-      il link alla risorsa più utile di quelle inviate nel corso della
-      settimana;
-
-      il prodotto di Product Hunt che è piaciuto di più;
-
-      2 link a sopresa e che mi riservo di scegliere io settimana dopo
-      settimana.
-
-
-      Basta così.
-
-      Si tratta pur sempre una newsletter e non voglio rubarti altro tempo.
     subtitle: The section subtitle
     text: >+
       Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
