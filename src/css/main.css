@@ -177,6 +177,9 @@ h2 {
         @apply text-primary;
     }
 
+
+    .divide-current>:not([hidden])~:not([hidden])
+
     /* Links */
     .sb-component-link {
         @apply text-lg inline-flex items-center justify-center no-underline relative;
