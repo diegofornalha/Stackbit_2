@@ -177,7 +177,7 @@ h2 {
         @apply text-primary;
     }
 
-    #iscrizione_kit svg {
+    svg #iscrizione_kit {
         @apply stroke-primary;
     }
 
