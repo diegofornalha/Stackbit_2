@@ -169,7 +169,7 @@ function MobileMenu(props) {
                             )}
                             {primaryLinks.length > 0 && (
                                 <ul className="space-y-6" data-sb-field-path=".primaryLinks">
-                                    <ListOfLinks links={primaryLinks} inMobileMenu={true} />
+                                
                                 </ul>
                             )}
                             {socialLinks.length > 0 && (
