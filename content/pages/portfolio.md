@@ -158,7 +158,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          placeholder: Your name
+          placeholder: Come ti chiami?
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
