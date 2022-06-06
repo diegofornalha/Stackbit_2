@@ -14,7 +14,7 @@ export default function Header(props) {
     const headerWidth = styles.self?.width ?? 'narrow';
     return (
         <header
-            className={classNames('sb-component', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative')}
+            className={classNames('sb-component', 'border', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative')}
             data-sb-field-path={`${annotationPrefix}:header`}
         >
 
