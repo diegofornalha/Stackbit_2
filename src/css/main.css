@@ -173,7 +173,7 @@ h2 {
         @apply rounded-full;
     }
 
-    a#iscrizione_kit {
+    a #iscrizione_kit {
         color: red;
     }
 
