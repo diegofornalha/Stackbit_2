@@ -178,7 +178,9 @@ h2 {
     }
 
 
-    #iscrizione_kit .divide-current>:not([hidden])~:not([hidden])
+    #iscrizione_kit .divide-current>:not([hidden])~:not([hidden]) {
+        
+    }
 
     /* Links */
     .sb-component-link {
