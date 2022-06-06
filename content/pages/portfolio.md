@@ -119,7 +119,7 @@ sections:
           pubblicazioni! Vi assicuro che dietro al business online c'è un grande
           lavoro e Daniele è la persona giusta per potervi aiutare!
 
-        name: Johnna Doe
+        name: Angela Cupo
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
