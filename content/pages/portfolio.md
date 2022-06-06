@@ -1,9 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
 addTitleSuffix: true
-socialImage: null
 metaTags: []
 title: Daniele D'Amico Portfolio
 colors: colors-a
@@ -63,4 +60,50 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedProjectsSection
+    colors: colors-f
+    elementId: ''
+    showDate: false
+    showDescription: false
+    showFeaturedImage: false
+    showReadMoreLink: false
+    variant: variant-b
+    actions:
+      - type: Button
+        label: View all
+        url: /
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Featured
+    subtitle: Featured projects section example
+    projects:
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-one.md
 ---
