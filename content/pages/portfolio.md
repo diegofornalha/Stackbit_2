@@ -165,7 +165,7 @@ sections:
           name: email
           placeholder: Qual è il tuo indirizzo email?
           isRequired: true
-          width: 1/2
+          width: full
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
