@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "elementId": "blog"
+                "elementId": "blog_nav"
             },
             {
                 "type": "Link",
