@@ -102,7 +102,7 @@ sections:
         justifyContent: center
         flexDirection: row
         margin:
-          - mt-24
+          - mt-0
           - mb-24
       title:
         textAlign: left
