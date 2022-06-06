@@ -19,24 +19,16 @@
             },
             {
                 "type": "Link",
-                "label": "NEWSLETTER",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "iscrizione_kit"
+                "elementId": "iscrizione_kit",
+                "label": "ISCRIVITI"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Linkedin",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/daniele-damico/",
-                "icon": "linkedin"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"

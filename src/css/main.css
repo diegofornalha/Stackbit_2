@@ -173,6 +173,10 @@ h2 {
         @apply rounded-full;
     }
 
+    #iscrizione_kit svg {
+        @apply text-primary;
+    }
+
     /* Links */
     .sb-component-link {
         @apply text-lg inline-flex items-center justify-center no-underline relative;
