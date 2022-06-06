@@ -126,6 +126,7 @@ sections:
       text:
         textAlign: left
     title: Hai scelto il formato giornaliero?
+    subtitle: Riceverai il tuo primo Kit
   - type: TextSection
     colors: colors-f
     elementId: primi_tool
