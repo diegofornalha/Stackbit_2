@@ -53,14 +53,6 @@ sections:
         style: primary
         elementId: ''
         colors: colors-c
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
   - type: FeaturedPostsSection
     colors: colors-f
     elementId: featured-posts-home
