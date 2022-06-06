@@ -25,6 +25,7 @@ export default function Header(props) {
                 <Link href="#main" className="sr-only">
                     Skip to main content
                 </Link>
+                
                 <HeaderVariants
                     variant={headerVariant}
                     title={title}
