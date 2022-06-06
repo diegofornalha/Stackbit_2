@@ -83,8 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: NON SAI DA DOVE COMINCIARE? ECCO QUALCHE CONSIGLIO!
-    subtitle: null
+    subtitle: Non sai da dove cominciare? Ecco qualche consiglio!
     posts:
       - content/pages/blog/postlayout-5zj57kmef.md
       - content/pages/blog/postlayout-gqcucb13d.md

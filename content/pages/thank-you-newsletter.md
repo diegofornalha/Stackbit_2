@@ -37,10 +37,10 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Complimenti, da domani riceverai i tuoi '
+    title: 'Complimenti, presto riceverai i tuoi '
     title2: kit di sopravvivenza per product people
     text: >
-      Ma continua a leggere, ho dei regali per te
+      Ma continua a leggere, ho delle cose da dirti
 
 
       TL:DR
@@ -61,7 +61,7 @@ sections:
     elementId: kit_sopravvivenza_product
     variant: variant-a
     subtitle: null
-    text: >
+    text: >+
       **Kit di Sopravvivenza per Product People** è una newsletter con un
       obiettivo molto specifico.
 
@@ -72,60 +72,6 @@ sections:
 
       Sei tra queste persone? Allora questa newsletter è per te.
 
-
-
-
-      ### Hai scelto il formato giornaliero?
-
-
-      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
-      **ogni giorno**, tre link:
-
-
-      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
-      twitter ecc.);
-
-
-      *   una **risorsa** (un tool, framework, modello mentale o template Notion
-      ecc.);
-
-
-      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
-      mia Product Hunt Curation quotidiana.
-
-
-
-
-      ### Hai scelto il formato setitmanale?
-
-
-      Se invece hai scelto di iscriverti al **formato settimanale**, riceverai
-      una email ogni **domenica**.
-
-
-      Nella email troverai una selezione dei link più utili per i lettori del
-      Kit:
-
-
-      *   il **link al contenuto migliore** condiviso nella newsletter
-      giornaliera;
-
-
-      *   il **link alla risorsa più utile** di quelle inviate nel corso della
-      settimana;
-
-
-      *   il **prodotto di Product Hunt che è piaciuto di più**;
-
-
-      *   **2 link a sopresa** e che mi riservo di scegliere io settimana dopo
-      settimana.
-
-
-      Basta così.
-
-
-      Si tratta pur sempre una newsletter e non voglio rubarti altro tempo.
     styles:
       self:
         height: auto
@@ -143,6 +89,94 @@ sections:
       text:
         textAlign: left
     title: Cos'è Kit di Sopravvivenza per Product People?
+  - type: TextSection
+    colors: colors-e
+    elementId: ''
+    variant: variant-b
+    text: >+
+      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
+      **ogni giorno**, tre link:
+
+
+      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
+      twitter ecc.);
+
+
+      *   una **risorsa** (un tool, framework, modello mentale o template Notion
+      ecc.);
+
+
+      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
+      mia Product Hunt Curation quotidiana.
+
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    title: Hai scelto il formato giornaliero?
+    subtitle: Domani riceverai il tuo primo Kit!
+  - type: TextSection
+    colors: colors-e
+    elementId: ''
+    variant: variant-b
+    title: Hai scelto il formato settimanale?
+    subtitle: Domenica riceverai il tuo primo Kit!
+    text: >+
+      Riceverai una email ogni domenica.
+
+
+      Nella email troverai una selezione dei link più utili per i lettori del
+      Kit:
+
+
+      *   il link al contenuto migliore condiviso nella newsletter giornaliera;
+
+
+      *   il link alla risorsa più utile di quelle inviate nel corso della
+      settimana;
+
+
+      *   il prodotto di Product Hunt che è piaciuto di più;
+
+
+      *   la risorsa più apprezzata nel corso della settimana precedente;
+
+
+      *   2 link a sorpresa e che mi riservo di scegliere io settimana dopo
+      settimana.
+
+
+      L'attesa fino a domenica prossima è troppo lunga? Leggi i numeri
+      precedenti qui!
+
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: TextSection
     colors: colors-f
     elementId: primi_tool
@@ -204,8 +238,8 @@ sections:
       non me lo chiedano.
 
 
-      Per celebrare questa prima email, facciamo finta che tu me l'abbia
-      chiesto, che ne dici?
+      Per celebrare la tua iscrizione, facciamo finta che tu me l'abbia chiesto,
+      che ne dici? Clicca sul pulsante qui sotto e sarà tuo!
     actions:
       - label: "ACCEDI AL DB \U0001F680"
         altText: ''
