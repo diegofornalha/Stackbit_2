@@ -22,7 +22,7 @@
                 "label": "NEWSLETTER",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "iscrizione_kit"
