@@ -177,11 +177,6 @@ h2 {
         @apply text-primary;
     }
 
-
-    #iscrizione_kit {
-            @appky  border border-primary;
-    }
-
     /* Links */
     .sb-component-link {
         @apply text-lg inline-flex items-center justify-center no-underline relative;
