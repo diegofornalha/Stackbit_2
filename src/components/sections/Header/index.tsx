@@ -9,7 +9,7 @@ import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 
 export default function Header(props) {
-    const { headerVariant, isSticky, title, isTitleVisible, logo, primaryLinks = [], socialLinks = [], styles = {}, annotationPrefix } = props;
+    const { headerVariant, isSticky, title, isTitleVisible, logo, actions, primaryLinks = [], socialLinks = [], styles = {}, annotationPrefix } = props;
     const headerWidth = styles.self?.width ?? 'narrow';
     return (
         <header
