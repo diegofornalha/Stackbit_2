@@ -35,14 +35,6 @@
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/daniele-damico/",
                 "icon": "linkedin"
-            },
-            {
-                "type": "Social",
-                "label": "Prova",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
             }
         ],
         "styles": {
