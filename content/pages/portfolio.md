@@ -91,6 +91,7 @@ sections:
       - content/pages/tags/projectlayout-s2adadr6s.md
       - content/pages/tags/projectlayout-7p8cjgxsw.md
       - content/pages/tags/projectlayout-gquec2hcz.md
+      - content/pages/tags/projectlayout-id2tmojto.md
   - type: TestimonialsSection
     colors: colors-c
     elementId: ''
