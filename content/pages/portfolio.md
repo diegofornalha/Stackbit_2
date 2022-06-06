@@ -180,7 +180,7 @@ sections:
           pronto a cogliere ogni opportunità e a fare gioco di squadra per
           l'obiettivo comune. Ottima persona ed ottimo professionista.
         name: Tommaso Zavattaro
-        title: Product Marketing Manager at Acme
+        title: Google Ads e Facebook Specialist
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
