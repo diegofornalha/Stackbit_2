@@ -164,7 +164,7 @@ sections:
         - type: EmailFormControl
           name: email
           placeholder: Qual è il tuo indirizzo email?
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - type: TextareaFormControl
           name: message
