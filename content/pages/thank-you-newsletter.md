@@ -93,7 +93,6 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-b
-    subtitle: The section subtitle
     text: >+
       Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
       **ogni giorno**, tre link:
