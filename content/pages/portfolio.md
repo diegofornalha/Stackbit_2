@@ -93,4 +93,43 @@ sections:
       - content/pages/tags/projectlayout-s2adadr6s.md
       - content/pages/tags/projectlayout-7p8cjgxsw.md
       - content/pages/tags/projectlayout-gquec2hcz.md
+  - type: TestimonialsSection
+    colors: colors-b
+    elementId: ''
+    variant: variant-b
+    title: null
+    subtitle: null
+    testimonials:
+      - quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+      - quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 ---
