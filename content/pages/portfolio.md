@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
