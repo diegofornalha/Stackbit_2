@@ -65,7 +65,7 @@ function HeroActions(props) {
                 'mt-8': hasTopMargin
             })}
         >
-            <div className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', (styles))} data-sb-field-path=".actions">
+            <div className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2'} data-sb-field-path=".actions">
                 {actions.map((action, index) => (
                     <Action key={index} {...action} className="my-2 mx-2 lg:whitespace-nowrap border-primary mt-8 text-primary" data-sb-field-path={`.${index}`} />
                 ))}
