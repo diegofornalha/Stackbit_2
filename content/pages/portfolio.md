@@ -25,10 +25,6 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
     media:
       type: ImageBlock
       url: /images/hero.webp
