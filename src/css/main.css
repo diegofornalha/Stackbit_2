@@ -179,7 +179,7 @@ h2 {
 
 
     li #iscrizione_kit {
-        @appky border-primary;
+        @appky border border-primary;
     }
 
     /* Links */
