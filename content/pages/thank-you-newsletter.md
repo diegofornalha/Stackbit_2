@@ -238,8 +238,8 @@ sections:
       non me lo chiedano.
 
 
-      Per celebrare questa prima email, facciamo finta che tu me l'abbia
-      chiesto, che ne dici?
+      Per celebrare la tua iscrizione, facciamo finta che tu me l'abbia chiesto,
+      che ne dici? Clicca sul pulsante qui sotto e sarà tuo!
     actions:
       - label: "ACCEDI AL DB \U0001F680"
         altText: ''
