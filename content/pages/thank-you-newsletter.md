@@ -90,7 +90,7 @@ sections:
         textAlign: left
     title: Cos'è Kit di Sopravvivenza per Product People?
   - type: TextSection
-    colors: colors-b
+    colors: colors-e
     elementId: ''
     variant: variant-b
     title: The Section Title
