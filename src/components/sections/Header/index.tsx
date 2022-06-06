@@ -52,6 +52,8 @@ function HeaderVariants(props) {
     }
 }
 
+
+
 function HeaderVariantA(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
     return (
