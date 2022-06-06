@@ -84,7 +84,7 @@ sections:
       actions:
         justifyContent: center
     title: Non sai da dove cominciare? Ecco qualche consiglio!
-    subtitle: null
+    subtitle: Non sai da dove cominciare? Ecco qualche consiglio!
     posts:
       - content/pages/blog/postlayout-5zj57kmef.md
       - content/pages/blog/postlayout-gqcucb13d.md
