@@ -79,7 +79,7 @@ function HeaderVariantA(props) {
 function HeaderVariantB(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
     return (
-        <div className="flex items-stretch relative border-b">
+        <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
