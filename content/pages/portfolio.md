@@ -173,7 +173,7 @@ sections:
           placeholder: Come mai vuoi parlare con me?
           isRequired: true
           width: full
-      submitLabel: Send Message
+      submitLabel: Facciamo una call!
     media: null
     styles:
       self:
