@@ -28,15 +28,7 @@
                 "elementId": "iscrizione_kit"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Linkedin",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/daniele-damico/",
-                "icon": "linkedin"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
