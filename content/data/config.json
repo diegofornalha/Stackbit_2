@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "/blog",
+                "elementId": "blog"
             },
             {
                 "type": "Link",
