@@ -17,7 +17,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - type: Link
-        label: Learn more
+        label: Facciamo una call
         altText: ''
         url: /
         showIcon: false
