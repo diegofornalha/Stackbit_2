@@ -94,7 +94,7 @@ sections:
       - content/pages/tags/projectlayout-7p8cjgxsw.md
       - content/pages/tags/projectlayout-gquec2hcz.md
   - type: TestimonialsSection
-    colors: colors-e
+    colors: colors-c
     elementId: ''
     variant: variant-b
     title: null
