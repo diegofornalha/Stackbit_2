@@ -178,7 +178,7 @@ h2 {
     }
 
     ul #iscrizione_kit {
-        @appky  border-primary;
+        @appky  border-2 border-primary;
     }
 
     /* Links */
