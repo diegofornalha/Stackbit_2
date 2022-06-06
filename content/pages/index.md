@@ -60,7 +60,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    - type: Button
+      - type: Button
         label: COMINCIA QUI
         altText: ''
         url: /info
