@@ -128,7 +128,7 @@ sections:
     title: Hai scelto il formato giornaliero?
     subtitle: Domani riceverai il tuo primo Kit!
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     variant: variant-b
     title: The Section Title
