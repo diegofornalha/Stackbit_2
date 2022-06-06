@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
     title2: Daniele D'Amico
   - type: FeaturedProjectsSection
-    colors: colors-a
+    colors: colors-b
     elementId: ''
     showDate: false
     showDescription: false
