@@ -25,7 +25,8 @@ export default function Header(props) {
                 <Link href="#main" className="sr-only">
                     Skip to main content
                 </Link>
-                
+                                    <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
+
                 <HeaderVariants
                     variant={headerVariant}
                     title={title}
