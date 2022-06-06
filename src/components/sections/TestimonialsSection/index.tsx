@@ -59,7 +59,7 @@ function TestimonialsVariantA(props) {
                     {testimonial.quote && (
                         <Markdown
                             options={{ forceBlock: true, forceWrapper: true }}
-                            className="sb-markdown text-base sm:text-4xl sm:leading-tight"
+                            className="sb-markdown text-base sm:text-lg sm:leading-tight"
                             data-sb-field-path=".quote"
                         >
                             {testimonial.quote}
