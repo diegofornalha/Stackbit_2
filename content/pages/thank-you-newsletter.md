@@ -134,8 +134,8 @@ sections:
     title: Hai scelto il formato settimanale?
     subtitle: Domenica riceverai il tuo primo Kit!
     text: >+
-      Se invece hai scelto di iscriverti al formato settimanale, riceverai una
-      email ogni domenica.
+      Riceverai una email ogni domenica.
+
 
       Nella email troverai una selezione dei link più utili per i lettori del
       Kit:
@@ -156,6 +156,10 @@ sections:
 
       *   2 link a sorpresa e che mi riservo di scegliere io settimana dopo
       settimana.
+
+
+      L'attesa fino a domenica prossima è troppo lunga? Leggi i numeri
+      precedenti qui!
 
     styles:
       self:
