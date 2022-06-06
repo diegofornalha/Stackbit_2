@@ -101,6 +101,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        margin:
+          - mt-24
       title:
         textAlign: left
       subtitle:
