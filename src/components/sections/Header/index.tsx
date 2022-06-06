@@ -11,7 +11,7 @@ import { Action } from '../../atoms';
 
 
 export default function Header(props) {
-    const { headerVariant, isSticky, title, isTitleVisible, logo, actions, primaryLinks = [], socialLinks = [], styles = {}, annotationPrefix } = props;
+    const { headerVariant, isSticky, title, isTitleVisible, logo, actions = [], primaryLinks = [], socialLinks = [], styles = {}, annotationPrefix } = props;
     const headerWidth = styles.self?.width ?? 'narrow';
     return (
         <header
