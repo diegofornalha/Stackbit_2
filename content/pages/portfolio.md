@@ -82,7 +82,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: I miei lavori di UX  e Product Design
+    title: UX  e Product Design
     subtitle: Una selezione dei progetti più interessanti a cui ho lavorato
     projects:
       - content/pages/projects/project-three.md
