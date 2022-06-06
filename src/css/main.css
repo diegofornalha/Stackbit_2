@@ -178,7 +178,7 @@ h2 {
     }
 
     #iscrizione_kit svg {
-        @appky fill-primary;
+        @apply fill-primary;
     }
 
     #iscrizione_kit:hover {
