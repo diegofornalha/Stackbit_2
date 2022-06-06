@@ -194,9 +194,40 @@ sections:
             fontWeight: 400
             fontStyle: normal
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: >
+          In qualità di Digital Marketing Manager per CybeRefund, una start-up
+          Insurtech, ho avuto modo di lavorare con Daniele per lo stesso team di
+          marketing di cinque professionisti che comprendeva, oltre a noi, una
+          Social Media Manager, un Direttore Marketing e una Customer Service
+          Manager. 
+
+
+          Durante il periodo trascorso assieme, Daniele ha fatto moltissimi
+          progressi ed è diventato uno UX Designer insostituibile. 
+
+
+          Negli ultimi anni si è impegnato a costruire pagine web responsive in
+          modo metodico e preciso, ponendo molta attenzione all'esperienza di
+          navigazione degli utenti. 
+
+
+          Ogni giorno ha lavorato al fianco dei Product Managers per innovare il
+          nuovo portale, l'app e la web app. 
+
+
+          Daniele è un vulcano pronto a condividere idee originali grazie a
+          processi creativi inaspettati. 
+
+
+          A livello interpersonale ha dato un contributo importante al nostro
+          team, proponendo nuovi strumenti online per aiutarci a migliorare i
+          processi produttivi.
+
+
+          Inoltre, è sempre stato propositivo e collaborativo. 
+
+
+          Consiglio di visitare il suo portfolio, in continua evoluzione!
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
