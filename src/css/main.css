@@ -181,6 +181,8 @@ h2 {
         @apply border-b border-primary;
     }
 
+    
+
     /* Links */
     .sb-component-link {
         @apply text-lg inline-flex items-center justify-center no-underline relative;
