@@ -82,7 +82,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: I miei lavori di UX  e Product Design
     subtitle: Featured projects section example
     projects:
       - content/pages/projects/project-three.md
