@@ -107,7 +107,7 @@ function HeaderVariantC(props) {
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {socialLinks.length > 0 && (
-                <ul className="hidden lg:flex border-l border-current ml-auto" data-sb-field-path=".socialLinks">
+                <ul className="hidden lg:flex border-b border-current ml-auto" data-sb-field-path=".socialLinks">
                     <ListOfSocialLinks links={socialLinks} inMobileMenu={false} />
                 </ul>
             )}
