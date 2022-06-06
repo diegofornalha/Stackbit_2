@@ -170,7 +170,7 @@ sections:
           name: message
           label: Come mai vuoi parlare con me?
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Come mai vuoi parlare con me?
           isRequired: true
           width: full
         - type: CheckboxFormControl
