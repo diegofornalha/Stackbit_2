@@ -181,7 +181,7 @@ h2 {
  
     #iscrizione_kit  svg {
         @layer fill-secondary;
-        @apply text-primary;
+        @apply text-secondary;
     }
 
 
