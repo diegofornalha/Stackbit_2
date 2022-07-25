@@ -221,7 +221,7 @@ h2 {
   height: calc(100% - 1px);
 }
 
-.button-53:hover:after {
+#iscrizione_kit:hover:after {
   bottom: 2px;
   left: 2px;
 }
