@@ -35,16 +35,7 @@
                 "label": "NEWSLETTER"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
