@@ -162,7 +162,7 @@ function MobileMenu(props) {
                         <SiteLogoLink {...logoProps} />
                         <div className="border-l border-current">
                             <button aria-label="Close Menu" className="h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(false)}>
-                                <CloseIcon className="fill-primary h-6 w-6" />
+                                <CloseIcon className="fill-red h-6 w-6" />
                             </button>
                         </div>
                     </div>
