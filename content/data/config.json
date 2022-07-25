@@ -22,6 +22,16 @@
                 "iconPosition": "right",
                 "elementId": "iscrizione_kit",
                 "label": "NEWSLETTER"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
