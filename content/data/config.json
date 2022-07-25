@@ -14,7 +14,7 @@
                 "elementId": "comincia_qui"
             },
             {
-                "type": "Link",
+                "type": "Button",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
                 "showIcon": true,
@@ -24,7 +24,7 @@
                 "label": "ISCRIVITI"
             }
 
-            
+
         ],
 
 
