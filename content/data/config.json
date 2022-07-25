@@ -15,12 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "elementId": "blog_nav"
-            },
-            {
-                "type": "Link",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
                 "showIcon": true,
