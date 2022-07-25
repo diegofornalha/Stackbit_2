@@ -133,34 +133,37 @@ sections:
     variant: variant-b
     title: Hai scelto il formato settimanale?
     subtitle: Domenica riceverai il tuo primo Kit!
-    text: >+
-      Riceverai una email ogni domenica.
+    text: >
+      Riceverai una email **ogni domenica**.
 
 
       Nella email troverai una selezione dei link più utili per i lettori del
       Kit:
 
 
-      *   il link al contenuto migliore condiviso nella newsletter giornaliera;
+      *   il link al **contenuto **migliore condiviso nella newsletter
+      giornaliera;
 
 
-      *   il link alla risorsa più utile di quelle inviate nel corso della
+      *   il link alla **risorsa **più utile di quelle inviate nel corso della
       settimana;
 
 
-      *   il prodotto di Product Hunt che è piaciuto di più;
+      *   il **prodotto di Product Hunt** che è piaciuto di più;
 
 
-      *   la risorsa più apprezzata nel corso della settimana precedente;
+      *   la **risorsa più apprezzata** nel corso della settimana precedente;
 
 
-      *   2 link a sorpresa e che mi riservo di scegliere io settimana dopo
+      *   **2 link a sorpresa **e che mi riservo di scegliere io settimana dopo
       settimana.
 
 
-      L'attesa fino a domenica prossima è troppo lunga? Leggi i numeri
-      precedenti qui!
+      L'attesa fino a domenica prossima è troppo lunga?
 
+
+      [**Leggi i numeri precedenti
+      qui!**](https://kit-sopravvivenza-product-people.ck.page/posts)
     styles:
       self:
         height: auto
