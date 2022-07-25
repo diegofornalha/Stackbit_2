@@ -93,7 +93,7 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-            
+
 
             {socialLinks.length > 0 && (
                 <ul
@@ -240,7 +240,7 @@ function mapMaxWidthStyles(width) {
     }
 }
 
-function Actions(props) {
+function actions(props) {
     const { actions = [], styles = {}, hasTopMargin } = props;
     if (actions.length === 0) {
         return null;
