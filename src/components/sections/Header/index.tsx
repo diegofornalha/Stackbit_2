@@ -22,8 +22,8 @@ export default function Header(props) {
 
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
-                    ' border-current': headerWidth === 'narrow',
-                    '  border-current': headerWidth === 'wide'
+                    'xl:border-l xl:border-r   border-current': headerWidth === 'narrow',
+                    '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
                 })}
             >
                 <Link href="#main" className="sr-only">
