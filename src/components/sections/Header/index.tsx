@@ -69,8 +69,6 @@ function HeaderVariantA(props) {
                 </ul>
             )}
             
-            <HeroActions actions={actions}  hasTopMargin />
-
 
 
             {socialLinks.length > 0 && (
