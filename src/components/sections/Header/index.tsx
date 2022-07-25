@@ -160,7 +160,7 @@ function MobileMenu(props) {
                 <div className="flex flex-col min-h-full">
                     <div className="border-b border-current flex items-stretch justify-between">
                         <SiteLogoLink {...logoProps} />
-                        <div className="border-l border-current">
+                        <div className="border-l border-b border-current">
                             <button aria-label="Close Menu" className="h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(false)}>
                                 <CloseIcon className="fill-current h-6 w-6" />
                             </button>
