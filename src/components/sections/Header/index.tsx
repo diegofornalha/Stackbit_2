@@ -90,7 +90,7 @@ function HeaderVariantB(props) {
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
-
+            
             
 
               {actionLinks.length > 0 && (
