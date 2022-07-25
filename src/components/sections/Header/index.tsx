@@ -7,6 +7,7 @@ import { Link, Action, Social } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 
 
 
