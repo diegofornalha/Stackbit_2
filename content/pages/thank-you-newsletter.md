@@ -141,24 +141,25 @@ sections:
       Kit:
 
 
-      *   il link al contenuto migliore condiviso nella newsletter giornaliera;
+      *   il link al **contenuto **migliore condiviso nella newsletter
+      giornaliera;
 
 
-      *   il link alla risorsa più utile di quelle inviate nel corso della
+      *   il link alla **risorsa **più utile di quelle inviate nel corso della
       settimana;
 
 
-      *   il prodotto di Product Hunt che è piaciuto di più;
+      *   il **prodotto di Product Hunt** che è piaciuto di più;
 
 
-      *   la risorsa più apprezzata nel corso della settimana precedente;
+      *   la **risorsa più apprezzata** nel corso della settimana precedente;
 
 
-      *   2 link a sorpresa e che mi riservo di scegliere io settimana dopo
+      *   **2 link a sorpresa **e che mi riservo di scegliere io settimana dopo
       settimana.
 
 
-      L'attesa fino a domenica prossima è troppo lunga? 
+      L'attesa fino a domenica prossima è troppo lunga?
 
 
       [**Leggi i numeri precedenti
