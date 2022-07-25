@@ -178,8 +178,9 @@ h2 {
         @layer fill-primary;
         @apply my-2;
         @apply mx-2;
+        }
+
         
-    }
  
     #iscrizione_kit  svg {
         @layer fill-secondary;
