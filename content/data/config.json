@@ -11,7 +11,7 @@
                 "type": "Link",
                 "label": "ABOUT",
                 "url": "/info",
-                "elementId": "comincia_qui"
+                "elementId": "about"
             },
             {
                 "type": "Link",
@@ -21,7 +21,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "digital_garden"
             },
             {
                 "type": "Button",
@@ -30,6 +30,7 @@
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                "style": "primary",
                 "elementId": "iscrizione_kit",
                 "label": "NEWSLETTER"
             }

@@ -152,12 +152,12 @@ h2 {
 
     /* Buttons */
     .sb-component-button {
-        @apply text-lg border-2 border-primary inline-flex items-center justify-center no-underline relative text-center transition duration-200 ease-in;
+        @apply text-lg border-2 border-primary inline-flex items-center justify-center no-underline relative text-center transition duration-200 ease-in; 
         box-shadow: none;
     }
     .sb-component-button:not(.sb-component-button-no-hover):hover,
     .group:hover .sb-component-button:not(.sb-component-button-no-hover) {
-        box-shadow: 0 6px 0 0 #FEE715;
+        /* box-shadow: 0 6px 0 0 #FEE715; */
         transform: translate(0, -6px);
     }
 
@@ -175,8 +175,7 @@ h2 {
 
      #iscrizione_kit {
         @apply text-primary;
-        @apply bg-primary;
-        @apply text-secondary;
+        @layer fill-primary;
     }
  
     #iscrizione_kit  svg {
@@ -226,6 +225,19 @@ h2 {
         transition: opacity 0.25s ease-in-out;
     }
 
+
+    /* Header Link Destra */
+    #digital_garden {
+        @apply border-b border-l;
+    }
+
+    #about {
+        @apply border-b border-l;
+    }
+
+
+
+
     /* Header links hover */
     .sb-component-link-fill,
     .sb-component-social-fill,
@@ -234,7 +246,7 @@ h2 {
         transition: color 0.25s ease-in-out;
         transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
         z-index: 1;
-        /* @apply border-b border-current; */
+        @apply border-b border-current; 
 
     }
     .sb-component-link-fill:before,

@@ -16,13 +16,13 @@ export default function Header(props) {
     const headerWidth = styles.self?.width ?? 'narrow';
     return (
         <header
-            className={classNames('sb-component', 'border', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative')}
+            className={classNames('sb-component', 'sb-component-header', isSticky ? 'sticky top-0 z-10' : 'relative')}
             data-sb-field-path={`${annotationPrefix}:header`}
         >
 
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
-                    'xl:border-l xl:border-r border-current': headerWidth === 'narrow',
+                    'xl:border-l xl:border-r   border-current': headerWidth === 'narrow',
                     '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
                 })}
             >
@@ -87,7 +87,7 @@ function HeaderVariantB(props) {
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
+                <ul className="hidden lg:flex  ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
@@ -152,16 +152,16 @@ function MobileMenu(props) {
 
     return (
         <div className="ml-auto lg:hidden">
-            <button aria-label="Open Menu" className="border-l border-current h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(true)}>
+            <button aria-label="Open Menu" className="border-l border-b border-current h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(true)}>
                 <span className="sr-only">Open Menu</span>
                 <MenuIcon className="fill-current h-6 w-6" />
             </button>
             <div className={classNames('sb-header-overlay', 'fixed', 'inset-0', 'overflow-y-auto', 'z-20', isMenuOpen ? 'block' : 'hidden')}>
                 <div className="flex flex-col min-h-full">
-                    <div className="border-b border-current flex items-stretch justify-between">
+                    <div className=" flex items-stretch justify-between">
                         <SiteLogoLink {...logoProps} />
                         <div className="border-l border-current">
-                            <button aria-label="Close Menu" className="h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(false)}>
+                            <button aria-label="Close Menu" className="border-b border-current h-10 min-h-full p-4 focus:outline-none" onClick={() => setIsMenuOpen(false)}>
                                 <CloseIcon className="fill-current h-6 w-6" />
                             </button>
                         </div>
