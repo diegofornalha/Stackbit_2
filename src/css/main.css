@@ -176,7 +176,7 @@ h2 {
      #iscrizione_kit {
         @apply text-primary;
         @apply bg-primary;
-        @apply text-current;
+        @apply text-secondary;
     }
  
     #iscrizione_kit  svg {
