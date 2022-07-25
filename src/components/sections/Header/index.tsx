@@ -93,7 +93,6 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-
             {socialLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', {
