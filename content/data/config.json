@@ -24,8 +24,25 @@
                 "label": "ISCRIVITI"
             }
         ],
-        "HeroAction": [],
-        
+        "HeroAction": [[
+            {
+                "type": "Link",
+                "label": "ABOUT",
+                "url": "/info",
+                "elementId": "comincia_qui"
+            },
+            {
+                "type": "Link",
+                "altText": "",
+                "url": "/kit-sopravvivenza-product-people",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "iscrizione_kit",
+                "label": "ISCRIVITI"
+            }
+        ],
+
 
 
 
