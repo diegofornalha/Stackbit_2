@@ -85,11 +85,7 @@ function HeaderVariantB(props) {
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
-                    <div className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', mapStyles(styles))} data-sb-field-path=".actions">
-                {actions.map((action, index) => (
-                    <Action key={index} {...action} className="my-2 mx-2 lg:whitespace-nowrap border-primary mt-8 text-primary" data-sb-field-path={`.${index}`} />
-                ))}
-            </div>
+                    
                 </ul>
             )}
             {socialLinks.length > 0 && (
