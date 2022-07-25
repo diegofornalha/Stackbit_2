@@ -27,7 +27,7 @@
                 "type": "Button",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
