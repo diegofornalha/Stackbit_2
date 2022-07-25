@@ -30,6 +30,8 @@
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
+                                "style": "primary",
+
                 "elementId": "iscrizione_kit",
                 "label": "NEWSLETTER"
             }
