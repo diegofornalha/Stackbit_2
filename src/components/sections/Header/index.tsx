@@ -92,6 +92,8 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
+            primaryActions
+
 
 
             {socialLinks.length > 0 && (
