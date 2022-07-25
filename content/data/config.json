@@ -21,13 +21,9 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "iscrizione_kit",
-                "label": "ISCRIVITI"
+                "label": "NEWSLETTER"
             }
-
-
         ],
-
-
         "socialLinks": [],
         "styles": {
             "self": {
