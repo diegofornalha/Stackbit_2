@@ -92,7 +92,7 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-            {primaryActions.
+            {primaryActions.lengh
 
 
 
