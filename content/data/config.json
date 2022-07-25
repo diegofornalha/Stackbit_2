@@ -11,7 +11,7 @@
                 "type": "Link",
                 "label": "ABOUT",
                 "url": "/info",
-                "elementId": "comincia_qui"
+                "elementId": "about"
             },
             {
                 "type": "Link",
