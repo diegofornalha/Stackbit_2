@@ -82,6 +82,7 @@ fields:
         url: /
         elementId: false
         showIcon: true
+    
   - type: style
     name: styles
     styles:
