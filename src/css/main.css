@@ -199,6 +199,7 @@ h2 {
 
     #about {
         /* @apply border-b border-l; */
+     @apply pt-4;
     }
 
     /* #__next > div > div > header > div > div > ul > li:nth-child(3) {
