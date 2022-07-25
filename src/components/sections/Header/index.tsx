@@ -87,6 +87,7 @@ function HeaderVariantB(props) {
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
+            
             {socialLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', {
