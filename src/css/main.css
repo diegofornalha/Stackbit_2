@@ -178,7 +178,7 @@ h2 {
     }
  
     #iscrizione_kit {
-        @apply fill-red;
+        @layer fill-red;
     }
 
 
