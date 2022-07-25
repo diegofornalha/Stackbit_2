@@ -178,7 +178,7 @@ h2 {
     }
  
     #iscrizione_kit svg {
-        @apply stroke-primary;
+        @apply stroke-red;
     }
 
 
