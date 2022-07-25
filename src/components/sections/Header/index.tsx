@@ -91,25 +91,7 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-            function Actions(props) {
-    const { actions = [], styles = {}, hasTopMargin } = props;
-    if (actions.length === 0) {
-        return null;
-    }
-    return (
-        <div
-            className={classNames('overflow-x-hidden', {
-                'mt-8': hasTopMargin
-            })}
-        >
-            <div className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', mapStyles(styles))} data-sb-field-path=".actions">
-                {actions.map((action, index) => (
-                    <Action key={index} {...action} className="my-2 mx-2 lg:whitespace-nowrap border-primary mt-8 text-primary" data-sb-field-path={`.${index}`} />
-                ))}
-            </div>
-        </div>
-    );
-}
+            
 
             
 
