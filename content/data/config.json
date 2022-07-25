@@ -15,19 +15,23 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "elementId": "blog_nav"
+                "label": "DIGITAL GARDEN",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
-                "type": "Link",
+                "type": "Button",
                 "altText": "",
                 "url": "/kit-sopravvivenza-product-people",
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "iscrizione_kit",
-                "label": "ISCRIVITI"
+                "label": "NEWSLETTER"
             }
         ],
         "socialLinks": [],
@@ -43,29 +47,7 @@
             "caption": "Caption of the image",
             "elementId": ""
         },
-        "actions": [
-            {
-                "type": "Link",
-                "label": "Cose",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            }
-        ]
+        "actions": []
     },
     "footer": {
         "primaryLinks": [

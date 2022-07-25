@@ -7,6 +7,8 @@ import { Link, Action, Social } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
+import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+
 
 
 export default function Header(props) {
@@ -57,7 +59,7 @@ function HeaderVariants(props) {
 
 
 function HeaderVariantA(props) {
-    const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
+    const { primaryLinks = [], socialLinks = [], actions = [], ...logoProps } = props;
     return (
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
@@ -66,6 +68,9 @@ function HeaderVariantA(props) {
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
+            
+
+
             {socialLinks.length > 0 && (
                 <ul className="hidden lg:flex border-l border-current ml-auto" data-sb-field-path=".socialLinks">
                     <ListOfSocialLinks links={socialLinks} inMobileMenu={false} />
@@ -77,7 +82,7 @@ function HeaderVariantA(props) {
 }
 
 function HeaderVariantB(props) {
-    const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
+    const { primaryLinks = [], socialLinks = [], primaryActions = [], actions = [], styles = {}, hasTopMargin, ...logoProps } = props;
     return (
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
@@ -86,6 +91,7 @@ function HeaderVariantB(props) {
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
+
             {socialLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', {
