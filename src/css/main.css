@@ -197,7 +197,7 @@ h2 {
     }
 
     #about {
-        @apply border-b border-l;
+        /* @apply border-b border-l;
     }
 
     /* #__next > div > div > header > div > div > ul > li:nth-child(3) {
