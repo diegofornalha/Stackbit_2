@@ -95,7 +95,7 @@ function HeaderVariantB(props) {
                 <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
                     <primaryActions />
             </ul>
-            )}
+\
 
 
 
