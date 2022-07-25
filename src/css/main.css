@@ -178,7 +178,7 @@ h2 {
     }
  
     #iscrizione_kit {
-        @apply stroke-red;
+        @apply fill-red;
     }
 
 
