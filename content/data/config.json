@@ -21,7 +21,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "digital_garden"
             },
             {
                 "type": "Button",
