@@ -178,7 +178,7 @@ h2 {
     }
  
     svg {
-        @layer fill-primary;
+        @apply fill-primary;
     }
 
 
