@@ -7,6 +7,8 @@ import { Link, Action, Social } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
+import { Action } from '../../atoms';
+
 
 
 export default function Header(props) {
