@@ -191,14 +191,14 @@ h2 {
     } 
 
     
-    /* Header Link Destra */
+    /* Header Link Destra 
     #digital_garden {
         @apply border-b border-l border-r;
     }
 
     #about {
         @apply border-b border-l;
-    }
+    }*/
 
     /* #__next > div > div > header > div > div > ul > li:nth-child(3) {
         @apply border-b border-primary;
