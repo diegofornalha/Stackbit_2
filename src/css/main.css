@@ -194,7 +194,7 @@ h2 {
     /* Header Link Destra */
     #digital_garden {
         /* @apply border-b border-l border-r; */
-    @apply pt-
+    @apply pt-2;
     }
 
     #about {
