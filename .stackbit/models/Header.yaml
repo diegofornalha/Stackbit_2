@@ -82,7 +82,7 @@ fields:
         url: /
         elementId: false
         showIcon: true
-    type: list
+  type: list
     name: actions
     label: Actions
     items:
