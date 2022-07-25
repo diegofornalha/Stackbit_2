@@ -69,7 +69,7 @@ function HeaderVariantA(props) {
             )}
              {actionLinks.length > 0 && (
                 <ul className="hidden lg:flex divide-x divide-current border-r border-current" data-sb-field-path=".primaryLinks">
-                    <ListOfActions links={primaryLinks} inMobileMenu={false} />
+                    <Action links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
 
