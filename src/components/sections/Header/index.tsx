@@ -67,7 +67,8 @@ function HeaderVariantA(props) {
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
-           
+                               <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
+
 
 
             {socialLinks.length > 0 && (
