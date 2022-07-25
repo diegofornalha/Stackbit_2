@@ -177,7 +177,7 @@ h2 {
         @apply text-primary;
     }
  
-    #iscrizione_kit {
+    #iscrizione_kit svg {
         @layer text-red;
     }
 
