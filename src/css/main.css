@@ -231,7 +231,7 @@ h2 {
     }
 
     #about {
-        
+        @apply border-b border-l;
     }
 
 
