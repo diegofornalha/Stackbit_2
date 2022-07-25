@@ -68,7 +68,7 @@ function HeaderVariantA(props) {
                 </ul>
             )}
             
-            <HeroActions actions={actions} styles={styles.actions} hasTopMargin />
+            <HeroActions actions={actions}  hasTopMargin />
 
 
 
