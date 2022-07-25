@@ -240,7 +240,7 @@ function mapMaxWidthStyles(width) {
     }
 }
 
-function actions(props) {
+function primaryActions(props) {
     const { actions = [], styles = {}, hasTopMargin } = props;
     if (actions.length === 0) {
         return null;
