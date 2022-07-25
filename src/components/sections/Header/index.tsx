@@ -91,6 +91,12 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
+              {actionLinks.length > 0 && (
+                <ul className="hidden lg:flex divide-x divide-current border-r border-current" data-sb-field-path=".primaryLinks">
+                    <Action links={Action} inMobileMenu={false} />
+                </ul>
+            )}
+
             {socialLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', {
