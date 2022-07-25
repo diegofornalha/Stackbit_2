@@ -81,14 +81,23 @@ function HeaderVariantA(props) {
 }
 
 function HeaderVariantB(props) {
-    const { primaryLinks = [], socialLinks = [], actions = [], styles = {}, hasTopMargin, ...logoProps } = props;
+    const { primaryLinks = [], socialLinks = [], actionLinks = [], styles = {}, hasTopMargin, ...logoProps } = props;
     return (
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />                
-                    <Actions actions={actions} styles={styles.actions} hasTopMargin />
+                </ul>
+            )}
+
+            
+
+            
+
+              {actionLinks.length > 0 && (
+                <ul className="hidden lg:flex divide-x divide-current border-r border-current" data-sb-field-path=".primaryLinks">
+                    <Action links={Action} inMobileMenu={false} />
                 </ul>
             )}
 
