@@ -94,9 +94,6 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-            <HeroActions actions={actions} styles={styles.actions} hasTopMargin />
-
-
             {socialLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', {
