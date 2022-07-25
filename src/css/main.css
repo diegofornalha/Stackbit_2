@@ -157,7 +157,7 @@ h2 {
     }
     .sb-component-button:not(.sb-component-button-no-hover):hover,
     .group:hover .sb-component-button:not(.sb-component-button-no-hover) {
-        box-shadow: 0 6px 0 0 #FEE715; 
+        box-shadow: 0 6px 0 0 #FEE715; */
         transform: translate(0, -6px);
     }
 
