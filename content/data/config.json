@@ -14,16 +14,6 @@
                 "elementId": "comincia_qui"
             },
             {
-                "type": "Button",
-                "altText": "",
-                "url": "/kit-sopravvivenza-product-people",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "iscrizione_kit",
-                "label": "NEWSLETTER"
-            },
-            {
                 "type": "Link",
                 "label": "DIGITAL GARDEN",
                 "altText": "",
@@ -32,6 +22,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Button",
+                "altText": "",
+                "url": "/kit-sopravvivenza-product-people",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "iscrizione_kit",
+                "label": "NEWSLETTER"
             }
         ],
         "socialLinks": [],
