@@ -176,6 +176,8 @@ h2 {
      #iscrizione_kit {
         @apply text-primary;
         @layer fill-primary;
+        @apply my-2;
+        @apply mx-2;
     }
  
     #iscrizione_kit  svg {
@@ -187,6 +189,17 @@ h2 {
     #iscrizione_kit:hover {
         @apply bg-secondary text-secondary;
     } 
+
+    
+    /* Header Link Destra */
+    #digital_garden {
+        /* @apply border-b border-l border-r; */
+    }
+
+    #about {
+        /* @apply border-b border-l; */
+     @apply pt-4;
+    }
 
     /* #__next > div > div > header > div > div > ul > li:nth-child(3) {
         @apply border-b border-primary;
@@ -226,14 +239,6 @@ h2 {
     }
 
 
-    /* Header Link Destra */
-    #digital_garden {
-        @apply border-b border-l;
-    }
-
-    #about {
-        @apply border-b border-l;
-    }
 
 
 
@@ -246,7 +251,6 @@ h2 {
         transition: color 0.25s ease-in-out;
         transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
         z-index: 1;
-        @apply border-b border-current; 
 
     }
     .sb-component-link-fill:before,

@@ -22,8 +22,8 @@ export default function Header(props) {
 
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
-                    'xl:border-l xl:border-r   border-current': headerWidth === 'narrow',
-                    '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
+                   /* 'xl:border-l xl:border-r   border-current': headerWidth === 'narrow',
+                    '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide' */
                 })}
             >
                 <Link href="#main" className="sr-only">
@@ -191,7 +191,7 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
         return null;
     }
     return (
-        <div className="border-r border-current flex items-center">
+        <div className="flex items-center">
             <Link href="/" className="sb-header-logo flex items-center h-full p-4">
                 {logo && <ImageBlock {...logo} className={classNames('max-h-12', { 'mr-2': isTitleVisible })} data-sb-field-path=".logo" />}
                 {title && isTitleVisible && (
