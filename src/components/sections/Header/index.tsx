@@ -58,7 +58,7 @@ function HeaderVariants(props) {
 
 
 function HeaderVariantA(props) {
-    const { primaryLinks = [], socialLinks = [], ActionLinks = [], ...logoProps } = props;
+    const { primaryLinks = [], socialLinks = [], actionLinks = [], ...logoProps } = props;
     return (
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
