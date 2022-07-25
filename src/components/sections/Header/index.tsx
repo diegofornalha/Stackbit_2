@@ -247,7 +247,7 @@ function mapMaxWidthStyles(width) {
 }
 
 
-function HeroActions(props) {
+function Actions(props) {
     const { actions = [], styles = {}, hasTopMargin } = props;
     if (actions.length === 0) {
         return null;
