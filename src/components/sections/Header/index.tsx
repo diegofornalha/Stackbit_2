@@ -85,7 +85,7 @@ function HeaderVariantB(props) {
     const { primaryLinks = [], socialLinks = [], primaryActions = [], actions = [], styles = {}, hasTopMargin, ...logoProps } = props;
     return (
         <div className="flex items-stretch relative">
-            <SiteLogoLink {...logoProps} className="border-b" />
+            <SiteLogoLink {...logoProps} className="border-b border-current" />
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex  ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
