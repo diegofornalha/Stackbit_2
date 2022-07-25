@@ -87,7 +87,7 @@ function HeaderVariantB(props) {
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
+                <ul className="hidden lg:flex  ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
