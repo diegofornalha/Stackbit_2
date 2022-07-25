@@ -83,7 +83,7 @@ fields:
         elementId: false
         showIcon: true
     type: list
-    name: actions
+      name: actions
     label: Actions
     items:
       type: model
