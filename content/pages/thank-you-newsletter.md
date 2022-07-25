@@ -133,8 +133,8 @@ sections:
     variant: variant-b
     title: Hai scelto il formato settimanale?
     subtitle: Domenica riceverai il tuo primo Kit!
-    text: >+
-      Riceverai una email ogni domenica.
+    text: >
+      Riceverai una email **ogni domenica**.
 
 
       Nella email troverai una selezione dei link più utili per i lettori del
@@ -158,9 +158,11 @@ sections:
       settimana.
 
 
-      L'attesa fino a domenica prossima è troppo lunga? Leggi i numeri
-      precedenti qui!
+      L'attesa fino a domenica prossima è troppo lunga? 
 
+
+      [**Leggi i numeri precedenti
+      qui!**](https://kit-sopravvivenza-product-people.ck.page/posts)
     styles:
       self:
         height: auto
