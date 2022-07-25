@@ -35,6 +35,7 @@ export default function Header(props) {
                     logo={logo}
                     primaryLinks={primaryLinks}
                     socialLinks={socialLinks}
+                    ac
                 />
             </div>
         </header>
