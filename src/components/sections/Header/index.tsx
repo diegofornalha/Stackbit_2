@@ -94,7 +94,7 @@ function HeaderVariantB(props) {
                 </ul>
             )}
 
-            <HeroActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle || text)} />
+            <HeroActions actions={actions} styles={styles.actions} hasTopMargin />
 
 
             {socialLinks.length > 0 && (
