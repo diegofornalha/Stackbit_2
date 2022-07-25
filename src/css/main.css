@@ -177,6 +177,8 @@ h2 {
         @apply text-primary;
     }
 
+    
+
     #iscrizione_kit:hover {
         @apply bg-secondary text-secondary;
     } 
