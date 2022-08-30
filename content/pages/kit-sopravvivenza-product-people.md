@@ -6,7 +6,7 @@ metaTags:
   - type: MetaTag
     property: 'og:image'
     content: 'https://danieledamico.tech/images/504 (1).jpg'
-title: Kit di sopravvivenza per product people
+title: Kit di sopravvivenza per creator
 colors: colors-a
 sections:
   - type: HeroSection
