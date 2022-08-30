@@ -112,7 +112,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title2: padrone del caos di prodotto
+    title2: un creator senza problemi
   - type: FeaturedProjectsSection
     colors: colors-e
     elementId: anteprima
