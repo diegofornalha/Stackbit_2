@@ -15,14 +15,18 @@ sections:
     backgroundSize: full
     title: 'Diventa '
     text: >+
-      Iscriviti più di 100 creator che hanno le idee chiare. Ogni settimana (o
-      ogni giorno) ti manderò una email che ti aiuterà a risolvere i 3 più
-      grandi problemi dei creator: **audience building, monetization e
-      produttività**.
+      Iscriviti più di 100 creator che hanno le idee chiare. 
+
+
+      Ogni settimana (o ogni giorno) ti manderò una email che ti aiuterà a
+      risolvere i 3 più grandi problemi dei creator: **audience building,
+      monetization e produttività**.
 
 
       <Script async data-uid="c4fbdd0325"
       src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+
+
 
 
 
