@@ -14,39 +14,20 @@ sections:
     elementId: hero_newsletter
     backgroundSize: full
     title: Diventa
-    text: >+
+    text: >
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
-      Ogni settimana riceverai **consigli e tattiche per risolvere **i 3 più
+      Ogni settimana riceverai \*\*consigli e tattiche per risolvere \*\*i 3 più
       grandi problemi dei creator: **audience building, monetization e
       produttività**.
 
 
       <Script async data-uid="8b13a48318"
-      src="https://kit-sopravvivenza-product-people.ck.page/8b13a48318/index.js"
-      />
+      src="https://kit-sopravvivenza-creator.ck.page/8b13a48318/index.js"/>
 
 
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     actions:
       - type: Link
         label: Vuoi un'anteprima?
