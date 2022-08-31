@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSPP #02: Coming soon, senza attese!"
+title: "\U0001F9F0 KSC #02: Coming soon, senza attese!"
 colors: colors-a
 date: '2022-05-19'
 description: 'Processi di design, shortcut e pagine coming soon'
