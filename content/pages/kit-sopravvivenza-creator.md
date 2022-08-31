@@ -13,14 +13,14 @@ sections:
     colors: colors-f
     elementId: hero_newsletter
     backgroundSize: full
-    title: 'Diventa '
+    title: Diventa
     text: >+
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
-      Ogni settimana (o ogni giorno) ti manderò una email che ti aiuterà a
-      risolvere i **3 più grandi problemi** dei creator: **audience building,
-      monetization e produttività**.
+      Ogni settimana ti manderò una email che ti aiuterà a risolvere i **3 più
+      grandi problemi** dei creator: **audience building, monetization e
+      produttività**.
 
 
       <Script async data-uid="8b13a48318"
@@ -28,9 +28,15 @@ sections:
       />
 
 
+      > ["Ogni volta che arriva il Kit, so che ci sarà qualcosa di
+      utile!"]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
 
 
-      > "Ogni volta che arriva la il Kit, so che ci sarà qualcosa di utile!" 
+
+
+
+
+
 
 
 
@@ -72,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title2: un creator senza problemi
+    title2: ' un creator senza problemi'
   - type: FeaturedProjectsSection
     colors: colors-e
     elementId: testimonials
