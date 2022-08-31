@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSC #01: Ecco il tuo primo Kit!"
+title: "\U0001F9F0 KSC #01: Questo KIt lo vuoi leggere!"
 colors: colors-a
 description: 'Validazione, Copywriting e stile per i tuoi progetTi'
 bottomSections: []
