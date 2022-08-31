@@ -32,6 +32,16 @@ sections:
       utile!"]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
 
 
+      <Script async data-uid="a43c72b0bc"
+      src="https://kit-sopravvivenza-creator.ck.page/a43c72b0bc/index.js" />
+
+
+
+
+
+
+
+
 
 
 
