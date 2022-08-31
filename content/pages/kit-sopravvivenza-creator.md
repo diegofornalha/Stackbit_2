@@ -78,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title2: ' ai problemi dei creator'
+    title2: un creator senza problemi
   - type: FeaturedProjectsSection
     colors: colors-e
     elementId: testimonials
