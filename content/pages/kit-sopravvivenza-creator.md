@@ -18,8 +18,8 @@ sections:
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
-      Ogni settimana riceverai **consigli e tattiche per risolvere i** **3 più
-      grandi problemi** dei creator: **audience building, monetization e
+      Ogni settimana riceverai **consigli e tattiche per risolvere **i 3 più
+      grandi problemi dei creator: **audience building, monetization e
       produttività**.
 
 
@@ -29,6 +29,8 @@ sections:
 
 
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
 
 
 
