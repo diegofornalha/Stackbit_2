@@ -107,9 +107,9 @@ sections:
         width: wide
         padding:
           - pt-14
-          - pb-24
-          - pl-4
-          - pr-4
+          - pb-14
+          - pl-14
+          - pr-14
         alignItems: center
         justifyContent: center
         flexDirection: row
