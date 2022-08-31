@@ -30,7 +30,9 @@ sections:
 
 
 
-      > "Ogni volta che arriva la tua e-mail, so che ci sarà qualcosa di utile!"
+      > "Ogni volta che arriva la il Kit, so che ci sarà qualcosa di utile!" 
+
+
 
 
 
@@ -73,7 +75,7 @@ sections:
     title2: un creator senza problemi
   - type: FeaturedProjectsSection
     colors: colors-e
-    elementId: anteprima
+    elementId: testimonials
     showDate: false
     showDescription: true
     showFeaturedImage: true
