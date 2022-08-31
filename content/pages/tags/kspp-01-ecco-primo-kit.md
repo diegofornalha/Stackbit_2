@@ -100,10 +100,6 @@ Ed ecco quelle di questa settimana.
 
 ***
 
-***
-
-***
-
 ## 👥 UNA RISORSA DI AUDIENCE BUILDING
 
 Lui non è una risorsa, è una persona.
@@ -139,4 +135,3 @@ No davvero, hai mai provato a fare un attimo mente locale?
 In quanti modi puoi monetizzare la tua audience?
 
 ​[Ecco, direi che questa lista è piuttosto precisa.](https://www.podia.com/articles/how-to-monetize-your-audience)
-
