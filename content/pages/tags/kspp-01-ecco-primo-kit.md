@@ -24,6 +24,16 @@ media:
   elementId: ''
 date: '2022-05-18'
 ---
+### TL;DR
+- Che problemi hanno i creator?
+- Una risorsa di audience building;
+- Una risorsa di produttività;
+- Una risorsa di monetization.
+
+Il tempo di lettura previsto è: 2 minuti e 37.
+
+***
+
 ## 📝 CHE PROBLEMI HANNO I CREATOR?
 
 Fare il creator è difficile, devi affrontare **centinaia di problemi ogni giorno**.
