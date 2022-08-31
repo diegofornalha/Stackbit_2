@@ -21,7 +21,7 @@ media:
 bottomSections: []
 slug: projectlayout-lusul5b22
 ---
-## TL;DR
+### TL;DR
 
 *   Credibilità in prestito: una guida per i creator con sindrome dell'impostore;
 
@@ -31,13 +31,12 @@ slug: projectlayout-lusul5b22
 
 *   Una risorsa di monetization.
 
-**Il tempo di lettura previsto è: 3** minuti e 19.
+Il tempo di lettura previsto è: 3** minuti e 19.
 
-**​**
 
-​
+**​*
 
-### 📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE
+## 📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE
 
 Ho aspettato mesi prima di **pubblicare su Linkedin**.
 
@@ -63,7 +62,7 @@ Ho capito che **non esiste un solo tipo di credibilità.**
 
 ​
 
-## PENSARE CHE LA CREDIBILITÀ SI GUADAGNI SOLO FACENDO, È L'ERRORE PIÙ GRANDE DI UN CREATOR AGLI INIZI
+### PENSARE CHE LA CREDIBILITÀ SI GUADAGNI SOLO FACENDO, È L'ERRORE PIÙ GRANDE DI UN CREATOR AGLI INIZI
 
 Se lo pensi, sprecherai una delle risorse più importanti: il **tempo**.
 
@@ -130,7 +129,7 @@ Penso che sono stati un’occasione sprecata.
 Non fare il mio stesso errore.
 
 ​
-
+***
 ​
 
 ## 👥 UNA RISORSA DI AUDIENCE BUILDING
@@ -160,4 +159,3 @@ Quanto è convincente la tua CTA?
 Spero parecchio, altrimenti le conversioni saranno poche.
 
 ​[Ecco un consiglio per rendere la tua CTA adatta alle tue esigenze.](https://twitter.com/jonbrosio/status/1561337348683714560)
-
