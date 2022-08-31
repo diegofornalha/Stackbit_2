@@ -23,17 +23,17 @@ sections:
       monetization e produttività**.
 
 
-      <Script async data-uid="8b13a48318"
+      \<Script async data-uid="8b13a48318"
       src="https://kit-sopravvivenza-product-people.ck.page/8b13a48318/index.js"
       />
 
 
-      > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!" 
+      \> \["Ogni volta che arriva il Kit, so che ci sarà qualcosa di
+      utile!"]\(https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
 
 
-      <blockquote cite="http://example.com/blog/hello-world">
-        <p>The answer is 42.</p>
-      </blockquote>
+
+
 
 
 
