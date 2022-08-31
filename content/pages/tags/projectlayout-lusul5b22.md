@@ -21,7 +21,7 @@ media:
 bottomSections: []
 slug: projectlayout-lusul5b22
 ---
-### TL;DR
+### **TL;DR**
 
 *   Credibilità in prestito: una guida per i creator con sindrome dell'impostore;
 
@@ -31,12 +31,11 @@ slug: projectlayout-lusul5b22
 
 *   Una risorsa di monetization.
 
-Il tempo di lettura previsto è: 3** minuti e 19.
+Il tempo di lettura previsto è: 3\*\* minuti e 19.
 
+\**​*
 
-**​*
-
-## 📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE
+## **📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE**
 
 Ho aspettato mesi prima di **pubblicare su Linkedin**.
 
@@ -62,7 +61,7 @@ Ho capito che **non esiste un solo tipo di credibilità.**
 
 ​
 
-### PENSARE CHE LA CREDIBILITÀ SI GUADAGNI SOLO FACENDO, È L'ERRORE PIÙ GRANDE DI UN CREATOR AGLI INIZI
+### **PENSARE CHE LA CREDIBILITÀ SI GUADAGNI SOLO FACENDO, È L'ERRORE PIÙ GRANDE DI UN CREATOR AGLI INIZI**
 
 Se lo pensi, sprecherai una delle risorse più importanti: il **tempo**.
 
@@ -88,7 +87,7 @@ Come ho fatto? E come puoi farlo anche tu?
 
 ​
 
-### NON ESISTE SOLO LA CREDIBILITÀ FIGLIA DELL'ESPERIENZA. CI SONO TRE TIPI DI CREDIBILITÀ
+### **NON ESISTE SOLO LA CREDIBILITÀ FIGLIA DELL'ESPERIENZA. CI SONO TRE TIPI DI CREDIBILITÀ**
 
 *   La credibilità figlia dell’esperienza;
 
@@ -98,7 +97,7 @@ Come ho fatto? E come puoi farlo anche tu?
 
 ​
 
-### QUANDO TE NE MANCA UNA, SCEGLI UNA DELLE ALTRE OPZIONI
+### **QUANDO TE NE MANCA UNA, SCEGLI UNA DELLE ALTRE OPZIONI**
 
 Magari non hai mai fatto quello di cui vuoi parlare.
 
@@ -110,7 +109,7 @@ Allora affidati ad un altro tipo di credibilità.
 
 ​
 
-### NON IMPORTA QUALE SCEGLI, SII TRASPARENTE E NON CI SARANNO PROBLEMI
+### **NON IMPORTA QUALE SCEGLI, SII TRASPARENTE E NON CI SARANNO PROBLEMI**
 
 È questo il modo con cui sono uscito dalla **trappola della voce**.
 
@@ -129,33 +128,35 @@ Penso che sono stati un’occasione sprecata.
 Non fare il mio stesso errore.
 
 ​
+
 ***
+
 ​
 
-## 👥 UNA RISORSA DI AUDIENCE BUILDING
+## **👥 UNA RISORSA DI AUDIENCE BUILDING**
 
 I requisiti per creare un'audience sono pochi.
 
 Pochi ma buoni.
 
-​[Almeno, grazia a questo thread, capirai quali sono e potrai concentrarti sul soddisfarli.](https://twitter.com/thejustinwelsh/status/1551614033530437637)​
+**​**[**Almeno, grazia a questo thread, capirai quali sono e potrai concentrarti sul soddisfarli.**](https://twitter.com/thejustinwelsh/status/1551614033530437637)**​**
 
 ​
 
-## 🚀 UNA RISORSA DI PRODUTTIVITÀ
+## **🚀 UNA RISORSA DI PRODUTTIVITÀ**
 
 Tutti noi usiamo il browser per fare gran parte del nostro lavoro.
 
 E se gli strumenti che utilizziamo non sono affilati, allora anche noi saremo inefficienti.
 
-​[Questo thread renderà il tuo Chrome una macchina di produttività](https://twitter.com/blakeaburge/status/1512765274042343425)​
+**​**[**Questo thread renderà il tuo Chrome una macchina di produttività**](https://twitter.com/blakeaburge/status/1512765274042343425)**​**
 
 ​
 
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
+## **💸 UNA RISORSA PER LA TUA MONETIZATION**
 
 Quanto è convincente la tua CTA?
 
 Spero parecchio, altrimenti le conversioni saranno poche.
 
-​[Ecco un consiglio per rendere la tua CTA adatta alle tue esigenze.](https://twitter.com/jonbrosio/status/1561337348683714560)
+**​**[**Ecco un consiglio per rendere la tua CTA adatta alle tue esigenze.**](https://twitter.com/jonbrosio/status/1561337348683714560)
