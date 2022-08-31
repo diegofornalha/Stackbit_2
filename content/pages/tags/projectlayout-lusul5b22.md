@@ -7,7 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #02: Quando non sei credibile..."
 colors: colors-a
-date: '2022-05-28'
 description: Puoi affidarti alla credibilità di altri
 featuredImage:
   type: ImageBlock
@@ -20,6 +19,7 @@ media:
   altText: Project image
 bottomSections: []
 slug: projectlayout-lusul5b22
+date: '2022-08-28'
 ---
 ### **TL;DR**
 
