@@ -18,7 +18,7 @@ sections:
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
-      Ogni settimana riceverai \*\*consigli e tattiche per risolvere \*\*i 3 più
+      Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
       grandi problemi dei creator: **audience building, monetization e
       produttività**.
 
@@ -36,7 +36,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-        url: 'https://danieledamico.tech/kit-sopravvivenza-product-people/#anteprima'
+        url: 'https://danieledamico.tech/kit-sopravvivenza-product-people#anteprima'
     media:
       type: ImageBlock
       url: /images/Frame 33 (1).webp
