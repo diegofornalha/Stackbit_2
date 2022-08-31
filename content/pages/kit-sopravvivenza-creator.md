@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 addTitleSuffix: true
-socialImage: /images/Instagram Pinned Post.png
+socialImage: /images/Instagram Pinned Post (3).png
 metaTags:
   - type: MetaTag
     property: 'og:image'
