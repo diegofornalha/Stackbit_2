@@ -46,7 +46,7 @@ h2 {
 }
 
 .formkit-powered-by-convertkit-container {
- 
+ display: none !important;
 }
 
 @layer components {
