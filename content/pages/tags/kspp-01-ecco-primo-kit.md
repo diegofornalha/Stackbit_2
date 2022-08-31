@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #01: Questo KIt lo vuoi leggere!"
 colors: colors-a
-description: 'Partire dai problemi,'
+description: Quali sono i problemi dei creator?
 bottomSections: []
 slug: kspp-01-ecco-primo-kit
 featuredImage:
