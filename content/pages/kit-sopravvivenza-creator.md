@@ -99,7 +99,7 @@ sections:
         url: 'https://danieledamico.tech/kit-sopravvivenza-product-people/#anteprima'
     media:
       type: ImageBlock
-      url: /images/Frame 14.webp
+      url: /images/Frame 33 (1).webp
       altText: Hero image
     styles:
       self:
