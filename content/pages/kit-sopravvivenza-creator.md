@@ -30,11 +30,6 @@ sections:
 
 
 
-      > "Ogni volta che arriva la il Kit, so che ci sarà qualcosa di utile!" 
-
-
-
-
 
     actions:
       - type: Link
