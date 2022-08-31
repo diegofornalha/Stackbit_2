@@ -14,7 +14,7 @@ sections:
     elementId: hero_newsletter
     backgroundSize: full
     title: 'Diventa '
-    text: >
+    text: >+
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
@@ -28,8 +28,11 @@ sections:
       />
 
 
-      > ["Ogni volta che arriva il Kit, so che ci sarà qualcosa di
-      utile!"](https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials) 
+      > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!" [Leggi
+      il parere di più di altri 100
+      creator!]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
+
+
     actions:
       - type: Link
         label: Vuoi un'anteprima?
