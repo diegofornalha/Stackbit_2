@@ -28,11 +28,9 @@ sections:
       />
 
 
-      > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!" 
+      > ["Ogni volta che arriva il Kit, so che ci sarà qualcosa di
+      utile!"]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
 
-
-      [Leggi il parere di più di altri 100
-      creator!]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
 
 
     actions:
