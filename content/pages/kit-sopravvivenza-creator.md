@@ -35,13 +35,6 @@ sections:
 
 
 
-      Leggi cosa ne pensano gli altri creator!
-
-
-
-
-
-
 
     actions:
       - type: Link
