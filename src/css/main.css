@@ -38,6 +38,10 @@ h1,
 h2 {
 @apply text-light;
 }
+
+#hero_newsletter p {
+    @apply text-base;
+}
     
 }
 
