@@ -25,16 +25,17 @@ media:
 date: '2022-05-18'
 ---
 ### TL;DR
-- Che problemi hanno i creator?
-- Una risorsa di audience building;
-- Una risorsa di produttività;
-- Una risorsa di monetization.
+
+*   Che problemi hanno i creator?
+*   Una risorsa di audience building;
+*   Una risorsa di produttività;
+*   Una risorsa di monetization.
 
 Il tempo di lettura previsto è: 2 minuti e 37.
 
 ***
 
-## 📝 CHE PROBLEMI HANNO I CREATOR?
+## 📝 **CHE PROBLEMI HANNO I CREATOR?**
 
 Fare il creator è difficile, devi affrontare **centinaia di problemi ogni giorno**.
 
@@ -110,7 +111,7 @@ Ed ecco quelle di questa settimana.
 
 ***
 
-## 👥 UNA RISORSA DI AUDIENCE BUILDING
+## 👥 **UNA RISORSA DI AUDIENCE BUILDING**
 
 Lui non è una risorsa, è una persona.
 
@@ -122,7 +123,7 @@ Ne è così esperto che ha creato il servizio con cui mando queste email.
 
 ​
 
-## 🚀 UNA RISORSA DI PRODUTTIVITÀ
+## 🚀 **UNA RISORSA DI PRODUTTIVITÀ**
 
 Per i creator, il tempo è importante.
 
@@ -136,7 +137,7 @@ E la cosa è impossibile, lo so.
 
 ​
 
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
+## 💸 **UNA RISORSA PER LA TUA MONETIZATION**
 
 Quali sono le opzioni?
 
