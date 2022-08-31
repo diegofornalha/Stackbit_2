@@ -5,10 +5,9 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSPP #02: Coming soon, senza attese!"
+title: "\U0001F9F0 KSC #02: Quando non sei credibile..."
 colors: colors-a
-date: '2022-05-19'
-description: 'Processi di design, shortcut e pagine coming soon'
+description: Puoi affidarti alla credibilità di altri
 featuredImage:
   type: ImageBlock
   url: /images/Frame 18-0d948a46.webp
@@ -20,53 +19,144 @@ media:
   altText: Project image
 bottomSections: []
 slug: projectlayout-lusul5b22
+date: '2022-08-28'
 ---
-Ehi ciao 👋,
+### **TL;DR**
 
-questo è il numero 2 del Kit di Sopravvivenza per Product People.
+*   Credibilità in prestito: una guida per i creator con sindrome dell'impostore;
 
-Ecco i **3 link della giornata,** spero possano esserti utili!
+*   Una risorsa di audience building;
+
+*   Una risorsa di produttività;
+
+*   Una risorsa di monetization.
+
+**Il tempo di lettura previsto è: 3 minuti e 19.**
+
+***
+
+## **📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE**
+
+Ho aspettato mesi prima di **pubblicare su Linkedin**.
+
+Ricordo di averlo desiderato per la prima volta nel 2020, era tipo gennaio. Lo volevo fare eh, ma non ci riuscivo mai.
+
+Mi accomodavo, aprivo l’app per scrivere e cominciavo a farlo.
+
+E dopo qualche ora mi ritrovavo con un post da poter pubblicare.
+
+Poi però sentivo la **voce**.
+
+“Perché dovrebbero leggere il tuo parere?”
+
+“Non sei credibile, non hai fatto nulla per poter dire la tua.”
+
+Ed alla fine? Chiudevo tutto, non pubblicavo.
+
+La voce dell’impostore vinceva sempre, perché **non avevo credibilità**.
+
+Dopo un anno di pubblicazioni su Linkedin, ho capito che mi sbagliavo.
+
+Ho capito che **non esiste un solo tipo di credibilità.**
 
 ​
 
-## 📖 IL CONTENUTO DI OGGI
+### **PENSARE CHE LA CREDIBILITÀ SI GUADAGNI SOLO FACENDO, È L'ERRORE PIÙ GRANDE DI UN CREATOR AGLI INIZI**
 
-Il processo di design ideale non è quello che trovi nel mondo della teoria, è quello che si ispira alla teoria ma che meglio si applica nella pratica e nel contesto.
+Se lo pensi, sprecherai una delle risorse più importanti: il **tempo**.
 
-Mi spiego meglio, non esiste il processo di design ideale: esiste solo quello che riesci meglio ad applicare.
+E non solo quello. Rinuncerai a tante altre cose:
 
-​[Leggi questo articolo](https://www.tedgoas.com/blog/product-design-process/?ref=refind) per capire come passare dall'ideale alla pratica.
+*   La possibilità di creare un’audience;
+
+*   Le opportunità nate dal mostrare i risultati della propria creatività;
+
+*   Le lezioni su di te e sugli altri;
+
+Io il mio errore l’ho fatto ma ho trovato la soluzione.
+
+Ed ecco quello che finora ho ottenuto:
+
+*   Poter lavorare a qualcosa che mi piace davvero e che è mia;
+
+*   Creare un’audience;
+
+*   Poter vedere che quello che crei con ha un valore economico e risolve un problema per le altre persone.
+
+Come ho fatto? E come puoi farlo anche tu?
 
 ​
 
-## 🛠 LA RISORSA DI OGGI
+### **NON ESISTE SOLO LA CREDIBILITÀ FIGLIA DELL'ESPERIENZA. CI SONO TRE TIPI DI CREDIBILITÀ**
 
-Lavori con tanti software ed hai difficoltà a ricordare le shortcut da utilizzare?
+*   La credibilità figlia dell’esperienza;
 
-​[Questo sito](https://shortcuts.design/) risolve tutti i tuoi problemi, è anche molto carino!
+*   La credibilità degli altri;
+
+*   La credibilità dello studente.
 
 ​
 
-## 💻 LA SELEZIONE DA PRODUCT HUNT DI OGGI
+### **QUANDO TE NE MANCA UNA, SCEGLI UNA DELLE ALTRE OPZIONI**
 
-Stai per lanciare un progetto?
+Magari non hai mai fatto quello di cui vuoi parlare.
 
-Usa [questo prodotto](https://comingsoonkit.com/?ref=producthunt) per poter generare efficaci pagine Coming Soon.
+Allora affidati ad un altro tipo di credibilità.
 
---------
+*   **La credibilità degli altri**: raccogli le opinioni di persone esperte del tuo argomento;
 
-Grazie per aver letto questo numero di Kit di Sopravvivenza per Product People, in cui ogni giorno seleziono per te i tre strumenti migliori per affrontare il caos di prodotto.
+*   **La credibilità di un'opinione:** presenta la tua idea come semplice opinione, sii sincero.
 
-Un contenuto.
+​
 
-Una risorsa.
+### **NON IMPORTA QUALE SCEGLI, SII TRASPARENTE E NON CI SARANNO PROBLEMI**
 
-Un prodotto di Product Hunt.
+È questo il modo con cui sono uscito dalla **trappola della voce**.
 
-Se ti è piaciuta, consiglia l'iscrizione ai tuoi amici.
+Non credevo ancora di avere la credibilità, quindi ho scelto di **selezionare l’opinione di chi era credibile**.
 
-Se invece non ti è piaciuta, puoi [disiscriverti qui](https://preview.convertkit-mail2.com/unsubscribe), nessun rancore.
+E così ho cominciato.
 
-E se vuoi condividere qualcosa con me: rispondi a questa email stessa!
+​
 
-A domani!
+Rispetto a mesi fa, ora le cose sono cambiate.
+
+E se penso a quei mesi di mancate pubblicazioni?
+
+Penso che sono stati un’occasione sprecata.
+
+Non fare il mio stesso errore.
+
+​
+
+***
+
+​
+
+## **👥 UNA RISORSA DI AUDIENCE BUILDING**
+
+I requisiti per creare un'audience sono pochi.
+
+Pochi ma buoni.
+
+**​**[**Almeno, grazia a questo thread, capirai quali sono e potrai concentrarti sul soddisfarli.**](https://twitter.com/thejustinwelsh/status/1551614033530437637)**​**
+
+​
+
+## **🚀 UNA RISORSA DI PRODUTTIVITÀ**
+
+Tutti noi usiamo il browser per fare gran parte del nostro lavoro.
+
+E se gli strumenti che utilizziamo non sono affilati, allora anche noi saremo inefficienti.
+
+**​**[**Questo thread renderà il tuo Chrome una macchina di produttività**](https://twitter.com/blakeaburge/status/1512765274042343425)**​**
+
+​
+
+## **💸 UNA RISORSA PER LA TUA MONETIZATION**
+
+Quanto è convincente la tua CTA?
+
+Spero parecchio, altrimenti le conversioni saranno poche.
+
+**​**[**Ecco un consiglio per rendere la tua CTA adatta alle tue esigenze.**](https://twitter.com/jonbrosio/status/1561337348683714560)
