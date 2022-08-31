@@ -117,7 +117,5 @@ sections:
       - content/pages/tags/projectlayout-7gx63sfoa.md
       - content/pages/tags/kspp-01-ecco-primo-kit.md
       - content/pages/tags/projectlayout-lusul5b22.md
-      - content/pages/tags/projectlayout-4h5y7ig83.md
-      - content/pages/tags/projectlayout-fol9wr091.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---

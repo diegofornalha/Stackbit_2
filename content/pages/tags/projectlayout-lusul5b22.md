@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #02: Quando non sei credibile..."
 colors: colors-a
-description: Puoi affidarti alla credibilità di altri
+description: Ci sono altri tipi di credibilità
 featuredImage:
   type: ImageBlock
   url: /images/Frame 18-0d948a46.webp
