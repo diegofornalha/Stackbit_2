@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     elementId: hero_newsletter
     backgroundSize: full
-    title: SOPRAVVIVI
+    title: Diventa
     text: >+
       Unisciti a più di 100 creator che hanno le idee chiare.
 
