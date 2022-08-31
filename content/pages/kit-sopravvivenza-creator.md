@@ -23,8 +23,11 @@ sections:
       monetization e produttività**.
 
 
-      <Script async data-uid="c4fbdd0325"
-      src="https://exceptional-author-9523.ck.page/c4fbdd0325/index.js" />
+      \<Script async data-uid="8b13a48318"
+      src="https://kit-sopravvivenza-product-people.ck.page/8b13a48318/index.js"
+      />
+
+
 
 
 
