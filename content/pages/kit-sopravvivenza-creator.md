@@ -31,6 +31,11 @@ sections:
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!" 
 
 
+      <blockquote cite="http://example.com/blog/hello-world">
+        <p>The answer is 42.</p>
+      </blockquote>
+
+
 
     actions:
       - type: Link
