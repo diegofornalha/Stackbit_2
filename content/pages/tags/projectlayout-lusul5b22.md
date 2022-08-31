@@ -31,10 +31,9 @@ slug: projectlayout-lusul5b22
 
 *   Una risorsa di monetization.
 
-Il tempo di lettura previsto è: 3 minuti e 19.
+**Il tempo di lettura previsto è: 3 minuti e 19.**
 
 ***
-
 
 ## **📝 CREDIBILITÀ IN PRESTITO: GUIDA PER I CREATOR CON SINDROME DELL'IMPOSTORE**
 
