@@ -119,7 +119,7 @@ Ma credo sia tra i maggiori esperti di audience building che si possono trovare 
 
 Ne è così esperto che ha creato il servizio con cui mando queste email.
 
-​[Il suo profilo Twitter è una miniera d'oro.](https://twitter.com/nathanbarry)​
+**​**[**Il suo profilo Twitter è una miniera d'oro.**](https://twitter.com/nathanbarry)**​**
 
 ​
 
@@ -133,7 +133,7 @@ E quando finisce, vorresti poterne creare altro.
 
 E la cosa è impossibile, lo so.
 
-​[Ma qui ci sono alcuni mezzi per avvicinarsi all'idea.](https://hbr.org/2020/04/productivity-skills-to-help-you-gain-time-back?ref=refind)​
+**​**[**Ma qui ci sono alcuni mezzi per avvicinarsi all'idea.**](https://hbr.org/2020/04/productivity-skills-to-help-you-gain-time-back?ref=refind)**​**
 
 ​
 
@@ -145,4 +145,4 @@ No davvero, hai mai provato a fare un attimo mente locale?
 
 In quanti modi puoi monetizzare la tua audience?
 
-​[Ecco, direi che questa lista è piuttosto precisa.](https://www.podia.com/articles/how-to-monetize-your-audience)
+**​**[**Ecco, direi che questa lista è piuttosto precisa.**](https://www.podia.com/articles/how-to-monetize-your-audience)
