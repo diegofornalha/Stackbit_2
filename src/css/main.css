@@ -45,6 +45,10 @@ h2 {
     
 }
 
+.formkit-powered-by-convertkit-container {
+ display: none !important;
+}
+
 @layer components {
     .sb-markdown {
         @apply text-lg leading-relaxed;
