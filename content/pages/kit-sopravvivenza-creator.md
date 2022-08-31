@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 addTitleSuffix: true
-socialImage: /images/504 (1).jpg
+socialImage: /images/508.png
 metaTags:
   - type: MetaTag
     property: 'og:image'
