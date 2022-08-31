@@ -18,9 +18,9 @@ sections:
       Unisciti a più di 100 creator che hanno le idee chiare.
 
 
-      Ogni settimana (o ogni giorno) ti manderò una email che ti aiuterà a
-      risolvere i **3 più grandi problemi** dei creator: **audience building,
-      monetization e produttività**.
+      Ogni settimana ti manderò una email che ti aiuterà a risolvere i **3 più
+      grandi problemi** dei creator: **audience building, monetization e
+      produttività**.
 
 
       <Script async data-uid="8b13a48318"
@@ -30,6 +30,8 @@ sections:
 
       > ["Ogni volta che arriva il Kit, so che ci sarà qualcosa di
       utile!"]((https://danieledamico.tech/kit-sopravvivenza-creator/#testimonials)
+
+
 
 
 
