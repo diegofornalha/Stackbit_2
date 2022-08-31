@@ -32,13 +32,6 @@ sections:
 
       > "Ogni volta che arriva la il Kit, so che ci sarà qualcosa di utile!" 
 
-      Leggi cosa ne pensano gli altri creator!
-
-
-
-
-
-
 
     actions:
       - type: Link
