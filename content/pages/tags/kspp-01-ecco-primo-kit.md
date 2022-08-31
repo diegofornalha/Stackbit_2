@@ -24,7 +24,18 @@ media:
   elementId: ''
 date: '2022-05-18'
 ---
-## 📝 CHE PROBLEMI HANNO I CREATOR?
+### TL;DR
+
+*   Che problemi hanno i creator?
+*   Una risorsa di audience building;
+*   Una risorsa di produttività;
+*   Una risorsa di monetization.
+
+Il tempo di lettura previsto è: 2 minuti e 37.
+
+***
+
+## 📝 **CHE PROBLEMI HANNO I CREATOR?**
 
 Fare il creator è difficile, devi affrontare **centinaia di problemi ogni giorno**.
 
@@ -98,9 +109,11 @@ E poi ci saranno anche tre risorse, una per problema.
 
 Ed ecco quelle di questa settimana.
 
+
 ***
 
-## 👥 UNA RISORSA DI AUDIENCE BUILDING
+
+## 👥 **UNA RISORSA DI AUDIENCE BUILDING**
 
 Lui non è una risorsa, è una persona.
 
@@ -108,11 +121,11 @@ Ma credo sia tra i maggiori esperti di audience building che si possono trovare 
 
 Ne è così esperto che ha creato il servizio con cui mando queste email.
 
-​[Il suo profilo Twitter è una miniera d'oro.](https://twitter.com/nathanbarry)​
+**​**[**Il suo profilo Twitter è una miniera d'oro.**](https://twitter.com/nathanbarry)**​**
 
 ​
 
-## 🚀 UNA RISORSA DI PRODUTTIVITÀ
+## 🚀 **UNA RISORSA DI PRODUTTIVITÀ**
 
 Per i creator, il tempo è importante.
 
@@ -122,11 +135,11 @@ E quando finisce, vorresti poterne creare altro.
 
 E la cosa è impossibile, lo so.
 
-​[Ma qui ci sono alcuni mezzi per avvicinarsi all'idea.](https://hbr.org/2020/04/productivity-skills-to-help-you-gain-time-back?ref=refind)​
+**​**[**Ma qui ci sono alcuni mezzi per avvicinarsi all'idea.**](https://hbr.org/2020/04/productivity-skills-to-help-you-gain-time-back?ref=refind)**​**
 
 ​
 
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
+## 💸 **UNA RISORSA PER LA TUA MONETIZATION**
 
 Quali sono le opzioni?
 
@@ -134,4 +147,4 @@ No davvero, hai mai provato a fare un attimo mente locale?
 
 In quanti modi puoi monetizzare la tua audience?
 
-​[Ecco, direi che questa lista è piuttosto precisa.](https://www.podia.com/articles/how-to-monetize-your-audience)
+**​**[**Ecco, direi che questa lista è piuttosto precisa.**](https://www.podia.com/articles/how-to-monetize-your-audience)
