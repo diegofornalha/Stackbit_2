@@ -86,7 +86,7 @@ sections:
     title2: ' un creator senza problemi'
   - type: FeaturedProjectsSection
     colors: colors-e
-    elementId: testimonials
+    elementId: anteprima
     showDate: false
     showDescription: true
     showFeaturedImage: true
