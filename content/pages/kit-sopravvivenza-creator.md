@@ -65,39 +65,6 @@ sections:
       actions:
         justifyContent: flex-start
     title2: ' un creator senza problemi'
-  - type: FeaturedProjectsSection
-    colors: colors-e
-    elementId: anteprima
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: DAI UNO SGUARDO AI VECCHI NUMERI
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/tags/projectlayout-7gx63sfoa.md
-      - content/pages/tags/kspp-01-ecco-primo-kit.md
-      - content/pages/tags/projectlayout-lusul5b22.md
   - type: TestimonialsSection
     colors: colors-b
     elementId: ''
@@ -138,5 +105,38 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: FeaturedProjectsSection
+    colors: colors-e
+    elementId: anteprima
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: DAI UNO SGUARDO AI VECCHI NUMERI
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/tags/projectlayout-7gx63sfoa.md
+      - content/pages/tags/kspp-01-ecco-primo-kit.md
+      - content/pages/tags/projectlayout-lusul5b22.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
