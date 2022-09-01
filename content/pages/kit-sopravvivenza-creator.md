@@ -75,16 +75,13 @@ sections:
       - quote: >
           "Sono iscritta alla newsletter di Daniele dalla primissima puntata e
           posso dire solo una cosa: ogni singola mail è un pozzo di valore, non
-          ne ho trovata una che non mi abbia seriamente arricchita. 
+          ne ho trovata una che non mi abbia seriamente arricchita.
 
 
           Ogni settimana il mio appuntamento preferito nell’inbox è proprio il
           “Kit di sopravvivenza”, all’interno trovo non solo tool utilissimi, ma
           anche spunti di vera ispirazione per il business e cose nuove da
-          imparare tutte le volte! 
-
-
-          Consigliatissima!"
+          imparare tutte le volte! Consigliatissima!"
         name: Beatrice Mula
         title: Personal Branding Consultant
         image:
@@ -92,14 +89,15 @@ sections:
           url: /images/1636835062210.webp
           altText: Beatrice Mula
       - quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+          "La Newsletter di Daniele è una delle poche che aspetto ardentemente,
+          non è mai banale ed ha sempre qualche spunto interessante da salvare!
+          Non so proprio dove trovi tutte queste cose di cui parlare!"
+        name: Giorgia Cendron
+        title: HR Assistant & Notion lover
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
+          url: /images/1651730794216.webp
+          altText: Giorgia Cendron
     styles:
       self:
         height: auto
@@ -110,6 +108,8 @@ sections:
         padding:
           - pt-28
           - pb-28
+          - pl-4
+          - pr-4
         justifyContent: center
       title:
         textAlign: left
