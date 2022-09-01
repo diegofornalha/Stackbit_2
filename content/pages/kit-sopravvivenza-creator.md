@@ -86,7 +86,7 @@ sections:
 
           Consigliatissima!"
         name: Beatrice Mula
-        title: CEO at Parks
+        title: Personal Branding Consultant
         image:
           type: ImageBlock
           url: /images/1636835062210.webp
