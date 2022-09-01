@@ -92,8 +92,9 @@ sections:
           url: /images/1636835062210.webp
           altText: Beatrice Mula
       - quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          "La Newsletter di Daniele è una delle poche che aspetto ardentemente,
+          non è mai banale ed ha sempre qualche spunto interessante da salvare!
+          Non so proprio dove trovi tutte queste cose di cui parlare!"
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
