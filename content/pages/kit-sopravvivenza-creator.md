@@ -85,7 +85,7 @@ sections:
 
 
           Consigliatissima!"
-        name: John Doe
+        name: Beatrice Mula
         title: CEO at Parks
         image:
           type: ImageBlock
