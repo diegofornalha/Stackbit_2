@@ -100,7 +100,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/1651730794216.webp
-          altText: Johnna Doe
+          altText: Giorgia Cendron
     styles:
       self:
         height: auto
