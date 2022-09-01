@@ -66,7 +66,7 @@ sections:
         justifyContent: flex-start
     title2: ' un creator senza problemi'
   - type: TestimonialsSection
-    colors: colors-a
+    colors: colors-e
     elementId: ''
     variant: variant-b
     title: ''
