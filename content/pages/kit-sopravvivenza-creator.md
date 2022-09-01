@@ -95,7 +95,7 @@ sections:
           "La Newsletter di Daniele è una delle poche che aspetto ardentemente,
           non è mai banale ed ha sempre qualche spunto interessante da salvare!
           Non so proprio dove trovi tutte queste cose di cui parlare!"
-        name: Johnna Doe
+        name: Giorgia Cendron
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
