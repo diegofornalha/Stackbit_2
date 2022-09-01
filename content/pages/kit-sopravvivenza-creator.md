@@ -39,11 +39,11 @@ sections:
         url: 'https://danieledamico.tech/kit-sopravvivenza-product-people#anteprima'
     media:
       type: ImageBlock
-      url: /images/Frame 33 (1).webp
+      url: /images/Frame-33-_2_.webp
       altText: Hero image
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-14
@@ -65,6 +65,56 @@ sections:
       actions:
         justifyContent: flex-start
     title2: ' un creator senza problemi'
+  - type: TestimonialsSection
+    colors: colors-a
+    elementId: ''
+    variant: variant-b
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >
+          "Sono iscritta alla newsletter di Daniele dalla primissima puntata e
+          posso dire solo una cosa: ogni singola mail è un pozzo di valore, non
+          ne ho trovata una che non mi abbia seriamente arricchita. 
+
+
+          Ogni settimana il mio appuntamento preferito nell’inbox è proprio il
+          “Kit di sopravvivenza”, all’interno trovo non solo tool utilissimi, ma
+          anche spunti di vera ispirazione per il business e cose nuove da
+          imparare tutte le volte! 
+
+
+          Consigliatissima!"
+        name: Beatrice Mula
+        title: Personal Branding Consultant
+        image:
+          type: ImageBlock
+          url: /images/1636835062210.webp
+          altText: Beatrice Mula
+      - quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: FeaturedProjectsSection
     colors: colors-e
     elementId: anteprima
