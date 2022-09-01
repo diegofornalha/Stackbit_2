@@ -89,7 +89,7 @@ sections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/1636835062210.webp
           altText: Beatrice Mula
       - quote: >
           “Anytime I have a question, I know I can get in touch with Doris. She
