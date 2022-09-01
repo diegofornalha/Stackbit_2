@@ -36,7 +36,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-        url: 'https://danieledamico.tech/kit-sopravvivenza-product-people#anteprima'
+        url: 'https://danieledamico.tech/kit-sopravvivenza-creator#anteprima'
     media:
       type: ImageBlock
       url: /images/Frame-33-_4_.webp
