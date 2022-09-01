@@ -90,7 +90,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/person-2.jpg
-          altText: John Doe
+          altText: Beatrice Mula
       - quote: >
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
