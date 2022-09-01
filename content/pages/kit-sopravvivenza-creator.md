@@ -99,7 +99,7 @@ sections:
         title: HR Assistant & Notion lover
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/1651730794216.webp
           altText: Johnna Doe
     styles:
       self:
