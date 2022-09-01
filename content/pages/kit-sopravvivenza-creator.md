@@ -96,7 +96,7 @@ sections:
           non è mai banale ed ha sempre qualche spunto interessante da salvare!
           Non so proprio dove trovi tutte queste cose di cui parlare!"
         name: Giorgia Cendron
-        title: Product Marketing Manager at Acme
+        title: HR Assistant & Notion lover
         image:
           type: ImageBlock
           url: /images/person-3.jpg
