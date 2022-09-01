@@ -72,9 +72,19 @@ sections:
     title: ''
     subtitle: ''
     testimonials:
-      - quote: >-
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+      - quote: >
+          "Sono iscritta alla newsletter di Daniele dalla primissima puntata e
+          posso dire solo una cosa: ogni singola mail è un pozzo di valore, non
+          ne ho trovata una che non mi abbia seriamente arricchita. 
+
+
+          Ogni settimana il mio appuntamento preferito nell’inbox è proprio il
+          “Kit di sopravvivenza”, all’interno trovo non solo tool utilissimi, ma
+          anche spunti di vera ispirazione per il business e cose nuove da
+          imparare tutte le volte! 
+
+
+          Consigliatissima!"
         name: John Doe
         title: CEO at Parks
         image:
