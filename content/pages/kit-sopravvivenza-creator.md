@@ -120,7 +120,7 @@ sections:
     elementId: anteprima
     showDate: false
     showDescription: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-a
     actions: []
