@@ -122,7 +122,7 @@ sections:
     showDescription: true
     showFeaturedImage: false
     showReadMoreLink: true
-    variant: variant-c
+    variant: variant-b
     actions: []
     styles:
       self:
