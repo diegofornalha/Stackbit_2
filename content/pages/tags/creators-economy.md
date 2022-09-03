@@ -9,7 +9,7 @@ title: Creator's Economy
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Midnight-City-185c52b9.webp
 date: '2022-09-03'
 client: Awesome client
 featuredImage:
