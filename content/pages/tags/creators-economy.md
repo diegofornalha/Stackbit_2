@@ -51,7 +51,6 @@ bottomSections:
       actions:
         justifyContent: center
     title: null
-    subtitle: 'Projects:'
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
