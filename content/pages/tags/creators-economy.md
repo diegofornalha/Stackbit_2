@@ -20,5 +20,40 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Project image
-bottomSections: []
+bottomSections:
+  - type: FeaturedProjectsSection
+    colors: colors-c
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-d
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    subtitle: 'Projects:'
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
 ---
