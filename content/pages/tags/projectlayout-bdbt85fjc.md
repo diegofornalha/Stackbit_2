@@ -9,9 +9,7 @@ title: Che succede quando ti si rompe il funnel?
 colors: colors-a
 date: '2022-09-03'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Alla ricerca del funnel perduto
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
