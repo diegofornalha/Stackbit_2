@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Che succede quando ti si rompe il funnel?
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-09-03'
 client: Awesome client
 description: >-
