@@ -22,7 +22,7 @@ media:
   altText: Project image
 bottomSections:
   - type: FeaturedProjectsSection
-    colors: colors-a
+    colors: colors-f
     elementId: ''
     showDate: false
     showDescription: true
