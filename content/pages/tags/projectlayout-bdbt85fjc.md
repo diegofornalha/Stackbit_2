@@ -16,10 +16,10 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Creator-Funnel.webp
   altText: Project image
 bottomSections: []
-slug: projectlayout-bdbt85fjc
+slug: creator-funnel-rotto
 ---
 Ok, che esistano i funnel è cosa nota.
 
@@ -89,7 +89,7 @@ Ed in questo caso, mi sono fatto una domanda.
 
 **Ma è davvero un problema?**
 
-## Il funnel dei creator (quelli famosi)
+## **Il funnel dei creator (quelli famosi)**
 
 Ho fatto un po’ di ricerca.
 
@@ -145,7 +145,7 @@ Vero?
 
 Beh, non è proprio così.
 
-## L’inghippo nel creator funnel
+## **L’inghippo nel creator funnel**
 
 Addentrandomi sempre di più nel rabbit-hole di questo creator funnel ho capito una cosa.
 
@@ -185,7 +185,7 @@ Accade in non so che altro modo? Bene.
 
 L’importante è che ci sia l’aspetto di accesso esclusivo.
 
-Ora, invece, proviamo ad ipotizzare il **creator funnel di **[**Thomas Frank**](https://thomasjfrank.com/?utm_source=danieledamico.tech).
+Ora, invece, proviamo ad ipotizzare il \*\*creator funnel di \*\*[**Thomas Frank**](https://thomasjfrank.com/?utm_source=danieledamico.tech).
 
 *   **Discovery** — video su Youtube;
 
@@ -233,7 +233,7 @@ Beh, certo, uno come Joe Rogan ormai può fare quello che vuole.
 
 Ma credi davvero che questa sua libertà sia frutto di fattori esterni e non del fatto che il **funnel sia uno spettro invece che qualcosa di segmentato?**
 
-## Il mio funnel è rotto o no?
+## **Il mio funnel è rotto o no?**
 
 Ecco, per concludere, questa falla nel mio funnel è un problema o no?
 
