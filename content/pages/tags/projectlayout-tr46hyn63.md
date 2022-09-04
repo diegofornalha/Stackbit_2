@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #03: Anche i creator hanno i loro lussi..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-09-04'
 featuredImage:
   type: ImageBlock
