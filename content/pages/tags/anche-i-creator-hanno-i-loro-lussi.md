@@ -60,9 +60,9 @@ Ho aperto gli occhi ed ho fatto quello che hai fatto anche tu: **ho preso il cel
 
 E guarda un po’, una notifica da Instagram!
 
-**Ho un nuovo follower: Sahil Bloom!**
+Ho un nuovo follower:** Sahil Bloom!**
 
-****![](/images/Untitled.webp)
+\*\*\*\*![](/images/Untitled.webp)
 
 Ora, Sahil Bloom è uno grosso.
 
