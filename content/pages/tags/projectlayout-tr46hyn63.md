@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0  Concentrarsi o estendersi? Questo è il problema!"
+title: "\U0001F9F0 KSC #03: Concentrarsi o estendersi? Questo è il problema!"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
