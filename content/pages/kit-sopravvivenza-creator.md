@@ -67,7 +67,7 @@ sections:
     title2: ' un creator senza problemi'
   - type: TestimonialsSection
     colors: colors-a
-    elementId: ''
+    elementId: testimonial
     variant: variant-b
     title: ''
     subtitle: ''

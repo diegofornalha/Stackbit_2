@@ -234,6 +234,10 @@ h2 {
   left: 2px;
 }
 
+#testimonial p {
+font-size: 1rem;
+}
+
 @media (min-width: 768px) {
   .#iscrizione_kit {
     padding: .75rem 3rem;
