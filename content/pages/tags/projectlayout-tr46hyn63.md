@@ -92,18 +92,19 @@ Se sbagli il tempismo, sprecherai la risorsa più importante.
 
 Mentre se scegli il momento giusto, ti ritroverai con:
 
-concentrazione;
-maggior controllo sui tuoi sforzi;
-soddisfazione;
-risultati;
-motivazione per continuare.
+* concentrazione;
+* maggior controllo sui tuoi sforzi;
+* soddisfazione;
+* risultati;
+* motivazione per continuare.
+
 Mi sembrano tutte cose valide, no?
 
 Ma perché la penso così?
 
 ​
 
-I CANALI SOCIAL SONO COME LE AUTO, AVERNE PIÙ DI UNA È UN LUSSO
+## I CANALI SOCIAL SONO COME LE AUTO, AVERNE PIÙ DI UNA È UN LUSSO
 Pensaci.
 
 Non sei grosso come Sahil.
@@ -144,7 +145,7 @@ Succede che dovrai investire il tuo tempo nella gestione dei contenuti su mille 
 
 ​
 
-SE SEI AGLI INIZI, DEVI CREARE CONNESSIONI PERCHÉ NESSUNO PENSA TU SIA IMPORTANTE
+## SE SEI AGLI INIZI, DEVI CREARE CONNESSIONI PERCHÉ NESSUNO PENSA TU SIA IMPORTANTE
 Ok, Sahil Bloom mi ha seguito.
 
 Figo.
@@ -167,7 +168,7 @@ Non credo.
 
 ​
 
-MA SE IL CANALE CHE HAI SCELTO SALTA?
+## MA SE IL CANALE CHE HAI SCELTO SALTA?
 Questa è una bella domanda.
 
 È saggio differenziare gli investimenti.
@@ -190,7 +191,7 @@ Ma solo su una piattaforma e solo se hai già una fase di access in piedi.
 
 ​
 
-ALLORA? CHE DECISIONE PRENDERAI?
+## ALLORA? CHE DECISIONE PRENDERAI?
 Senti, non ho tutte le risposte.
 
 Sono un creator in viaggio, proprio come te.
@@ -205,12 +206,9 @@ La decisione spetta a te.
 
 E, quando l'avrai presa, rispondi a questa e-mail per farmi sapere cosa farai, sono curioso!
 
+***
 
-----------
-
-​
-
-👥 UNA RISORSA PER FARE AUDIENCE BUILDING
+## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
 Da qualche giorno è scoppiato il fenomeno Midjourney.
 
 È figo, ti permette di dire all’AI quello che immagini e l’AI lo disegna.
@@ -221,8 +219,7 @@ E, se hai bisogno di grafiche per i tuoi post o articoli, per raggiungere un pub
 
 ​Io ho deciso che lo proverò.​
 
-
-🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
+## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
 Tiago Forte ha scritto un tweet qualche giorno fa.
 
 E si è rivelato essere uno dei consigli di produttività che più ha avuto risonanza con me.
@@ -231,7 +228,7 @@ E si è rivelato essere uno dei consigli di produttività che più ha avuto riso
 
 ​
 
-💸 UNA RISORSA PER LA TUA MONETIZATION
+## 💸 UNA RISORSA PER LA TUA MONETIZATION
 La differenza tra vendite e guadagni è importante.
 
 Ed è netta.
@@ -240,7 +237,7 @@ Ed è netta.
 
 ​
 
-❓ LA RISORSA BONUS DI OGGI ANCORA NON ESISTE
+## ❓ LA RISORSA BONUS DI OGGI ANCORA NON ESISTE
 Ancora non esiste.
 
 Ma venerdì l’ho annunciata su Linkedin e le persone hanno cominciato a prenotarla.
