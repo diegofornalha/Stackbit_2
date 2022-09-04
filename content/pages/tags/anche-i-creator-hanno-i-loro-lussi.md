@@ -18,7 +18,7 @@ media:
   altText: Project image
   url: /images/Frame 18-0d948a46.webp
 bottomSections: []
-slug: projectlayout-tr46hyn63
+slug: anche-i-creator-hanno-i-loro-lussi
 description: 'E dimmi, tu te li puoi permettere?'
 ---
 Apro gli occhi e mi alzo dal letto, senza guardare il cellulare.
