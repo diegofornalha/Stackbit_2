@@ -254,6 +254,6 @@ Ma venerdì l’ho annunciata su Linkedin e le persone hanno cominciato a prenot
 
 
 
-<Script async data-uid="5d6a847b43" src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
 
 
