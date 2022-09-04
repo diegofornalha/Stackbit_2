@@ -19,7 +19,7 @@ media:
   url: /images/Creator-Funnel.webp
   altText: Project image
 bottomSections: []
-slug: projectlayout-bdbt85fjc
+slug: creator-funnel-rotto
 ---
 Ok, che esistano i funnel è cosa nota.
 
