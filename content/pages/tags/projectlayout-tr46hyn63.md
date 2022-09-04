@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Concentrarsi o estendersi? Questo è il problema!
+title: ' Concentrarsi o estendersi? Questo è il problema!'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
