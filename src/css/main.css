@@ -235,7 +235,7 @@ h2 {
 }
 
 #testimonial p {
-    @apply text-
+    @apply text-base
 }
 
 @media (min-width: 768px) {
