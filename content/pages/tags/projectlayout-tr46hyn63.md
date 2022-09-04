@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #03: Anche i creator hanno i loro lussi..."
-colors: colors-d
+colors: colors-e
 date: '2022-09-04'
 featuredImage:
   type: ImageBlock
