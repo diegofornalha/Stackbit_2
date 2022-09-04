@@ -25,6 +25,10 @@ bottomSections:
     text: >
       <Script async data-uid="5d6a847b43"
       src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
+
+      <Script async data-uid="71fb018372"
+      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
     styles:
       self:
         height: auto
