@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSC #03: Concentrarsi o estendersi? Questo è il problema!"
+title: "\U0001F9F0 KSC #03: Anche i creator hanno i loro lussi..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
