@@ -53,7 +53,7 @@ h2 {
     .sb-markdown {
         @apply text-lg leading-relaxed;
         a {
-            @apply underline;
+            @apply underline text-primary;
         }
         a:hover {
             @apply no-underline;
