@@ -11,7 +11,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-09-04'
-client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
