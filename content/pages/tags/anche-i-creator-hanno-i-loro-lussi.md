@@ -20,7 +20,7 @@ bottomSections: []
 slug: anche-i-creator-hanno-i-loro-lussi
 description: 'E dimmi, tu te li puoi permettere?'
 ---
-\<Script async data-uid="5d6a847b43" src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+<Script async data-uid="5d6a847b43" src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
 
 Apro gli occhi e mi alzo dal letto, senza guardare il cellulare.
 
