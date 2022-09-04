@@ -16,11 +16,34 @@ media:
   type: ImageBlock
   altText: Project image
   url: /images/Frame 18-0d948a46.webp
-bottomSections: []
+bottomSections:
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-b
+    subtitle: null
+    text: >
+      <Script async data-uid="5d6a847b43"
+      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 slug: anche-i-creator-hanno-i-loro-lussi
 description: 'E dimmi, tu te li puoi permettere?'
 ---
-<Script async data-uid="5d6a847b43" src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
 
 Apro gli occhi e mi alzo dal letto, senza guardare il cellulare.
 
