@@ -11,7 +11,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Midnight-City-185c52b9.webp
 date: '2022-09-03'
-client: Awesome client
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

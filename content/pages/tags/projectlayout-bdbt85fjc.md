@@ -1,6 +1,6 @@
 ---
 layout: ProjectLayout
-metaTitle: null
+metaTitle: funnel
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
