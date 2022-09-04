@@ -20,6 +20,7 @@ bottomSections: []
 slug: anche-i-creator-hanno-i-loro-lussi
 description: 'E dimmi, tu te li puoi permettere?'
 ---
+
 Apro gli occhi e mi alzo dal letto, senza guardare il cellulare.
 
 È quello che cerco di fare tutte le mattine.
