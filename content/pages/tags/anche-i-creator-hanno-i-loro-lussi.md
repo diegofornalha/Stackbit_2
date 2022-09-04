@@ -20,6 +20,8 @@ bottomSections: []
 slug: anche-i-creator-hanno-i-loro-lussi
 description: 'E dimmi, tu te li puoi permettere?'
 ---
+\<Script async data-uid="5d6a847b43" src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
 Apro gli occhi e mi alzo dal letto, senza guardare il cellulare.
 
 È quello che cerco di fare tutte le mattine.
@@ -251,9 +253,3 @@ Ancora non esiste.
 Ma venerdì l’ho annunciata su Linkedin e le persone hanno cominciato a prenotarla.
 
 [**​Per poco tempo ancora, puoi prenotarla anche tu qui.**](https://www.linkedin.com/feed/update/urn:li:activity:6971497726425346048/)
-
-
-
-
-
-
