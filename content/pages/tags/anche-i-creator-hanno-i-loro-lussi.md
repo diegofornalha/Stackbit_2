@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: " KSC #03: Anche i creator hanno i loro lussi..."
+title: ' KSC #03: Anche i creator hanno i loro lussi...'
 colors: colors-a
 date: '2022-09-04'
 featuredImage:
@@ -75,8 +75,6 @@ Ma ha senso farlo?
 
 ​
 
-
-
 Ti dico subito la **risposta**.
 
 Secondo me, se sei al di sotto dei 100mila follower, **dovresti concentrarti su una ed una sola piattaforma.**
@@ -135,7 +133,7 @@ Per utilizzare tool come [**Hypefury**](https://hypefury.com/) e distribuire meg
 
 Oppure, tool come [**Typeshare**](https://typeshare.co/), per rendere il tuo copy più coerente.
 
-Oppure, per i più poveri, **template Notion gratuiti come **[**Easy Post Ignition**](https://danieledamico.gumroad.com/l/easy-post-ignition), per poter creare contenuti ( 😎 ).
+Oppure, per i più poveri, \*\*template Notion gratuiti come \*\*[**Easy Post Ignition**](https://danieledamico.gumroad.com/l/easy-post-ignition), per poter creare contenuti ( 😎 ).
 
 Oppure, **assumere personale** che gestisca per te le cose.
 
@@ -187,7 +185,7 @@ Ma creare nuovi canali per differenziare non dovrebbe essere la tua priorità.
 
 **La tua priorità dovrebbe essere spingere la tua audience più giù nel funnel dei creator.**
 
-​**Portarla alla fase di access**: quella dove in cambio dell’accesso a TE, queste persone ti affidano il loro indirizzo e-mail.
+​[**Portarla alla fase di access**:](https://danieledamico.tech/tags/creator-funnel-rotto/) quella dove in cambio dell’accesso a TE, queste persone ti affidano il loro indirizzo e-mail.
 
 Proprio come te che leggi questa newsletter.
 
@@ -225,7 +223,7 @@ Ci ho giocato un po’ in questi giorni.
 
 E, se hai bisogno di grafiche per i tuoi post o articoli, per raggiungere un pubblico maggiore, magari ti potrebbe aiutare.
 
-****[**​Io ho deciso che lo proverò.​**](https://www.midjourney.com/home/)****
+[**​Io ho deciso che lo proverò.​**](https://www.midjourney.com/home/)
 
 ## **🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ**
 
@@ -233,7 +231,7 @@ Tiago Forte ha scritto un tweet qualche giorno fa.
 
 E si è rivelato essere uno dei consigli di produttività che più ha avuto risonanza con me.
 
-****[**​Ne farò la bussola dei miei prossimi sforzi da creator.​**](https://twitter.com/fortelabs/status/1561948887258173441)****
+[**​Ne farò la bussola dei miei prossimi sforzi da creator.​**](https://twitter.com/fortelabs/status/1561948887258173441)
 
 ​
 
