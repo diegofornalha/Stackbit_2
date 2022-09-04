@@ -205,6 +205,9 @@ La decisione spetta a te.
 
 E, quando l'avrai presa, rispondi a questa e-mail per farmi sapere cosa farai, sono curioso!
 
+
+----------
+
 ​
 
 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
@@ -218,7 +221,6 @@ E, se hai bisogno di grafiche per i tuoi post o articoli, per raggiungere un pub
 
 ​Io ho deciso che lo proverò.​
 
-​
 
 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
 Tiago Forte ha scritto un tweet qualche giorno fa.
