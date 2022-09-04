@@ -1,6 +1,5 @@
 ---
 layout: ProjectLayout
-metaTitle: Che succede quando ti si rompe il funnel?
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
