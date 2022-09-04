@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: Che succede quando ti si rompe il funnel?
 colors: colors-a
-date: 
+date: '2022-09-03'
 description: Alla ricerca del funnel perduto
 featuredImage:
   type: ImageBlock
