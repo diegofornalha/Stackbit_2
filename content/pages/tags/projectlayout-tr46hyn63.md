@@ -16,6 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Project image
+  url: /images/Frame 18-0d948a46.webp
 bottomSections: []
 slug: projectlayout-tr46hyn63
 description: 'E dimmi, tu te li puoi permettere?'
