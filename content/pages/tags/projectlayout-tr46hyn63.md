@@ -210,7 +210,9 @@ La decisione spetta a te.
 
 E, quando l'avrai presa, rispondi a questa e-mail per farmi sapere cosa farai, sono curioso!
 
+
 ***
+
 
 ## **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
