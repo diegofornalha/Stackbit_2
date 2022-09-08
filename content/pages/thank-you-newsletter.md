@@ -38,7 +38,7 @@ sections:
       actions:
         justifyContent: flex-start
     title: 'Complimenti, presto riceverai i tuoi '
-    title2: kit di sopravvivenza per product people
+    title2: kit di sopravvivenza per creator
     text: >
       Ma continua a leggere, ho delle cose da dirti
 
