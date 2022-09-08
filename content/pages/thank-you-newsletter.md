@@ -38,7 +38,7 @@ sections:
       actions:
         justifyContent: flex-start
     title: 'Complimenti, presto riceverai i tuoi '
-    title2: kit di sopravvivenza per product people
+    title2: kit di sopravvivenza per creator
     text: >
       Ma continua a leggere, ho delle cose da dirti
 
@@ -46,8 +46,8 @@ sections:
       TL:DR
 
 
-      \*   [**Cos'è il Kit di Sopravvivenza per Product
-      People?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
+      \*   [**Cos'è il Kit di Sopravvivenza per
+      Creator?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
 
 
       \*   [**I primi tool del tuo
@@ -61,17 +61,16 @@ sections:
     elementId: kit_sopravvivenza_product
     variant: variant-a
     subtitle: null
-    text: >+
-      **Kit di Sopravvivenza per Product People** è una newsletter con un
-      obiettivo molto specifico.
+    text: >
+      **Kit di Sopravvivenza per Creator** è una newsletter con un obiettivo
+      molto specifico.
 
 
-      Voglio aiutare le persone che lavorano ad un prodotto nella gestione del
-      caos che deriva dal lavorare ad un prodotto.
+      Voglio aiutare le persone che creano contenuti e che vorrebbero poter
+      guadagnare di quello che creano.
 
 
       Sei tra queste persone? Allora questa newsletter è per te.
-
     styles:
       self:
         height: auto
@@ -88,82 +87,46 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    title: Cos'è Kit di Sopravvivenza per Product People?
+    title: Cos'è Kit di Sopravvivenza per CREATOR?
   - type: TextSection
     colors: colors-e
     elementId: ''
     variant: variant-b
-    text: >+
-      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
-      **ogni giorno**, tre link:
-
-
-      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
-      twitter ecc.);
-
-
-      *   una **risorsa** (un tool, framework, modello mentale o template Notion
-      ecc.);
-
-
-      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
-      mia Product Hunt Curation quotidiana.
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    title: Hai scelto il formato giornaliero?
-    subtitle: Domani riceverai il tuo primo Kit!
-  - type: TextSection
-    colors: colors-e
-    elementId: ''
-    variant: variant-b
-    title: Hai scelto il formato settimanale?
+    title: Cosa riceverai ogni settimana?
     subtitle: Domenica riceverai il tuo primo Kit!
     text: >
       Riceverai una email **ogni domenica**.
 
 
-      Nella email troverai una selezione dei link più utili per i lettori del
-      Kit:
+      Nella email troverai il mio tentativo di risolvere uno dei tre più grandi
+      problemi dei creator.
 
 
-      *   il link al **contenuto **migliore condiviso nella newsletter
-      giornaliera;
+      *   fare **audience building**;
 
 
-      *   il link alla **risorsa **più utile di quelle inviate nel corso della
-      settimana;
+      *   il tempo dei creator è poco ed è fondamentale riuscire a concentrarsi
+      sulle giuste attività, così come riuscire ad eseguire nel modo più
+      efficace possibile: è necessario avere un'ottima **produttività**;
 
 
-      *   il **prodotto di Product Hunt** che è piaciuto di più;
+      *   una vola che riesci a creare un'audience ed hai creato qualcosa resta
+      un ultimo passo: quello di fare **monetization.**
 
 
-      *   la **risorsa più apprezzata** nel corso della settimana precedente;
+      Nella prima parte di e-mail in cui ti aiuterò a semplificare le
+      **difficoltà** in queste aree.
 
 
-      *   **2 link a sorpresa **e che mi riservo di scegliere io settimana dopo
-      settimana.
+      E nella seconda parte condividerò con te una **risorsa o tool** utile per
+      ciascuna di queste aree.
 
 
       L'attesa fino a domenica prossima è troppo lunga?
 
 
       [**Leggi i numeri precedenti
-      qui!**](https://kit-sopravvivenza-product-people.ck.page/posts)
+      qui!**](https://danieledamico.tech/kit-sopravvivenza-creator/#anteprima)
     styles:
       self:
         height: auto
