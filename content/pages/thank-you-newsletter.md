@@ -46,8 +46,8 @@ sections:
       TL:DR
 
 
-      \*   [**Cos'è il Kit di Sopravvivenza per Product
-      People?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
+      \*   [**Cos'è il Kit di Sopravvivenza per
+      Creator?**](https://www.danieledamico.tech/thank-you-newsletter/#kit_sopravvivenza_product)
 
 
       \*   [**I primi tool del tuo
