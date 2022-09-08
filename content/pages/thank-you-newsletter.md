@@ -119,13 +119,14 @@ sections:
 
 
       E nella seconda parte condividerò con te una **risorsa o tool** utile per
-      ciascuna di queste aree. 
+      ciascuna di queste aree.
 
 
       L'attesa fino a domenica prossima è troppo lunga?
 
 
-      [**Leggi i numeri precedenti qui!**](https://kit-sopravvivenza-creator)
+      [**Leggi i numeri precedenti
+      qui!**](https://danieledamico.tech/kit-sopravvivenza-creator/#anteprima)
     styles:
       self:
         height: auto
