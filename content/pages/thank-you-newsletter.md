@@ -98,33 +98,34 @@ sections:
       Riceverai una email **ogni domenica**.
 
 
-      Nella email troverai una selezione dei link più utili per i lettori del
-      Kit:
+      Nella email troverai il mio tentativo di risolvere uno dei tre più grandi
+      problemi dei creator.
 
 
-      *   il link al **contenuto **migliore condiviso nella newsletter
-      giornaliera;
+      *   fare **audience building**;
 
 
-      *   il link alla **risorsa **più utile di quelle inviate nel corso della
-      settimana;
+      *   il tempo dei creator è poco ed è fondamentale riuscire a concentrarsi
+      sulle giuste attività, così come riuscire ad eseguire nel modo più
+      efficace possibile: è necessario avere un'ottima **produttività**;
 
 
-      *   il **prodotto di Product Hunt** che è piaciuto di più;
+      *   una vola che riesci a creare un'audience ed hai creato qualcosa resta
+      un ultimo passo: quello di fare **monetization.**
 
 
-      *   la **risorsa più apprezzata** nel corso della settimana precedente;
+      Nella prima parte di e-mail in cui ti aiuterò a semplificare le
+      **difficoltà** in queste aree.
 
 
-      *   **2 link a sorpresa **e che mi riservo di scegliere io settimana dopo
-      settimana.
+      E nella seconda parte condividerò con te una **risorsa o tool** utile per
+      ciascuna di queste aree. 
 
 
       L'attesa fino a domenica prossima è troppo lunga?
 
 
-      [**Leggi i numeri precedenti
-      qui!**](https://kit-sopravvivenza-product-people.ck.page/posts)
+      [**Leggi i numeri precedenti qui!**](https://kit-sopravvivenza-creator)
     styles:
       self:
         height: auto
