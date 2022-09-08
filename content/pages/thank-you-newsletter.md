@@ -88,7 +88,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    title: Cos'è Kit di Sopravvivenza per Product People?
+    title: Cos'è Kit di Sopravvivenza per CREATOR?
   - type: TextSection
     colors: colors-e
     elementId: ''
