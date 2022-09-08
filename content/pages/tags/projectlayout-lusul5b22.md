@@ -17,7 +17,34 @@ media:
   type: ImageBlock
   url: /images/Frame 18-b5e25e32.webp
   altText: Project image
-bottomSections: []
+bottomSections:
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    text: >
+      <Script async data-uid="5d6a847b43"
+      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
+
+      <Script async data-uid="71fb018372"
+      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 slug: projectlayout-lusul5b22
 date: '2022-08-28'
 ---
