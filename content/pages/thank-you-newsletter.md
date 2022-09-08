@@ -92,7 +92,7 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-b
-    title: Hai scelto il formato settimanale?
+    title: Cosa riceverai ogni settimana?
     subtitle: Domenica riceverai il tuo primo Kit!
     text: >
       Riceverai una email **ogni domenica**.
