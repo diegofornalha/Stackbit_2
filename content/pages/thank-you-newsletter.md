@@ -92,44 +92,6 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-b
-    text: >+
-      Se hai scelto di ricevere la newsletter quotidiana, condividerò con te,
-      **ogni giorno**, tre link:
-
-
-      *   il **link ad un contenuto** (un articolo, un podcast, un thread su
-      twitter ecc.);
-
-
-      *   una **risorsa** (un tool, framework, modello mentale o template Notion
-      ecc.);
-
-
-      *   il **prodotto di Product Hunt** più interessante che ho trovato nella
-      mia Product Hunt Curation quotidiana.
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    title: Hai scelto il formato giornaliero?
-    subtitle: Domani riceverai il tuo primo Kit!
-  - type: TextSection
-    colors: colors-e
-    elementId: ''
-    variant: variant-b
     title: Hai scelto il formato settimanale?
     subtitle: Domenica riceverai il tuo primo Kit!
     text: >
