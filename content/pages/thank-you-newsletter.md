@@ -61,17 +61,16 @@ sections:
     elementId: kit_sopravvivenza_product
     variant: variant-a
     subtitle: null
-    text: >+
-      **Kit di Sopravvivenza per Product People** è una newsletter con un
-      obiettivo molto specifico.
+    text: >
+      **Kit di Sopravvivenza per Creator** è una newsletter con un obiettivo
+      molto specifico.
 
 
-      Voglio aiutare le persone che lavorano ad un prodotto nella gestione del
-      caos che deriva dal lavorare ad un prodotto.
+      Voglio aiutare le persone che creano contenuti e che vorrebbero poter
+      guadagnare di quello che creano.
 
 
       Sei tra queste persone? Allora questa newsletter è per te.
-
     styles:
       self:
         height: auto
