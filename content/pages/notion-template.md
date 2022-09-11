@@ -53,6 +53,7 @@ sections:
         style: primary
         type: Button
         url: 'https://danieledamico.gumroad.com/l/easy-second-brain'
+        label: C
     styles:
       self:
         height: auto
