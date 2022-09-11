@@ -19,17 +19,17 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: >-
+    text: 
       <Script src="https://gumroad.com/js/gumroad-embed.js" />
 
       <div class="gumroad-product-embed"><a
       href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         padding:
-          - pt-28
+          - pt-0
           - pb-28
           - pl-4
           - pr-4
