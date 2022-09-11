@@ -45,7 +45,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Notion template per creator
-    title2: Fatti da un creator
     undefined: altra parte di testo
     text: null
     actions: []
