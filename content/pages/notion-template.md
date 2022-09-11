@@ -23,7 +23,7 @@ sections:
         height: screen
         width: narrow
         padding:
-          - pt-28
+          - pt-0
           - pb-0
           - pl-4
           - pr-4
