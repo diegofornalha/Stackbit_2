@@ -42,5 +42,5 @@ bottomSections:
         textAlign: center
 slug: easy-second-brain
 ---
-<Script src="https://gumroad.com/js/gumroad-embed.js" />
-<div class="gumroad-product-embed"><a href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
+
+
