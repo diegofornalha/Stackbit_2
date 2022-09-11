@@ -8,30 +8,35 @@ metaTags: []
 title: Notion Template
 colors: colors-a
 sections:
-  - type: TextSection
+  - type: FeaturedProjectsSection
     colors: colors-f
     elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
     variant: variant-a
-    text: >-
-      <Script src="https://gumroad.com/js/gumroad-embed.js" />
-
-
-      <div class="gumroad-product-embed"><a
-      href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
+    actions: []
     styles:
       self:
-        height: screen
-        width: narrow
+        height: auto
+        width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
-      text:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: null
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/tags/projectlayout-ia5cz52fm.md
+      - content/pages/tags/projectlayout-n83jrlix1.md
 ---
