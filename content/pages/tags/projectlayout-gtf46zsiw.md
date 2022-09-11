@@ -33,9 +33,7 @@ slug: projectlayout-gtf46zsiw
 
 **Il tempo di lettura previsto è: 4** minuti e 10.
 
-**​**
-
-​
+***
 
 # **CREATIVITÀ A COMANDO: UNA GUIDA PRATICA**
 
