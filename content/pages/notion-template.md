@@ -46,8 +46,7 @@ sections:
     text: |
       Il potere del Second Brain nel tuo Notion, senza sforzi
     actions:
-      - label: Try it now
-        altText: ''
+      - altText: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
