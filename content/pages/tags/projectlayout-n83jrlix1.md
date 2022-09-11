@@ -45,5 +45,5 @@ bottomSections:
         textAlign: center
 slug: projectlayout-n83jrlix1
 ---
-<Script src="https://gumroad.com/js/gumroad-embed.js" />
-<div class="gumroad-product-embed"><a href="https://danieledamico.gumroad.com/l/easy-post-ignition">Caricamento</a></div>
+
+
