@@ -53,7 +53,7 @@ sections:
         style: primary
         type: Button
         url: 'https://danieledamico.gumroad.com/l/easy-second-brain'
-        label: C
+        label: VEDIAMO UN PO'
     styles:
       self:
         height: auto
