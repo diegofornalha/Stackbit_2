@@ -21,7 +21,6 @@ bottomSections:
     variant: variant-a
     text: 
       <Script src="https://gumroad.com/js/gumroad-embed.js" />
-
     styles:
       self:
         height: screen
