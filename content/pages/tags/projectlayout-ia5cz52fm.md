@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Easy Second Brain
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-08-20'
 client: Awesome client
 description: 'Il potere del Second Brain nel tuo Notion, senza sforzi'
