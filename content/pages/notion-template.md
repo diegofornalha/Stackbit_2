@@ -44,7 +44,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: T
+    title: Notion template per creator
     title2: 'Lo '
     undefined: altra parte di testo
     text: null
