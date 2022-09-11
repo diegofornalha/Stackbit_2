@@ -13,13 +13,14 @@ sections:
     elementId: ''
     variant: variant-a
     text: >-
-      <Script src="https://gumroad.com/js/gumroad-embed.js" /></script>
+      <Script src="https://gumroad.com/js/gumroad-embed.js" />
+
 
       <div class="gumroad-product-embed"><a
       href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         padding:
           - pt-28
