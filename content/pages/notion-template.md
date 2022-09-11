@@ -69,5 +69,4 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: Fatti da un creator
 ---
