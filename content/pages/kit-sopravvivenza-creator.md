@@ -152,5 +152,6 @@ sections:
       - content/pages/tags/projectlayout-tr46hyn63.md
       - content/pages/tags/anche-i-creator-hanno-i-loro-lussi.md
       - content/pages/tags/projectlayout-gtf46zsiw.md
+      - content/pages/tags/projectlayout-gtf46zsiw.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
