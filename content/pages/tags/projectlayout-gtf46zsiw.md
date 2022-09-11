@@ -21,7 +21,7 @@ media:
 bottomSections: []
 slug: projectlayout-gtf46zsiw
 ---
-## TL;DR
+## **TL;DR**
 
 *   Creatività a comando: una guida pratica
 
@@ -37,7 +37,7 @@ slug: projectlayout-gtf46zsiw
 
 ​
 
-# CREATIVITÀ A COMANDO: UNA GUIDA PRATICA
+# **CREATIVITÀ A COMANDO: UNA GUIDA PRATICA**
 
 “Le idee migliori mi vengono nei momenti sbagliati.
 
@@ -89,7 +89,7 @@ Una mega-mamma di tutte le incomprensioni.
 
 ​
 
-## LA CREATIVITÀ È UNA FORZA INNATA E INCONTROLLABILE
+## **LA CREATIVITÀ È UNA FORZA INNATA E INCONTROLLABILE**
 
 Lo diceva pure Omero, no? “Cantami, o diva, del pelide Achille”.
 
@@ -117,7 +117,7 @@ Però ti voglio dare consigliare tre cose da fare, per controllare la tua di cre
 
 ​
 
-### 1) GUARDA LE COSE DA DIVERSI PUNTI DI VISTA
+### **1) GUARDA LE COSE DA DIVERSI PUNTI DI VISTA**
 
 Cambia prospettiva.
 
@@ -141,7 +141,7 @@ L’argomento è sempre lo stesso, ma i punti di vista cambiano.
 
 ​
 
-### 2) ADATTA L'ARGOMENTO ALLA COMPETENZA DEL PUBBLICO
+### **2) ADATTA L'ARGOMENTO ALLA COMPETENZA DEL PUBBLICO**
 
 Non mi importa se sono 1000 persone o 10 miliardi.
 
@@ -157,7 +157,7 @@ Adatta l’argomento di cui vuoi parlare alla competenza del target ed avrai tan
 
 ​
 
-### 3) VIVI UNA GIORNATA DA CREATOR, NON DA CONSUMER
+### **3) VIVI UNA GIORNATA DA CREATOR, NON DA CONSUMER**
 
 Sei un creator se crei più contenuti di quanti ne consumi.
 
@@ -177,7 +177,7 @@ Ecco **3 consigli** che ti possono aiutare:
 
 ​
 
-## LASCIA LA MUSA AD OMERO
+## **LASCIA LA MUSA AD OMERO**
 
 Segui uno di questi passi, oppure seguili tutti e tre.
 
@@ -199,7 +199,7 @@ Bye!
 
 ​
 
-## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
+## **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
 Ok, è una risorsa riguardo Twitter.
 
@@ -211,7 +211,7 @@ La tua pagina del profilo, su qualsiasi social, è una landing page no?
 
 ​
 
-## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
+## **🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ**
 
 Una delle leve più importanti della produttività è la motivazione.
 
@@ -221,11 +221,10 @@ Non è l’unica eh, ma è importante.
 
 ​
 
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
+## **💸 UNA RISORSA PER LA TUA MONETIZATION**
 
 Se vuoi monetizzare, c’è una cosa importante che devi accettare.
 
 Devi saper vendere.
 
 ​[E, per riuscirci, perché non imparare qualche tattica da sales?](https://twitter.com/barrettjoneill/status/1535242167173644288?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1535242167173644288%7Ctwgr%5E725e36bec7b1441e5320c717ea18d83d999bb62e%7Ctwcon%5Es1\_\&ref_url=https%3A%2F%2Fawesomethread.com%2Fthread%2F1535430617013309442)
-
