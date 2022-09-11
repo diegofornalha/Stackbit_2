@@ -8,7 +8,6 @@ metaTags: []
 title: Easy Second Brain
 colors: colors-a
 date: '2022-08-20'
-client: Awesome client
 description: 'Il potere del Second Brain nel tuo Notion, senza sforzi'
 featuredImage:
   type: ImageBlock
