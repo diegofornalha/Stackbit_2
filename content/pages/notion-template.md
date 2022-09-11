@@ -45,7 +45,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Notion mi piace parecchio
-    title2: mlmlmlmlmlml
+    title2: 'Lo '
     undefined: altra parte di testo
     text: null
     actions: []
