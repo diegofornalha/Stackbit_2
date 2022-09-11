@@ -31,7 +31,7 @@ slug: projectlayout-gtf46zsiw
 
 *   Una risorsa di monetization;
 
-**Il tempo di lettura previsto è: 4** minuti e 10.
+**Il tempo di lettura previsto è: **4 minuti e 10.
 
 ***
 
