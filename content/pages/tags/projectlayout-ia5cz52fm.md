@@ -18,10 +18,6 @@ featuredImage:
   url: /images/Notion-645ff8f9.webp
   altText: Project thumbnail image
   caption: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
 bottomSections: []
 slug: projectlayout-ia5cz52fm
 ---
