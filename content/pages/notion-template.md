@@ -38,6 +38,6 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
       - content/pages/tags/projectlayout-n83jrlix1.md
-      - content/pages/tags/projectlayout-ia5cz52fm.md
       - content/pages/tags/easy-second-brain.md
+      - content/pages/tags/projectlayout-ia5cz52fm.md
 ---
