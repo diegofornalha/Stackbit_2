@@ -26,7 +26,7 @@ bottomSections:
       href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         padding:
           - pt-0
