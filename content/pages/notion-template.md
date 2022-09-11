@@ -41,6 +41,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
+      - content/pages/tags/projectlayout-ia5cz52fm.md
   - type: TextSection
     colors: colors-f
     elementId: ''
