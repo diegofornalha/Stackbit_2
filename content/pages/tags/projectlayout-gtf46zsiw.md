@@ -19,19 +19,6 @@ media:
   url: /images/Frame 18-092f42d4.webp
   altText: Project image
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: TextSection
     colors: colors-f
     elementId: ''
