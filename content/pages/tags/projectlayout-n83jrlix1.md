@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Easy Post Ignition
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-09-03'
 client: Awesome client
 description: Creare post per Linkedin non è mai stato così facile!
