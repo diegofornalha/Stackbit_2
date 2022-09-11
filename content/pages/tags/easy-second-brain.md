@@ -19,7 +19,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: >-
+    text: 
       <Script src="https://gumroad.com/js/gumroad-embed.js" />
 
       <div class="gumroad-product-embed"><a
