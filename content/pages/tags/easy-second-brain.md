@@ -19,7 +19,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: 
+    text: >-
       <Script src="https://gumroad.com/js/gumroad-embed.js" />
 
       <div class="gumroad-product-embed"><a
@@ -27,7 +27,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         padding:
           - pt-28
           - pb-28
