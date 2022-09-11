@@ -44,7 +44,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Notion mi piace parecchio
+    title: T
     title2: 'Lo '
     undefined: altra parte di testo
     text: null
