@@ -53,6 +53,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        url: 'https://danieledamico.gumroad.com/l/easy-second-brain'
     styles:
       self:
         height: auto
