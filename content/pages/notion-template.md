@@ -42,7 +42,7 @@ sections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: 'Easy Second Brain '
+    title: "Easy Second Brain \U0001F9E0"
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
