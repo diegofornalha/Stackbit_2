@@ -12,9 +12,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-09-03'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Creare post per Linkedin non è mai stato così facile!
 featuredImage:
   type: ImageBlock
   url: /images/Notion-645ff8f9.webp
