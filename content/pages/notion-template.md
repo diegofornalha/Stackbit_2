@@ -48,7 +48,6 @@ sections:
     actions:
       - label: Try it now
         altText: ''
-        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
