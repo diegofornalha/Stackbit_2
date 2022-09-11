@@ -19,7 +19,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
     text: >-
       <Script src="https://gumroad.com/js/gumroad-embed.js" />
 
