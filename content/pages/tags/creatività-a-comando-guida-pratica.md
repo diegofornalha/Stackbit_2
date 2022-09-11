@@ -68,7 +68,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-gtf46zsiw
+slug: creatività-a-comando-guida-pratica
 ---
 ## **TL;DR**
 
