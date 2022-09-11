@@ -43,9 +43,8 @@ sections:
     elementId: ''
     backgroundSize: full
     title: "Easy Second Brain \U0001F9E0"
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Il potere del Second Brain nel tuo Notion, senza sforzi
     actions:
       - label: Try it now
         altText: ''
