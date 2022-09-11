@@ -12,8 +12,9 @@ sections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: >-
-      <Script src="https://gumroad.com/js/gumroad-embed.js" /></script>
+    text: >
+      <Script src="https://gumroad.com/js/gumroad-embed.js" />
+
 
       <div class="gumroad-product-embed"><a
       href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
