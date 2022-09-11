@@ -20,7 +20,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Notion-645ff8f9.webp
   altText: Project image
 bottomSections: []
 slug: projectlayout-n83jrlix1
