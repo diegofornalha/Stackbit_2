@@ -16,11 +16,7 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-a
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
+    actions: []
     styles:
       self:
         height: auto
