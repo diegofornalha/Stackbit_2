@@ -14,13 +14,11 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      <Script src="https://gumroad.com/js/gumroad-embed.js" /></script>
+
+      <div class="gumroad-product-embed"><a
+      href="https://danieledamico.gumroad.com/l/easy-second-brain">Caricamento</a></div>
     styles:
       self:
         height: auto
