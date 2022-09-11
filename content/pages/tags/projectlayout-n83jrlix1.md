@@ -20,7 +20,6 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/Notion-645ff8f9.webp
   altText: Project image
 bottomSections: []
 slug: projectlayout-n83jrlix1
