@@ -42,5 +42,3 @@ bottomSections:
         textAlign: center
 slug: easy-second-brain
 ---
-
-
