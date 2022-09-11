@@ -12,9 +12,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-08-20'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Il potere del Second Brain nel tuo Notion, senza sforzi'
 featuredImage:
   type: ImageBlock
   url: /images/Notion-645ff8f9.webp
