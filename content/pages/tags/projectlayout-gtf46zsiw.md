@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 KSC #04: Omero aspettava la musa..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-09-11'
 description: te hai tempo da perdere?
 featuredImage:
