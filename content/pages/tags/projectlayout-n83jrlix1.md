@@ -8,7 +8,6 @@ metaTags: []
 title: Easy Post Ignition
 colors: colors-a
 date: '2022-09-03'
-client: Awesome client
 description: Creare post per Linkedin non è mai stato così facile!
 featuredImage:
   type: ImageBlock
