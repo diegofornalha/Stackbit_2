@@ -29,7 +29,7 @@ bottomSections:
       href="https://danieledamico.gumroad.com/l/easy-post-ignition">Caricamento</a></div>
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-0
