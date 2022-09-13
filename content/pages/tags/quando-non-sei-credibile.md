@@ -45,7 +45,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-lusul5b22
+slug: quando-non-sei-credibile
 date: '2022-08-28'
 ---
 ### **TL;DR**
