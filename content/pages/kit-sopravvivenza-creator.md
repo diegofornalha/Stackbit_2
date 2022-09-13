@@ -154,5 +154,6 @@ sections:
       - content/pages/tags/projectlayout-gtf46zsiw.md
       - content/pages/tags/projectlayout-gtf46zsiw.md
       - content/pages/tags/creatività-a-comando-guida-pratica.md
+      - content/pages/tags/projectlayout-lusul5b22.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
