@@ -147,6 +147,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/tags/projectlayout-7gx63sfoa.md
       - content/pages/tags/kspp-01-ecco-primo-kit.md
+      - content/pages/tags/quando-non-sei-credibile.md
       - content/pages/tags/projectlayout-lusul5b22.md
       - content/pages/tags/projectlayout-tr46hyn63.md
       - content/pages/tags/projectlayout-tr46hyn63.md
@@ -154,5 +155,6 @@ sections:
       - content/pages/tags/projectlayout-gtf46zsiw.md
       - content/pages/tags/projectlayout-gtf46zsiw.md
       - content/pages/tags/creatività-a-comando-guida-pratica.md
+      - content/pages/tags/projectlayout-lusul5b22.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---

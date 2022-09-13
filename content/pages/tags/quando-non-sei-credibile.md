@@ -22,7 +22,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: >
+    text: 
       <Script async data-uid="5d6a847b43"
       src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
 
@@ -45,7 +45,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-lusul5b22
+slug: quando-non-sei-credibile
 date: '2022-08-28'
 ---
 ### **TL;DR**
