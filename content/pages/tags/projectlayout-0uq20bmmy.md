@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 3 ingredienti per generare tempo..."
 colors: colors-a
 date: '2022-09-18'
-description: ANCHE QUANDO NON NE HAI!
+description: anche quando non ne hai!
 featuredImage:
   type: ImageBlock
   url: /images/Frame 18-092f42d4.webp
