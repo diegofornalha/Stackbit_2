@@ -31,10 +31,10 @@ slug: projectlayout-0uq20bmmy
 
 *   Una risorsa di monetization;
 
-**Il tempo di lettura previsto è:** 3 minuti e 30.*
-
+**Il tempo di lettura previsto è:** 3 minuti e 30.
 
 ***
+
 ​
 
 # **COME GENERARE TEMPO, ANCHE QUANDO NON CE L'HAI**
