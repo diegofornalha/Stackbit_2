@@ -142,7 +142,6 @@ sections:
         justifyContent: center
     title: DAI UNO SGUARDO AI VECCHI NUMERI
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/tags/projectlayout-7gx63sfoa.md
       - content/pages/tags/kspp-01-ecco-primo-kit.md
