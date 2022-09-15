@@ -34,9 +34,12 @@ slug: projectlayout-0uq20bmmy
 **Il tempo di lettura previsto è:** 3 minuti e 30.
 
 
+
 ***
 
+
 ​
+
 # **COME GENERARE TEMPO, ANCHE QUANDO NON CE L'HAI**
 
 Nella newsletter di oggi voglio parlare un po’ di produttività.
