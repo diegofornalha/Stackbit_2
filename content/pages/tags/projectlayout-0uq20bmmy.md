@@ -31,7 +31,7 @@ slug: projectlayout-0uq20bmmy
 
 *   Una risorsa di monetization;
 
-**Il tempo di lettura previsto è: **3 minuti e 30.
+**Il tempo di lettura previsto è:** 3 minuti e 30.
 
 **​**
 
@@ -184,7 +184,9 @@ Nell’attesa, buona settimana e beccati le risorse!
 Daniele
 
 ​
-****
+
+***
+
 ​
 
 ## **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
@@ -218,4 +220,3 @@ Hai bisogno di una strategia di monetization rapida ed efficace?
 ​[Direi che questa potrebbe essere interessante.](https://twitter.com/jeremynickmoser/status/1570079944092295170)​
 
 ​
-
