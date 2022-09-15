@@ -9,9 +9,7 @@ title: "\U0001F9F0 3 ingredienti per generare tempo..."
 colors: colors-a
 date: '2022-09-18'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ANCHE QUANDO NON NE HAI!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
