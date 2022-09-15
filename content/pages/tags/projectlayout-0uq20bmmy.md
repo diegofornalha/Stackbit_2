@@ -47,7 +47,6 @@ bottomSections:
     elementId: ''
     variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
     text: >
       <Script async data-uid="5d6a847b43"
       src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
