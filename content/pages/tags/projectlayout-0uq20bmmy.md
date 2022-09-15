@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 3 ingredienti per generare tempo..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-09-18'
 client: Awesome client
 description: >-
