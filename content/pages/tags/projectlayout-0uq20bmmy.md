@@ -11,7 +11,7 @@ date: '2022-09-18'
 description: ANCHE QUANDO NON NE HAI!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame 18-092f42d4.webp
   altText: Project thumbnail image
   caption: ''
 media:
