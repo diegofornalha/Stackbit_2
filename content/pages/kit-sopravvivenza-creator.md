@@ -142,9 +142,6 @@ sections:
         justifyContent: center
     title: DAI UNO SGUARDO AI VECCHI NUMERI
     projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/tags/projectlayout-7gx63sfoa.md
       - content/pages/tags/kspp-01-ecco-primo-kit.md
       - content/pages/tags/quando-non-sei-credibile.md
@@ -157,5 +154,7 @@ sections:
       - content/pages/tags/creatività-a-comando-guida-pratica.md
       - content/pages/tags/projectlayout-lusul5b22.md
       - content/pages/tags/projectlayout-0uq20bmmy.md
+      - content/pages/tags/projectlayout-0uq20bmmy.md
+      - content/pages/tags/3-ingredienti-per-generare-tempo.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---

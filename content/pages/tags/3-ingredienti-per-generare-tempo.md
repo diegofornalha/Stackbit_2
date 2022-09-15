@@ -5,13 +5,13 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 3 ingredienti per generare tempo..."
+title: "\U0001F9F0 KSC #03 ingredienti per generare tempo..."
 colors: colors-a
 date: '2022-09-18'
-description: ANCHE QUANDO NON NE HAI!
+description: anche quando non ne hai!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame 18-092f42d4.webp
   altText: Project thumbnail image
   caption: ''
 media:
@@ -23,8 +23,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
-    subtitle: The section subtitle
+    title: "\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE"
     text: "1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    ​[Prenotala qui.](https://danieledamico.gumroad.com/l/easy-notion-workspace)\n"
     styles:
       self:
@@ -69,7 +68,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-0uq20bmmy
+slug: 3-ingredienti-per-generare-tempo
 ---
 ## **TL;DR**
 
