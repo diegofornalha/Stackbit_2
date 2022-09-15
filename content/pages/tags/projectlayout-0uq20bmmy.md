@@ -18,7 +18,57 @@ media:
   type: ImageBlock
   url: /images/Frame 18-092f42d4.webp
   altText: Project image
-bottomSections: []
+bottomSections:
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    title: The Section Title
+    subtitle: The section subtitle
+    text: "1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    ​[Prenotala qui.](https://danieledamico.gumroad.com/l/easy-notion-workspace)\n"
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    text: >
+      <Script async data-uid="5d6a847b43"
+      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
+
+      <Script async data-uid="71fb018372"
+      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 slug: projectlayout-0uq20bmmy
 ---
 ## **TL;DR**
