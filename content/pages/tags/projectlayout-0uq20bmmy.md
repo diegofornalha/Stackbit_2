@@ -8,7 +8,6 @@ metaTags: []
 title: "\U0001F9F0 3 ingredienti per generare tempo..."
 colors: colors-a
 date: '2022-09-18'
-client: Awesome client
 description: ANCHE QUANDO NON NE HAI!
 featuredImage:
   type: ImageBlock
