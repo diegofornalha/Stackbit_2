@@ -68,7 +68,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-0uq20bmmy
+slug: 3-ingredienti-per-generare-tempo
 ---
 ## **TL;DR**
 
