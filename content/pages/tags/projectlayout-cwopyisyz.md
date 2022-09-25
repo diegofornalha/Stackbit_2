@@ -16,6 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Project image
+  url: /images/EHI_-MI-DAI-FEEDBACK_-87bb6cac.webp
 bottomSections: []
 slug: projectlayout-cwopyisyz
 ---
