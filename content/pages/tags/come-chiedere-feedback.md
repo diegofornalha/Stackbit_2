@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSC #05: Ogni feedback è bell..."
+title: "\U0001F9F0 KSC #06: Ogni feedback è bell..."
 colors: colors-a
 date: '2022-09-24'
 description: a mamma soja
@@ -58,7 +58,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-    text:
+    text: >-
       <Script async data-uid="5d6a847b43"
       src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
 
