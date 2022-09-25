@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSC #05: Ogni feedback è bell..."
+title: "\U0001F9F0 KSC #06: Ogni feedback è bell..."
 colors: colors-a
 date: '2022-09-24'
 description: a mamma soja
@@ -21,7 +21,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: "## **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Puoi scaricare\_**Easy Content Strategy**\_ed usare il mio sistema per creare contenuti.\n    **​**[**Lo trovi qui.**](https://bit.ly/ecs-kit-creator)**​**\n\n3.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    **​**[**Prenotala qui.**](https://danieledamico.gumroad.com/l/easy-notion-workspace)**​**\n\n"
+    text: "## **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Puoi scaricare\_**Easy Content Strategy**\_ed usare il mio sistema per creare contenuti.\n    [**Lo trovi qui.**](https://bit.ly/ecs-kit-creator)\n\n3.  Possiamo fare una\_**call sul tuo spazio Notion**.    [**Prenotala qui.**](https://danieledamico.gumroad.com/l/easy-notion-workspace)\n"
     styles:
       self:
         height: auto
@@ -58,14 +58,14 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-    text: >
+    text: >-
       <Script async data-uid="5d6a847b43"
       src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
 
 
       <Script async data-uid="71fb018372"
       src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
-slug: projectlayout-cwopyisyz
+slug: come-chiedere-feedback
 ---
 Un link ed una domanda.
 
