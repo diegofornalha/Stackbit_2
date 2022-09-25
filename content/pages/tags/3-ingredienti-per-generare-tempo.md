@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 KSC #05 ingredienti per generare tempo..."
+title: "\U0001F9F0 KSC #05:  3 ingredienti per generare tempo..."
 colors: colors-a
 date: '2022-09-18'
 description: anche quando non ne hai!
