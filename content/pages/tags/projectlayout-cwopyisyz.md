@@ -11,7 +11,7 @@ date: '2022-09-24'
 description: a mamma soja
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/EHI_-MI-DAI-FEEDBACK_.webp
   altText: Project thumbnail image
   caption: ''
 media:
