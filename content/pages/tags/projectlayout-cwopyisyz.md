@@ -65,7 +65,7 @@ bottomSections:
 
       <Script async data-uid="71fb018372"
       src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
-slug: projectlayout-cwopyisyz
+slug: come-chiedere-feedback
 ---
 Un link ed una domanda.
 
