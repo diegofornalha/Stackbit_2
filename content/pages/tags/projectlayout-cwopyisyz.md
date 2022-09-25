@@ -12,7 +12,6 @@ description: a mamma soja
 featuredImage:
   type: ImageBlock
   url: /images/EHI_-MI-DAI-FEEDBACK_.webp
-  altText: Project thumbnail image
   caption: ''
 media:
   type: ImageBlock
