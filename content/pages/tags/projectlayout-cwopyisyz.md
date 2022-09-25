@@ -21,33 +21,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-    text: >
-      <Script async data-uid="5d6a847b43"
-      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
-
-
-      <Script async data-uid="71fb018372"
-      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
-  - type: TextSection
-    colors: colors-f
-    elementId: ''
-    variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
     text: |-
@@ -73,6 +46,33 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+    text: >
+      <Script async data-uid="5d6a847b43"
+      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
+
+      <Script async data-uid="71fb018372"
+      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
 slug: projectlayout-cwopyisyz
 ---
 Un link ed una domanda.
