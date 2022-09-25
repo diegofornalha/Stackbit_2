@@ -11,7 +11,7 @@ date: '2022-09-24'
 description: a mamma soja
 featuredImage:
   type: ImageBlock
-  url: /images/EHI_-MI-DAI-FEEDBACK_.webp
+  url: /images/ehi-mi-dai-feedback.webp
   caption: ''
 media:
   type: ImageBlock
