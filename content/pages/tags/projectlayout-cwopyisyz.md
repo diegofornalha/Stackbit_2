@@ -22,7 +22,6 @@ bottomSections:
     elementId: ''
     variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
     text: "1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Puoi scaricare\_**Easy Content Strategy**\_ed usare il mio sistema per creare contenuti.\n    **​**[**Lo trovi qui.**](https://bit.ly/ecs-kit-creator)**​**\n\n3.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    **​**[**Prenotala qui.**](https://danieledamico.gumroad.com/l/easy-notion-workspace)**​**\n\n\n"
     styles:
       self:
