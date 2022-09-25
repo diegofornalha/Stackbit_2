@@ -31,13 +31,7 @@ Newsletter, template Notion, design su Figma: non cambia.
 
 Ed è sempre sbagliata.
 
-​
-
 ***
-
-
-
-
 
 ## **TL;DR**
 
