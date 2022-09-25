@@ -32,7 +32,11 @@ Newsletter, template Notion, design su Figma: non cambia.
 Ed è sempre sbagliata.
 
 ​
+
 ***
+
+
+
 
 
 ## **TL;DR**
@@ -47,8 +51,8 @@ Ed è sempre sbagliata.
 
 **Il tempo di lettura previsto è: 3** minuti e 19 secondi.
 
-**​**
 
+***
 ​
 
 Ehi ciao 👋,
