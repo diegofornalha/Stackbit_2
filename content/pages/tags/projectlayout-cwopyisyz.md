@@ -32,10 +32,10 @@ Newsletter, template Notion, design su Figma: non cambia.
 Ed è sempre sbagliata.
 
 ​
-****
+***
 
 
-## TL;DR
+## **TL;DR**
 
 *   "Ehi mi dai feedback?" La domanda che non ti porta da nessuna parte;
 
@@ -69,7 +69,7 @@ E così otteniamo risposte poco utili.
 
 ​
 
-## “EHI MI DAI FEEDBACK?” LA DOMANDA CHE NON TI PORTA DA NESSUNA PARTE
+## **“EHI MI DAI FEEDBACK?” LA DOMANDA CHE NON TI PORTA DA NESSUNA PARTE**
 
 Ma alla fine che cosa puoi fare oltre che chiedere il parere?
 
@@ -113,7 +113,7 @@ Quindi, la prossima volta, evita di dire “Ehi, mi dai feedback?” e chiedi:
 
 ​
 
-### NESSUN UTENTE < UTENTE QUALSIASI < UTENTE GIUSTO
+### **NESSUN UTENTE < UTENTE QUALSIASI < UTENTE GIUSTO**
 
 Devi chiedere il feedback a qualcuno, fin qui ci siamo.
 
@@ -166,10 +166,12 @@ Anzi, dammi feedback!
 Nell’attesa, buona settimana e beccati le risorse!
 
 ​
-****
+
+***
+
 ​
 
-## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
+## **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
 Per creare un’audience ti servono contenuti.
 
@@ -179,7 +181,7 @@ E per creare contenuti in modo sostenibile hai bisogno di un sistema.
 
 ​
 
-## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
+## **🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ**
 
 Non è proprio una risorsa di produttività.
 
@@ -191,7 +193,7 @@ E cosa c’è di più produttivo di Notion?
 
 ​
 
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
+## **💸 UNA RISORSA PER LA TUA MONETIZATION**
 
 L’affiliate marketing è una delle monetization lane più diffuse.
 
