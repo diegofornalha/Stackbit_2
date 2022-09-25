@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Ogni feedback è bell...
+title: "\U0001F9F0 KSC #05Ogni feedback è bell..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
