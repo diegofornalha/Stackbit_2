@@ -31,11 +31,9 @@ Newsletter, template Notion, design su Figma: non cambia.
 
 Ed è sempre sbagliata.
 
-
-
 ***
 
-
+***
 
 ## **TL;DR**
 
@@ -48,8 +46,6 @@ Ed è sempre sbagliata.
 *   Una risorsa di monetization;
 
 **Il tempo di lettura previsto è: 3** minuti e 19 secondi.
-
-
 
 ***
 
