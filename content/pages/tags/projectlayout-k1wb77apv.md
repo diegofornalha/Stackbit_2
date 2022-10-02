@@ -23,7 +23,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: "\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE"
     text: "## \\*\\* \U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE\\*\\*\n\n1.  Puoi scaricare **Easy Second Brain** e rendere il tuo Notion meno caotico.\n    **​Lo trovi qui.​**\n\n2.  Puoi scaricare **Easy Content Strategy** ed usare il mio sistema per creare contenuti. \n    **Lo trovi qui.**\n\n3.  Possiamo fare una **call sul tuo spazio Notion**. \n    **Prenotala qui.**\n\n****\n"
     styles:
       self:
