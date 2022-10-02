@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 7 ore per trasformarti..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-10-02'
 description: da consumer a creator
 featuredImage:
