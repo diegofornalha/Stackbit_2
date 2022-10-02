@@ -23,7 +23,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: "## **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare **Easy Second Brain** e rendere il tuo Notion meno caotico.\n    **​**[**Lo trovi qui.​**](https://bit.ly/esb-linkedin-featured)\n\n2.  Puoi scaricare **Easy Content Strategy** ed usare il mio sistema per creare contenuti.\n    [**Lo trovi qui.**](https://bit.ly/ecs-newsletter)\n\n3.  Possiamo fare una **call sul tuo spazio Notion** per aiutarti a gestirlo meglio.\n    [**Prenotala qui.**](https://danieledamico.gumroad.com/)"
+    text: "## **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare **Easy Second Brain** e rendere il tuo Notion meno caotico.\n    **​**[**Lo trovi qui.​**](https://bit.ly/esb-linkedin-featured)\n\n2.  Puoi scaricare **Easy Content Strategy** ed usare il mio sistema per creare contenuti.\n    [**Lo trovi qui.**](https://bit.ly/ecs-newsletter)\n\n3.  Possiamo fare una **call sul tuo spazio Notion** per aiutarti a gestirlo meglio.[**Prenotala qui.**](https://danieledamico.gumroad.com/)"
     styles:
       self:
         height: auto
