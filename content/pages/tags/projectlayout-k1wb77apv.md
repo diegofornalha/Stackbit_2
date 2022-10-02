@@ -24,7 +24,6 @@ bottomSections:
     elementId: ''
     variant: variant-a
     title: "\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE"
-    subtitle: The section subtitle
     text: >
       Puoi scaricare Easy Second Brain e rendere il tuo Notion meno caotico.​Lo
       trovi qui.​
