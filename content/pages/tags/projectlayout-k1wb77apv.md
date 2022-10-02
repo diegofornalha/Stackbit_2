@@ -203,8 +203,9 @@ Nell’attesa, buona settimana e beccati le risorse.
 ​Daniele
 
 ​
+***
 
-\*\*\*​
+
 
 ### **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
