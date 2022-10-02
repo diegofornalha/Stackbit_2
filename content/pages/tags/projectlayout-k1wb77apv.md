@@ -69,7 +69,8 @@ E la causa è una sola.
 
 ​
 
-PER DIVENTARE UN CREATOR NON PUOI PENSARE DA CONSUMER
+## **PER DIVENTARE UN CREATOR NON PUOI PENSARE DA CONSUMER**
+
 La differenza tra creator e consumer è una sola: il modo in cui pensano.
 
 Se decidi di essere creator, devi vedere il mondo con un nuovo mindset.
@@ -97,7 +98,8 @@ Arriviamo al sodo.
 
 ​
 
-È PIÙ FACILE CONSUMARE CHE CREARE!
+### **È PIÙ FACILE CONSUMARE CHE CREARE!**
+
 Lo so come funziona.
 
 Entri su un social e subito ti ritrovi davanti tutti i contenuti del mondo.
@@ -118,7 +120,8 @@ Ricordalo ogni volta che consumi: se l’hai consumato con facilità, allora pot
 
 ​
 
-HAI BISOGNO DI QUELLO STRUMENTO PER CREARE E PURTROPPO NON CE L’HAI
+### **HAI BISOGNO DI QUELLO STRUMENTO PER CREARE E PURTROPPO NON CE L’HAI**
+
 Scommetto che vuoi cominciare a pubblicare su Youtube ma non hai la macchina fotografica.
 
 Oppure, vuoi cominciare a pubblicare su Instagram e non hai Photoshop.
@@ -143,7 +146,8 @@ Oppure mi mandi una mail e te le trovo io.
 
 ​
 
-PUNTI ALLE STELLE E RESTI NELLA STALLA!
+### **PUNTI ALLE STELLE E RESTI NELLA STALLA!**
+
 Bene.
 
 Se hai letto fin qui, e se sono stato bravo, stai pensando a quanto è facile creare contenuti.
@@ -196,11 +200,13 @@ Dai, ecco anche un aiutino.
 
 Nell’attesa, buona settimana e beccati le risorse.
 
-​
+​Daniele
 
 ​
 
-​
+***​
+
+
 
 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
 Fare storytelling è figo.
