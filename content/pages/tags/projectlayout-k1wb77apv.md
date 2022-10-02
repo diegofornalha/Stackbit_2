@@ -204,11 +204,10 @@ Nell’attesa, buona settimana e beccati le risorse.
 
 ​
 
-***​
+\*\*\*​
 
+### **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
-
-👥 UNA RISORSA PER FARE AUDIENCE BUILDING
 Fare storytelling è figo.
 
 E gli effetti sono molto potenti, soprattutto su Linkedin.
@@ -219,7 +218,8 @@ Il problema è che richiede tanto spazio.
 
 ​
 
-🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
+### **🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ**
+
 C’è una scelta che tutti devono fare nella vita.
 
 Utilizzare Google Doc o Microsoft?
@@ -228,7 +228,8 @@ Utilizzare Google Doc o Microsoft?
 
 ​
 
-💸 UNA RISORSA PER LA TUA MONETIZATION
+### **💸 UNA RISORSA PER LA TUA MONETIZATION**
+
 Esiste un tool che ti permette di vendere il tuo prodotto e gestire tutto il resto.
 
 Si chiama Kajabi e costa tutti i soldi del mondo.
