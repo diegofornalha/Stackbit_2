@@ -25,7 +25,16 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: "## ** \U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\nPuoi scaricare Easy Second Brain e rendere il tuo Notion meno caotico.​Lo trovi qui.​\n\nPuoi scaricare Easy Content Strategy ed usare il mio sistema per creare contenuti. Lo trovi qui.\n\nPossiamo fare una call sul tuo spazio Notion. Prenotala qui."
+    text: >
+      Puoi scaricare Easy Second Brain e rendere il tuo Notion meno caotico.​Lo
+      trovi qui.​
+
+
+      Puoi scaricare Easy Content Strategy ed usare il mio sistema per creare
+      contenuti. Lo trovi qui.
+
+
+      Possiamo fare una call sul tuo spazio Notion. Prenotala qui.
     styles:
       self:
         height: auto
