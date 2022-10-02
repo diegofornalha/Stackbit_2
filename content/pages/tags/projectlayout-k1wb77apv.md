@@ -81,7 +81,7 @@ Ma come si fa?
 
 Come puoi fare questo cambiamento?
 
-Innanzitutto, puoi liberarti da queste convinzioni:
+Innanzitutto, puoi liberarti da queste **convinzioni**:
 
 *   È più facile consumare che creare
 
