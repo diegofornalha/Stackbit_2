@@ -39,7 +39,7 @@ E questo è un problema.
 
 ## **TL;DR**
 
-Per diventare creator non puoi pensare da consumer
+*   Per diventare creator non puoi pensare da consumer
 
 *   Una risorsa di audience building;
 
@@ -48,7 +48,6 @@ Per diventare creator non puoi pensare da consumer
 *   Una risorsa di monetization.
 
 **Il tempo di lettura previsto è**: 3 minuti e 30.
-
 
 ***
 
