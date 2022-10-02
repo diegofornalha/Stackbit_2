@@ -55,9 +55,9 @@ E questo è un problema.
 
 Ehi ciao 👋,
 
-questo è il numero 138 del Kit di Sopravvivenza per Creator.
+questo è il numero 138 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti rivelerò come mi sono trasformato da consumer a creator.
+Ed oggi ti rivelerò come mi sono **trasformato da consumer a creator**.
 
 Se hai intenzione di diventare un creator devi pensare bene a come spendi il tempo.
 
@@ -71,7 +71,7 @@ E la causa è una sola.
 
 ## **PER DIVENTARE UN CREATOR NON PUOI PENSARE DA CONSUMER**
 
-La differenza tra creator e consumer è una sola: il modo in cui pensano.
+La differenza tra creator e consumer è una sola: il **modo in cui pensano**.
 
 Se decidi di essere creator, devi vedere il mondo con un nuovo mindset.
 
@@ -83,9 +83,12 @@ Come puoi fare questo cambiamento?
 
 Innanzitutto, puoi liberarti da queste convinzioni:
 
-È più facile consumare che creare
-Ti manca sempre qualcosa
-Punti alle stelle e resti nella stalla.
+*   È più facile consumare che creare
+
+*   Ti manca sempre qualcosa
+
+*   Punti alle stelle e resti nella stalla.
+
 E non temere.
 
 Ho da poco effettuato io stesso questo passaggio.
@@ -112,7 +115,7 @@ O no?
 
 Beh, in realtà non è così.
 
-Così come è facile guardare un reel su Instagram, è altrettanto facile crearne uno.
+**Così come è facile guardare un reel su Instagram, è altrettanto facile crearne uno.**
 
 Davvero, bastano pochi tap sullo schermo ed avrai creato qualcosa.
 
@@ -130,13 +133,13 @@ O ancora, vuoi cominciare a pubblicare su Linkedin e non hai la credibilità.
 
 Potrei andare all’infinito, lo sai.
 
-Perché sono tutte scuse.
+Perché sono tutte **scuse**.
 
 Per fare un video ti basta uno smartphone, scommetto che ne hai uno tra le mani proprio adesso.
 
-E se non hai Photoshop, ci sono tante alternative, anche gratuite.
+E se non hai Photoshop, ci sono tante alternative, [**anche gratuite**](https://www.photopea.com/).
 
-Oppure, se non hai la credibilità per pubblicare su Linkedin, la puoi trovare qui.​
+Oppure, se non hai la credibilità per pubblicare su Linkedin, [**la puoi trovare qui**](https://danieledamico.tech/tags/quando-non-sei-credibile/).​
 
 Insomma, non ti mancano gli strumenti.
 
@@ -154,7 +157,7 @@ Se hai letto fin qui, e se sono stato bravo, stai pensando a quanto è facile cr
 
 E magari cominci ad avere voglia di farlo.
 
-C’è solo un ultimo problema: deve essere tutto perfetto.
+C’è solo un ultimo problema: **deve essere tutto perfetto**.
 
 In fondo, mica puoi fare brutta figura?
 
@@ -162,9 +165,9 @@ Beh, ti dirò che invece puoi.
 
 Perché nessuno noterà la tua brutta figura e non devi preoccuparti della perfezione: non esiste.
 
-Anzi, invece che concentrarti sulla perfezione, concentrati sulla qualità.
+Anzi, invece che concentrarti sulla perfezione, concentrati sulla **qualità**.
 
-E sai cosa serve per raggiungerla? La quantità.
+E sai cosa serve per raggiungerla? La **quantità**.
 
 Quindi datti da fare e pubblica.
 
@@ -174,6 +177,8 @@ Così ti troverai con tanti contenuti e quindi con la qualità.
 
 ​
 
+
+
 Bene, direi che per oggi è tutto.
 
 Spero che questi tre consigli ti aiutino a passare da consumer a creator.
@@ -181,6 +186,8 @@ Spero che questi tre consigli ti aiutino a passare da consumer a creator.
 Come avrai capito, è un passaggio che avviene più nella testa che altrove.
 
 ​
+
+
 
 E per chiudere, ti sfido.
 
@@ -196,7 +203,7 @@ I 3 contenuti migliori riceveranno una sorpresa.
 
 Accetti la sfida?
 
-Dai, ecco anche un aiutino.
+Dai, [**ecco anche un aiutino**](https://bit.ly/ecs-newsletter).
 
 Nell’attesa, buona settimana e beccati le risorse.
 
@@ -205,8 +212,6 @@ Nell’attesa, buona settimana e beccati le risorse.
 ​
 
 ***
-
-
 
 ### **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
