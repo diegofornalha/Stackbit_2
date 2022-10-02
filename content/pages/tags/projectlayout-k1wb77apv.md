@@ -14,7 +14,7 @@ date: '2022-10-02'
 description: da consumer a creator
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Frame-35-_1_.webp
   altText: Project thumbnail image
   caption: ''
 media:
