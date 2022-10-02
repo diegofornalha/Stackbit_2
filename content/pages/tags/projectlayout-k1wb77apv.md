@@ -12,9 +12,7 @@ backgroundImage:
   url: /images/bg2.jpg
 date: '2022-10-02'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: da consumer a creator
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
