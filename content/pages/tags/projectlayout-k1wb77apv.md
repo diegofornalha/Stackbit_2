@@ -69,7 +69,7 @@ bottomSections:
         textAlign: center
       text:
         textAlign: center
-slug: projectlayout-k1wb77apv
+slug: da-consumer-a-creator
 ---
 Quante cose fai in 7 ore?
 
