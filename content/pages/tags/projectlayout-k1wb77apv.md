@@ -29,7 +29,7 @@ La vera domanda però non è quante cose fai, ma quali.
 
 E la risposta me la dicono le statistiche.
 
-Ogni giorno passi 7 ore a consumare contenuti.
+**Ogni giorno passi 7 ore a consumare contenuti.**
 
 E questo è un problema.
 
@@ -177,8 +177,6 @@ Così ti troverai con tanti contenuti e quindi con la qualità.
 
 ​
 
-
-
 Bene, direi che per oggi è tutto.
 
 Spero che questi tre consigli ti aiutino a passare da consumer a creator.
@@ -186,8 +184,6 @@ Spero che questi tre consigli ti aiutino a passare da consumer a creator.
 Come avrai capito, è un passaggio che avviene più nella testa che altrove.
 
 ​
-
-
 
 E per chiudere, ti sfido.
 
