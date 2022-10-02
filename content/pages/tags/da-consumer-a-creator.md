@@ -45,7 +45,6 @@ bottomSections:
     elementId: ''
     variant: variant-a
     title: The Section Title
-    subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
