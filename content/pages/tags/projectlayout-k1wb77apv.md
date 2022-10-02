@@ -206,9 +206,6 @@ Nell’attesa, buona settimana e beccati le risorse.
 
 ***
 
-
-
-
 ### **👥 UNA RISORSA PER FARE AUDIENCE BUILDING**
 
 Fare storytelling è figo.
@@ -217,8 +214,8 @@ E gli effetti sono molto potenti, soprattutto su Linkedin.
 
 Il problema è che richiede tanto spazio.
 
-​Questa però potrebbe essere la soluzione.​
-
+[​Questa però potrebbe essere la soluzione.​
+](https://twitter.com/thatroblennon/status/1576161266099290113)
 ​
 
 ### **🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ**
@@ -227,7 +224,7 @@ C’è una scelta che tutti devono fare nella vita.
 
 Utilizzare Google Doc o Microsoft?
 
-​Io ho fatto la mia scelta e con questo thread potrò trarne il meglio.​
+[​Io ho fatto la mia scelta e con questo thread potrò trarne il meglio.​](https://twitter.com/thatroblennon/status/1548257392780972032)
 
 ​
 
@@ -237,4 +234,4 @@ Esiste un tool che ti permette di vendere il tuo prodotto e gestire tutto il res
 
 Si chiama Kajabi e costa tutti i soldi del mondo.
 
-​Per fortuna ci sono alternative più economiche e questa è la migliore.
+[​Per fortuna ci sono alternative più economiche e questa è la migliore.](https://www.podia.com/)
