@@ -25,13 +25,7 @@ bottomSections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "## ** \U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\nPuoi scaricare Easy Second Brain e rendere il tuo Notion meno caotico.​Lo trovi qui.​\n\nPuoi scaricare Easy Content Strategy ed usare il mio sistema per creare contenuti. Lo trovi qui.\n\nPossiamo fare una call sul tuo spazio Notion. Prenotala qui."
     styles:
       self:
         height: auto
