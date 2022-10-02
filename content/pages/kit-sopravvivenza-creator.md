@@ -161,5 +161,6 @@ sections:
       - content/pages/tags/come-chiedere-feedback.md
       - content/pages/tags/projectlayout-k1wb77apv.md
       - content/pages/tags/projectlayout-k1wb77apv.md
+      - content/pages/tags/da-consumer-a-creator.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
