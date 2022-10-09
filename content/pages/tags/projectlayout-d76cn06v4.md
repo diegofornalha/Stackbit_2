@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: 'kSC #08: SISTEMI PER CREATOR: UNA GUIDA PRATICA'
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-10-09'
 client: Awesome client
 description: >-
