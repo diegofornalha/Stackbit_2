@@ -37,7 +37,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: null
     text: "## \U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING\n\nNon devi per forza creare una newsletter per fare audience building.\n\nPuoi anche creare una community.\n\n​[E questa è la mappa migliore da seguire.](https://twitter.com/MillyTamati/status/1577238406224318464)​\n\n​\n\n## \U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ\n\nNon riguarda solo la produttività ma tante altre cose.\n\n​[Questo thread però ti darà di sicuro qualcosa da implementare nella tua vita quotidiana.](https://twitter.com/SahilBloom/status/1578719931947839488)​\n\n​\n\n## \U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION\n\nLa fonte migliore di idee per monetizzare è quella di scomporre il nostro obiettivo.\n\nTi piacerebbe guadagnare 100.000 dollari all'anno? Allora scomponi questo obiettivo.\n\n​[Puoi fare così.](https://twitter.com/dvassallo/status/1251695615559389184)\n"
     styles:
