@@ -8,7 +8,6 @@ metaTags: []
 title: 'kSC #08: SISTEMI PER CREATOR: UNA GUIDA PRATICA'
 colors: colors-a
 date: '2022-10-09'
-client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
