@@ -8,9 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #08: È POSSIBILE PUBBLICARE DI PIÙ"
 colors: colors-a
 date: '2022-10-09'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: e sforzarsi di meno?
 featuredImage:
   type: ImageBlock
   url: /images/Newsletter-3_1-removebg-preview-9139c621.webp
