@@ -127,7 +127,7 @@ Mi sono preparato per tutta la giornata ed alla fine non avevo più energia per 
 E questo è un problema.
 
 ​
-***
+
 ​
 
 **TL;DR**
@@ -143,7 +143,8 @@ E questo è un problema.
 **Il tempo di lettura previsto è: 4 minuti e 45.**
 
 ​
-***
+
+
 ​
 
 Ehi ciao 👋,
@@ -298,34 +299,4 @@ Scegli tu.
 
 Nel frattempo, buona settimana e beccati le risorse.
 
-​
 
-​
-
-​
-
-## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
-
-Non devi per forza creare una newsletter per fare audience building.
-
-Puoi anche creare una community.
-
-​[E questa è la mappa migliore da seguire.](https://twitter.com/MillyTamati/status/1577238406224318464)​
-
-​
-
-## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
-
-Non riguarda solo la produttività ma tante altre cose.
-
-​[Questo thread però ti darà di sicuro qualcosa da implementare nella tua vita quotidiana.](https://twitter.com/SahilBloom/status/1578719931947839488)​
-
-​
-
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
-
-La fonte migliore di idee per monetizzare è quella di scomporre il nostro obiettivo.
-
-Ti piacerebbe guadagnare 100.000 dollari all'anno? Allora scomponi questo obiettivo.
-
-​[Puoi fare così.](https://twitter.com/dvassallo/status/1251695615559389184)
