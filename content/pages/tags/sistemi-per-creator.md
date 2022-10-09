@@ -18,7 +18,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Newsletter-3_1-removebg-preview.webp
   altText: Project image
 bottomSections: []
 slug: sistemi-per-creator
