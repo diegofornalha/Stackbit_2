@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: 'kSC #08: SISTEMI PER CREATOR: UNA GUIDA PRATICA'
+title: "\U0001F9F0 kSC #08: SISTEMI PER CREATOR: UNA GUIDA PRATICA"
 colors: colors-a
 date: '2022-10-09'
 description: >-
