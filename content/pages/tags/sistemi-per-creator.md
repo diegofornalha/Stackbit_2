@@ -19,7 +19,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Newsletter-3_1-removebg-preview.webp
-  altText: Project image
 bottomSections: []
 slug: sistemi-per-creator
 ---
