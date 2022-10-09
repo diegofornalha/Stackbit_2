@@ -5,12 +5,10 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: 'kSC #08: SISTEMI PER CREATOR: UNA GUIDA PRATICA'
+title: "\U0001F9F0 kSC #08: È POSSIBILE PUBBLICARE DI PIÙ"
 colors: colors-a
 date: '2022-10-09'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: e sforzarsi di meno?
 featuredImage:
   type: ImageBlock
   url: /images/Newsletter-3_1-removebg-preview-9139c621.webp
@@ -80,6 +78,33 @@ bottomSections:
         padding:
           - pt-28
           - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    text: >
+      <Script async data-uid="5d6a847b43"
+      src="https://kit-sopravvivenza-creator.ck.page/5d6a847b43/index.js" />
+
+
+      <Script async data-uid="71fb018372"
+      src="https://kit-sopravvivenza-creator.ck.page/71fb018372/index.js" />
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
