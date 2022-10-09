@@ -19,7 +19,20 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Newsletter-3_1-removebg-preview.webp
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
 slug: sistemi-per-creator
 ---
 Martedì ho condotto la [mia prima esperienza online](https://www.youtube.com/watch?v=ZM2W7GOe2U8\&t=2155s).
