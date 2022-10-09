@@ -13,7 +13,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/Newsletter-3_1-removebg-preview.png
+  url: /images/Newsletter-3_1-removebg-preview-9139c621.webp
   altText: Project thumbnail image
   caption: ''
 media:
