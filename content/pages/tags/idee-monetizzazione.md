@@ -246,7 +246,7 @@ Tutto dipende dai contenuti che hai creato finora.
 
 Crei post su Linkedin, parli di Notion ed hai trovato dei problemi in quell'area?
 
-Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain/io-leggo-il-kit) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
+Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
 
 Ti sarà facile creare qualcosa, se sei un creator lo fai già abbastanza.
 
