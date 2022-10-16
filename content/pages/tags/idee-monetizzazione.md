@@ -123,7 +123,7 @@ Ma oggi non c'è molto su cui fare teaser.
 
 L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-damico_newsletter-creator-buildinpublic-activity-6985627722991493120-yNcu?utm_source=share\&utm_medium=member_desktop) (o comunque, chi ha risposto al sondaggio).
 
-​​
+​​****
 
 **TL;DR**
 
@@ -137,7 +137,7 @@ L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-d
 
 **Il tempo di lettura previsto è: 4 minuti e 10.**
 
-​​
+​​****
 
 Ehi ciao 👋,
 
@@ -149,7 +149,7 @@ E oggi ti rivelerò **come avere idee per monetizzare**.
 
 Quando ho pubblicato il sondaggio, qualche giorno fa, mi aspettavo già quali sarebbero stati i risultati.
 
-In fondo,** monetizzare** è ciò che più spinge le persone a diventare creator.
+In fondo,\*\* monetizzare\*\* è ciò che più spinge le persone a diventare creator.
 
 Ci sono altre cose interessanti comprese nel pacchetto eh, ma monetizzare è monetizzare.
 
