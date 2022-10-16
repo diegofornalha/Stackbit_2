@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #08: È POSSIBILE PUBBLICARE DI PIÙ"
+title: "\U0001F9F0 kSC #09: È POSSIBILE PUBBLICARE DI PIÙ"
 colors: colors-a
 date: '2022-10-09'
 client: Awesome client
