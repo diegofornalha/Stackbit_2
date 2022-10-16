@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #08: È POSSIBILE PUBBLICARE DI PIÙ"
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-10-09'
 client: Awesome client
 description: e sforzarsi di meno?
