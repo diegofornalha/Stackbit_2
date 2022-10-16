@@ -7,12 +7,11 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
 colors: colors-a
-date: '2022-10-09'
-client: Awesome client
+date: '2022-10-16'
 description: SONO I PROBLEM SOLVER A FARLO
 featuredImage:
   type: ImageBlock
-  url: /images/Newsletter-3_1-removebg-preview-9139c621.webp
+  url: /images/idee-monetizzazione-1cc4393c.webp
   altText: Project thumbnail image
   caption: ''
 media:
@@ -71,7 +70,7 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    text: "### **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Puoi scaricare\_**Easy Content Strategy**\_ed usare il mio sistema per creare contenuti.\n    ​[Lo trovi qui.](https://bit.ly/ecs-kit-creator)​\n\n3.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    ​[Prenotala qui.](https://danieledamico.gumroad.com/l/easy-notion-workspace)\n\n"
+    text: "## **\U0001F680 E QUANDO VORRAI, ECCO COME TI POSSO AIUTARE**\n\n1.  Puoi scaricare\_**Easy Second Brain**\_e rendere il tuo Notion meno caotico.\n    ​[**Lo trovi qui.**](https://danieledamico.gumroad.com/l/easy-second-brain)​\n\n2.  Puoi scaricare\_**Easy Content Strategy**\_ed usare il mio sistema per creare contenuti.\n    ​[Lo trovi qui.](https://bit.ly/ecs-kit-creator)​\n\n3.  Possiamo fare una\_**call sul tuo spazio Notion**.\n    ​[Prenotala qui.](https://danieledamico.gumroad.com/l/easy-notion-workspace)\n\n"
     styles:
       self:
         height: auto
@@ -247,7 +246,7 @@ Tutto dipende dai contenuti che hai creato finora.
 
 Crei post su Linkedin, parli di Notion ed hai trovato dei problemi in quell'area?
 
-Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain/io-leggo-il-kit) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
+Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
 
 Ti sarà facile creare qualcosa, se sei un creator lo fai già abbastanza.
 
