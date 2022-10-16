@@ -11,7 +11,7 @@ date: '2022-10-16'
 description: SONO I PROBLEM SOLVER A FARLO
 featuredImage:
   type: ImageBlock
-  url: /images/Newsletter-3_1-removebg-preview-9139c621.webp
+  url: /images/idee-monetizzazione-1cc4393c.webp
   altText: Project thumbnail image
   caption: ''
 media:
