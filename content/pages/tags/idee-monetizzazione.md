@@ -8,7 +8,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
 colors: colors-a
 date: '2022-10-09'
-client: Awesome client
 description: SONO I PROBLEM SOLVER A FARLO
 featuredImage:
   type: ImageBlock
