@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE, SONO I PROBLEM SOLVER A FARLO"
+title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
 colors: colors-a
 date: '2022-10-09'
 client: Awesome client
