@@ -117,23 +117,17 @@ bottomSections:
         textAlign: center
 slug: idee-monetizzazione
 ---
-Martedì ho condotto la [mia prima esperienza online](https://www.youtube.com/watch?v=ZM2W7GOe2U8\&t=2155s).
+Di solito inizio con una piccolo teaser di quello che tratterò nella newsletter.
 
-Era un evento Tutored e l’argomento era Notion ( a proposito, sono felice di accogliere tutte le persone che si sono iscritte al Kit dopo l’evento!).
+Ma oggi non c'è molto su cui fare teaser.
 
-Mi sono preparato per tutta la giornata ed alla fine non avevo più energia per fare niente.
+L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-damico_newsletter-creator-buildinpublic-activity-6985627722991493120-yNcu?utm_source=share\&utm_medium=member_desktop) (o comunque, chi ha risposto al sondaggio).
 
-**Quindi quel giorno non ho pubblicato su Linkedin.**
-
-E questo è un problema.
-
-​
-
-​
+​​
 
 **TL;DR**
 
-*   Sistemi per creator: una guida pratica
+*   Non sono i creator a monetizzare, sono i problem solver a farlo!
 
 *   Una risorsa per la tua audience building
 
@@ -141,163 +135,184 @@ E questo è un problema.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è: 4 minuti e 45.**
+**Il tempo di lettura previsto è: 4 minuti e 10.**
 
-​
-
-
-​
+​​
 
 Ehi ciao 👋,
 
-questo è il numero 145 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 152 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come raddoppiare il numero di contenuti, dimezzando lo sforzo**.
-
-​
-
-Diciamoci la verità, pubblicare contenuti richiede sforzo.
-
-È vero, richiede anche creatività, competenze ecc.
-
-Ma prima di tutto richiede sforzo.
-
-C’è da dire però che **questa fatica si può ridurre**.
-
-Così da:
-
-*   ottenere più opportunità;
-
-*   pubblicare con costanza;
-
-*   avere più risultati;
-
-Insomma, tutti gli aspetti positivi che derivano dall’attività di creator.
-
-Molti però pensano alla produzione di contenuti come un’attività poco scalabile.
-
-Ed il motivo è uno solo: **ignorano il potere dei sistemi**!
+E oggi ti rivelerò **come avere idee per monetizzare**.
 
 ​
 
-​
+Quando ho pubblicato il sondaggio, qualche giorno fa, mi aspettavo già quali sarebbero stati i risultati.
 
-## **SISTEMI PER CREATOR: UNA GUIDA PRATICA**
+In fondo,** monetizzare** è ciò che più spinge le persone a diventare creator.
 
-Un sistema ti permette di rendere automatiche alcune attività e dedicare tempo ad altre.
+Ci sono altre cose interessanti comprese nel pacchetto eh, ma monetizzare è monetizzare.
 
-Ma **come puoi creare un sistema**?
+Basta l'idea giusta ed il gioco è fatto.
 
-Beh, innanzitutto devi dimenticarti di alcune cose:
+Potrai vendere, guadagnare.
 
-*   La convinzione che i contenuti siano arte;
+Insomma, **vivere la vita che vuoi.**
 
-*   La convinzione che quello che fai sia irripetibile;
+Purtroppo però, **avere l'idea giusta potrebbe non bastare**.
 
-*   La convinzione che quello che fai debba essere per forza complesso;
+Anzi, potrebbe perfino essere **impossibile**.
 
-E non temere, oggi ti dirò come convertire queste tre convinzioni in opportunità per costruire il tuo sistema.
+Ed il motivo penso sia uno solo.
 
-Arriviamo al sodo!
+## **NON SONO I CREATOR A MONETIZZARE, SONO I PROBLEM SOLVER A FARLO**
 
-​
+Un creator è allenato a **trovare idee per creare contenuti**.
 
-### **I CONTENUTI SONO ARTE DA VENERARE**
+La stella polare della sua ricerca è l'attenzione del pubblico.
 
-Fino a quando li vedrai in questo modo, ne produrrai davvero pochi!
+Ed è ciò che lo ha guidato nel suo percorso di audience building.
 
-Devi considerarli come dei prodotti, o come degli strumenti.
+**L'attenzione però non basta per monetizzare.**
 
-Pensaci, ti fai mai problemi ad utilizzare uno strumento più di una volta?
+Per monetizzare devi andare alla ricerca dei problemi del tuo pubblico.
 
-Non credo.
+E come si trovano i problemi?
 
-Allora perché farsi problemi se utilizzi un contenuto più di una volta?
+Prima di tutto, devi liberarti da questi **3 blocchi**:
 
-Ti faccio un esempio.
+*   Dove cercare i problemi;
 
-Ricondivido senza alcun timore i contenuti che in passato hanno ottenuto risultati positivi.
+*   Come risolvere i problemi;
 
-Anzi, grazie a strumenti come [Taplio](https://www.taplio.com/) e Notion, trovo i migliori post pubblicati in passato, li rimodulo un po’ e li pubblico di nuovo (magari su un canale diverso da quello originale).
+*   Essere generosi invece che vendere;
 
-E questo perché i contenuti sono **ingranaggi di un sistema più grande**.
+Ma non temere.
 
-Non sono opere d’arte da creare e venerare.
+In queste settimane ho monetizzato un po' di cose.
 
-​
+Ed oggi ti dirò come puoi riuscirci anche tu.
 
-### **QUASI TUTTO QUELLO CHE FAI, PRIMA O POI LO RIFARAI**
-
-Qualche giorno fa ho fatto una sessione di **coaching su Notion**.
-
-Il contenuto di una sessione cambia di volta in volta, ma ci sono altre cose che sono costanti.
-
-Pensa all'invio dei link per la call, al prendere appunti, alla raccolta delle domande ecc.
-
-Sono tutte cose ripetibili e ci sono strumenti che le rendono automatiche.
-
-​[Calendly](https://calendly.com/) ti permette di rendere automatica l’organizzazione della call.
-
-I template di scrittura come quelli di [Easy Content Strategy](https://danieledamico.gumroad.com/l/easy-content-strategy) ti permettono di partire subito con la scrittura.
-
-Insomma, gran parte delle cose che fai una volta le farai anche altre volte.
-
-Allora, trova un modo per renderle automatiche ed avrai tempo per creare altro.
+Arriviamo al sodo.
 
 ​
 
-### **QUASI TUTTO QUELLO CHE FAI, POTREBBE (E DOVREBBE) ESSERE SEMPLIFICATO**
+### **DOVE TROVARE I PROBLEMI?**
 
-La complessità non è scalabile.
+Questo è il primo passo. Senza avere dei problemi da risolvere non c'è niente da monetizzare.
 
-E se qualcosa è così complesso da non riuscire a renderla automatica, allora scartala.
+Ma dove li trovi sti problemi?
 
-Oppure semplificala.
+**Chiedi alla tua audience!**
 
-Io faccio proprio così.
+È la strada più diretta per trovare un problema da risolvere.
 
-Trovo quelle azioni che non richiedono tocco personale e le rendo automatiche.
+La tua audience è quel gruppo di persone che conosci più di tutte le altre.
 
-Tutto il resto valuto se lasciarlo e farlo “a mano”, oppure scartarlo.
+E la tua audience è quel gruppo di persone che più conosce te e (magari) si fida delle tue capacità.
 
-Ti faccio un esempio.
+Con la tua audience hai creato un rapporto di fiducia, **una relazione** e non c’è niente di più importante.
 
-Ogni lunedì pubblico su Linkedin la **Product Hunt Curation**.
+Sfrutta questa relazione con le persone e parlaci, chiedigli cose e stai attento a quello che dicono.
 
-È un contenuto che le prime volte mi richiedeva ore ed ore per la preparazione:
+E si, intendo di **parlarci davvero**: scrivigli in DM oppure chiedigli una call.
 
-1.  Dovevo trovare i prodotti di Product Hunt;
+Niente di ufficiale, basta una call informale per conoscervi.
 
-2.  copiare i dati nel database Notion;
+Fai attenzione, in particolare, a questi **segnali**:
 
-3.  creare le grafiche per il post;
+*   Lamentele;
 
-4.  scrivere il post;
+*   Richieste di aiuto;
 
-Poi l’ho semplificato.
+*   Richieste su strumenti da utilizzare;
 
-Ho trovato uno strumento che carica in automatico i dati su Notion ([**Save to Notion**](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)).
+*   Richieste di alternative a strumenti;
 
-Ho creato un template per la struttura del post e per la parte grafica.
-
-Ho scartato tutto quello che non riuscivo a rendere automatico.
-
-E in questo modo ho **dimezzato il tempo di preparazione**.
+Se noti segnali del genere da 4-5 persone della tua audience ed il problema è lo stesso, allora complimenti hai qualcosa su cui lavorare.
 
 ​
 
-Ora, la creazione di un sistema non si limita a queste tre cose.
+### **COME RISOLVERE I PROBLEMI?**
 
-Anzi, è molto più articolata.
+Ed ora che hai trovato il problema che si fa?
 
-Ma quello che ti ho detto oggi è fondamentale per creare un tuo sistema.
+Ora puoi **ritornare ad essere un creator**.
 
-Per le parti più tecniche invece [possiamo fare una call](https://danieledamico.gumroad.com/l/easy-notion-workspace).
+Ma questa volta non dovrai creare un contenuto da cedere in cambio di attenzione, devi creare qualcosa da monetizzare.
 
-Oppure se vuoi scoprirle e metterle in pratica in autonomia, [clicca il pulsante qui sotto](https://tally.so/r/wLZ8J2).
+E come lo crei?
 
-Scegli tu.
+Tutto dipende dai contenuti che hai creato finora.
 
-Nel frattempo, buona settimana e beccati le risorse.
+Crei post su Linkedin, parli di Notion ed hai trovato dei problemi in quell'area?
 
+Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain/io-leggo-il-kit) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
 
+Ti sarà facile creare qualcosa, se sei un creator lo fai già abbastanza.
+
+Se non lo sei, invece, ti dico solo una cosa: **no-code**.
+
+E poi, una volta che hai creato la soluzione al problema, ti manca un ultimo passo.
+
+​
+
+### **È MEGLIO ESSERE GENEROSI CHE VENDERE**
+
+Questo è l'ultimo scoglio.
+
+Hai trovato un problema, hai creato la soluzione ed hai un'audience che aspetta solo che tu la venda.
+
+Eppure non vendi.
+
+Magari **dai la soluzione gratis** oppure non ci pensi proprio alla monetizzazione.
+
+Ti svelo una cosa: cedere qualcosa gratis senza pensare alla vendita è **un'occasione mancata**.
+
+Anzi, è una forma di **procrastinazione**.
+
+Perché magari hai paura di non ottenere risultati, di fallire, che la tua fantastica idea sia sbagliata.
+
+Se hai creato una soluzione per qualcuno e ci hai dedicato del tempo è giusto ricevere un **compenso**.
+
+Ma se non lo chiedi, non lo riceverai mai.
+
+​
+
+Bene, direi che anche per questa settimana è tutto.
+
+Spero che quanto detto finora ti sia utile e ti aiuti a monetizzare.
+
+Se hai domande, dubbi o commenti, scrivimi pure una mail ([oppure su Linkedin](https://www.linkedin.com/in/daniele-damico/)) e sarò felice di risponderti.
+
+Nel frattempo, buona settimana e **beccati le risorse**.
+
+Daniele
+
+​
+
+​
+
+## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
+
+Una piccola lezione e di storytelling da The Rock.
+
+​[Non c'è molto altro da dire.](https://twitter.com/BrianFOConnor/status/1581264761525862400)​
+
+​
+
+## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
+
+Con Comandi Rapidi di Iphone ci creo piccole automazioni per Notion.
+
+Ma non è il solo modo in cui si può usare.
+
+​[Questi 7 modi miglioreranno di sicuro la tua produttività.](https://twitter.com/mhauken/status/1581273229523419136)​
+
+​
+
+## 💸 UNA RISORSA PER LA TUA MONETIZATION
+
+Se hai letto fin qui è perché vuoi avere idee per monetizzare.
+
+​[Accetti anche quelle pensate da altri?](https://www.timstodz.com/make-100k-a-year/)​
