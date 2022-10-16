@@ -137,9 +137,7 @@ L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-d
 
 **Il tempo di lettura previsto è: 4 minuti e 10.**
 
-
 ***
-
 
 Ehi ciao 👋,
 
@@ -289,32 +287,4 @@ Se hai domande, dubbi o commenti, scrivimi pure una mail ([oppure su Linkedin](h
 
 Nel frattempo, buona settimana e **beccati le risorse**.
 
-Daniele
-
-​
-
-​
-
-## 👥 UNA RISORSA PER FARE AUDIENCE BUILDING
-
-Una piccola lezione e di storytelling da The Rock.
-
-​[Non c'è molto altro da dire.](https://twitter.com/BrianFOConnor/status/1581264761525862400)​
-
-​
-
-## 🚀 UNA RISORSA PER LA TUA PRODUTTIVITÀ
-
-Con Comandi Rapidi di Iphone ci creo piccole automazioni per Notion.
-
-Ma non è il solo modo in cui si può usare.
-
-​[Questi 7 modi miglioreranno di sicuro la tua produttività.](https://twitter.com/mhauken/status/1581273229523419136)​
-
-​
-
-## 💸 UNA RISORSA PER LA TUA MONETIZATION
-
-Se hai letto fin qui è perché vuoi avere idee per monetizzare.
-
-​[Accetti anche quelle pensate da altri?](https://www.timstodz.com/make-100k-a-year/)​
+Daniele​
