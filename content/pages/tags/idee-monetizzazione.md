@@ -137,7 +137,8 @@ L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-d
 
 **Il tempo di lettura previsto è: 4 minuti e 10.**
 
-​​***
+​***
+
 
 Ehi ciao 👋,
 
