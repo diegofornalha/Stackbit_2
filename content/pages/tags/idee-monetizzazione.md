@@ -37,7 +37,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nNon devi per forza creare una newsletter per fare audience building.\n\nPuoi anche creare una community.\n\n​[E questa è la mappa migliore da seguire.](https://twitter.com/MillyTamati/status/1577238406224318464)​\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nNon riguarda solo la produttività ma tante altre cose.\n\n​[Questo thread però ti darà di sicuro qualcosa da implementare nella tua vita quotidiana.](https://twitter.com/SahilBloom/status/1578719931947839488)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nLa fonte migliore di idee per monetizzare è quella di scomporre il nostro obiettivo.\n\nTi piacerebbe guadagnare 100.000 dollari all'anno? Allora scomponi questo obiettivo.\n\n​[Puoi fare così.](https://twitter.com/dvassallo/status/1251695615559389184)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nUna piccola lezione e di storytelling da The Rock.\n\n​[Non c'è molto altro da dire.](https://twitter.com/BrianFOConnor/status/1581264761525862400)​\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCon Comandi Rapidi di Iphone ci creo piccole automazioni per Notion.\n\nMa non è il solo modo in cui si può usare.\n\n​[Questi 7 modi miglioreranno di sicuro la tua produttività.](https://twitter.com/mhauken/status/1581273229523419136)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nSe hai letto fin qui è perché vuoi avere idee per monetizzare.\n\n​[Accetti anche quelle pensate da altri?](https://www.timstodz.com/make-100k-a-year/)​\n"
     styles:
       self:
         height: auto
