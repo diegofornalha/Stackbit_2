@@ -123,7 +123,7 @@ Ma oggi non c'è molto su cui fare teaser.
 
 L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-damico_newsletter-creator-buildinpublic-activity-6985627722991493120-yNcu?utm_source=share\&utm_medium=member_desktop) (o comunque, chi ha risposto al sondaggio).
 
-​​****
+​​\*\*\*
 
 **TL;DR**
 
@@ -137,7 +137,7 @@ L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-d
 
 **Il tempo di lettura previsto è: 4 minuti e 10.**
 
-​​****
+​​\*\*\*
 
 Ehi ciao 👋,
 
