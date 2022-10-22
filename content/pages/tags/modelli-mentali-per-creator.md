@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #10: 3 MODELLI MENTALI CHE NON SONO..."
 colors: colors-a
-date: '2022-10-16'
+date: '2022-10-23'
 client: Awesome client
 description: COME I FILM SU NETFLIX
 featuredImage:
