@@ -165,6 +165,5 @@ sections:
       - content/pages/tags/projectlayout-d76cn06v4.md
       - content/pages/tags/sistemi-per-creator.md
       - content/pages/tags/idee-monetizzazione.md
-      - content/pages/tags/idee-monetizzazione.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
