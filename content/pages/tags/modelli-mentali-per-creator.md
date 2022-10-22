@@ -11,7 +11,7 @@ date: '2022-10-23'
 description: COME I FILM SU NETFLIX
 featuredImage:
   type: ImageBlock
-  url: /images/idee-monetizzazione-1cc4393c.webp
+  url: /images/Pasted-image-20221022172511-33642409.webp
   altText: Project thumbnail image
   caption: ''
 media:
