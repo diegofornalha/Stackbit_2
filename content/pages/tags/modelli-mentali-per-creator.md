@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nUna piccola lezione e di storytelling da The Rock.\n\n​[Non c'è molto altro da dire.](https://twitter.com/BrianFOConnor/status/1581264761525862400)​\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCon Comandi Rapidi di Iphone ci creo piccole automazioni per Notion.\n\nMa non è il solo modo in cui si può usare.\n\n​[Questi 7 modi miglioreranno di sicuro la tua produttività.](https://twitter.com/mhauken/status/1581273229523419136)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nSe hai letto fin qui è perché vuoi avere idee per monetizzare.\n\n​[Accetti anche quelle pensate da altri?](https://www.timstodz.com/make-100k-a-year/)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\n​Vuoi costruire un'audience da 0 e non sai da dove cominciare?\n\nOra non hai più scuse. [Ora non hai più scuse. ](https://the-soulful-entrepreneur.beehiiv.com/p/build-audience-nothing-3-simple-steps)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n[E dato che stiamo parlando di modelli mentali, questo è il libro più affermato sulla questione.](https://amzn.to/3skcCpe)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQuanto potresti guadagnare da creator?\n\n[Questo test ti può aiutare a farti un'idea della cosa.](https://alibrandincome.scoreapp.com/p/landing-v1-copy?utm_campaign=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Learn+How+to+Code+Websites%2C+Step+by+Step+-+9226118&utm_medium=email&utm_source=convertkit&expid=9b15e4c9-5999-4762-81a6-4276df6838fb)"
     styles:
       self:
         height: auto
