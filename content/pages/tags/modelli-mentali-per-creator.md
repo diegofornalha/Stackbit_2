@@ -116,17 +116,21 @@ bottomSections:
         textAlign: center
 slug: modelli-mentali-per-creator
 ---
-Di solito inizio con una piccolo teaser di quello che tratterò nella newsletter.
+Un suono ed una notifica push.
 
-Ma oggi non c'è molto su cui fare teaser.
+"Ciao Daniele, come stai? Vorrei parlarti di un progetto".
 
-L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-damico_newsletter-creator-buildinpublic-activity-6985627722991493120-yNcu?utm_source=share\&utm_medium=member_desktop) (o comunque, chi ha risposto al sondaggio).
+La sola lettura di quel messaggio mi provoca un **brivido**.
+
+Non perché mi dispiaccia leggere questa cosa, anzi, ma perché so che rispondere mi metterà nei casini.
+
+È già successo tante altre volte, per fortuna che ora ho degli strumenti per non fare ca****e.
 
 ***
 
 **TL;DR**
 
-*   Non sono i creator a monetizzare, sono i problem solver a farlo!
+*   I modelli mentali sono come i film su Netflix!
 
 *   Una risorsa per la tua audience building
 
@@ -140,150 +144,143 @@ L'argomento di oggi [lo hai scelto tu](https://www.linkedin.com/posts/daniele-d
 
 Ehi ciao 👋,
 
-questo è il numero 152 del **Kit di Sopravvivenza per Creator**.
+questo è il numero X del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come avere idee per monetizzare**.
+E oggi ti rivelerò **i 3 modelli mentali che uso più spesso, da creator**.
 
-​
 
-Quando ho pubblicato il sondaggio, qualche giorno fa, mi aspettavo già quali sarebbero stati i risultati.
+![[Pasted image 20221022172511.png]]
 
-In fondo,\*\* monetizzare\*\* è ciò che più spinge le persone a diventare creator.
+Questo qui sopra è il mio **calendar**.
 
-Ci sono altre cose interessanti comprese nel pacchetto eh, ma monetizzare è monetizzare.
+Nella parte alta dello schermo puoi vedere che ci sono delle etichette: indicano il progetto a cui mi dovrò dedicare nel corso della giornata.
 
-Basta l'idea giusta ed il gioco è fatto.
+4 etichette = 4 progetti.
 
-Potrai vendere, guadagnare.
+Poi c'è il lavoro, che non ha bisogno di etichette e che si prende giusto un po' di ore al giorno.
 
-Insomma, **vivere la vita che vuoi.**
+Come muoversi in mezzo a tutto sto casino?
 
-Purtroppo però, **avere l'idea giusta potrebbe non bastare**.
+Grazie ai modelli mentali!
 
-Anzi, potrebbe perfino essere **impossibile**.
 
-Ed il motivo penso sia uno solo.
 
-## **NON SONO I CREATOR A MONETIZZARE, SONO I PROBLEM SOLVER A FARLO**
+Scommetto che ne hai già sentito parlare anche tu.
 
-Un creator è allenato a **trovare idee per creare contenuti**.
+**Elon Musk** usa questo modello mentale. **Jeff Bezos** usa questo modello mentale. **Charlie Munger** usa questo modello mentale.
 
-La stella polare della sua ricerca è l'attenzione del pubblico.
+Sono delle armi formidabili per aiutarci ad affrontare il caos quotidiano, questo è sicuro.
 
-Ed è ciò che lo ha guidato nel suo percorso di audience building.
+Purtroppo però la maggior parte delle persone **non riesce mai a metterli in pratica**.
 
-**L'attenzione però non basta per monetizzare.**
+Ed il motivo è uno solo.
 
-Per monetizzare devi andare alla ricerca dei problemi del tuo pubblico.
+## I modelli mentali sono come i film su Netflix!
 
-E come si trovano i problemi?
+Newsletter, libri, podcast, creator vari.
 
-Prima di tutto, devi liberarti da questi **3 blocchi**:
+C'è così tanto **rumore sui modelli mentali** che è difficile **trovare il segnale**.
 
-*   Dove cercare i problemi;
+È impossibile trovare il modello adatto a risolvere un problema, proprio come è imposssibile scegliere un film da vedere su Netflix.
 
-*   Come risolvere i problemi;
+Ed è un peccato, perché grazie a questi modelli potremmo risolvere problemi come i seguenti:
 
-*   Essere generosi invece che vendere;
+- Definire una stella polare da seguire nei nostri sforzi da creator;
+- Trovare un modo per fare di più in meno tempo;
+- Utilizzare i nostri contenuti come il mezzo di business che sono.
 
-Ma non temere.
+Ma non temere, non posso risolvere l'abbondanza di modelli mentali, ma ti posso dire quelli che uso di più nella mia attività da creator, no?
 
-In queste settimane ho monetizzato un po' di cose.
+Ecco, è proprio quello che farò oggi!
 
-Ed oggi ti dirò come puoi riuscirci anche tu.
 
-Arriviamo al sodo.
 
-​
+### **Crea il tuo arco narrativo e saprai sempre cosa fare**
 
-### **DOVE TROVARE I PROBLEMI?**
+È il modello mentale che ho utilizzato per rispondere alla richiesta di progetto di cui ti parlavo all'inizio.
 
-Questo è il primo passo. Senza avere dei problemi da risolvere non c'è niente da monetizzare.
+Per connettere tra loro gli sforzi che fai ogni giorno, hai bisogno di **un'unica trama**.
 
-Ma dove li trovi sti problemi?
+Qualcosa che mette te al centro della storia e che ti porta al raggiungimento di un obiettivo.
 
-**Chiedi alla tua audience!**
+**Una missione.**
 
-È la strada più diretta per trovare un problema da risolvere.
+E trovare la tua missione ti aiuta anche a **decidere le tue priorità**.
 
-La tua audience è quel gruppo di persone che conosci più di tutte le altre.
+Dopo aver risposto al messaggio, quello riguardo il progetto, la persona dall'altra parte mi ha dato qualche dettaglio.
 
-E la tua audience è quel gruppo di persone che più conosce te e (magari) si fida delle tue capacità.
+Sono bastati pochi minuti per capire che era un progetto senz alcun legame con la mia mission.
 
-Con la tua audience hai creato un rapporto di fiducia, **una relazione** e non c’è niente di più importante.
+Quale? Quella di **aiutare i creator a risolvere i loro problemi.**
 
-Sfrutta questa relazione con le persone e parlaci, chiedigli cose e stai attento a quello che dicono.
+E quindi che ho fatto?
 
-E si, intendo di **parlarci davvero**: scrivigli in DM oppure chiedigli una call.
+Semplice, ho **rifiutato**.
 
-Niente di ufficiale, basta una call informale per conoscervi.
+E non ho dovuto aggiungere un nuovo progetto su un calendar già pieno.
 
-Fai attenzione, in particolare, a questi **segnali**:
 
-*   Lamentele;
+### Crea la tua leva e potrai fare cose fighissime!
 
-*   Richieste di aiuto;
+C'è chi con una leva poteva spostare il mondo e chi, come me e te, con la giusta leva può fare di più, in meno tempo.
 
-*   Richieste su strumenti da utilizzare;
+Pensaci, **devi davvero fare tutte le cose che devi fare**?
 
-*   Richieste di alternative a strumenti;
+Le tue skill, competenze e attenzioni sono davvero così fondamentali?
 
-Se noti segnali del genere da 4-5 persone della tua audience ed il problema è lo stesso, allora complimenti hai qualcosa su cui lavorare.
+O magari potresti girare quel task ad un'altra persona?
 
-​
+Così potresti concentrarti sulle **attività per te prioritarie**.
 
-### **COME RISOLVERE I PROBLEMI?**
+E ottenere risultati molto prima (e meglio!).
 
-Ed ora che hai trovato il problema che si fa?
 
-Ora puoi **ritornare ad essere un creator**.
 
-Ma questa volta non dovrai creare un contenuto da cedere in cambio di attenzione, devi creare qualcosa da monetizzare.
+### Usa i contenuti per fare business!
 
-E come lo crei?
+Quanto dovresti vendere con i tuoi contenuti?
 
-Tutto dipende dai contenuti che hai creato finora.
+Quanto dovresti insegnare?
 
-Crei post su Linkedin, parli di Notion ed hai trovato dei problemi in quell'area?
+Quanto dovresti...boh, fare altro?
 
-Allora crea [template](https://danieledamico.gumroad.com/l/easy-second-brain) e [mini-corsi](https://tally.so/r/wLZ8J2) su Notion.
+Non tutti i contenuti che pubblichi devono raggiungere lo stesso obiettivo.
 
-Ti sarà facile creare qualcosa, se sei un creator lo fai già abbastanza.
+In fondo la tua strategia da creator è fatta da diversi obiettivi, no ?
 
-Se non lo sei, invece, ti dico solo una cosa: **no-code**.
+La prossima volta che devi creare contenuti, dividili in **tre categorie**:
+- contenuti per farti notare;
+- contenuti per creare una relazione con la tua audience;
+- contenuti per monetizzare.
 
-E poi, una volta che hai creato la soluzione al problema, ti manca un ultimo passo.
+E ti dirò di più, c'è anche una regoletta matematica a supporto di questo modello mentale.
 
-​
+Il 90% dei tuoi contenuti in un arco di tempo dovrebbe essere indirizzato a farti notare.
 
-### **È MEGLIO ESSERE GENEROSI CHE VENDERE**
+Il 9% a creare una relazione con la tua audience.
 
-Questo è l'ultimo scoglio.
+Ed il restante 1% a vendere.
 
-Hai trovato un problema, hai creato la soluzione ed hai un'audience che aspetta solo che tu la venda.
+Dai su, vai su Notion e pianifica la tua strategia di contenuti utilizzando queste categorie.
 
-Eppure non vendi.
 
-Magari **dai la soluzione gratis** oppure non ci pensi proprio alla monetizzazione.
 
-Ti svelo una cosa: cedere qualcosa gratis senza pensare alla vendita è **un'occasione mancata**.
+Questi sono modelli mentali che utilizzo da creator, è vero.
 
-Anzi, è una forma di **procrastinazione**.
+Ma credo che se li leggi con attenzione potrai utilizzarli anche se non sei un creator.
 
-Perché magari hai paura di non ottenere risultati, di fallire, che la tua fantastica idea sia sbagliata.
+Alla fine, con i modelli mentali, conta una sola cosa: **metterli in pratica**.
 
-Se hai creato una soluzione per qualcuno e ci hai dedicato del tempo è giusto ricevere un **compenso**.
+Non importa quali scegli, quando e come.
 
-Ma se non lo chiedi, non lo riceverai mai.
+Ciò che conta è che li metti in pratica e migliori la tua vita.
 
-​
+E con questo, direi che anche per oggi è tutto.
 
-Bene, direi che anche per questa settimana è tutto.
+Quali modelli mentali utilizzi?
 
-Spero che quanto detto finora ti sia utile e ti aiuti a monetizzare.
+Rispondimi a questa email e fammi sapere, oppure scrivimi su Linkedin senza problemi.
 
-Se hai domande, dubbi o commenti, scrivimi pure una mail ([oppure su Linkedin](https://www.linkedin.com/in/daniele-damico/)) e sarò felice di risponderti.
+Nel frattempo, buona settimana e beccati le risorse.
 
-Nel frattempo, buona settimana e **beccati le risorse**.
-
-Daniele​
+Daniele
