@@ -9,7 +9,7 @@ title: "\U0001F9F0 kSC #10: 3 MODELLI MENTALI CHE NON SONO..."
 colors: colors-a
 date: '2022-10-16'
 client: Awesome client
-description: SONO I PROBLEM SOLVER A FARLO
+description: COME I FILM SU NETFLIX
 featuredImage:
   type: ImageBlock
   url: /images/idee-monetizzazione-1cc4393c.webp
