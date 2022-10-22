@@ -150,6 +150,8 @@ E oggi ti rivelerò **i 3 modelli mentali che uso più spesso, da creator**.
 
 
 
+
+
 L'immagine di questo post è il mio **calendar**.
 
 Nella parte alta dello schermo puoi vedere che ci sono delle etichette: indicano il progetto a cui mi dovrò dedicare nel corso della giornata.
