@@ -124,7 +124,7 @@ La sola lettura di quel messaggio mi provoca un **brivido**.
 
 Non perché mi dispiaccia leggere questa cosa, anzi, ma perché so che rispondere mi metterà nei casini.
 
-È già successo tante altre volte, per fortuna che ora ho degli strumenti per non fare ca****e.
+È già successo tante altre volte, per fortuna che ora ho degli strumenti per non fare ca\*\*\*\*e.
 
 ***
 
@@ -149,9 +149,8 @@ questo è il numero X del **Kit di Sopravvivenza per Creator**.
 E oggi ti rivelerò **i 3 modelli mentali che uso più spesso, da creator**.
 
 
-![[Pasted image 20221022172511.png]]
 
-Questo qui sopra è il mio **calendar**.
+L'immagine di questo post è il mio **calendar**.
 
 Nella parte alta dello schermo puoi vedere che ci sono delle etichette: indicano il progetto a cui mi dovrò dedicare nel corso della giornata.
 
@@ -162,8 +161,6 @@ Poi c'è il lavoro, che non ha bisogno di etichette e che si prende giusto un po
 Come muoversi in mezzo a tutto sto casino?
 
 Grazie ai modelli mentali!
-
-
 
 Scommetto che ne hai già sentito parlare anche tu.
 
@@ -185,15 +182,13 @@ C'è così tanto **rumore sui modelli mentali** che è difficile **trovare il se
 
 Ed è un peccato, perché grazie a questi modelli potremmo risolvere problemi come i seguenti:
 
-- Definire una stella polare da seguire nei nostri sforzi da creator;
-- Trovare un modo per fare di più in meno tempo;
-- Utilizzare i nostri contenuti come il mezzo di business che sono.
+*   Definire una stella polare da seguire nei nostri sforzi da creator;
+*   Trovare un modo per fare di più in meno tempo;
+*   Utilizzare i nostri contenuti come il mezzo di business che sono.
 
 Ma non temere, non posso risolvere l'abbondanza di modelli mentali, ma ti posso dire quelli che uso di più nella mia attività da creator, no?
 
 Ecco, è proprio quello che farò oggi!
-
-
 
 ### **Crea il tuo arco narrativo e saprai sempre cosa fare**
 
@@ -219,7 +214,6 @@ Semplice, ho **rifiutato**.
 
 E non ho dovuto aggiungere un nuovo progetto su un calendar già pieno.
 
-
 ### Crea la tua leva e potrai fare cose fighissime!
 
 C'è chi con una leva poteva spostare il mondo e chi, come me e te, con la giusta leva può fare di più, in meno tempo.
@@ -234,8 +228,6 @@ Così potresti concentrarti sulle **attività per te prioritarie**.
 
 E ottenere risultati molto prima (e meglio!).
 
-
-
 ### Usa i contenuti per fare business!
 
 Quanto dovresti vendere con i tuoi contenuti?
@@ -249,9 +241,10 @@ Non tutti i contenuti che pubblichi devono raggiungere lo stesso obiettivo.
 In fondo la tua strategia da creator è fatta da diversi obiettivi, no ?
 
 La prossima volta che devi creare contenuti, dividili in **tre categorie**:
-- contenuti per farti notare;
-- contenuti per creare una relazione con la tua audience;
-- contenuti per monetizzare.
+
+*   contenuti per farti notare;
+*   contenuti per creare una relazione con la tua audience;
+*   contenuti per monetizzare.
 
 E ti dirò di più, c'è anche una regoletta matematica a supporto di questo modello mentale.
 
@@ -262,8 +255,6 @@ Il 9% a creare una relazione con la tua audience.
 Ed il restante 1% a vendere.
 
 Dai su, vai su Notion e pianifica la tua strategia di contenuti utilizzando queste categorie.
-
-
 
 Questi sono modelli mentali che utilizzo da creator, è vero.
 
