@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/idee-monetizzazione.webp
+  url: /images/Pasted-image-20221022172511.webp
 bottomSections:
   - type: DividerSection
     title: Divider
