@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-10-16'
 client: Awesome client
 description: SONO I PROBLEM SOLVER A FARLO
