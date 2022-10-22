@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
+title: "\U0001F9F0 kSC #10: 3 MODELLI MENTALI CHE NON SONO..."
 colors: colors-a
 date: '2022-10-16'
 client: Awesome client
