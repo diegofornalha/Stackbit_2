@@ -37,7 +37,7 @@ bottomSections:
         width: narrow
         padding:
           - pt-0
-          - pb-0
+          - pb-10
           - pl-4
           - pr-4
         alignItems: center
