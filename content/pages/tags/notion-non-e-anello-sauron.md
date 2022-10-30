@@ -37,7 +37,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\n​Vuoi costruire un'audience da 0 e non sai da dove cominciare?\n\nOra non hai più scuse. [Ora non hai più scuse. ](https://the-soulful-entrepreneur.beehiiv.com/p/build-audience-nothing-3-simple-steps)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n[E dato che stiamo parlando di modelli mentali, questo è il libro più affermato sulla questione.](https://amzn.to/3skcCpe)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQuanto potresti guadagnare da creator?\n\n[Questo test ti può aiutare a farti un'idea della cosa.](https://alibrandincome.scoreapp.com/p/landing-v1-copy?utm_campaign=undefined9Fundefined91undefined80undefinedF0undefined92undefined2C+Step+by+Step+-+9226118&utm_medium=email&utm_source=convertkit&expid=9b15e4c9-5999-4762-81a6-4276df6838fb)"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nParte del creare un’audience è il trovare la tua nicchia.\n\n​[E questo è il modo in cui puoi riuscirci.](https://twitter.com/joshdviner/status/1586386934687010817)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCosa c’è di meglio delle shortcut per migliorare la produttività?\n\nNiente, lo so.\n\n​[E questo tool ti aiuta a renderle più “comode”.](https://www.oslash.com/)​\n\n\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nFare cold outreach è una delle tattiche più diffuse per la monetization.\n\n​[E questo è uno dei framework migliori per farla al meglio.](https://twitter.com/chrishlad/status/1586371056339603457)\n"
     styles:
       self:
         height: auto
