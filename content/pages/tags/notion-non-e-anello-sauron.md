@@ -23,7 +23,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: Try it now
+      - label: SCEGLI IL TUO TOOL!
         altText: ''
         url: /
         showIcon: true
