@@ -166,5 +166,6 @@ sections:
       - content/pages/tags/sistemi-per-creator.md
       - content/pages/tags/idee-monetizzazione.md
       - content/pages/tags/modelli-mentali-per-creator.md
+      - content/pages/tags/notion-non-e-anello-sauron.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
