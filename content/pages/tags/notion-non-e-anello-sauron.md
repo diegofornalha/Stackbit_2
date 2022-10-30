@@ -117,21 +117,23 @@ bottomSections:
         textAlign: center
 slug: notion-non-e-anello-sauron
 ---
-Un suono ed una notifica push.
+*«Un Anello per domarli, un Anello per trovarli, un Anello per ghermirli e nel buio incatenarli».*
 
-"Ciao Daniele, come stai? Vorrei parlarti di un progetto".
+“Il Signore degli Anelli” è davvero una bella storia, racconta di un **anello che ha il potere di fare cose magiche**.
 
-La sola lettura di quel messaggio mi provoca un **brivido**.
+E tutti lo vogliono questo ca\*\*\* di anello.
 
-Non perché mi dispiaccia leggere questa cosa, anzi, ma perché so che rispondere mi metterà nei casini.
+Pur di averlo fanno guerre, uccidono persone ecc.
 
-È già successo tante altre volte, per fortuna che ora ho degli strumenti per non fare ca\*\*\*\*e.
+Un po’ come con Notion: tutti lo vogliono utilizzare (senza la questione guerre, uccisioni e casini vari per ottenerlo però).
+
+Ma **Notion non è l’anello di Sauron** e non è detto che tu debba utilizzarlo per forza.
 
 ***
 
 **TL;DR**
 
-*   I modelli mentali sono come i film su Netflix!
+*   Non tutti scelgono il tool adatto al loro stile di creazione
 
 *   Una risorsa per la tua audience building
 
@@ -139,140 +141,161 @@ Non perché mi dispiaccia leggere questa cosa, anzi, ma perché so che risponder
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è: 4 minuti e 10.**
+**Il tempo di lettura previsto è: **5 minuti e 20.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero X del **Kit di Sopravvivenza per Creator**.
+questo è il numero 166 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **i 3 modelli mentali che uso più spesso, da creator**.
+E oggi ti rivelerò **come capire se Notion è adatto a te e trovare l’alternativa per te.**
 
+****
 
+Hai mai provato ad inchiodare un martello al muro utilizzando un chiodo?
 
-L'immagine di questo post è il mio **calendar**.
+Scommetto di no, sei una persona ragionevole.
 
-Nella parte alta dello schermo puoi vedere che ci sono delle etichette: indicano il progetto a cui mi dovrò dedicare nel corso della giornata.
+Sai che devi fare l’inverso ed utilizzare il martello per inchiodare.
 
-4 etichette = 4 progetti.
+Lo so è un'analogia strana, ma regge.
 
-Poi c'è il lavoro, che non ha bisogno di etichette e che si prende giusto un po' di ore al giorno.
+Il fatto è che utilizzare il tool sbagliato ti porta a sprecare tempo e fare danni (oltre che, magari, scassare il muro).
 
-Come muoversi in mezzo a tutto sto casino?
+E questo vale anche per **Notion**.
 
-Grazie ai modelli mentali!
+Non devi utilizzarlo in ogni caso e non è il tool adatto a tutti.
 
-Scommetto che ne hai già sentito parlare anche tu.
+Purtroppo però vedo sempre più persone “forzarsi” ad utilizzare Notion, anche quando non è necessario.
 
-**Elon Musk** usa questo modello mentale. **Jeff Bezos** usa questo modello mentale. **Charlie Munger** usa questo modello mentale.
+Insomma, il problema è semplice.
 
-Sono delle armi formidabili per aiutarci ad affrontare il caos quotidiano, questo è sicuro.
+​
 
-Purtroppo però la maggior parte delle persone **non riesce mai a metterli in pratica**.
+## **NON TUTTI SCELGONO IL TOOL ADATTO AL LORO STILE DI CREAZIONE**
 
-Ed il motivo è uno solo.
+Perché per scegliere il tool giusto ci sono tanti **fattori da considerare**:
 
-## I modelli mentali sono come i film su Netflix!
+*   Bisogna capire qual è il tuo stile di creazione;
 
-Newsletter, libri, podcast, creator vari.
+*   Bisogna capire quali tool hai a disposizione;
 
-C'è così tanto **rumore sui modelli mentali** che è difficile **trovare il segnale**.
+*   Bisogna capire quali tool sono adatti al tuo stile.
 
-È impossibile trovare il modello adatto a risolvere un problema, proprio come è imposssibile scegliere un film da vedere su Netflix.
+Ma non disperare.
 
-Ed è un peccato, perché grazie a questi modelli potremmo risolvere problemi come i seguenti:
+Ho parecchia esperienza riguardo tool e Notion ed oggi ti aiuterò a **scegliere il tool adatto al tuo stile**.
 
-*   Definire una stella polare da seguire nei nostri sforzi da creator;
-*   Trovare un modo per fare di più in meno tempo;
-*   Utilizzare i nostri contenuti come il mezzo di business che sono.
+Arriviamo al sodo!
 
-Ma non temere, non posso risolvere l'abbondanza di modelli mentali, ma ti posso dire quelli che uso di più nella mia attività da creator, no?
+​
 
-Ecco, è proprio quello che farò oggi!
+### **È DIFFICILE CAPIRE IL TUO STILE DI CREAZIONE**
 
-### **Crea il tuo arco narrativo e saprai sempre cosa fare**
+Non tutti i creator operano allo stesso modo.
 
-È il modello mentale che ho utilizzato per rispondere alla richiesta di progetto di cui ti parlavo all'inizio.
+C’è chi ama fare video, chi pubblicare su Linkedin, chi fare solo TikTok, chi fare podcast ecc.
 
-Per connettere tra loro gli sforzi che fai ogni giorno, hai bisogno di **un'unica trama**.
+Le variabili sono tante ma una cosa è certa: tutti abbiamo bisogno di un **tool in cui dare struttura alle nostre idee**.
 
-Qualcosa che mette te al centro della storia e che ti porta al raggiungimento di un obiettivo.
+Ed il modo in cui strutturi le idee determina il tool più adatto alle tue esigenze.
 
-**Una missione.**
+Ecco i **tre approcci più diffusi per strutturare le idee**:
 
-E trovare la tua missione ti aiuta anche a **decidere le tue priorità**.
+*   **L’approccio dell’architetto**: è l’approccio di chi ama strutturare le sue idee in maniera organizzata e ben definita.
+    Insomma, se ami pianificare i tuoi progetti creativi, organizzarli per bene e creare sistemi che ti supportino allora sei un architetto.
 
-Dopo aver risposto al messaggio, quello riguardo il progetto, la persona dall'altra parte mi ha dato qualche dettaglio.
+*   **L’approccio del botanico**: questo è l’approccio di chi tratte le sue idee come piante di un giardino ed ama farle crescere per vedere come si connettono tra loro e generano nuove cose.
 
-Sono bastati pochi minuti per capire che era un progetto senz alcun legame con la mia mission.
+*   **L’approccio del bibliotecario**: questo è l’approccio di chi vuole raccogliere risorse ed organizzarle.
+    In questo modo potrà utilizzarle quando sarà necessario.
 
-Quale? Quella di **aiutare i creator a risolvere i loro problemi.**
+Io certe volte sono un **architetto** ed altre volte sono un **botanico**.
 
-E quindi che ho fatto?
+Eh si, non è detto che tu abbia un solo approccio e che questo resti sempre lo stesso.
 
-Semplice, ho **rifiutato**.
+​
 
-E non ho dovuto aggiungere un nuovo progetto su un calendar già pieno.
+### **QUALI TOOL HAI A DISPOSIZIONE?**
 
-### Crea la tua leva e potrai fare cose fighissime!
+Cos’è Notion?
 
-C'è chi con una leva poteva spostare il mondo e chi, come me e te, con la giusta leva può fare di più, in meno tempo.
+È un tool no-code, è un app di produttività, è un app di project management e tanto altro.
 
-Pensaci, **devi davvero fare tutte le cose che devi fare**?
+Non mi piace giocare alle **definizioni**, preferisco pensare all’obiettivo di utilizzo.
 
-Le tue skill, competenze e attenzioni sono davvero così fondamentali?
+E perché le persone utilizzano Notion?
 
-O magari potresti girare quel task ad un'altra persona?
+Per **organizzare quello che hanno nella testa.**
 
-Così potresti concentrarti sulle **attività per te prioritarie**.
+Ed in questo senso, Notion rientra nella stessa categoria di altri tool come Roam Research o Mem.
 
-E ottenere risultati molto prima (e meglio!).
+Ecco allora altri tool che rientrano nella stessa categoria:
 
-### Usa i contenuti per fare business!
+*   Roam research;
 
-Quanto dovresti vendere con i tuoi contenuti?
+*   Obsidian;
 
-Quanto dovresti insegnare?
+*   Evernote;
 
-Quanto dovresti...boh, fare altro?
+*   Mem;
 
-Non tutti i contenuti che pubblichi devono raggiungere lo stesso obiettivo.
+*   Napkin;
 
-In fondo la tua strategia da creator è fatta da diversi obiettivi, no ?
+*   TiddlyWiki;
 
-La prossima volta che devi creare contenuti, dividili in **tre categorie**:
+*   Tana;
 
-*   contenuti per farti notare;
-*   contenuti per creare una relazione con la tua audience;
-*   contenuti per monetizzare.
+*   Tettra;
 
-E ti dirò di più, c'è anche una regoletta matematica a supporto di questo modello mentale.
+E ce ne sono tanti di più.
 
-Il 90% dei tuoi contenuti in un arco di tempo dovrebbe essere indirizzato a farti notare.
+​[Davvero tanti.](https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253)​
 
-Il 9% a creare una relazione con la tua audience.
+​
 
-Ed il restante 1% a vendere.
+### IL TOOL ADATTO AL TUO STILE
 
-Dai su, vai su Notion e pianifica la tua strategia di contenuti utilizzando queste categorie.
+Con così tante opzioni c’è **l’imbarazzo della scelta**, vero?
 
-Questi sono modelli mentali che utilizzo da creator, è vero.
+Beh, si e no.
 
-Ma credo che se li leggi con attenzione potrai utilizzarli anche se non sei un creator.
+C’è l’imbarazzo della scelta solo se scegli a caso.
 
-Alla fine, con i modelli mentali, conta una sola cosa: **metterli in pratica**.
+Se invece consideri il tuo approccio la scelta diventa gestibile.
 
-Non importa quali scegli, quando e come.
+Ti ho facilitato le cose:
 
-Ciò che conta è che li metti in pratica e migliori la tua vita.
+*   **I tool per chi ha l’approccio di un architetto**: Notion, Airtable e Coda sono i tool che fanno al caso tuo se sei un architetto.
+    Grazie alle loro funzioni puoi organizzare le idee che hai nella testa nel modo che preferisci, scegli tu la struttura.
+    Sei tu il costruttore del tool, proprio come giocare con i Lego.
 
-E con questo, direi che anche per oggi è tutto.
+*   **I tool per chi ha l’approccio di un botanico:** ti piace trattare le tue idee con cura senza preoccuparti della struttura e poi vedere che succede se le combini?
+    Allora devi utilizzare tool che ti permettono di farlo in maniera naturale.
+    Eccone alcuni: Roam Research, Remnote, Logseq, Obsidian e TiddlyWiki.
 
-Quali modelli mentali utilizzi?
+*   **I tool per chi ha l’approccio del bibliotecario:** ti piace raccogliere risorse e poterle utilizzare ogni volta che vuoi?
+    Allora utilizza Evernote, Airtable, Coda oppure Notion.
 
-Rispondimi a questa email e fammi sapere, oppure scrivimi su Linkedin senza problemi.
+​
 
-Nel frattempo, buona settimana e beccati le risorse.
+Insomma, ci sono tanti tool ed ora hai qualche mezzo in più per poter scegliere quello adatto a te.
 
-Daniele
+Sarà Notion? Remnote? Airtable?
+
+La scelta spetta a te.
+
+Ma ricorda che il **tuo approccio può cambiare nel tempo** e non deve essere per forza uno solo.
+
+Io, ad esempio, faccio il **90% su Notion ed il 10% su Obsidian**.
+
+E per aiutarti a scegliere al meglio ho preparato una **sorpresa per te**.
+
+​
+
+Ho creato un [**database**](https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253) (su Notion) con tutti i tool, le relative informazioni, organizzati per approccio e con un mio voto.
+
+(Ti consiglio di salvare questo database, in futuro ti servirà).
+
+Dagli uno sguardo e poi **fammi sapere quale tool utilizzerai**: ti basterà rispondere rispondendo al sondaggio sotto al database.
