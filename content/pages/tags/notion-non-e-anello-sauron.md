@@ -32,7 +32,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     backgroundSize: full
     actions:
