@@ -11,7 +11,7 @@ date: '2022-10-30'
 description: NON DEVI USARLO PER FORZA!
 featuredImage:
   type: ImageBlock
-  url: /images/Pasted-image-20221022172511-33642409.webp
+  url: /images/sviuaoHXV4NxK92ruJumRp-7e3a0dd5.webp
   altText: Project thumbnail image
   caption: ''
 media:
