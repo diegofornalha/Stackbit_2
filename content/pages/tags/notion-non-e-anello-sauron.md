@@ -8,7 +8,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #10: NOTION NON È L'ANELLO DI SAURON..."
 colors: colors-a
 date: '2022-10-30'
-client: Awesome client
 description: COME I FILM SU NETFLIX
 featuredImage:
   type: ImageBlock
