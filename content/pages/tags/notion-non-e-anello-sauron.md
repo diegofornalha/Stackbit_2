@@ -25,7 +25,8 @@ bottomSections:
     actions:
       - label: SCEGLI IL TUO TOOL!
         altText: ''
-        url: /
+        url: >-
+          https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253
         showIcon: true
         icon: arrowRight
         iconPosition: right
