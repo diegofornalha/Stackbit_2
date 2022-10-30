@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/Pasted-image-20221022172511.webp
+  url: /images/sviuaoHXV4NxK92ruJumRp.webp
 bottomSections:
   - type: DividerSection
     title: Divider
