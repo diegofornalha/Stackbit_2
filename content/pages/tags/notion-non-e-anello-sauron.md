@@ -172,7 +172,7 @@ Ma **Notion non è l’anello di Sauron** e non è detto che tu debba utilizza
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è: **5 minuti e 20.
+\*\*Il tempo di lettura previsto è: \*\*5 minuti e 20.
 
 ***
 
@@ -182,7 +182,7 @@ questo è il numero 166 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come capire se Notion è adatto a te e trovare l’alternativa per te.**
 
-****
+***
 
 Hai mai provato ad inchiodare un martello al muro utilizzando un chiodo?
 
@@ -329,4 +329,4 @@ Ho creato un [**database**](https://www.notion.so/daniele-damico-tech/Creator-s
 
 (Ti consiglio di salvare questo database, in futuro ti servirà).
 
-Dagli uno sguardo e poi **fammi sapere quale tool utilizzerai**: ti basterà rispondere rispondendo al sondaggio sotto al database.
+Dagli uno sguardo e poi **fammi sapere quale tool utilizzerai**: ti basterà rispondere al sondaggio sotto al database.
