@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nParte del creare un’audience è il trovare la tua nicchia.\n\n​[E questo è il modo in cui puoi riuscirci.](https://twitter.com/joshdviner/status/1586386934687010817)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCosa c’è di meglio delle shortcut per migliorare la produttività?\n\nNiente, lo so.\n\n​[E questo tool ti aiuta a renderle più “comode”.](https://www.oslash.com/)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nFare cold outreach è una delle tattiche più diffuse per la monetization.\n\n​[E questo è uno dei framework migliori per farla al meglio.](https://twitter.com/chrishlad/status/1586371056339603457)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nVuoi mettere il turbo alla tua attività da creator?\n\n​[Allora dovresti capire qual è il tuo unfair advantage.](https://twitter.com/TimStodz/status/1587805023899193344)​\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nRiguardo sistemi, strumenti e tante altre scuse.\n\n​[Alla fine, tutto si riduce a questo.](https://twitter.com/jonbrosio/status/1588516473168961537)​\n\n\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nVuoi creare qualcosa e farlo gratis?\n\n​[Allora avrai bisogno di queste 7 lezioni.](https://twitter.com/DTSpann/status/1584572910421020672)\n"
     styles:
       self:
         height: auto
