@@ -9,7 +9,7 @@ title: "\U0001F9F0 kSC #12: Akiflow mi ha fatto perdere ore..."
 colors: colors-a
 date: '2022-10-30'
 client: Awesome client
-description: NON DEVI USARLO PER FORZA!
+description: Ma non saranno vane!
 featuredImage:
   type: ImageBlock
   url: /images/sviuaoHXV4NxK92ruJumRp-7e3a0dd5.webp
