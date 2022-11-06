@@ -182,7 +182,7 @@ questo è il numero 173 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come risolvere la shiny new toy syndrome.**
 
-***
+
 
 Di sicuro è capitato anche a te.
 
