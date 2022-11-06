@@ -11,7 +11,6 @@ date: '2022-11-06'
 description: Ma non saranno vane!
 featuredImage:
   type: ImageBlock
-  url: /images/sviuaoHXV4NxK92ruJumRp-7e3a0dd5.webp
   altText: Project thumbnail image
   caption: ''
 media:
