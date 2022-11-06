@@ -13,6 +13,7 @@ featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
   caption: ''
+  url: /images/Frame 14.webp
 media:
   type: ImageBlock
   url: /images/Frame 14.webp
