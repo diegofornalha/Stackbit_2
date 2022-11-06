@@ -148,23 +148,23 @@ bottomSections:
         textAlign: center
 slug: sistemi-non-bastano
 ---
-*«Un Anello per domarli, un Anello per trovarli, un Anello per ghermirli e nel buio incatenarli».*
+Quando ho finito di giocare erano le 21.
 
-“Il Signore degli Anelli” è davvero una bella storia, racconta di un **anello che ha il potere di fare cose magiche**.
+Avevo sonno e non ero in grado di fare nulla
 
-E tutti lo vogliono questo ca\*\*\* di anello.
+**Tutta la to-do list della giornata era saltata** e dovevo posticiparla al giorno successivo.
 
-Pur di averlo fanno guerre, uccidono persone ecc.
+Il motivo di tutto sto casino?
 
-Un po’ come con Notion: tutti lo vogliono utilizzare (senza la questione guerre, uccisioni e casini vari per ottenerlo però).
+Avevo trovato un **nuovo gioco con cui divertirmi**.
 
-Ma **Notion non è l’anello di Sauron** e non è detto che tu debba utilizzarlo per forza.
+Solo che non era un gioco, era un nuovo tool.
 
 ***
 
 **TL;DR**
 
-*   Non tutti scelgono il tool adatto al loro stile di creazione
+*   Avere un sistema non basta, serve anche altro!
 
 *   Una risorsa per la tua audience building
 
@@ -172,161 +172,142 @@ Ma **Notion non è l’anello di Sauron** e non è detto che tu debba utilizza
 
 *   Una risorsa per la tua monetization
 
-\*\*Il tempo di lettura previsto è: \*\*5 minuti e 20.
+\*\*Il tempo di lettura previsto è: \*\*4 minuti e 31.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 166 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 173 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come capire se Notion è adatto a te e trovare l’alternativa per te.**
+E oggi ti rivelerò **come risolvere la shiny new toy syndrome.**
 
 ***
 
-Hai mai provato ad inchiodare un martello al muro utilizzando un chiodo?
+Di sicuro è capitato anche a te.
 
-Scommetto di no, sei una persona ragionevole.
+**Scopri una cosa nuova** (magari Notion, o magari un nuovo social su cui pubblicare o non so che altro) e ti ci perdi.
 
-Sai che devi fare l’inverso ed utilizzare il martello per inchiodare.
+Cominci a giocarci.
 
-Lo so è un'analogia strana, ma regge.
+A pensare a come utilizzarla nella tua vita.
 
-Il fatto è che utilizzare il tool sbagliato ti porta a sprecare tempo e fare danni (oltre che, magari, scassare il muro).
+A quante opportunità ti garantisce.
 
-E questo vale anche per **Notion**.
-
-Non devi utilizzarlo in ogni caso e non è il tool adatto a tutti.
-
-Purtroppo però vedo sempre più persone “forzarsi” ad utilizzare Notion, anche quando non è necessario.
-
-Insomma, il problema è semplice.
+Insomma, di punto in bianco, ti ritrovi con l’aver **sprecato tante ore utili** in qualcosa che non serve a niente.
 
 ​
 
-## **NON TUTTI SCELGONO IL TOOL ADATTO AL LORO STILE DI CREAZIONE**
+A me è successo con un nuovo tool: [Akiflow](https://akiflow.com/)!
 
-Perché per scegliere il tool giusto ci sono tanti **fattori da considerare**:
+È un tool che ti aiuta con la **consolidation**: integra la tua to-do list con il tuo calendar.
 
-*   Bisogna capire qual è il tuo stile di creazione;
+Nel mio caso, **Notion** e **Google Calendar**.
 
-*   Bisogna capire quali tool hai a disposizione;
+Inserisco un task in Notion (nel mio sistema task-manager) e compare su Akiflow, dove posso ragionarci su e vederlo poi comparire nel mio calendar.
 
-*   Bisogna capire quali tool sono adatti al tuo stile.
+Una roba fighissima.
 
-Ma non disperare.
+Purtroppo però è una cosa che, tra setup e giochi vari, mi ha fatto sprecare tante ore che avrei dovuto dedicare ad altro.
 
-Ho parecchia esperienza riguardo tool e Notion ed oggi ti aiuterò a **scegliere il tool adatto al tuo stile**.
-
-Arriviamo al sodo!
+Ed il **motivo** per cui accade (a me o te) così spesso penso sia solo uno.
 
 ​
 
-### **È DIFFICILE CAPIRE IL TUO STILE DI CREAZIONE**
+## **AVERE UN SISTEMA NON BASTA, SERVE ANCHE ALTRO**
 
-Non tutti i creator operano allo stesso modo.
+E lo so, [spesso ho parlato di sistemi e di quanto siano utili](https://danieledamico.tech/tags/sistemi-per-creator/).
 
-C’è chi ama fare video, chi pubblicare su Linkedin, chi fare solo TikTok, chi fare podcast ecc.
+Ho anche cercato di [rendere standard (per te) uno dei sistemi che più utilizzo](https://danieledamico.gumroad.com/l/easy-content-strategy/ecs-newsletter?utm_source=newsletter\&utm_medium=newsletter-24.09.22\&utm_campaign=ecs-launch).
 
-Le variabili sono tante ma una cosa è certa: tutti abbiamo bisogno di un **tool in cui dare struttura alle nostre idee**.
+Ma la verità è che i sistemi possono fallire, per vari motivi:
 
-Ed il modo in cui strutturi le idee determina il tool più adatto alle tue esigenze.
+*   Crediamo che i sistemi siano tool;
 
-Ecco i **tre approcci più diffusi per strutturare le idee**:
+*   Non definiamo i nostri sistemi;
 
-*   **L’approccio dell’architetto**: è l’approccio di chi ama strutturare le sue idee in maniera organizzata e ben definita.
-    Insomma, se ami pianificare i tuoi progetti creativi, organizzarli per bene e creare sistemi che ti supportino allora sei un architetto.
+*   Pensiamo che un sistema possa risolvere le nostre debolezze.
 
-*   **L’approccio del botanico**: questo è l’approccio di chi tratte le sue idee come piante di un giardino ed ama farle crescere per vedere come si connettono tra loro e generano nuove cose.
+Ma non temere.
 
-*   **L’approccio del bibliotecario**: questo è l’approccio di chi vuole raccogliere risorse ed organizzarle.
-    In questo modo potrà utilizzarle quando sarà necessario.
+Le ore sprecate qualche giorno fa non saranno vane.
 
-Io certe volte sono un **architetto** ed altre volte sono un **botanico**.
+Le utilizzerò per aiutarti ad **evitare la shiny new toy syndrome**.
 
-Eh si, non è detto che tu abbia un solo approccio e che questo resti sempre lo stesso.
+Arriviamo al sodo.
 
 ​
 
-### **QUALI TOOL HAI A DISPOSIZIONE?**
+### **CREDIAMO CHE I SISTEMI SIANO TOOL**
 
-Cos’è Notion?
+Prima di tutto, cosa intendo per **sistema**?
 
-È un tool no-code, è un app di produttività, è un app di project management e tanto altro.
+È una cosa importante da capire.
 
-Non mi piace giocare alle **definizioni**, preferisco pensare all’obiettivo di utilizzo.
+Quando parlo di sistema mi riferisco al [GTD](https://it.wikipedia.org/wiki/Detto,\_fatto!), oppure al metodo [Zettelkasten](https://it.wikipedia.org/wiki/Niklas_Luhmann), oppure al [radical candor](https://www.radicalcandor.com/).
 
-E perché le persone utilizzano Notion?
+E ce ne sono tanti altri.
 
-Per **organizzare quello che hanno nella testa.**
+Si tratta di insiemi di regole, principi e processi che definiscono gli **approcci migliori per risolvere un problema**.
 
-Ed in questo senso, Notion rientra nella stessa categoria di altri tool come Roam Research o Mem.
+Insomma, i sistemi non sono tool.
 
-Ecco allora altri tool che rientrano nella stessa categoria:
+Notion, ad esempio, non è un sistema, è un tool.
 
-*   Roam research;
+È uno strumento che ti permette mettere in pratica uno o più sistemi.
 
-*   Obsidian;
+Ma ha dei limiti.
 
-*   Evernote;
+E che succede quando li incontri?
 
-*   Mem;
+Succede che **Notion fallisce** e te passi ad un **nuovo strumento**.
 
-*   Napkin;
+Ma cosa accade se invece aderisci ad un sistema?
 
-*   TiddlyWiki;
-
-*   Tana;
-
-*   Tettra;
-
-E ce ne sono tanti di più.
-
-​[Davvero tanti.](https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253)​
+Allora non lo vedrai mai fallire, dovrai solo trovare il tool adatto a metterlo meglio in pratica.
 
 ​
 
-### IL TOOL ADATTO AL TUO STILE
+### **NON DEFINIAMO I NOSTRI SISTEMI**
 
-Con così tante opzioni c’è **l’imbarazzo della scelta**, vero?
+Ma come facciamo a scegliere il **tool più adatto al sistema**?
 
-Beh, si e no.
+La cosa risulta difficile se prima non hai definito il sistema a cui aderire.
 
-C’è l’imbarazzo della scelta solo se scegli a caso.
+E magari il sistema puoi averlo creato tu, oppure può essere un sistema già famoso, oppure può essere una tua interpretazione di un sistema già famoso, non importa.
 
-Se invece consideri il tuo approccio la scelta diventa gestibile.
+Importa che, deciso il sistema a cui aderire, tu riesca a **definirlo al meglio.**
 
-Ti ho facilitato le cose:
+Solo in quel modo potrai **scegliere lo strumento** che meglio lo mette in pratica.
 
-*   **I tool per chi ha l’approccio di un architetto**: Notion, Airtable e Coda sono i tool che fanno al caso tuo se sei un architetto.
-    Grazie alle loro funzioni puoi organizzare le idee che hai nella testa nel modo che preferisci, scegli tu la struttura.
-    Sei tu il costruttore del tool, proprio come giocare con i Lego.
-
-*   **I tool per chi ha l’approccio di un botanico:** ti piace trattare le tue idee con cura senza preoccuparti della struttura e poi vedere che succede se le combini?
-    Allora devi utilizzare tool che ti permettono di farlo in maniera naturale.
-    Eccone alcuni: Roam Research, Remnote, Logseq, Obsidian e TiddlyWiki.
-
-*   **I tool per chi ha l’approccio del bibliotecario:** ti piace raccogliere risorse e poterle utilizzare ogni volta che vuoi?
-    Allora utilizza Evernote, Airtable, Coda oppure Notion.
+E, fatto questo, non ci sarà novità in grado di distrarti.
 
 ​
 
-Insomma, ci sono tanti tool ed ora hai qualche mezzo in più per poter scegliere quello adatto a te.
+### **PENSIAMO CHE UN SISTEMA POSSA RISOLVERE LE NOSTRE DEBOLEZZE**
 
-Sarà Notion? Remnote? Airtable?
+E ci sbagliamo.
 
-La scelta spetta a te.
+Potresti ritrovarti nella situazione in cui rischi comunque di distrarti perché vuoi testare la novità.
 
-Ma ricorda che il **tuo approccio può cambiare nel tempo** e non deve essere per forza uno solo.
+E ci sta.
 
-Io, ad esempio, faccio il **90undefined su Obsidian**.
+**L’obiettivo** non è chiuderti in una gabbia fatta di sistemi e strumenti.
 
-E per aiutarti a scegliere al meglio ho preparato una **sorpresa per te**.
+L’obiettivo è quello di **riuscire a fare cose: stabilire un piano e metterlo in atto.**
+
+E per riuscirci serve anche una certa dose di **volontà**, disciplina, chiamala come vuoi.
+
+E quella non te la possono fornire né i sistemi né gli strumenti: **dipende da te**.
+
+Potresti avere i migliori strumenti e sistemi, se ti manca la volontà non partirai mai.
 
 ​
 
-Ho creato un [**database**](https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253) (su Notion) con tutti i tool, le relative informazioni, organizzati per approccio e con un mio voto.
+Bene, direi che anche per questa settimana è tutto.
 
-(Ti consiglio di salvare questo database, in futuro ti servirà).
+Spero di averti aiutato a capire come uscire dalla shiny new toy syndrome.
 
-Dagli uno sguardo e poi **fammi sapere quale tool utilizzerai**: ti basterà rispondere al sondaggio sotto al database.
+E ti auguro di starne il più lontano possibile.
+
+Nel frattempo, buona settimana e **beccati le risorse**.
