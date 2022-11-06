@@ -18,38 +18,6 @@ featuredImage:
 media:
   type: ImageBlock
 bottomSections:
-  - type: CtaSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    actions:
-      - label: SCEGLI IL TUO TOOL!
-        altText: ''
-        url: >-
-          https://www.notion.so/daniele-damico-tech/Creator-s-Tools-for-Thought-6d1269db6f364d9ea3b99623ab827253
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
