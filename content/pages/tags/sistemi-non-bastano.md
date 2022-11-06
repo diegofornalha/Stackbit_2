@@ -155,7 +155,6 @@ E oggi ti rivelerò **come risolvere la shiny new toy syndrome.**
 
 
 
-
 Di sicuro è capitato anche a te.
 
 **Scopri una cosa nuova** (magari Notion, o magari un nuovo social su cui pubblicare o non so che altro) e ti ci perdi.
