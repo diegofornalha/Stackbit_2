@@ -172,7 +172,7 @@ Solo che non era un gioco, era un nuovo tool.
 
 *   Una risorsa per la tua monetization
 
-\*\*Il tempo di lettura previsto è: \*\*4 minuti e 31.
+\*\*Il tempo di lettura previsto è:\*\* 4 minuti e 31.
 
 ***
 
