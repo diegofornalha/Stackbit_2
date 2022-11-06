@@ -186,8 +186,6 @@ Di sicuro è capitato anche a te.
 
 
 
-
-
 **Scopri una cosa nuova** (magari Notion, o magari un nuovo social su cui pubblicare o non so che altro) e ti ci perdi.
 
 Cominci a giocarci.
