@@ -17,7 +17,6 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/sviuaoHXV4NxK92ruJumRp.webp
 bottomSections:
   - type: CtaSection
     colors: colors-d
