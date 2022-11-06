@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #11: NOTION NON È L'ANELLO DI SAURON..."
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-10-30'
 client: Awesome client
 description: NON DEVI USARLO PER FORZA!
