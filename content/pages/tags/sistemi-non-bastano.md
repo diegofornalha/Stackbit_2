@@ -15,6 +15,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
+  url: /images/Frame 14.webp
 bottomSections:
   - type: DividerSection
     title: Divider
