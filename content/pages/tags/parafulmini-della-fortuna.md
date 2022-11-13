@@ -116,23 +116,25 @@ bottomSections:
         textAlign: center
 slug: parafulmini-della-fortuna
 ---
-Quando ho finito di giocare erano le 21.
+Quanti **overnight success** conosci?
 
-Avevo sonno e non ero in grado di fare nulla
+Quanti casi conosci di persone che hanno ottenuto il colpo di fortuna definitivo, l'hanno sfruttato e sono diventate di successo?
 
-**Tutta la to-do list della giornata era saltata** e dovevo posticiparla al giorno successivo.
+Scommetto che ne conosci parecchi.
 
-Il motivo di tutto sto casino?
+E scommetto un'altra cosa.
 
-Avevo trovato un **nuovo gioco con cui divertirmi**.
+Dentro di te, sai che questi successi non sono casuali, sono frutto del **duro lavoro**.
 
-Solo che non era un gioco, era un nuovo tool.
+Ma davvero è così?
+
+Non credo.
 
 ***
 
 **TL;DR**
 
-*   Avere un sistema non basta, serve anche altro!
+*   La fortuna non è cieca, la fortuna ci vede benissimo!
 
 *   Una risorsa per la tua audience building
 
@@ -149,11 +151,6 @@ Ehi ciao 👋,
 questo è il numero 173 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come risolvere la shiny new toy syndrome.**
-
-
-
-
-
 
 Di sicuro è capitato anche a te.
 
