@@ -142,140 +142,134 @@ Non credo.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti e 31.
+**Il tempo di lettura previsto è:** 3 minuti e 51.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 173 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 180 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come risolvere la shiny new toy syndrome.**
+E oggi ti rivelerò **come fare da parafulmine della fortuna.**
 
-Di sicuro è capitato anche a te.
+****
 
-**Scopri una cosa nuova** (magari Notion, o magari un nuovo social su cui pubblicare o non so che altro) e ti ci perdi.
+La verità è che il duro lavoro fa tanto, ma serve anche una certa dose di **fortuna**.
 
-Cominci a giocarci.
+O sbaglio?
 
-A pensare a come utilizzarla nella tua vita.
+Aspetta, chi ha detto che duro lavoro e fortuna si escludano?
 
-A quante opportunità ti garantisce.
+Sarebbe figo un mondo in cui duro lavoro e fortuna collaborano, vero?
 
-Insomma, di punto in bianco, ti ritrovi con l’aver **sprecato tante ore utili** in qualcosa che non serve a niente.
+Ti dirò una cosa: quel mondo esiste già, ci vivi ogni giorno.
 
-​
-
-A me è successo con un nuovo tool: [Akiflow](https://akiflow.com/)!
-
-È un tool che ti aiuta con la **consolidation**: integra la tua to-do list con il tuo calendar.
-
-Nel mio caso, **Notion** e **Google Calendar**.
-
-Inserisco un task in Notion (nel mio sistema task-manager) e compare su Akiflow, dove posso ragionarci su e vederlo poi comparire nel mio calendar.
-
-Una roba fighissima.
-
-Purtroppo però è una cosa che, tra setup e giochi vari, mi ha fatto sprecare tante ore che avrei dovuto dedicare ad altro.
-
-Ed il **motivo** per cui accade (a me o te) così spesso penso sia solo uno.
+Purtroppo però molti creator ignorano una cosa riguardo la fortuna.
 
 ​
 
-## **AVERE UN SISTEMA NON BASTA, SERVE ANCHE ALTRO**
+## **LA FORTUNA NON È CIECA, LA FORTUNA CI VEDE BENISSIMO**
 
-E lo so, [spesso ho parlato di sistemi e di quanto siano utili](https://danieledamico.tech/tags/sistemi-per-creator/).
+E la verità è che ci sono tutta una serie di fattori che ci portano a pensare l’esatto opposto.
 
-Ho anche cercato di [rendere standard (per te) uno dei sistemi che più utilizzo](https://danieledamico.gumroad.com/l/easy-content-strategy/ecs-newsletter?utm_source=newsletter\&utm_medium=newsletter-24.09.22\&utm_campaign=ecs-launch).
+Infatti, pensiamo che la fortuna:
 
-Ma la verità è che i sistemi possono fallire, per vari motivi:
+*   Sia **casuale**;
 
-*   Crediamo che i sistemi siano tool;
+*   Sia **ignorante**;
 
-*   Non definiamo i nostri sistemi;
+*   Sia **democratica**.
 
-*   Pensiamo che un sistema possa risolvere le nostre debolezze.
+Ma non è così.
 
-Ma non temere.
+Un creator ha la capacità di **attirare la fortuna**.
 
-Le ore sprecate qualche giorno fa non saranno vane.
+Ne può diventare un parafulmine.
 
-Le utilizzerò per aiutarti ad **evitare la shiny new toy syndrome**.
+Ed oggi ti svelerò tre modi per riuscirci.
 
 Arriviamo al sodo.
 
 ​
 
-### **CREDIAMO CHE I SISTEMI SIANO TOOL**
+### **LA FORTUNA NON È CASUALE, LA FORTUNA HA GUSTI BEN DEFINITI!**
 
-Prima di tutto, cosa intendo per **sistema**?
+E quali sono questi gusti?
 
-È una cosa importante da capire.
+Semplice: **alla fortuna piace chi fa cose**.
 
-Quando parlo di sistema mi riferisco al [GTD](https://it.wikipedia.org/wiki/Detto,\_fatto!), oppure al metodo [Zettelkasten](https://it.wikipedia.org/wiki/Niklas_Luhmann), oppure al [radical candor](https://www.radicalcandor.com/).
+Chi si sporca le mani, si butta nella mischia ecc.
 
-E ce ne sono tanti altri.
+Ed in particolare ci sono due cose che devi fare per rientrare nei gusti della fortuna:
 
-Si tratta di insiemi di regole, principi e processi che definiscono gli **approcci migliori per risolvere un problema**.
+*   dedicarti con passione a qualcosa;
 
-Insomma, i sistemi non sono tool.
+*   raccontare quello che fai.
 
-Notion, ad esempio, non è un sistema, è un tool.
+Non lo dico io.
 
-È uno strumento che ti permette mettere in pratica uno o più sistemi.
+Alcuni studiosi hanno analizzato la questione e [se ne sono addirittura usciti con un’**equazione della fortuna**.](https://modelthinkers.com/mental-model/surface-area-of-luck)
 
-Ma ha dei limiti.
 
-E che succede quando li incontri?
 
-Succede che **Notion fallisce** e te passi ad un **nuovo strumento**.
-
-Ma cosa accade se invece aderisci ad un sistema?
-
-Allora non lo vedrai mai fallire, dovrai solo trovare il tool adatto a metterlo meglio in pratica.
+**Fortuna = **Esecuzione appassionata \* Storytelling efficace
 
 ​
 
-### **NON DEFINIAMO I NOSTRI SISTEMI**
+E non so te cosa ne pensi, ma quando io ho visto questa equazione ho pensato solo una cosa.
 
-Ma come facciamo a scegliere il **tool più adatto al sistema**?
-
-La cosa risulta difficile se prima non hai definito il sistema a cui aderire.
-
-E magari il sistema puoi averlo creato tu, oppure può essere un sistema già famoso, oppure può essere una tua interpretazione di un sistema già famoso, non importa.
-
-Importa che, deciso il sistema a cui aderire, tu riesca a **definirlo al meglio.**
-
-Solo in quel modo potrai **scegliere lo strumento** che meglio lo mette in pratica.
-
-E, fatto questo, non ci sarà novità in grado di distrarti.
+Fare con passione e raccontare in maniera efficace sono proprio le **attività principali dei creator**.
 
 ​
 
-### **PENSIAMO CHE UN SISTEMA POSSA RISOLVERE LE NOSTRE DEBOLEZZE**
+### **LA FORTUNA NON È IGNORANTE, LA FORTUNA È UNA SECCHIONA!**
 
-E ci sbagliamo.
+Quindi se fai il creator e lo fai bene, allora la fortuna sarà tua fan.
 
-Potresti ritrovarti nella situazione in cui rischi comunque di distrarti perché vuoi testare la novità.
+Ma che succede se ti sceglie?
 
-E ci sta.
+Che succede se ti capita il colpo di fortuna?
 
-**L’obiettivo** non è chiuderti in una gabbia fatta di sistemi e strumenti.
+Devi essere in grado di cogliere l’occasione, di sfruttarla al meglio.
 
-L’obiettivo è quello di **riuscire a fare cose: stabilire un piano e metterlo in atto.**
+E come?
 
-E per riuscirci serve anche una certa dose di **volontà**, disciplina, chiamala come vuoi.
+Con la **preparazione**.
 
-E quella non te la possono fornire né i sistemi né gli strumenti: **dipende da te**.
+Eh si, la fortuna aiuta le menti preparate.
 
-Potresti avere i migliori strumenti e sistemi, se ti manca la volontà non partirai mai.
+Potresti dormire sull’occasione della tua vita e magari non lo sai nemmeno.
+
+Ma col duro, con lo studio e la dedizione sarai in grado di notare i minimi cambiamenti e dettagli nel contesto in cui operi.
+
+Così potrai **cogliere il colpo di fortuna quando arriverà**.
 
 ​
 
-Bene, direi che anche per questa settimana è tutto.
+### **LA FORTUNA NON È DEMOCRATICA, LA FORTUNA È SELETTIVA!**
 
-Spero di averti aiutato a capire come uscire dalla shiny new toy syndrome.
+E, proprio come tutti nel mondo, si fida della tua **reputazione**.
 
-E ti auguro di starne il più lontano possibile.
+Quando fai tante cose, quando le racconti in maniera efficace e quando sei preparato a gestire al meglio le occasioni, allora la tua reputazione migliora.
 
-Nel frattempo, buona settimana e **beccati le risorse**.
+E cosa succede?
+
+Succede che la tua reputazione attira altre occasioni, altre opportunità, insomma altra fortuna.
+
+E così comincia il **ciclo virtuoso**.
+
+Poi ripeti, ripeti e ripeti ancora.
+
+Fino a quando il colpo di fortuna, quello definitivo, arriva.
+
+​
+
+Dai, credo tu abbia capito la questione.
+
+La **fortuna aiuta i creator**.
+
+E se cominci il percorso, le occasioni non ti mancheranno.
+
+Devi solo fare il primo passo, [magari utilizzando questi strumenti (soprattutto se vuoi usare Notion)](https://danieledamico.gumroad.com/).
+
+Nel frattempo, buona settimana e beccati le risorse.
