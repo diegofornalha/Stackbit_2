@@ -11,7 +11,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-11-13'
-description: Ma non saranno vane!
+description: la fortuna ci vede benissimo!
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
