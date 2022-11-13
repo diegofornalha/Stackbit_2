@@ -146,13 +146,14 @@ Non credo.
 
 ***
 
+
 Ehi ciao 👋,
 
 questo è il numero 180 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come fare da parafulmine della fortuna.**
 
-****
+
 
 La verità è che il duro lavoro fa tanto, ma serve anche una certa dose di **fortuna**.
 
@@ -210,12 +211,9 @@ Non lo dico io.
 
 Alcuni studiosi hanno analizzato la questione e [se ne sono addirittura usciti con un’**equazione della fortuna**.](https://modelthinkers.com/mental-model/surface-area-of-luck)
 
-
-
-**Fortuna = **Esecuzione appassionata \* Storytelling efficace
+**Fortuna = ** Esecuzione appassionata * Storytelling efficace
 
 ​
-
 E non so te cosa ne pensi, ma quando io ho visto questa equazione ho pensato solo una cosa.
 
 Fare con passione e raccontare in maniera efficace sono proprio le **attività principali dei creator**.
