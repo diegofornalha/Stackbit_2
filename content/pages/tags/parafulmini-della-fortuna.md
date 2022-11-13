@@ -10,7 +10,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2022-11-06'
+date: '2022-11-13'
 description: Ma non saranno vane!
 featuredImage:
   type: ImageBlock
