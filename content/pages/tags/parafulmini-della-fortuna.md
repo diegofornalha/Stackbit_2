@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #13: La fortuna non è cieca"
+title: "\U0001F9F0 kSC #13: La fortuna non è cieca..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
