@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #12: Akiflow mi ha fatto perdere ore..."
+title: "\U0001F9F0 kSC #13: Akiflow mi ha fatto perdere ore..."
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
