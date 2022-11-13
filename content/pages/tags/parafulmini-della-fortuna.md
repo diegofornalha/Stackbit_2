@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nVuoi mettere il turbo alla tua attività da creator?\n\n​[Allora dovresti capire qual è il tuo unfair advantage.](https://twitter.com/TimStodz/status/1587805023899193344)\n\n\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nRiguardo sistemi, strumenti e tante altre scuse.\n\n​[Alla fine, tutto si riduce a questo.](https://twitter.com/jonbrosio/status/1588516473168961537)\n\n\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nVuoi creare qualcosa e farlo gratis?\n\n​[Allora avrai bisogno di queste 7 lezioni.](https://twitter.com/DTSpann/status/1584572910421020672)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nOk, per attirare fortuna devi cominciare con questa cosa del creator.\n\nIn pratica, devi fare con passione e raccontare quello che fai.\n\nMa come decidere cosa fare?\n\n​[Questo è lo strumento ideale.](https://modelthinkers.com/mental-model/ikigai)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nHo deciso (e finito di capire io stesso) quale sarà una delle lezioni del mini-corso Notion che molti di voi hanno richiesto.\n\n​[Riguarderà questo sito, Notion e Linkedin.](https://www.make.com/en)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nAncora non ho le idee chiare su Elon Musk e la questione Twitter.\n\n​[Ma questa è una lezione utile.](https://twitter.com/KateBour/status/1590735833446785025)\n"
     styles:
       self:
         height: auto
