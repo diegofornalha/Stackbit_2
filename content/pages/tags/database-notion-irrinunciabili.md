@@ -117,25 +117,25 @@ bottomSections:
         textAlign: center
 slug: database-notion-irrinunciabili
 ---
-Quanti **overnight success** conosci?
+"Posso farti vedere una cosa?"
 
-Quanti casi conosci di persone che hanno ottenuto il colpo di fortuna definitivo, l'hanno sfruttato e sono diventate di successo?
+Ero in una **sessione di coaching su Notion**.
 
-Scommetto che ne conosci parecchi.
+Ed è così che ho risposto a Claudio.
 
-E scommetto un'altra cosa.
+Mi raccontava del suo Notion, di tutte le cose belle che voleva costruirci.
 
-Dentro di te, sai che questi successi non sono casuali, sono frutto del **duro lavoro**.
+Tutto fighissimo, ma era utile? Non so.
 
-Ma davvero è così?
+Quindi gli ho mostrato quello che volevo.
 
-Non credo.
+Ed oggi potrai vedere anche tu.
 
 ***
 
 **TL;DR**
 
-*   La fortuna non è cieca, la fortuna ci vede benissimo!
+*   3 database per uscire dalla trappola di Notion!
 
 *   Una risorsa per la tua audience building
 
@@ -143,132 +143,159 @@ Non credo.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti e 51.
+**Il tempo di lettura previsto è:** 4 minuti e 50.
 
 ***
 
-
 Ehi ciao 👋,
 
-questo è il numero 180 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 187 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come fare da parafulmine della fortuna.**
+E oggi ti rivelerò **3 database Notion per me irrinunciabili.**
 
+****![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
 
+Quando **apri per la prima volta Notion** c'è una cosa che ti colpisce fin da subito.
 
-La verità è che il duro lavoro fa tanto, ma serve anche una certa dose di **fortuna**.
+È uno spazio bianco, uno spazio di totale libertà.
 
-O sbaglio?
+Insomma, uno spazio in cui puoi fare il c\*\*\*\* che ti pare.
 
-Aspetta, chi ha detto che duro lavoro e fortuna si escludano?
+E quando scopri che con Notion puoi costruire cose, siamo al top!
 
-Sarebbe figo un mondo in cui duro lavoro e fortuna collaborano, vero?
+Però poi arrivano i problemi.
 
-Ti dirò una cosa: quel mondo esiste già, ci vivi ogni giorno.
+Arriva il caos e la tendenza a complicarsi le cose.
 
-Purtroppo però molti creator ignorano una cosa riguardo la fortuna.
+Alla fine perdi più tempo a giocare e costruire cose con Notion che ad utilizzarlo per essere più **produttivo**.
 
-​
-
-## **LA FORTUNA NON È CIECA, LA FORTUNA CI VEDE BENISSIMO**
-
-E la verità è che ci sono tutta una serie di fattori che ci portano a pensare l’esatto opposto.
-
-Infatti, pensiamo che la fortuna:
-
-*   Sia **casuale**;
-
-*   Sia **ignorante**;
-
-*   Sia **democratica**.
-
-Ma non è così.
-
-Un creator ha la capacità di **attirare la fortuna**.
-
-Ne può diventare un parafulmine.
-
-Ed oggi ti svelerò tre modi per riuscirci.
-
-Arriviamo al sodo.
+Come si risolve sta cosa?
 
 ​
 
-### **LA FORTUNA NON È CASUALE, LA FORTUNA HA GUSTI BEN DEFINITI!**
+## **3 DATABASE PER USCIRE DALLA TRAPPOLA DI NOTION**
 
-E quali sono questi gusti?
+Ci sono passato, io stesso.
 
-Semplice: **alla fortuna piace chi fa cose**.
+Ho **creato diversi workspace Notion** e li ho visti cadere nel caos più incontrollato.
 
-Chi si sporca le mani, si butta nella mischia ecc.
+Una cosa davvero imbarazzante.
 
-Ed in particolare ci sono due cose che devi fare per rientrare nei gusti della fortuna:
+Poi però ho capito che **dovevo uscire da questa trappola**, altrimenti non avrai mai colto il vero potere di Notion.
 
-*   dedicarti con passione a qualcosa;
+Quindi ho semplificato le cose e mi sono fatto una domanda: **quali sono le 3 informazioni a cui non puoi rinunciare?**
 
-*   raccontare quello che fai.
+Nel mio caso:
 
-Non lo dico io.
+*   Idee (di contenuti, di progetti, di task o di non so cosa);
 
-Alcuni studiosi hanno analizzato la questione e [se ne sono addirittura usciti con un’**equazione della fortuna**.](https://modelthinkers.com/mental-model/surface-area-of-luck)
+*   Contenuti;
 
-**Fortuna = ** Esecuzione appassionata * Storytelling efficace
+*   Risorse e contenuti "da newsletter".
 
-​
-E non so te cosa ne pensi, ma quando io ho visto questa equazione ho pensato solo una cosa.
+Ed intorno a queste informazioni c’è tutto un mondo di cose.
 
-Fare con passione e raccontare in maniera efficace sono proprio le **attività principali dei creator**.
-
-​
-
-### **LA FORTUNA NON È IGNORANTE, LA FORTUNA È UNA SECCHIONA!**
-
-Quindi se fai il creator e lo fai bene, allora la fortuna sarà tua fan.
-
-Ma che succede se ti sceglie?
-
-Che succede se ti capita il colpo di fortuna?
-
-Devi essere in grado di cogliere l’occasione, di sfruttarla al meglio.
-
-E come?
-
-Con la **preparazione**.
-
-Eh si, la fortuna aiuta le menti preparate.
-
-Potresti dormire sull’occasione della tua vita e magari non lo sai nemmeno.
-
-Ma col duro, con lo studio e la dedizione sarai in grado di notare i minimi cambiamenti e dettagli nel contesto in cui operi.
-
-Così potrai **cogliere il colpo di fortuna quando arriverà**.
+Ma alla base di tutto ci sono queste tre, **questi tre database**.
 
 ​
 
-### **LA FORTUNA NON È DEMOCRATICA, LA FORTUNA È SELETTIVA!**
+### **IL DATABASE PER LE IDEE: INBOX!**
 
-E, proprio come tutti nel mondo, si fida della tua **reputazione**.
 
-Quando fai tante cose, quando le racconti in maniera efficace e quando sei preparato a gestire al meglio le occasioni, allora la tua reputazione migliora.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)
 
-E cosa succede?
 
-Succede che la tua reputazione attira altre occasioni, altre opportunità, insomma altra fortuna.
+Questo è il database dove finiscono **tutte le cose che voglio “salvare”.**
 
-E così comincia il **ciclo virtuoso**.
+È il supporto definitivo alla mia memoria.
 
-Poi ripeti, ripeti e ripeti ancora.
+Ed è anche il punto in cui **organizzo le cose**, gli assegno:
 
-Fino a quando il colpo di fortuna, quello definitivo, arriva.
+*   priorità;
+
+*   tipologia (contenuti, idee, task, risorse);
+
+*   scadenza;
+
+*   aree di utilizzo;
+
+Insomma, qui dentro inserisco le informazioni grezze e da qui escono pulite, con un loro posto nel mondo.
+
+Se sono **task** finiscono nel **task manager**.
+
+Se sono idee di **contenuti** finiscono nel **database di contenuti**.
+
+Hai capito la storia, no ?
+
+C’è un’altra cosa da dire.
+
+Tutte le **automazioni **e le altri cose da nerd che faccio con Notion hanno proprio questo database come protagonista.
+
+Prima faccio finire le informazioni qui dentro e meglio è.
+
+Come quando provi a comprare il biglietto per un concerto dei Coldplay: la velocità è tutto.
+
+Comunque, ho reso questa roba un template, si chiama [Easy Second Brain](https://danieledamico.gumroad.com/l/easy-second-brain).
 
 ​
 
-Dai, credo tu abbia capito la questione.
+### **IL DATABASE DEL CREATOR: CONTENUTI!**
 
-La **fortuna aiuta i creator**.
 
-E se cominci il percorso, le occasioni non ti mancheranno.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)
 
-Devi solo fare il primo passo, [magari utilizzando questi strumenti (soprattutto se vuoi usare Notion)](https://danieledamico.gumroad.com/).
+Come faccio a pubblicare così tanti contenuti?
 
-Nel frattempo, buona settimana e beccati le risorse.
+Grazie a questo database.
+
+In **Inbox inserisco le idee dei contenuti** e poi passa del tempo: magari lavoro a queste idee, magari ci ragiono su o non so.
+
+Quando decido di volerci creare un contenuto allora **collego l'informazione al database Contenuti**.
+
+Lì ci sono **decine di template** per la struttura dei contenuti, degli hook e tanta altra roba.
+
+È da qui che partono poi tutte le automazioni sui contenuti.
+
+Ad esempio, da questo database smisto i contenuti su:
+
+*   Linkedin;
+
+*   Medium (in lavorazione);
+
+*   Gruppi Facebook (in test);
+
+Ed è qui che **un’altra automazione** inserisce le statistiche dei vari contenuti, dopo la loro pubblicazione.
+
+Ho reso anche questa roba un template, si chiama [Easy Content Strategy.](https://danieledamico.gumroad.com/l/easy-content-strategy)​
+
+​
+
+### **IL DATABASE DI CHI MANDA NEWSLETTER: NEWSLETTER & CONTENT!**
+
+
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
+
+
+E poi che succede?
+
+Succede che i contenuti più di successo ( identificati dalle statistiche belle e pronte) **li collego al database: Newsletter & Content.**
+
+Così mi ritrovo con un contenuto già "validato" e con del potenziale per la pubblicazione su un altro canale.
+
+Ed in più è** quasi pronto**, bisogna solo estenderlo.
+
+Di questa parte ancora non c'è un template, ma ti piacerebbe riceverlo?
+
+**Rispondi a questa email** e vedrò cosa fare.
+
+​
+
+Insomma, tutto parte dall'Inbox, passa dal database Contenuti e alcune cose arrivano fino al database Newsletter & Content.
+
+È una cosa parecchio carina, lo so.
+
+E riduce tutta la complessità di un Notion agli inizi, oppure di un Notion con troppa roba.
+
+Detto questo, per oggi è tutto.
+
+Buona settimana e beccati le risorse.
