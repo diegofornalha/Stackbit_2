@@ -37,7 +37,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nOk, per attirare fortuna devi cominciare con questa cosa del creator.\n\nIn pratica, devi fare con passione e raccontare quello che fai.\n\nMa come decidere cosa fare?\n\n​[Questo è lo strumento ideale.](https://modelthinkers.com/mental-model/ikigai)\n\n​\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nHo deciso (e finito di capire io stesso) quale sarà una delle lezioni del mini-corso Notion che molti di voi hanno richiesto.\n\n​[Riguarderà questo sito, Notion e Linkedin.](https://www.make.com/en)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nAncora non ho le idee chiare su Elon Musk e la questione Twitter.\n\n​[Ma questa è una lezione utile.](https://twitter.com/KateBour/status/1590735833446785025)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nSkynet o Matrix?\n\nCosa farà di noi l’AI?\n\n​[Non lo so, nel frattempo però possiamo utilizzarla così](https://www.thetilt.com/technology-and-tools/ai-assisted-content-tools).​\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nHo parlato di Notion.\n\nHo parlato di AI.\n\n​[Non posso non girarti questo link.](https://www.notion.so/ai?wr=30c0b48bd893b23d)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nÈ una domanda che tanti si fanno, lo so.\n\nMe la faccio anche io.\n\n​[Come capire se è il momento giusto per fare il grande salto dal side-hustle al full-time?](https://thebootstrappedfounder.com/when-should-you-go-from-side-project-to-full-time/)\n\n"
     styles:
       self:
         height: auto
