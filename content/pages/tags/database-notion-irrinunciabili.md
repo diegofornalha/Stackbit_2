@@ -153,7 +153,7 @@ questo è il numero 187 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **3 database Notion per me irrinunciabili.**
 
-****![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
 
 Quando **apri per la prima volta Notion** c'è una cosa che ti colpisce fin da subito.
 
@@ -201,9 +201,9 @@ Ma alla base di tutto ci sono queste tre, **questi tre database**.
 
 ### **IL DATABASE PER LE IDEE: INBOX!**
 
-
 ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)
 
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)
 
 Questo è il database dove finiscono **tutte le cose che voglio “salvare”.**
 
@@ -229,7 +229,7 @@ Hai capito la storia, no ?
 
 C’è un’altra cosa da dire.
 
-Tutte le **automazioni **e le altri cose da nerd che faccio con Notion hanno proprio questo database come protagonista.
+Tutte le \*\*automazioni \*\*e le altri cose da nerd che faccio con Notion hanno proprio questo database come protagonista.
 
 Prima faccio finire le informazioni qui dentro e meglio è.
 
@@ -240,7 +240,6 @@ Comunque, ho reso questa roba un template, si chiama [Easy Second Brain](https:
 ​
 
 ### **IL DATABASE DEL CREATOR: CONTENUTI!**
-
 
 ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)
 
@@ -272,9 +271,7 @@ Ho reso anche questa roba un template, si chiama [Easy Content Strategy.](https
 
 ### **IL DATABASE DI CHI MANDA NEWSLETTER: NEWSLETTER & CONTENT!**
 
-
 ![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
-
 
 E poi che succede?
 
@@ -282,7 +279,7 @@ Succede che i contenuti più di successo ( identificati dalle statistiche belle 
 
 Così mi ritrovo con un contenuto già "validato" e con del potenziale per la pubblicazione su un altro canale.
 
-Ed in più è** quasi pronto**, bisogna solo estenderlo.
+Ed in più è\*\* quasi pronto\*\*, bisogna solo estenderlo.
 
 Di questa parte ancora non c'è un template, ma ti piacerebbe riceverlo?
 
