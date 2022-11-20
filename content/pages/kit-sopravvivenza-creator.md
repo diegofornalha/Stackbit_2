@@ -169,5 +169,6 @@ sections:
       - content/pages/tags/notion-non-e-anello-sauron.md
       - content/pages/tags/sistemi-non-bastano.md
       - content/pages/tags/parafulmini-della-fortuna.md
+      - content/pages/tags/database-notion-irrinunciabili.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
