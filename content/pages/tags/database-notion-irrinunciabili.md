@@ -153,13 +153,13 @@ questo è il numero 187 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **3 database Notion per me irrinunciabili.**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
+
 
 Quando **apri per la prima volta Notion** c'è una cosa che ti colpisce fin da subito.
 
 È uno spazio bianco, uno spazio di totale libertà.
 
-Insomma, uno spazio in cui puoi fare il c\*\*\*\* che ti pare.
+Insomma, uno spazio in cui puoi fare il c**** che ti pare.
 
 E quando scopri che con Notion puoi costruire cose, siamo al top!
 
