@@ -159,7 +159,7 @@ Quando **apri per la prima volta Notion** c'è una cosa che ti colpisce fin da
 
 È uno spazio bianco, uno spazio di totale libertà.
 
-Insomma, uno spazio in cui puoi fare il c**** che ti pare.
+Insomma, uno spazio in cui puoi fare il c\*\*\*\* che ti pare.
 
 E quando scopri che con Notion puoi costruire cose, siamo al top!
 
