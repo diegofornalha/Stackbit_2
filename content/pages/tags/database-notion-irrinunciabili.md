@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #14: POSSO FARTI VEDERE UNA COSA?"
 colors: colors-a
-date: '2022-11-13'
+date: '2022-11-20'
 description: Riguarda notion!
 featuredImage:
   type: ImageBlock
