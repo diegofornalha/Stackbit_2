@@ -152,7 +152,7 @@ questo è il numero 194 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come annullare la competizione.**
 
-****
+
 
 Oggi non leggerai di me.
 
