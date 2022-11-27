@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #10: 3 MODELLI MENTALI CHE NON SONO..."
 colors: colors-a
 date: '2022-10-23'
-description: COME I FILM SU NETFLIX
+description: come i film su Netflix!
 featuredImage:
   type: ImageBlock
   url: /images/Pasted-image-20221022172511-33642409.webp

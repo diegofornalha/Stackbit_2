@@ -170,5 +170,6 @@ sections:
       - content/pages/tags/sistemi-non-bastano.md
       - content/pages/tags/parafulmini-della-fortuna.md
       - content/pages/tags/database-notion-irrinunciabili.md
+      - content/pages/tags/come-annullare-competizione.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---

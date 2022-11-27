@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #09: NON SONO I CREATOR A MONETIZZARE..."
 colors: colors-a
 date: '2022-10-16'
-description: SONO I PROBLEM SOLVER A FARLO
+description: sono i problem solver a farlo
 featuredImage:
   type: ImageBlock
   url: /images/idee-monetizzazione-1cc4393c.webp
