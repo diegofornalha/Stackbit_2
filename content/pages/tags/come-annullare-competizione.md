@@ -116,25 +116,25 @@ bottomSections:
         textAlign: center
 slug: come-annullare-competizione
 ---
-"Posso farti vedere una cosa?"
+50 milioni.
 
-Ero in una **sessione di coaching su Notion**.
+È il **numero di creator nel mondo**, secondo le ultime stime.
 
-Ed è così che ho risposto a Claudio.
+Considera che I cittadini italiani sono tipo 60 milioni.
 
-Mi raccontava del suo Notion, di tutte le cose belle che voleva costruirci.
+Insomma, i numeri della creator economy sono grandissimi.
 
-Tutto fighissimo, ma era utile? Non so.
+E c'è un botto di **competizione**.
 
-Quindi gli ho mostrato quello che volevo.
+Così tanta che potresti pensare "con tutta sta competizione, dove vado?".
 
-Ed oggi potrai vedere anche tu.
+In tal caso però, faresti un **grande errore**.
 
 ***
 
 **TL;DR**
 
-*   3 database per uscire dalla trappola di Notion!
+*   la creator economy non è una scatola chiusa
 
 *   Una risorsa per la tua audience building
 
@@ -142,156 +142,116 @@ Ed oggi potrai vedere anche tu.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 4 minuti e 50.
+**Il tempo di lettura previsto è:** 3 minuti e 35.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 187 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 194 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **3 database Notion per me irrinunciabili.**
+E oggi ti rivelerò **come annullare la competizione.**
 
+****
 
+Oggi non leggerai di me.
 
-Quando **apri per la prima volta Notion** c'è una cosa che ti colpisce fin da subito.
+Leggerai cose riguardo altre persone.
 
-È uno spazio bianco, uno spazio di totale libertà.
+**Altri creator**, molto più grandi e capaci di me.
 
-Insomma, uno spazio in cui puoi fare il c\*\*\*\* che ti pare.
+E no, parlare di loro non è un rischio.
 
-E quando scopri che con Notion puoi costruire cose, siamo al top!
+Perché ho trovato un modo per **annullare la competizione**.
 
-Però poi arrivano i problemi.
-
-Arriva il caos e la tendenza a complicarsi le cose.
-
-Alla fine perdi più tempo a giocare e costruire cose con Notion che ad utilizzarlo per essere più **produttivo**.
-
-Come si risolve sta cosa?
+Ho capito una cosa fondamentale.
 
 ​
 
-## **3 DATABASE PER USCIRE DALLA TRAPPOLA DI NOTION**
+## **LA CREATOR ECONOMY NON È UNA SCATOLA CHIUSA**
 
-Ci sono passato, io stesso.
+È una cosa che ho capito qualche tempo fa.
 
-Ho **creato diversi workspace Notion** e li ho visti cadere nel caos più incontrollato.
+In realtà non vale solo per la creator economy, ma questo è un altro discorso.
 
-Una cosa davvero imbarazzante.
+Il fatto è che al centro della creator economy c'è una sola cosa: **l’attenzione delle persone.**
 
-Poi però ho capito che **dovevo uscire da questa trappola**, altrimenti non avrai mai colto il vero potere di Notion.
+E questa non è una risorsa finita.
 
-Quindi ho semplificato le cose e mi sono fatto una domanda: **quali sono le 3 informazioni a cui non puoi rinunciare?**
+Non ci sono scorte di attenzione che stanno per finire.
 
-Nel mio caso:
+Quindi, non sono in lotta con nessuno per ricevere la tua attenzione.
 
-*   Idee (di contenuti, di progetti, di task o di non so cosa);
+Anzi, quello che ci lega di più ad un creator non è l’attenzione che questi è in grado di prendere per sé ma è il **modo in cui lui è in grado di aiutarci**.
 
-*   Contenuti;
+E, per aiutarti in questa settimana di Black Friday, perché non consigliarti altri tre creator ch ti potranno aiutare?
 
-*   Risorse e contenuti "da newsletter".
+Ecco i tre creator che più mi hanno aiutato.
 
-Ed intorno a queste informazioni c’è tutto un mondo di cose.
+*   Justin Welsh;
 
-Ma alla base di tutto ci sono queste tre, **questi tre database**.
+*   August Bradley;
 
-​
-
-### **IL DATABASE PER LE IDEE: INBOX!**
-
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)
-
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/sTemW5r81yZ8veUSTBEJ3Z?w=800\&fit=max)
-
-Questo è il database dove finiscono **tutte le cose che voglio “salvare”.**
-
-È il supporto definitivo alla mia memoria.
-
-Ed è anche il punto in cui **organizzo le cose**, gli assegno:
-
-*   priorità;
-
-*   tipologia (contenuti, idee, task, risorse);
-
-*   scadenza;
-
-*   aree di utilizzo;
-
-Insomma, qui dentro inserisco le informazioni grezze e da qui escono pulite, con un loro posto nel mondo.
-
-Se sono **task** finiscono nel **task manager**.
-
-Se sono idee di **contenuti** finiscono nel **database di contenuti**.
-
-Hai capito la storia, no ?
-
-C’è un’altra cosa da dire.
-
-Tutte le \*\*automazioni \*\*e le altri cose da nerd che faccio con Notion hanno proprio questo database come protagonista.
-
-Prima faccio finire le informazioni qui dentro e meglio è.
-
-Come quando provi a comprare il biglietto per un concerto dei Coldplay: la velocità è tutto.
-
-Comunque, ho reso questa roba un template, si chiama [Easy Second Brain](https://danieledamico.gumroad.com/l/easy-second-brain).
+*   Pieter Levels.
 
 ​
 
-### **IL DATABASE DEL CREATOR: CONTENUTI!**
+### **​**[**JUSTIN WELSH**](https://www.linkedin.com/in/justinwelsh/)**​**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/4aJ6gXKXcuThnYwokc1iqg/email)
+È quello che mi ha mostrato la **fattibilità della vita da creator**!
 
-Come faccio a pubblicare così tanti contenuti?
+Anzi, non si è fermato a questo.
 
-Grazie a questo database.
+Prima di scoprire il [**suo profilo Linkedin**](https://www.linkedin.com/in/justinwelsh/), il suo corso e la sua newsletter, non avevo idea di tante cose.
 
-In **Inbox inserisco le idee dei contenuti** e poi passa del tempo: magari lavoro a queste idee, magari ci ragiono su o non so.
+In particolare, non avevo idea di come **rendere la produzione di contenuti qualcosa di sostenibile**.
 
-Quando decido di volerci creare un contenuto allora **collego l'informazione al database Contenuti**.
-
-Lì ci sono **decine di template** per la struttura dei contenuti, degli hook e tanta altra roba.
-
-È da qui che partono poi tutte le automazioni sui contenuti.
-
-Ad esempio, da questo database smisto i contenuti su:
-
-*   Linkedin;
-
-*   Medium (in lavorazione);
-
-*   Gruppi Facebook (in test);
-
-Ed è qui che **un’altra automazione** inserisce le statistiche dei vari contenuti, dopo la loro pubblicazione.
-
-Ho reso anche questa roba un template, si chiama [Easy Content Strategy.](https://danieledamico.gumroad.com/l/easy-content-strategy)​
+Non avevo mai pensato ad integrare Notion con la creazione dei contenuti e crearne così un sistema.
 
 ​
 
-### **IL DATABASE DI CHI MANDA NEWSLETTER: NEWSLETTER & CONTENT!**
+### **​**[**AUGUST BRADLEY**](https://www.youtube.com/@augustbradley)**​**
 
-![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/23X9PVjck2DYaVFN4wF9Bp/email)
+Considerando la sua chioma fluente così simile alla mia, non poteva che essermi simpatico.
 
-E poi che succede?
+E basta.
 
-Succede che i contenuti più di successo ( identificati dalle statistiche belle e pronte) **li collego al database: Newsletter & Content.**
+È l’unico motivo per provare simpatia verso August.
 
-Così mi ritrovo con un contenuto già "validato" e con del potenziale per la pubblicazione su un altro canale.
+Perché se [guardi il suo Youtube](https://www.youtube.com/@augustbradley) finirai in un rabbit-hole fatto di **Notion, produttività e systems thinking** a livelli da vero nerd.
 
-Ed in più è\*\* quasi pronto\*\*, bisogna solo estenderlo.
-
-Di questa parte ancora non c'è un template, ma ti piacerebbe riceverlo?
-
-**Rispondi a questa email** e vedrò cosa fare.
+Insomma, se non fosse per lui il mio utilizzo di Notion sarebbe molto meno efficace.
 
 ​
 
-Insomma, tutto parte dall'Inbox, passa dal database Contenuti e alcune cose arrivano fino al database Newsletter & Content.
+### **​**[**PIETER LEVELS**](https://twitter.com/levelsio)**​**
 
-È una cosa parecchio carina, lo so.
+Hai presente il **build in public**?
 
-E riduce tutta la complessità di un Notion agli inizi, oppure di un Notion con troppa roba.
+Senza di lui non mi sarebbe mai venuta l’idea di essere così **trasparente** **con i miei progetti**.
 
-Detto questo, per oggi è tutto.
+Forse non rientra al 100% nella definizione di creator (lui si definisce Indiepreneur) ma questa è semantica.
 
-Buona settimana e beccati le risorse.
+Alla fine dei conti, passa da un progetto all’altro e lo fa in pubblico.
+
+Quello stesso pubblico poi contribuisce al successo del progetto oppure no.
+
+È la dimostrazione pratica che i **template Notion** non sono la sola cosa da creare per essere un creator, anzi.
+
+​
+
+​
+
+Eccoli qua.
+
+3 creator, molto più esperti e capaci di me.
+
+E no, non sono in competizione con loro.
+
+Non credo di correre alcun rischio nel **suggerirti di seguirli**, acquistare i loro prodotti o che ne so.
+
+Perché so che se lo farai, sarai felice della scelta!
+
+E così vinceremo tutti!
+
+Direi che per oggi è tutto, buona settimana e **beccati le risorse**.
