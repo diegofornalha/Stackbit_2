@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nSkynet o Matrix?\n\nCosa farà di noi l’AI?\n\n​[Non lo so, nel frattempo però possiamo utilizzarla così](https://www.thetilt.com/technology-and-tools/ai-assisted-content-tools).​\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nHo parlato di Notion.\n\nHo parlato di AI.\n\n​[Non posso non girarti questo link.](https://www.notion.so/ai?wr=30c0b48bd893b23d)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nÈ una domanda che tanti si fanno, lo so.\n\nMe la faccio anche io.\n\n​[Come capire se è il momento giusto per fare il grande salto dal side-hustle al full-time?](https://thebootstrappedfounder.com/when-should-you-go-from-side-project-to-full-time/)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nI contenuti ti aiutano a creare un'audience.\n\n​[E queste sono le 3 cose che devi ricordare ogni volta che crei un contenuto.](https://twitter.com/jonbrosio/status/1596504089902419982)\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCi si chiede sempre come iniziare.\n\nMa come si fa a capire quando è il momento giusto per fermarsi?\n\n​[Magari così.](https://twitter.com/jspector/status/1596272885810593792)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nCome mi spiego quando non acquistate i miei prodotti?\n\n​[In questo modo.](https://twitter.com/contentkuba/status/1596443150071091201)\n\n"
     styles:
       self:
         height: auto
