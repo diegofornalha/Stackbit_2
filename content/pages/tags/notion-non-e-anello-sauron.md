@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #11: NOTION NON È L'ANELLO DI SAURON..."
 colors: colors-a
 date: '2022-10-30'
-description: NON DEVI USARLO PER FORZA!
+description: non devi usarlo per forza!
 featuredImage:
   type: ImageBlock
   url: /images/sviuaoHXV4NxK92ruJumRp-7e3a0dd5.webp
