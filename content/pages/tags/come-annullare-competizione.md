@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #15: 50 milioni di competitor..."
 colors: colors-a
 date: '2022-11-20'
-description: Riguarda Notion!
+description: OPPURE 0?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
