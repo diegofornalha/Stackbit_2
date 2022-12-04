@@ -138,13 +138,13 @@ Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
 
 ***
 
-
-
 Ehi ciao 👋,
 
 questo è il numero 201 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
+
+
 
 
 
@@ -166,8 +166,6 @@ Perché sapevo che mi avrebbe insegnato tante cose.
 
 E oggi te le rivelerò.
 
-
-
 ## TRE COSE CHE HO IMPARATO DOPO AVER SCRITTO 200 NEWSLETTER
 
 Non fraintendermi, non ci sono solo contro.
@@ -183,8 +181,6 @@ Mandare una newsletter ogni giorno ti garantisce **tanti lati positivi**.
 Ed è un peccato che, molto spesso, ci si concentri su frequenze più canoniche.
 
 Perché così si rinuncia a tutte queste cose.
-
-
 
 ### LA SOLA COSA CHE LEGGO TUTTI I GIORNI SONO I MESSAGGI DEI MIEI AMICI
 
@@ -218,8 +214,6 @@ E quindi ti scrive in DM, a caso, anche se non avete mai parlato prima.
 
 Anzi, in realtà avete già parlato, solo che tu non lo sai.
 
-
-
 ### SAI, ANCHE IO SONO UNA SPECIE DI SCIENZIATO
 
 Cosa succede quando fai tanti esperimenti?
@@ -239,8 +233,6 @@ Una delle mie mail-tweet quotidiane ha un successo particolare?
 Allora lì c’è una traccia da seguire.
 
 E quindi la analizzo, formulo ipotesi su contenuti che potrebbero estenderla e se anche quelli reggono, allora passo a creare qualcosa di ancora più grande.
-
-
 
 ### PREFERISCO UNA NEWSLETTER QUOTIDIANA ALLA PALESTRA
 
@@ -271,8 +263,6 @@ Non inizi scrivendo un saggio di tremila parole.
 Inizi (e continui) a **scrivere poche parole** e quando ti ritrovi che vorresti fare altro e che idee proprio non ne hai, intervengono i sistemi che hai costruito e l’abitudine che hai creato.
 
 In questo modo non ti serve la motivazione, non ti serve la disciplina.
-
-
 
 Ora, questo non significa che ti consiglio di scrivere una newsletter giornaliera.
 
