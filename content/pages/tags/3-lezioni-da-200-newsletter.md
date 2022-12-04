@@ -180,6 +180,8 @@ Ed è un peccato che, molto spesso, ci si concentri su frequenze più canoniche.
 
 Perché così si rinuncia a tutte queste cose.
 
+<br />
+
 ### LA SOLA COSA CHE LEGGO TUTTI I GIORNI SONO I MESSAGGI DEI MIEI AMICI
 
 Scommetto che vale anche per te.
@@ -212,6 +214,8 @@ E quindi ti scrive in DM, a caso, anche se non avete mai parlato prima.
 
 Anzi, in realtà avete già parlato, solo che tu non lo sai.
 
+<br />
+
 ### SAI, ANCHE IO SONO UNA SPECIE DI SCIENZIATO
 
 Cosa succede quando fai tanti esperimenti?
@@ -231,6 +235,8 @@ Una delle mie mail-tweet quotidiane ha un successo particolare?
 Allora lì c’è una traccia da seguire.
 
 E quindi la analizzo, formulo ipotesi su contenuti che potrebbero estenderla e se anche quelli reggono, allora passo a creare qualcosa di ancora più grande.
+
+<br />
 
 ### PREFERISCO UNA NEWSLETTER QUOTIDIANA ALLA PALESTRA
 
@@ -261,6 +267,8 @@ Non inizi scrivendo un saggio di tremila parole.
 Inizi (e continui) a **scrivere poche parole** e quando ti ritrovi che vorresti fare altro e che idee proprio non ne hai, intervengono i sistemi che hai costruito e l’abitudine che hai creato.
 
 In questo modo non ti serve la motivazione, non ti serve la disciplina.
+
+<br />
 
 Ora, questo non significa che ti consiglio di scrivere una newsletter giornaliera.
 
