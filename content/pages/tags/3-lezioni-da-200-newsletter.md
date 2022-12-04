@@ -144,7 +144,7 @@ questo è il numero 201 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
 
-
+a
 
 Non scegliere il formato quotidiano.
 
