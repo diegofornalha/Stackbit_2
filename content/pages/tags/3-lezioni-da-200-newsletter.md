@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #15: 200 newsletter inviate..."
 colors: colors-a
-date: '2022-11-27'
+date: '2022-12-04'
 description: e 3 lezioni imparate
 featuredImage:
   type: ImageBlock
