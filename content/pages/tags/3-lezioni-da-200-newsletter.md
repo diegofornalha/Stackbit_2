@@ -164,7 +164,10 @@ Perché sapevo che mi avrebbe insegnato tante cose.
 
 E oggi te le rivelerò.
 
-## TRE COSE CHE HO IMPARATO DOPO AVER SCRITTO 200 NEWSLETTER
+<br />
+
+
+## **TRE COSE CHE HO IMPARATO DOPO AVER SCRITTO 200 NEWSLETTER**
 
 Non fraintendermi, non ci sono solo contro.
 
