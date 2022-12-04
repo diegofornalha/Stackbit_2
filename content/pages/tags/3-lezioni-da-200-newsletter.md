@@ -126,7 +126,7 @@ Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
 
 **TL;DR**
 
-*   la creator economy non è una scatola chiusa
+*   Tre cose che ho imparato dopo aver scritto 200 newsletter
 
 *   Una risorsa per la tua audience building
 
@@ -140,108 +140,135 @@ Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
 
 Ehi ciao 👋,
 
-questo è il numero 194 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 201 del **Kit di Sopravvivenza per Creator**.
 
-E oggi ti rivelerò **come annullare la competizione.**
+Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
 
-Oggi non leggerai di me.
+Non scegliere il formato quotidiano.
 
-Leggerai cose riguardo altre persone.
+Se decidi di scrivere una newsletter e hai dubbi sulla frequenza con cui mandarla, questo è il consiglio che leggerai più spesso.
 
-**Altri creator**, molto più grandi e capaci di me.
+Perché è un formato che fa pressione sul lettore.
 
-E no, parlare di loro non è un rischio.
+Una pressione così grande che puoi giustificare solo **dando tanto valore**.
 
-Perché ho trovato un modo per **annullare la competizione**.
+E questo lo rende difficile.
 
-Ho capito una cosa fondamentale.
+Soprattutto per chi scrive.
 
-​
+Ma è la strada che ho scelto.
 
-## **LA CREATOR ECONOMY NON È UNA SCATOLA CHIUSA**
+Perché sapevo che mi avrebbe insegnato tante cose.
 
-È una cosa che ho capito qualche tempo fa.
+E oggi te le rivelerò.
 
-In realtà non vale solo per la creator economy, ma questo è un altro discorso.
+## TRE COSE CHE HO IMPARATO DOPO AVER SCRITTO 200 NEWSLETTER
 
-Il fatto è che al centro della creator economy c'è una sola cosa: **l’attenzione delle persone.**
+Non fraintendermi, non ci sono solo contro.
 
-E questa non è una risorsa finita.
+Mandare una newsletter ogni giorno ti garantisce **tanti lati positivi**.
 
-Non ci sono scorte di attenzione che stanno per finire.
+*   Ti permette di creare una relazione con chi legge;
 
-Quindi, non sono in lotta con nessuno per ricevere la tua attenzione.
+*   Ti fornisce tanti dati da poter utilizzare;
 
-Anzi, quello che ci lega di più ad un creator non è l’attenzione che questi è in grado di prendere per sé ma è il **modo in cui lui è in grado di aiutarci**.
+*   Ti permette di migliorare.
 
-E, per aiutarti in questa settimana di Black Friday, perché non consigliarti altri tre creator ch ti potranno aiutare?
+Ed è un peccato che, molto spesso, ci si concentri su frequenze più canoniche.
 
-Ecco i tre creator che più mi hanno aiutato.
+Perché così si rinuncia a tutte queste cose.
 
-*   Justin Welsh;
+### LA SOLA COSA CHE LEGGO TUTTI I GIORNI SONO I MESSAGGI DEI MIEI AMICI
 
-*   August Bradley;
+Scommetto che vale anche per te.
 
-*   Pieter Levels.
+La sola cosa che leggi tutti i giorni sono i **messaggi dei tuoi amici**.
 
-​
+E ci sta, io faccio lo stesso.
 
-### **​**[**JUSTIN WELSH**](https://www.linkedin.com/in/justinwelsh/)**​**
+E per fortuna me ne sono ricordato quando ho cominciato a scrivere la newsletter quotidiana.
 
-È quello che mi ha mostrato la **fattibilità della vita da creator**!
+Perché se dall’altra parte c’è una persona a cui tieni allora ti fai le **giuste domande**.
 
-Anzi, non si è fermato a questo.
+Ti chiedi cosa vorrebbe leggere.
 
-Prima di scoprire il [**suo profilo Linkedin**](https://www.linkedin.com/in/justinwelsh/), il suo corso e la sua newsletter, non avevo idea di tante cose.
+Ti chiedi come vorrebbe leggerlo.
 
-In particolare, non avevo idea di come **rendere la produzione di contenuti qualcosa di sostenibile**.
+Ti chiedi perché vorrebbe leggerlo, in che modo, in che luogo e tante altre cose.
 
-Non avevo mai pensato ad integrare Notion con la creazione dei contenuti e crearne così un sistema.
+Ti fai così tante domande che sembri **Amleto preso in uno dei suoi dubbi più proverbiali**.
 
-​
+Sei sempre alla ricerca del massimo valore.
 
-### **​**[**AUGUST BRADLEY**](https://www.youtube.com/@augustbradley)**​**
+E chi legge, ne è testimone.
 
-Considerando la sua chioma fluente così simile alla mia, non poteva che essermi simpatico.
+Vede che hai cambiato quel colore da un giorno all’altro, che hai ridotto il numero di caratteri o che ne so.
 
-E basta.
+Lo hai fatto per dargli valore, lo nota e così **nasce una relazione**!
 
-È l’unico motivo per provare simpatia verso August.
+E quindi ti scrive in DM, a caso, anche se non avete mai parlato prima.
 
-Perché se [guardi il suo Youtube](https://www.youtube.com/@augustbradley) finirai in un rabbit-hole fatto di **Notion, produttività e systems thinking** a livelli da vero nerd.
+Anzi, in realtà avete già parlato, solo che tu non lo sai.
 
-Insomma, se non fosse per lui il mio utilizzo di Notion sarebbe molto meno efficace.
+### SAI, ANCHE IO SONO UNA SPECIE DI SCIENZIATO
 
-​
+Cosa succede quando fai tanti esperimenti?
 
-### **​**[**PIETER LEVELS**](https://twitter.com/levelsio)**​**
+Succede che puoi raccogliere **tanti dati**.
 
-Hai presente il **build in public**?
+In questo momento, sul mio Notion, ho a disposizione i dati di interesse a 200 micro-contenuti da me pubblicati.
 
-Senza di lui non mi sarebbe mai venuta l’idea di essere così **trasparente** **con i miei progetti**.
+Sono lì, pronti per essere analizzati, per fare da miccia a **nuove ipotesi di prodotti, contenuti** o cose che ti potrebbero interessare.
 
-Forse non rientra al 100% nella definizione di creator (lui si definisce Indiepreneur) ma questa è semantica.
+Da dove pensi che sia uscita fuori l’idea del **mini-corso su Notion**?
 
-Alla fine dei conti, passa da un progetto all’altro e lo fa in pubblico.
+E di **Easy Second Brain**?
 
-Quello stesso pubblico poi contribuisce al successo del progetto oppure no.
+Una delle mie mail-tweet quotidiane ha un successo particolare?
 
-È la dimostrazione pratica che i **template Notion** non sono la sola cosa da creare per essere un creator, anzi.
+Allora lì c’è una traccia da seguire.
 
-​
+E quindi la analizzo, formulo ipotesi su contenuti che potrebbero estenderla e se anche quelli reggono, allora passo a creare qualcosa di ancora più grande.
 
-​
+### PREFERISCO UNA NEWSLETTER QUOTIDIANA ALLA PALESTRA
 
-Eccoli qua.
+Lo so, la palestra fa bene e tutto quello che vuoi.
 
-3 creator, molto più esperti e capaci di me.
+Ma non sono il tipo, preferisco allenarmi a casa.
 
-E no, non sono in competizione con loro.
+Preferisco fare il minimo indispensabile per non essere divorato dalla colpa quando conduco la mia **dieta priva di alcun senso**.
 
-Non credo di correre alcun rischio nel **suggerirti di seguirli**, acquistare i loro prodotti o che ne so.
+Però c’è una cosa che apprezzo della palestra: il **miglioramento costante ed a piccoli passi**.
 
-Perché so che se lo farai, sarai felice della scelta!
+Perché quando vai in palestra non inizi sollevando 200 KG.
 
-E così vinceremo tutti!
+Inizi dalle cose più piccole, le fai per tanto tempo e costruisci il tuo corpo statuario (o quello che ti pare).
 
-Direi che per oggi è tutto, buona settimana e **beccati le risorse**.
+Poi, quando arriva il momento che ti scocci di andare in palestra perché preferiresti fare qualsiasi altra cosa, non ti lasci corrompere.
+
+Ci vai comunque.
+
+Ed il merito non è la disciplina, non è neanche la motivazione.
+
+Disciplina e motivazione finiscono e ti lasciano a piedi, **mentre i sistemi e le abitudini no**.
+
+E la stessa cosa vale per una newsletter quotidiana.
+
+Non inizi scrivendo un saggio di tremila parole.
+
+Inizi (e continui) a **scrivere poche parole** e quando ti ritrovi che vorresti fare altro e che idee proprio non ne hai, intervengono i sistemi che hai costruito e l’abitudine che hai creato.
+
+In questo modo non ti serve la motivazione, non ti serve la disciplina.
+
+Ora, questo non significa che ti consiglio di scrivere una newsletter giornaliera.
+
+Come ti ho detto è un formato bello difficile da gestire.
+
+Ma ti posso garantire che non è così male come spesso ti fanno pensare.
+
+Ti **garantisce parecchie cose belle**, se le sai individuare.
+
+E direi che per oggi è tutto, ti auguro buona settimana e goditi le risorse.
+
+Daniele
+
