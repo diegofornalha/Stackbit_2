@@ -116,19 +116,11 @@ bottomSections:
         textAlign: center
 slug: 3-lezioni-da-200-newsletter
 ---
-50 milioni.
+È da 200 giorni che succede una cosa.
 
-È il **numero di creator nel mondo**, secondo le ultime stime.
+50 persone ricevono, ogni mattina, un mio **tweet**.
 
-Considera che I cittadini italiani sono tipo 60 milioni.
-
-Insomma, i numeri della creator economy sono grandissimi.
-
-E c'è un botto di **competizione**.
-
-Così tanta che potresti pensare "con tutta sta competizione, dove vado?".
-
-In tal caso però, faresti un **grande errore**.
+Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
 
 ***
 
@@ -151,8 +143,6 @@ Ehi ciao 👋,
 questo è il numero 194 del **Kit di Sopravvivenza per Creator**.
 
 E oggi ti rivelerò **come annullare la competizione.**
-
-
 
 Oggi non leggerai di me.
 
