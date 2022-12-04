@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nI contenuti ti aiutano a creare un'audience.\n\n​[E queste sono le 3 cose che devi ricordare ogni volta che crei un contenuto.](https://twitter.com/jonbrosio/status/1596504089902419982)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nCi si chiede sempre come iniziare.\n\nMa come si fa a capire quando è il momento giusto per fermarsi?\n\n​[Magari così.](https://twitter.com/jspector/status/1596272885810593792)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nCome mi spiego quando non acquistate i miei prodotti?\n\n​[In questo modo.](https://twitter.com/contentkuba/status/1596443150071091201)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nVuoi creare un’audience?\n\nLa prima cosa che devi fare, in tal caso, è quella di definire qualcosa su di te.\n\n[Puoi cominciare in questo modo.](https://twitter.com/jspector/status/1598889830943014917)\n\n\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nPer la serie “old but gold”.\n\n[Quando si parla di distrazioni, non c’è modo migliore per risolvere il problema.](https://nomoresurf.com/?ref=producthunt)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQual è il modo più semplice per monetizzare?\n\n[Eccolo qui.](https://twitter.com/dvassallo/status/1274140141427126273)\n"
     styles:
       self:
         height: auto
