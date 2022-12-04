@@ -144,7 +144,9 @@ questo è il numero 201 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
 
-Non scegliere il formato quotidiano.<br />
+<br />
+
+Non scegliere il formato quotidiano.
 
 Se decidi di scrivere una newsletter e hai dubbi sulla frequenza con cui mandarla, questo è il consiglio che leggerai più spesso.
 
