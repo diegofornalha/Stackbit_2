@@ -8,7 +8,6 @@ metaTags: []
 title: "\U0001F9F0 kSC #15: 200 newsletter inviate..."
 colors: colors-a
 date: '2022-11-27'
-client: Awesome client
 description: e 3 lezioni imparate
 featuredImage:
   type: ImageBlock
