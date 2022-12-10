@@ -116,17 +116,23 @@ bottomSections:
         textAlign: center
 slug: e-se-notion-sparisse
 ---
-È da 200 giorni che succede una cosa.
+“Hanno aperto Blockbuster a Napoli”.
 
-50 persone ricevono, ogni mattina, un mio **tweet**.
+“Blockbuster? Ma non era fallito?”.
 
-Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
+È con queste parole che mia cugina Monica mi ha accolto qualche giorno fa.
+
+Ero (e sono) a Salerno per qualche giorno e sono passato a salutare zie e zii vari.
+
+Lì c’era Monica, e senza scambiarsi i soliti aggiornamenti di vita (che tanto già sapevamo entrambi), mi ha subito dato la notiziona.
+
+**Solo che io non avevo capito niente.**
 
 ***
 
 **TL;DR**
 
-*   Tre cose che ho imparato dopo aver scritto 200 newsletter
+*   Se Notion sparisse, cosa prenderebbe il suo posto?
 
 *   Una risorsa per la tua audience building
 
@@ -134,153 +140,174 @@ Solo che non lo ricevono su Twitter, lo ricevono via e-mail.
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 3 minuti e 35.
+**Il tempo di lettura previsto è:** 5 minuti.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 201 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 208 del **Kit di Sopravvivenza per Creator**.
 
 Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
 
 <br />
 
-Non scegliere il formato quotidiano.
 
-Se decidi di scrivere una newsletter e hai dubbi sulla frequenza con cui mandarla, questo è il consiglio che leggerai più spesso.
 
-Perché è un formato che fa pressione sul lettore.
+Il fatto è che **Blockbuster è fallito**.
 
-Una pressione così grande che puoi giustificare solo **dando tanto valore**.
+Era un gigante dei DVD.
 
-E questo lo rende difficile.
+Non so molte cose a riguardo, ero piccolo quando Blockbuster era al suo apice, o forse non ero ancora nato.
 
-Soprattutto per chi scrive.
+Ma ho letto un po’ di cose a riguardo.
 
-Ma è la strada che ho scelto.
+E so che quando Blockbuster è fallito, è arrivato Netflix.
 
-Perché sapevo che mi avrebbe insegnato tante cose.
+Poi Disney Plus.
 
-E oggi te le rivelerò.
+Poi Amazon Prime.
+
+E poi tutti gli altri servizi di streaming del mondo.
+
+Insomma, dalla fine di Blockbuster è **nato un intero mercato**.
+
+Uno in cui ancora non c’è un gigante ben definito, ma ci sarà.
+
+<br />
+
+## SE NOTION SPARISSE, COSA PRENDEREBBE IL SUO POSTO?
+
+Quello che è successo con Blockbuster è un pattern.
+
+Quando cade il più grande, i più piccoli combattono tra loro per quello che resta.
+
+**E chi vince, poi si prende tutto.**
+
+La domanda, quindi, è ovvia.
+
+Se domani Notion sparisse, cosa prenderebbe il suo posto?
+
+E me la sono fatta spesso.
+
+Un po’ perché sono paranoico ed un po’ perché sono catastrofista.
+
+Ma ecco le app che, secondo me, promettono di più.
+
+*   Tana;
+
+*   ClickUp;
+
+*   Qatalog.
+
+Perché proprio queste?
+
+Perché rispettivamente risolvono 3 dei bisogni per cui oggi le persone utilizzano Notion.
+
+Ti spiego meglio.
+
+<br />
+
+### TANA - PER CHI VUOLE CENTRALIZZARE E COSTRUIRE
+
+Il numero di persone che sul mio Twitter parla di [Tana](https://tana.inc/) è imbarazzante.
+
+Figurati che l’ho scoperta grazie a **Tiago Forte**, e lui è quello che ha creato il Second Brain, il framework che ho rimodulato in [Easy Second Brain](https://danieledamico.gumroad.com/l/easy-second-brain?layout=profile).
+
+Direi che se ne intende di sta roba.
+
+Al momento puoi accederci solo tramite invito, dopo esserti iscritto alla waiting list.
+
+Mi ci sono iscritto mesi fa e niente ancora, magari mi arriva il regalo a Natale.
+
+La vera domanda però è un’altra: **che fa sta roba**?
+
+**E perché la aspettano così in tanti?**
+
+Tana punta a diventare il **tuo sistema operativo**.
+
+Punta a centralizzare la tua vita digitale e permetterti di costruire cose.
+
+Proprio come oggi puoi fare con Notion grazie alla raccolta di note e la possibilità di creare template, sistemi o quel che ti pare.
+
+Ecco alcune delle sue feature più interessanti:
+
+*   **I supertags**: ti permetteranno di trasformare le tue note grezze in quello che ti serve (task, bug, follow-up o boh);
+
+*   **Il graph**: una funzione presa da tool come Roam Research ed Obsidian e che ti permette di connettere tutte le tue note tra loro, senza la classica struttura in cartelle, archivi ecc.
+
+*   **Il flow**: le tue note partono da uno stato grezzo ed evolvono col tempo. Poi decidi tu dove farle finire, come e quando.
+
+<br />
+
+### CLICKUP - PER CHI VUOLE COLLABORARE CON ALTRI E VUOLE BENE A NOTION
+
+Fino a qualche mese fa, su Product Hunt potevi trovare decine di template, database e dashboard creati con Notion.
+
+Ora invece, puoi trovare lo stesso numero di dashboard, database e template fatti con [Clickup](https://clickup.com/).
+
+Dando uno sguardo a quello che si può fare, sembra che Clickup punti ad un **utilizzo molto più collaborativo e di project management**.
+
+Tra i tre tool di cui ti parlo oggi, questo è quello che più si **avvicina al Notion che conosciamo**.
+
+E quindi, se Notion cadesse, credo che Clickup avrebbe molto successo.
+
+Anche perché è una soluzione che già ora ha un suo bel seguito.
+
+E soprattutto è già pubblica.
+
+<br />
+
+### QATALOG - PER CHI ODIA L'AI DI NOTION
+
+Questa scommetto che non la conoscevi.
+
+È un **sistema operativo per il lavoro** ed è in giro da poco.
+
+Ma c’è una cosa che ha attirato la mia attenzione.
+
+E se non fosse per questa, forse avrei dimenticato [Qatalog](https://qatalog.com/) molto presto.
+
+**Qatalog utilizza l’AI, ma non come Notion!**
+
+Non punterà a rendere più facile la creazione di idee, contenuti o altro.
+
+Qatalog punterà a rendere più facile la **creazione della struttura del tuo spazio**.
+
+Si, hai presente i template?
+
+Quelli che danno una struttura definita alle informazioni presenti sul tuo Notion?
+
+Ecco, Qatalog punta a rendere automatica la creazione di questi template.
+
+E se i template sono soluzioni “standard”, Qatalog punta ad utilizzare l’AI per rendere la struttura del tuo spazio molto più **personale**.
 
 <br />
 
 
-## **TRE COSE CHE HO IMPARATO DOPO AVER SCRITTO 200 NEWSLETTER**
 
-Non fraintendermi, non ci sono solo contro.
+Io comunque non avevo capito niente.
 
-Mandare una newsletter ogni giorno ti garantisce **tanti lati positivi**.
+Monica aveva detto “Starbucks” e non “Blockbuster”.
 
-*   Ti permette di creare una relazione con chi legge;
+Io però non avevo ancora preso il primo caffè della giornata e questi sono i risultati: confusione nella mia testa e newsletter pessimiste.
 
-*   Ti fornisce tanti dati da poter utilizzare;
+Anzi no, **questa è una newsletter ottimista**.
 
-*   Ti permette di migliorare.
+Perché quando cade un gigante c’è un **periodo di caos**.
 
-Ed è un peccato che, molto spesso, ci si concentri su frequenze più canoniche.
+E dal caos nascono le **opportunità**.
 
-Perché così si rinuncia a tutte queste cose.
+Quindi, vuoi provare qualcosa di diverso da Notion e fare una scommessa col futuro?
 
-<br />
+Prova una di questi tool e fammi sapere cosa scegli.
 
-### LA SOLA COSA CHE LEGGO TUTTI I GIORNI SONO I MESSAGGI DEI MIEI AMICI
+Vuoi sapere la mia scelta?
 
-Scommetto che vale anche per te.
+Rispondi a questa e-mail e te la dirò.
 
-La sola cosa che leggi tutti i giorni sono i **messaggi dei tuoi amici**.
+Dai su che le newsletter servono a scambiarsi opinioni, puoi anche scrivermi un DM (ti lascio il button per farlo).
 
-E ci sta, io faccio lo stesso.
-
-E per fortuna me ne sono ricordato quando ho cominciato a scrivere la newsletter quotidiana.
-
-Perché se dall’altra parte c’è una persona a cui tieni allora ti fai le **giuste domande**.
-
-Ti chiedi cosa vorrebbe leggere.
-
-Ti chiedi come vorrebbe leggerlo.
-
-Ti chiedi perché vorrebbe leggerlo, in che modo, in che luogo e tante altre cose.
-
-Ti fai così tante domande che sembri **Amleto preso in uno dei suoi dubbi più proverbiali**.
-
-Sei sempre alla ricerca del massimo valore.
-
-E chi legge, ne è testimone.
-
-Vede che hai cambiato quel colore da un giorno all’altro, che hai ridotto il numero di caratteri o che ne so.
-
-Lo hai fatto per dargli valore, lo nota e così **nasce una relazione**!
-
-E quindi ti scrive in DM, a caso, anche se non avete mai parlato prima.
-
-Anzi, in realtà avete già parlato, solo che tu non lo sai.
-
-<br />
-
-### SAI, ANCHE IO SONO UNA SPECIE DI SCIENZIATO
-
-Cosa succede quando fai tanti esperimenti?
-
-Succede che puoi raccogliere **tanti dati**.
-
-In questo momento, sul mio Notion, ho a disposizione i dati di interesse a 200 micro-contenuti da me pubblicati.
-
-Sono lì, pronti per essere analizzati, per fare da miccia a **nuove ipotesi di prodotti, contenuti** o cose che ti potrebbero interessare.
-
-Da dove pensi che sia uscita fuori l’idea del **mini-corso su Notion**?
-
-E di **Easy Second Brain**?
-
-Una delle mie mail-tweet quotidiane ha un successo particolare?
-
-Allora lì c’è una traccia da seguire.
-
-E quindi la analizzo, formulo ipotesi su contenuti che potrebbero estenderla e se anche quelli reggono, allora passo a creare qualcosa di ancora più grande.
-
-<br />
-
-### PREFERISCO UNA NEWSLETTER QUOTIDIANA ALLA PALESTRA
-
-Lo so, la palestra fa bene e tutto quello che vuoi.
-
-Ma non sono il tipo, preferisco allenarmi a casa.
-
-Preferisco fare il minimo indispensabile per non essere divorato dalla colpa quando conduco la mia **dieta priva di alcun senso**.
-
-Però c’è una cosa che apprezzo della palestra: il **miglioramento costante ed a piccoli passi**.
-
-Perché quando vai in palestra non inizi sollevando 200 KG.
-
-Inizi dalle cose più piccole, le fai per tanto tempo e costruisci il tuo corpo statuario (o quello che ti pare).
-
-Poi, quando arriva il momento che ti scocci di andare in palestra perché preferiresti fare qualsiasi altra cosa, non ti lasci corrompere.
-
-Ci vai comunque.
-
-Ed il merito non è la disciplina, non è neanche la motivazione.
-
-Disciplina e motivazione finiscono e ti lasciano a piedi, **mentre i sistemi e le abitudini no**.
-
-E la stessa cosa vale per una newsletter quotidiana.
-
-Non inizi scrivendo un saggio di tremila parole.
-
-Inizi (e continui) a **scrivere poche parole** e quando ti ritrovi che vorresti fare altro e che idee proprio non ne hai, intervengono i sistemi che hai costruito e l’abitudine che hai creato.
-
-In questo modo non ti serve la motivazione, non ti serve la disciplina.
-
-<br />
-
-Ora, questo non significa che ti consiglio di scrivere una newsletter giornaliera.
-
-Come ti ho detto è un formato bello difficile da gestire.
-
-Ma ti posso garantire che non è così male come spesso ti fanno pensare.
-
-Ti **garantisce parecchie cose belle**, se le sai individuare.
-
-E direi che per oggi è tutto, ti auguro buona settimana e goditi le risorse.
+Detto questo, per oggi è tutto, buona settimana e beccati le **risorse**.
 
 Daniele
