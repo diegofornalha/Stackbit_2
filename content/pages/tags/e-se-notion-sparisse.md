@@ -298,12 +298,6 @@ Quindi, vuoi provare qualcosa di diverso da Notion e fare una scommessa col futu
 
 Prova una di questi tool e fammi sapere cosa scegli.
 
-Vuoi sapere la mia scelta?
-
-Rispondi a questa e-mail e te la dirò.
-
-Dai su che le newsletter servono a scambiarsi opinioni, puoi anche scrivermi un DM (ti lascio il button per farlo).
-
 Detto questo, per oggi è tutto, buona settimana e beccati le **risorse**.
 
 Daniele
