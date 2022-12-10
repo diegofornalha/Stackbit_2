@@ -174,5 +174,6 @@ sections:
       - content/pages/tags/database-notion-irrinunciabili.md
       - content/pages/tags/come-annullare-competizione.md
       - content/pages/tags/3-lezioni-da-200-newsletter.md
+      - content/pages/tags/e-se-notion-sparisse.md
 metaTitle: Kit di Sopravvivenza per Creator
 ---
