@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: "\U0001F9F0 kSC #17: E se notion sparisse?"
 colors: colors-a
-date: '2022-12-04'
+date: '2022-12-10'
 description: Cosa prenderebbe il suo posto?
 featuredImage:
   type: ImageBlock
