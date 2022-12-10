@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nVuoi creare un’audience?\n\nLa prima cosa che devi fare, in tal caso, è quella di definire qualcosa su di te.\n\n[Puoi cominciare in questo modo.](https://twitter.com/jspector/status/1598889830943014917)\n\n<br />\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\nPer la serie “old but gold”.\n\n[Quando si parla di distrazioni, non c’è modo migliore per risolvere il problema.](https://nomoresurf.com/?ref=producthunt)\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nQual è il modo più semplice per monetizzare?\n\n[Eccolo qui.](https://twitter.com/dvassallo/status/1274140141427126273)\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nTi chiedi a cosa potrebbe esserti utile costruire un’audience?\n\n​\n\n\n\n<br />\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n​[AI + Zapier = \U0001F525](https://twitter.com/zapier/status/1601217614641889280)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nÈ una risorsa che serve sia a me che a te.\n\n​[Come si passa da una newsletter alla sua monetization?](https://twitter.com/jonbrosio/status/1601592595775475712)​\n"
     styles:
       self:
         height: auto
