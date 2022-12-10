@@ -14,8 +14,8 @@ sections:
     elementId: hero_newsletter
     backgroundSize: full
     title: Diventa
-    text: >
-      Unisciti a più di 100 creator che hanno le idee chiare.
+    text: >+
+      Unisciti a più di 200 creator che hanno le idee chiare.
 
 
       Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
@@ -28,6 +28,8 @@ sections:
 
 
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
     actions:
       - type: Link
         label: Vuoi un'anteprima?
