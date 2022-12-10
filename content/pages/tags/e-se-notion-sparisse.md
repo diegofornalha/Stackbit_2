@@ -36,7 +36,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nTi chiedi a cosa potrebbe esserti utile costruire un’audience?\n\n​\n\n\n\n<br />\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n​[AI + Zapier = \U0001F525](https://twitter.com/zapier/status/1601217614641889280)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nÈ una risorsa che serve sia a me che a te.\n\n​[Come si passa da una newsletter alla sua monetization?](https://twitter.com/jonbrosio/status/1601592595775475712)​\n"
+    text: "## **\U0001F465 UNA RISORSA PER FARE AUDIENCE BUILDING**\n\nTi chiedi a cosa potrebbe esserti utile costruire un’audience?\n\n​​[Ecco la tua risposta!](https://twitter.com/thedankoe/status/1601549796556292097)​\n\n<br />\n\n## **\U0001F680 UNA RISORSA PER LA TUA PRODUTTIVITÀ**\n\n​[AI + Zapier = \U0001F525](https://twitter.com/zapier/status/1601217614641889280)​\n\n​\n\n## **\U0001F4B8 UNA RISORSA PER LA TUA MONETIZATION**\n\nÈ una risorsa che serve sia a me che a te.\n\n​[Come si passa da una newsletter alla sua monetization?](https://twitter.com/jonbrosio/status/1601592595775475712)​\n"
     styles:
       self:
         height: auto
