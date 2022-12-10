@@ -152,8 +152,6 @@ Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newslett
 
 <br />
 
-
-
 Il fatto è che **Blockbuster è fallito**.
 
 Era un gigante dei DVD.
@@ -176,7 +174,7 @@ Uno in cui ancora non c’è un gigante ben definito, ma ci sarà.
 
 <br />
 
-## SE NOTION SPARISSE, COSA PRENDEREBBE IL SUO POSTO?
+## **SE NOTION SPARISSE, COSA PRENDEREBBE IL SUO POSTO?**
 
 Quello che è successo con Blockbuster è un pattern.
 
@@ -283,8 +281,6 @@ Ecco, Qatalog punta a rendere automatica la creazione di questi template.
 E se i template sono soluzioni “standard”, Qatalog punta ad utilizzare l’AI per rendere la struttura del tuo spazio molto più **personale**.
 
 <br />
-
-
 
 Io comunque non avevo capito niente.
 
