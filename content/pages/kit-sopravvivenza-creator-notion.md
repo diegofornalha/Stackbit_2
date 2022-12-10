@@ -1,5 +1,7 @@
 ---
 layout: PageLayout
+metaTitle: Kit di Sopravvivenza per Creator
+metaDescription: null
 addTitleSuffix: true
 socialImage: /images/Instagram Pinned Post (3).png
 metaTags:
@@ -15,19 +17,33 @@ sections:
     backgroundSize: full
     title: Diventa
     text: >+
-      Unisciti a più di 200 creator che hanno le idee chiare.
+      Unisciti a più di 200 **Notion creator**.
 
 
       Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
-      grandi problemi dei creator: **audience building, monetization e
-      produttività**.
+      grandi problemi dei creator.
 
 
-      <Script async data-uid="8b13a48318"
-      src="https://kit-sopravvivenza-creator.ck.page/8b13a48318/index.js"/>
+      E ti beccherai pure un sacco di **cose su Notion**!
 
 
-      > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+      <Script async data-uid="f5c6143929"
+      src="https://kit-sopravvivenza-creator.ck.page/f5c6143929/index.js"/>
+
+
+      \> "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     actions:
@@ -66,7 +82,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title2: ' un creator senza problemi'
+    title2: ' un notion creator'
   - type: TestimonialsSection
     colors: colors-a
     elementId: testimonial
@@ -174,5 +190,4 @@ sections:
       - content/pages/tags/database-notion-irrinunciabili.md
       - content/pages/tags/come-annullare-competizione.md
       - content/pages/tags/3-lezioni-da-200-newsletter.md
-metaTitle: Kit di Sopravvivenza per Creator
 ---
