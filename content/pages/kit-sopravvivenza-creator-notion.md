@@ -21,11 +21,8 @@ sections:
 
 
       Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
-      grandi problemi dei creator: **audience building, monetization e
-      produttività.**
-
-
-      E ti beccherai pure un sacco di** cose su Notion!**
+      grandi problemi dei creator. E ti beccherai pure un sacco di\*\* cose su
+      Notion!\*\*
 
 
       <Script async data-uid="8b13a48318"
@@ -33,6 +30,8 @@ sections:
 
 
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
 
 
 
