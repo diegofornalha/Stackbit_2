@@ -27,11 +27,13 @@ sections:
       E ti beccherai pure un sacco di **cose su Notion**!
 
 
-      <Script async data-uid="8b13a48318"
-      src="https://kit-sopravvivenza-creator.ck.page/8b13a48318/index.js"/>
+      <Script async data-uid="f5c6143929"
+      src="https://kit-sopravvivenza-creator.ck.page/f5c6143929/index.js"/>
 
 
-      > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+      \> "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
 
 
 
