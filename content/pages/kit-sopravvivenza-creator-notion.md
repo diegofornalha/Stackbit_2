@@ -10,13 +10,6 @@ metaTags:
     content: 'https://danieledamico.tech/images/504 (1).jpg'
 title: Kit di sopravvivenza per creator
 colors: colors-a
-backgroundImage:
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
-  type: BackgroundImage
 sections:
   - type: HeroSection
     colors: colors-f
