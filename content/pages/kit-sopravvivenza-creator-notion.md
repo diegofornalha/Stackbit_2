@@ -68,7 +68,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title2: ' un creator senza problemi'
+    title2: ' un notion creator senza problemi'
   - type: TestimonialsSection
     colors: colors-a
     elementId: testimonial
