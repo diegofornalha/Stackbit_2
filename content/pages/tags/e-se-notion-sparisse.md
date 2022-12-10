@@ -8,7 +8,7 @@ metaTags: []
 title: "\U0001F9F0 kSC #17: E se notion sparisse?"
 colors: colors-a
 date: '2022-12-04'
-description: e 3 lezioni imparate
+description: Cosa prenderebbe il suo posto?
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
