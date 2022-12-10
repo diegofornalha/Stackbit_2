@@ -17,11 +17,11 @@ sections:
     backgroundSize: full
     title: Diventa
     text: >+
-      Unisciti a più di 200 creator che utilizzano Notion nelle loro attività.
+      Unisciti a più di 200 **Notion creator**.
 
 
       Ogni settimana riceverai **consigli e tattiche per risolvere** i 3 più
-      grandi problemi dei creator. 
+      grandi problemi dei creator.
 
 
       E ti beccherai pure un sacco di **cose su Notion**!
@@ -32,6 +32,8 @@ sections:
 
 
       > "Ogni volta che arriva il Kit, so che ci sarà qualcosa di utile!"
+
+
 
 
 
