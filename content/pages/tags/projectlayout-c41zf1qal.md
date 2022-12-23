@@ -9,9 +9,7 @@ title: Easy Linkedin Algorithm
 colors: colors-a
 date: '2022-12-23'
 client: Template GRatis
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'UTILIZZA LE REGOLE DI LINKEDIN, PER SPINGERLO AL MASSIMO!'
 featuredImage:
   type: ImageBlock
   url: /images/Notion-645ff8f9.webp
