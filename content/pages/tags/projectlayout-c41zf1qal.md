@@ -17,7 +17,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Notion-645ff8f9.webp
   altText: Project thumbnail image
   caption: ''
 media:
