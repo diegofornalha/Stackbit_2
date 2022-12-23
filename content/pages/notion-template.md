@@ -104,4 +104,5 @@ sections:
       - content/pages/tags/easy-second-brain.md
       - content/pages/tags/projectlayout-n83jrlix1.md
       - content/pages/tags/projectlayout-ia5cz52fm.md
+      - content/pages/tags/projectlayout-c41zf1qal.md
 ---
