@@ -20,7 +20,7 @@ media:
   url: /images/iMac-11.webp
   altText: Project image
 bottomSections: []
-slug: projectlayout-c41zf1qal
+slug: easy-linkedin-algorithm
 ---
 Utilizzi **Linkedin** per **promuovere i tuoi contenuti** o per trovare **opportunità lavorative**?
 
