@@ -24,7 +24,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: null
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
