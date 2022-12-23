@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/iMac-11.webp
   altText: Project image
 bottomSections: []
 slug: projectlayout-c41zf1qal
