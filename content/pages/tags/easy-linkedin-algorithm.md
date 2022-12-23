@@ -22,6 +22,8 @@ media:
 bottomSections: []
 slug: easy-linkedin-algorithm
 ---
+<Script async data-uid="7b0484d72d" src="https://kit-sopravvivenza-creator.ck.page/7b0484d72d/index.js" />
+
 Utilizzi **Linkedin** per **promuovere i tuoi contenuti** o per trovare **opportunità lavorative**?
 
 Allora saprai di sicuro che Linkedin ha le sue **regole**!
@@ -53,3 +55,5 @@ Con **Easy Linkedin Algorithm** potrai:
 *   Raggiungere una platea più ampia di destinatari: potrai ottenere maggiore visibilità e successo su LinkedIn.
 
 Non perdere altro tempo e scarica subito il template **Easy Linkedin Algorithm** per ottenere il massimo dalla tua presenza su LinkedIn.
+
+<Script async data-uid="7b0484d72d" src="https://kit-sopravvivenza-creator.ck.page/7b0484d72d/index.js" />
