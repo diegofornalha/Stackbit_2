@@ -8,7 +8,7 @@ metaTags: []
 title: Easy Linkedin Algorithm
 colors: colors-a
 date: '2022-12-23'
-client: Awesome client
+client: Template GRatis
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
