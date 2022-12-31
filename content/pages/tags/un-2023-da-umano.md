@@ -22,7 +22,6 @@ bottomSections:
     colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Let's do this
     actions:
       - label: Try it now
         altText: ''
