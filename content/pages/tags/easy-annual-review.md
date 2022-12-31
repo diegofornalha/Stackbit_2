@@ -7,9 +7,6 @@ socialImage: null
 metaTags: []
 title: Easy Linkedin Algorithm
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
 date: '2022-12-23'
 client: Template GRatis
 description: 'UTILIZZA LE REGOLE DI LINKEDIN, PER SPINGERLO AL MASSIMO!'
