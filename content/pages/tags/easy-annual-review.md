@@ -66,6 +66,8 @@ O magari la fai ma su fogli di calcolo e/o documenti vari.
 
 Oppure la fai ma senza vederne gli impatti sulla tua vita quotidiana.
 
+\<br/>
+
 Con **Easy Annual Review**, potrai:
 
 *   risparmiare tutto il tempo che sprecheresti a creare la review da 0;
@@ -79,8 +81,6 @@ Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua rev
 Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
 
 <br/>
-
-
 
 PS:
 
