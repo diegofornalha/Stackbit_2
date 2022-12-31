@@ -46,7 +46,7 @@ bottomSections:
         textAlign: left
 slug: easy-annual-review
 ---
-Hai mai provato a fare una Annual Review?
+Hai mai provato a fare una **Annual Review**?
 
 È uno strumento potentissimo, che ti permette di ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12.
 
