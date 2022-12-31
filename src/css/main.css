@@ -232,7 +232,7 @@ h2 {
   width: calc(100% - 1px);
   height: calc(100% - 1px);
 }
-#iscrizione_kit:hover:after {
+#annual_review:hover:after {
   bottom: 2px;
   left: 2px;
 }
