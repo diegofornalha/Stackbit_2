@@ -223,7 +223,7 @@ h2 {
   outline: 0;
 }
 
-#iscrizione_kit:after {
+#annual_review:after {
   content: '';
   position: absolute;
   border: 1px solid #000000;
