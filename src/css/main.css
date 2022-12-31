@@ -219,7 +219,9 @@ h2 {
   outline: 0;
 }
 
-#annual_review_button 
+#annual_review_button {
+  outline: 0;
+}
 
 #iscrizione_kit:after {
   content: '';
