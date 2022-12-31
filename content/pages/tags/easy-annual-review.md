@@ -8,7 +8,7 @@ metaTags: []
 title: Easy ANNUAL REVIEW
 colors: colors-a
 date: '2022-12-23'
-client: Template GRatis
+client: NOTION Template
 description: 'UTILIZZA LE REGOLE DI LINKEDIN, PER SPINGERLO AL MASSIMO!'
 featuredImage:
   type: ImageBlock
