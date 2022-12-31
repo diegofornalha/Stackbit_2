@@ -223,7 +223,7 @@ h2 {
   outline: 0;
 }
 
-#annual_review:after {
+#annual_review_button:after {
   content: '';
   position: absolute;
   border: 1px solid #000000;
