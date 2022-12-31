@@ -46,12 +46,17 @@ bottomSections:
         textAlign: left
 slug: easy-annual-review
 ---
-<Script async data-uid="7b0484d72d" src="https://kit-sopravvivenza-creator.ck.page/7b0484d72d/index.js" />
+Hai mai provato a fare una Annual Review? 
 
-<br/>
+È uno strumento potentissimo, che ti permette di ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12.
 
-<br/>
+della tua attività o della tua carriera? Sei stanco di utilizzare fogli di calcolo o documenti disorganizzati per pianificare il tuo prossimo anno?
 
+Il nostro template Easy Annual Review ti aiuterà a superare questi problemi e a fare una revisione annuale efficace e organizzata.
 
-Hai mai provato a fare una 
+Con Easy Annual Review, potrai:
 
+Tenere traccia dei tuoi obiettivi e delle tue attività passate in modo ordinato e facile da leggere
+Analizzare i tuoi risultati e fare un bilancio dei tuoi progressi
+Pianificare il tuo prossimo anno in modo strategico e mirato
+Non perdere tempo con fogli di calcolo o documenti disorganizzati. Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
