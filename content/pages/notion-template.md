@@ -38,40 +38,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    colors: colors-f
-    elementId: ''
-    backgroundSize: full
-    title: "Easy Second Brain \U0001F9E0"
-    text: |
-      Il potere del Second Brain nel tuo Notion, senza sforzi
-    actions:
-      - altText: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-        url: 'https://danieledamico.gumroad.com/l/easy-second-brain'
-        label: VEDIAMO UN PO'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedProjectsSection
     colors: colors-f
     elementId: ''
@@ -105,4 +71,5 @@ sections:
       - content/pages/tags/projectlayout-n83jrlix1.md
       - content/pages/tags/projectlayout-ia5cz52fm.md
       - content/pages/tags/projectlayout-c41zf1qal.md
+      - content/pages/tags/easy-linkedin-algorithm.md
 ---
