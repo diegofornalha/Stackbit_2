@@ -93,3 +93,10 @@ PS:
 tu che leggi Kit di Sopravvivenza per Creator potrai inserirti nella waiting-list (inserendo il tuo indirizzo e-mail nel form qui sotto o sopra) e quando lancerò il template nei prossimi giorni, lo saprai subito.
 
 **I primi 10 a iscriversi, riceveranno il template GRATIS.**
+
+
+
+
+<Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
+
+
