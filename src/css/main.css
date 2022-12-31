@@ -189,7 +189,7 @@ h2 {
         }
 
 /* CSS */
-#iscrizione_kit {
+#iscrizione_kit,#annual_review_button{
   @apply bg-primary;
   border: 0 solid #E5E7EB;
   box-sizing: border-box;
@@ -217,6 +217,24 @@ h2 {
 
 #iscrizione_kit:focus {
   outline: 0;
+}
+
+#annual_review_button {
+  outline: 0;
+}
+
+#annual_review:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+#annual_review:hover:after {
+  bottom: 2px;
+  left: 2px;
 }
 
 #iscrizione_kit:after {

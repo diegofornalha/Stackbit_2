@@ -31,6 +31,7 @@ bottomSections:
         iconPosition: right
         style: primary
         type: Button
+        elementId: annual_review_button
     styles:
       self:
         height: auto
