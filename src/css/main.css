@@ -232,7 +232,7 @@ h2 {
   width: calc(100% - 1px);
   height: calc(100% - 1px);
 }
-#annual_review:hover:after {
+#annual_review_button:hover:after {
   bottom: 2px;
   left: 2px;
 }
