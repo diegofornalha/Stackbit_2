@@ -25,7 +25,7 @@ bottomSections:
     actions:
       - label: "FAI LA TUA ANNUAL REVIEW \U0001F680"
         altText: ''
-        url: /easy-annual-review
+        url: /tags/easy-annual-review
         showIcon: true
         icon: arrowRight
         iconPosition: right
