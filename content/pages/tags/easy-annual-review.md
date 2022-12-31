@@ -25,9 +25,9 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: >-
-      <Script async data-uid="7b0484d72d"
-      src="https://kit-sopravvivenza-creator.ck.page/7b0484d72d/index.js" />
+    text: >
+      <Script async data-uid="cbbba8d9e9"
+      src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
     styles:
       self:
         height: auto
