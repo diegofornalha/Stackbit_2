@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/iMac - 12 (1).png
+  url: /images/iMac-12-_1_.webp
   altText: Project image
 bottomSections:
   - type: TextSection
