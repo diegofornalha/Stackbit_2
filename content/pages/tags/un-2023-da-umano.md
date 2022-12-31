@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: "\U0001F9F0 kSC #17: E se notion sparisse?"
+title: "\U0001F9F0 kSC #20: un 2023 da umano"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
