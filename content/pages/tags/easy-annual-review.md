@@ -46,9 +46,19 @@ bottomSections:
         textAlign: left
 slug: easy-annual-review
 ---
-Hai mai provato a fare una Annual Review? 
+Hai mai provato a fare una Annual Review?
 
 È uno strumento potentissimo, che ti permette di ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12.
+
+Solo che è un casino crearla.
+
+Ed è un altro grande casino farla.
+
+Perché ci vuole un sacco di tempo e tanta riflessione.
+
+Per questo ho creato questo template.
+
+Easy Annual Review ti aiuterà, almeno col problema del tempo.
 
 della tua attività o della tua carriera? Sei stanco di utilizzare fogli di calcolo o documenti disorganizzati per pianificare il tuo prossimo anno?
 
