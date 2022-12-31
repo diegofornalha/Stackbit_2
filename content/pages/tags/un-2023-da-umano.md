@@ -25,7 +25,7 @@ bottomSections:
     actions:
       - label: Try it now
         altText: ''
-        url: /
+        url: /easy-annual-review
         showIcon: true
         icon: arrowRight
         iconPosition: right
