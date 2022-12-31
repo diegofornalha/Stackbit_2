@@ -48,25 +48,43 @@ slug: easy-annual-review
 ---
 Hai mai provato a fare una **Annual Review**?
 
-È uno strumento potentissimo, che ti permette di ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12.
+È uno strumento potentissimo, che ti permette di **ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12**.
 
 Solo che è un casino crearla.
 
 Ed è un altro grande casino farla.
 
-Perché ci vuole un sacco di tempo e tanta riflessione.
+Perché ci vuole un **sacco di tempo e tanta riflessione**.
 
-Per questo ho creato questo template.
+Fidati, ci sono passato più volte.
 
-Easy Annual Review ti aiuterà, almeno col problema del tempo.
+E per questo ho creato **Easy Annual Review** per risolvere per te almeno il problema del **tempo**.
 
-della tua attività o della tua carriera? Sei stanco di utilizzare fogli di calcolo o documenti disorganizzati per pianificare il tuo prossimo anno?
+Magari non fai la tua Annual Review.
 
-Il nostro template Easy Annual Review ti aiuterà a superare questi problemi e a fare una revisione annuale efficace e organizzata.
+O magari la fai ma su fogli di calcolo e/o documenti vari.
 
-Con Easy Annual Review, potrai:
+Oppure la fai ma senza vederne gli impatti sulla tua vita quotidiana.
 
-Tenere traccia dei tuoi obiettivi e delle tue attività passate in modo ordinato e facile da leggere
-Analizzare i tuoi risultati e fare un bilancio dei tuoi progressi
-Pianificare il tuo prossimo anno in modo strategico e mirato
-Non perdere tempo con fogli di calcolo o documenti disorganizzati. Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
+Con **Easy Annual Review**, potrai:
+
+*   risparmiare tutto il tempo che sprecheresti a creare la review da 0;
+
+*   rendere la Review davvero utile perché avrà impatto sulla tua vita quotidiana;
+
+*   raggiungere i tuoi obiettivi annuali, per davvero;
+
+Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. 
+
+Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
+
+
+
+PS:
+
+**Easy Annual Review è in pre-lancio.**
+
+tu che leggi Kit di Sopravvivenza per Creator potrai inserirti nella waiting-list (inserendo il tuo indirizzo e-mail nel form qui sotto o sopra) e quando lancerò il template nei prossimi giorni, lo saprai subito.
+
+**I primi 10 a iscriversi, riceveranno il template GRATIS.**
+
