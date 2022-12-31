@@ -53,36 +53,5 @@ slug: easy-annual-review
 <br/>
 
 
-Hai mai avuto difficoltà a fare una revisione annuale?
-
-
-
-È uno strumento potente che ti permette di ragionare sugli ultimi 12 mesi e pianificare i prossimi 12.
-
-
-
-Solo che, diciamoci la verità, è un casino crearla e farla.
-
-
-
-Serve tanto tempo per farla e ancor più tempo per strutturarne una adatta alle nostre esigenze.
-
-
-
-Ed è proprio per questo che ho creato Easy Annual Review.
-
-Il nostro template Easy Annual Review ti aiuterà a superare questi problemi e a fare una revisione annuale efficace e organizzata.
-
-Con Easy Annual Review, potrai:
-
-*   Tenere traccia dei tuoi obiettivi e delle tue attività passate in modo ordinato e facile da leggere
-
-*   Analizzare i tuoi risultati e fare un bilancio dei tuoi progressi
-
-*   Pianificare il tuo prossimo anno in modo strategico e mirato
-
-Non perdere tempo con fogli di calcolo o documenti disorganizzati. Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
-
-
-
+Hai mai provato a fare una 
 
