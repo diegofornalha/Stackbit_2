@@ -66,7 +66,7 @@ O magari la fai ma su fogli di calcolo e/o documenti vari.
 
 Oppure la fai ma senza vederne gli impatti sulla tua vita quotidiana.
 
-\<br/>
+<br/>
 
 Con **Easy Annual Review**, potrai:
 
