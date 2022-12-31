@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: Easy ANNUAL REVIEW
 colors: colors-a
-date: '2022-12-23'
+date: '2022-12-31'
 client: NOTION Template
 description: 'LA TUA ANNUAL REVIEW, senza troppi casini'
 featuredImage:
