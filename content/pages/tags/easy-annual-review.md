@@ -46,6 +46,8 @@ bottomSections:
         textAlign: left
 slug: easy-annual-review
 ---
+<Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
+
 Hai mai provato a fare una **Annual Review**?
 
 È uno strumento potentissimo, che ti permette di **ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12**.
