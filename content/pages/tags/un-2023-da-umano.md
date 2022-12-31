@@ -116,23 +116,23 @@ bottomSections:
         textAlign: center
 slug: un-2023-da-umano
 ---
-“Hanno aperto Blockbuster a Napoli”.
+Che sensazione provi quando concludi un task e **metti quella X nella to-do list**?
 
-“Blockbuster? Ma non era fallito?”.
+Bella vero?
 
-È con queste parole che mia cugina Monica mi ha accolto qualche giorno fa.
+E cosa provi quando fai la stessa cosa, ma per il task successivo?
 
-Ero (e sono) a Salerno per qualche giorno e sono passato a salutare zie e zii vari.
+Sempre bella, anche se forse un po' meno, vero?
 
-Lì c’era Monica, e senza scambiarsi i soliti aggiornamenti di vita (che tanto già sapevamo entrambi), mi ha subito dato la notiziona.
+Ma ti sei mai fatto una domanda?
 
-**Solo che io non avevo capito niente.**
+Che succede se l'obiettivo per cui stai eliminando così tanti punti dalla tua task list, fosse un **obiettivo che non vuoi davvero**?
 
 ***
 
 **TL;DR**
 
-*   Se Notion sparisse, cosa prenderebbe il suo posto?
+*   Come NON diventare un robot?
 
 *   Una risorsa per la tua audience building
 
@@ -140,164 +140,169 @@ Lì c’era Monica, e senza scambiarsi i soliti aggiornamenti di vita (che tanto
 
 *   Una risorsa per la tua monetization
 
-**Il tempo di lettura previsto è:** 5 minuti.
+**Il tempo di lettura previsto è:** 5 minuti e 24.
 
 ***
 
 Ehi ciao 👋,
 
-questo è il numero 208 del **Kit di Sopravvivenza per Creator**.
+questo è il numero 20 del **Kit di Sopravvivenza per Creator**.
 
-Ed oggi ti racconterò **tre cose che ho imparato dopo aver scritto 200 newsletter**.
-
-<br />
-
-Il fatto è che **Blockbuster è fallito**.
-
-Era un gigante dei DVD.
-
-Non so molte cose a riguardo, ero piccolo quando Blockbuster era al suo apice, o forse non ero ancora nato.
-
-Ma ho letto un po’ di cose a riguardo.
-
-E so che quando Blockbuster è fallito, è arrivato Netflix.
-
-Poi Disney Plus.
-
-Poi Amazon Prime.
-
-E poi tutti gli altri servizi di streaming del mondo.
-
-Insomma, dalla fine di Blockbuster è **nato un intero mercato**.
-
-Uno in cui ancora non c’è un gigante ben definito, ma ci sarà.
+Ed oggi ti racconterò **come NON diventare un robot.**
 
 <br />
 
-## **SE NOTION SPARISSE, COSA PRENDEREBBE IL SUO POSTO?**
 
-Quello che è successo con Blockbuster è un pattern.
 
-Quando cade il più grande, i più piccoli combattono tra loro per quello che resta.
+La fine dell'anno è sempre un periodo di **riflessioni**.
 
-**E chi vince, poi si prende tutto.**
+Fatti un giro su un social a caso.
 
-La domanda, quindi, è ovvia.
+Decine di post di persone la cui vita non ti riguarda neanche un po' e che condividono il loro fantastico anno di cui non ti importa neanche un po'.
 
-Se domani Notion sparisse, cosa prenderebbe il suo posto?
+C'è da dire però che riflettere sulle vicende dell'ultimo anno è utile.
 
-E me la sono fatta spesso.
+Ti permette di **ragionare su quanto fatto e ti permette di impostare una direzione per il futuro**.
 
-Un po’ perché sono paranoico ed un po’ perché sono catastrofista.
+Ma anche più di questo: **ti evita di diventare un robot**.
 
-Ma ecco le app che, secondo me, promettono di più.
+Ti evita di diventare una macchina da task, che li esegue ed elimina dalla sua lista personale, senza sapere l'obiettivo per cui lo fa.
+
+E se si chiede "Perché l'ho fatto?", si rompe.
+
+Parlo per esperienza, mi ci sono trovato anni fa in questa situazione.
+
+Ed è così che ne sono uscito.
+
+​
+
+## COME NON DIVENTARE UN ROBOT?
+
+La soluzione è semplice: **devi essere consapevole**.
+
+Devi solo chiederti perché fai quello che fai, a cosa punti ecc.
+
+Ma sapere la soluzione non basta, quello che serve è **l'esecuzione**.
+
+Perché non ero in grado di rendere la mia esecuzione più consapevole?
+
+*   perché non sapevo cosa chiedermi;
+
+*   non sapevo dove chiedermelo;
+
+*   non sapevo come chiedermelo.
+
+E nel tentativo di risolvere questi dubbi ho scoperto l’esistenza dei **Review Cycles**.
+
+Che in questo periodo di fine dell’anno ed inizio dell’anno prossimo, prendono la forma di **Annual Review**.
+
+Ed ecco come strutturare la tua Annual Review per il 2023.
+
+​
+
+### COSA CHIEDERSI NELL'ANNUAL REVIEW?
+
+Diciamoci la verità, la ciccia dell’Annual review è proprio in questo punto.
+
+Quello che ti chiedi (e cosa rispondi) è ciò che ha più **impatto** nel definire una direzione per i tuoi prossimi 12 mesi.
+
+Per questo è importante definire una **struttura** e capire quali domande ha senso porsi.
+
+Sull’argomento ci hanno ragionato tante persone: da **Ali Abdaal**, ad **August Bradley** fino a **Sahil Bloom**.
+
+Ed è proprio la struttura di Sahil che seguo.
+
+Analizza gli ultimi 12 mesi e pianifica i prossimi da questi punti di vista:
+
+*   **Big Goals**: verso quali obiettivi grandi ed a lungo termina hai lavorato?
+    Quali hai raggiunto?
+    Quali non sono più validi? Quali nuovi Big Goals sono emersi e vorresti raggiungere?
+    ​
+    ​*Esempio: raggiungere i 1000 iscritti a questa newsletter nel 2023
+    ​*
+
+*   **Checkpoint Goals**: ora che hai definito i Big Goals, analizzali e rendili più semplici.
+    Scomponi i Big Goals in obiettivi più piccoli, definiti e raggiungibili.
+    ​
+    ​*Esempio: raggiungere 500 iscritti entro giugno 2023
+    ​*
+
+*   **Daily Systems**: queste sono le azioni che, fatte di giorno in giorno, ti permettono di raggiungere prima i Checkpoint Goals e poi i Big Goals.
+    ​
+    ​*Esempio: scrittura newsletter quotidiana e newsletter settimanale
+    ​*
+
+*   **Anti-Goals**: cosa NON vuoi che accada nel tuo percorso per raggiungere i Big Goals?
+    È importante farsi questa domanda, perché arriverai al punto in cui dovrai darti delle priorità e così non andrai in tilt.
+    ​
+    ​*Esempio: non permettere alle mie altre attività di farmi trascurare la newsletter*
+
+*​*
+
+### DOVE FARE L'ANNUAL REVIEW?
+
+La risposta a questa domanda è semplice: **utilizza lo strumento con cui gestisci le tue attività quotidiane**.
+
+Visto che io gestisco la maggior parte delle mie attività su Notion, è su **Notion** che faccio l’Annual Review.
+
+Ma questo non significa che tu debba fare lo stesso: è più importante fare l’Annual Review che farla su Notion.
+
+Ecco **altri tool** che potresti utilizzare:
+
+*   Obsidian;
+
+*   Roam Research;
 
 *   Tana;
 
-*   ClickUp;
+*   Evernote;
 
-*   Qatalog.
+*   Todoist.
 
-Perché proprio queste?
+Se posso darti un consiglio però, ti direi di scegliere un tool che ti permette di **costruire sistemi**.
 
-Perché rispettivamente risolvono 3 dei bisogni per cui oggi le persone utilizzano Notion.
+Solo in questo modo potrai cogliere al 100% i vantaggi e l’impatto positivo che l’Annual Review avrà sulla tua vita.
 
-Ti spiego meglio.
+​
 
-<br />
+### COME FARE L'ANNUAL REVIEW?
 
-### TANA - PER CHI VUOLE CENTRALIZZARE E COSTRUIRE
+Anche in questo caso, **fatto è meglio che perfetto**.
 
-Il numero di persone che sul mio Twitter parla di [Tana](https://tana.inc/) è imbarazzante.
+E l'importante è fare la tua annual review entro le **prime settimane di gennaio**, altrimenti perdi la motivazione.
 
-Figurati che l’ho scoperta grazie a **Tiago Forte**, e lui è quello che ha creato il Second Brain, il framework che ho rimodulato in [Easy Second Brain](https://danieledamico.gumroad.com/l/easy-second-brain?layout=profile).
+Su Evernote puoi anche creare una semplice lista.
 
-Direi che se ne intende di sta roba.
+Mentre su Notion puoi creare un **sistema più complesso**, come quello che nel corso degli anni ho creato io.
 
-Al momento puoi accederci solo tramite invito, dopo esserti iscritto alla waiting list.
+​![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/ojq8c7koUxUegCyztzb5V9/email)
 
-Mi ci sono iscritto mesi fa e niente ancora, magari mi arriva il regalo a Natale.
+![](https://embed.filekitcdn.com/e/cdkvYa3enxKN3USgaH1Ddk/54YL7YwwdceezkUjJTHBtA/email)​
 
-La vera domanda però è un’altra: **che fa sta roba**?
+Poi, ci sono tante altre **regole** che potresti seguire per fare la tua Annual Review.
 
-**E perché la aspettano così in tanti?**
+Ci sono tante domande che ti potresti fare.
 
-Tana punta a diventare il **tuo sistema operativo**.
+Ma la cosa più importante, fidati che ci sono passato, è proprio quella di farla.
 
-Punta a centralizzare la tua vita digitale e permetterti di costruire cose.
+Tra **complessità e semplicità scegli la seconda**: non deve essere nulla di figo, complesso o perfetto, deve essere qualcosa di utile!
 
-Proprio come oggi puoi fare con Notion grazie alla raccolta di note e la possibilità di creare template, sistemi o quel che ti pare.
+​
 
-Ecco alcune delle sue feature più interessanti:
+Ora, non ti posso dire che facendo l'Annual Review il tuo anno sarà fantastico e raggiungerai i tuoi obiettivi.
 
-*   **I supertags**: ti permetteranno di trasformare le tue note grezze in quello che ti serve (task, bug, follow-up o boh);
+Te lo auguro, ma non te lo posso promettere.
 
-*   **Il graph**: una funzione presa da tool come Roam Research ed Obsidian e che ti permette di connettere tutte le tue note tra loro, senza la classica struttura in cartelle, archivi ecc.
+Posso dirti però che con un Annual Review in tuo supporto, sarai in grado di affrontare qualsiasi progetto del 2023 con la consapevolezza necessaria per trarne il meglio.
 
-*   **Il flow**: le tue note partono da uno stato grezzo ed evolvono col tempo. Poi decidi tu dove farle finire, come e quando.
+In più, dato che voglio aiutarti a raggiungere i tuoi obiettivi ho pensato una cosa.
 
-<br />
+Ho pensato di prendere la struttura della mia **Annual Review** e renderla un **template**.
 
-### CLICKUP - PER CHI VUOLE COLLABORARE CON ALTRI E VUOLE BENE A NOTION
+Così non avrai scuse o problemi a farla, li avrò già risolti io per te!
 
-Fino a qualche mese fa, su Product Hunt potevi trovare decine di template, database e dashboard creati con Notion.
+**Clicca il pulsante** qui sotto e vedrai.
 
-Ora invece, puoi trovare lo stesso numero di dashboard, database e template fatti con [Clickup](https://clickup.com/).
-
-Dando uno sguardo a quello che si può fare, sembra che Clickup punti ad un **utilizzo molto più collaborativo e di project management**.
-
-Tra i tre tool di cui ti parlo oggi, questo è quello che più si **avvicina al Notion che conosciamo**.
-
-E quindi, se Notion cadesse, credo che Clickup avrebbe molto successo.
-
-Anche perché è una soluzione che già ora ha un suo bel seguito.
-
-E soprattutto è già pubblica.
-
-<br />
-
-### QATALOG - PER CHI ODIA L'AI DI NOTION
-
-Questa scommetto che non la conoscevi.
-
-È un **sistema operativo per il lavoro** ed è in giro da poco.
-
-Ma c’è una cosa che ha attirato la mia attenzione.
-
-E se non fosse per questa, forse avrei dimenticato [Qatalog](https://qatalog.com/) molto presto.
-
-**Qatalog utilizza l’AI, ma non come Notion!**
-
-Non punterà a rendere più facile la creazione di idee, contenuti o altro.
-
-Qatalog punterà a rendere più facile la **creazione della struttura del tuo spazio**.
-
-Si, hai presente i template?
-
-Quelli che danno una struttura definita alle informazioni presenti sul tuo Notion?
-
-Ecco, Qatalog punta a rendere automatica la creazione di questi template.
-
-E se i template sono soluzioni “standard”, Qatalog punta ad utilizzare l’AI per rendere la struttura del tuo spazio molto più **personale**.
-
-<br />
-
-Io comunque non avevo capito niente.
-
-Monica aveva detto “Starbucks” e non “Blockbuster”.
-
-Io però non avevo ancora preso il primo caffè della giornata e questi sono i risultati: confusione nella mia testa e newsletter pessimiste.
-
-Anzi no, **questa è una newsletter ottimista**.
-
-Perché quando cade un gigante c’è un **periodo di caos**.
-
-E dal caos nascono le **opportunità**.
-
-Quindi, vuoi provare qualcosa di diverso da Notion e fare una scommessa col futuro?
-
-Prova una di questi tool e fammi sapere cosa scegli.
-
-Detto questo, per oggi è tutto, buona settimana e beccati le **risorse**.
+Detto questo, per oggi è tutto, buon 2023 e beccati le **risorse**.
 
 Daniele
