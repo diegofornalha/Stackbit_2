@@ -11,7 +11,6 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
 date: '2022-12-11'
-client: Awesome client
 description: O da robot?
 featuredImage:
   type: ImageBlock
