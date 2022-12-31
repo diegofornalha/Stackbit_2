@@ -50,40 +50,61 @@ slug: easy-annual-review
 
 <br/>
 
-
-
 <br/>
 
-Utilizzi **Linkedin** per **promuovere i tuoi contenuti** o per trovare **opportunità lavorative**?
 
-Allora saprai di sicuro che Linkedin ha le sue **regole**!
-
-Ed è importante conoscere queste regole, così da poterle utilizzare per raggiungere i vostri obiettivi.
-
-C'è solo un **problema** però!
-
-Linkedin aggiorna spesso le regole (che puoi chiamare algoritmo) ed è sempre più difficile capire quali strategie adottare per ottenere il massimo risultato dalla tua presenza sulla piattaforma.
-
-Quindi, non solo dovresti essere sempre aggiornato ma anche averle sempre a disposizione.
-
-Magari nel posto dove le applichi, lì dove crei i tuoi contenuti per Linkedin.
-
-Così eviteresti di perdere tempo e di non raggiungere i tuoi obiettivi a causa di errori o di strategie inefficaci.
-
-Ed è proprio per questo che ho creato **Easy Linkedin Algorithm**!
-
-Si tratta di un template Notion che ti permette di avere sempre a disposizione le regole del nuovo algoritmo di LinkedIn, in modo da poter pianificare al meglio la vostra presenza sulla piattaforma e ottenere il massimo risultato.
-
-Basta scaricare il template e seguire le istruzioni per avere sempre a portata di mano le informazioni più importanti.
-
-Con **Easy Linkedin Algorithm** potrai:
-
-*   Risparmiare tempo e sforzo: non dovrai più cercare informazioni sull'algoritmo di LinkedIn in giro per il web;
-
-*   Evitare errori e strategie inefficaci: avrai sempre a disposizione le regole aggiornate e potrai pianificare al meglio la tua presenza sulla piattaforma;
-
-*   Raggiungere una platea più ampia di destinatari: potrai ottenere maggiore visibilità e successo su LinkedIn.
-
-Non perdere altro tempo e scarica subito il template **Easy Linkedin Algorithm** per ottenere il massimo dalla tua presenza su LinkedIn.
+Hai mai provato a fare una 
 
 
+
+È quela breve revisione annuale che ti permette di 
+
+
+
+È uno strumento utilissimo e che ti permette di raggiungere i tuoi obiettivi in modo consapevole.
+
+
+
+Solo che è un 
+
+
+
+Ed è altrettanto un casino fare in modo che questa abbia 
+
+
+
+Per non parlare delle modalità e strumenti di creazione.
+
+
+
+Magari utilizzi i 
+
+
+
+Per questo ho creato questo template Notion. 
+
+**Easy Annual Review** ti aiuterà a superare questi problemi e a fare una revisione annuale efficace e organizzata.
+
+Con Easy Annual Review, potrai:
+
+*   **Tenere traccia dei tuoi obiettivi** e delle tue attività passate in modo ordinato e facile da leggere;
+
+*   **Analizzare** i tuoi risultati e fare un bilancio dei tuoi progressi;
+
+*   **Pianificare** il tuo prossimo anno in modo strategico e mirato;
+
+*   Cominciare ad **agire in maniera consapevole**;
+
+Non perdere tempo con fogli di calcolo o documenti disorganizzati.
+
+Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. 
+
+
+
+PS:
+
+Il template è in **pre-lancio.**
+
+Solo te che leggi Kit di Sopravvivenza per Creator puoi aggiungere il tuo indirizzo e-mail alla waiting list e, quando rilascerò il template, potrai scaricare il template.
+
+I primi 10 nella witing list riceveranno il **template GRATIS**. 
