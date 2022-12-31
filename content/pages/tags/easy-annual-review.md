@@ -78,7 +78,7 @@ Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua rev
 
 Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
 
-\</br>
+</br>
 
 PS:
 
