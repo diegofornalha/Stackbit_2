@@ -23,7 +23,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: 'FAI LA TUA ANNUAL REVIEW '
+      - label: "FAI LA TUA ANNUAL REVIEW \U0001F680"
         altText: ''
         url: /easy-annual-review
         showIcon: true
