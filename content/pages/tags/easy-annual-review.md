@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Easy Linkedin Algorithm
+title: Easy ANNUAL REVIEW
 colors: colors-a
 date: '2022-12-23'
 client: Template GRatis
