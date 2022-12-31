@@ -23,7 +23,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     actions:
-      - label: Try it now
+      - label: 'FAI LA TUA ANNUAL REVIEW '
         altText: ''
         url: /easy-annual-review
         showIcon: true
