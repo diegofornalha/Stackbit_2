@@ -50,6 +50,8 @@ slug: easy-annual-review
 ---
 <Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
 
+<br/>
+
 Hai mai provato a fare una **Annual Review**?
 
 È uno strumento potentissimo, che ti permette di **ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12**.
@@ -94,7 +96,7 @@ tu che leggi Kit di Sopravvivenza per Creator potrai inserirti nella waiting-lis
 
 **I primi 10 a iscriversi, riceveranno il template GRATIS.**
 
-
+<br/>
 
 
 <Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
