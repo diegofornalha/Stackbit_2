@@ -25,9 +25,11 @@ bottomSections:
     elementId: ''
     variant: variant-a
     subtitle: null
-    text: >-
-      <Script async data-uid="7b0484d72d"
-      src="https://kit-sopravvivenza-creator.ck.page/7b0484d72d/index.js" />
+    text: |+
+
+
+
+
     styles:
       self:
         height: auto
@@ -46,6 +48,10 @@ bottomSections:
         textAlign: left
 slug: easy-annual-review
 ---
+<Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
+
+<br/>
+
 Hai mai provato a fare una **Annual Review**?
 
 È uno strumento potentissimo, che ti permette di **ragionare sugli ultimi 12 mesi e di pianificare i prossimi 12**.
@@ -89,3 +95,11 @@ PS:
 tu che leggi Kit di Sopravvivenza per Creator potrai inserirti nella waiting-list (inserendo il tuo indirizzo e-mail nel form qui sotto o sopra) e quando lancerò il template nei prossimi giorni, lo saprai subito.
 
 **I primi 10 a iscriversi, riceveranno il template GRATIS.**
+
+<br/>
+<br/>
+
+
+<Script async data-uid="cbbba8d9e9" src="https://kit-sopravvivenza-creator.ck.page/cbbba8d9e9/index.js" />
+
+
