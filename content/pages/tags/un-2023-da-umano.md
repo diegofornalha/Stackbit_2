@@ -29,7 +29,7 @@ bottomSections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         type: Button
     styles:
       self:
