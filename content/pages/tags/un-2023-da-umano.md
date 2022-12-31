@@ -10,7 +10,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-date: '2022-12-11'
+date: '2023-01-01'
 description: O da robot?
 featuredImage:
   type: ImageBlock
