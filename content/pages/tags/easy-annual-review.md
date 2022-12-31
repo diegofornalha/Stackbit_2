@@ -74,11 +74,11 @@ Con **Easy Annual Review**, potrai:
 
 *   raggiungere i tuoi obiettivi annuali, per davvero;
 
-Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale. 
+Inizia subito a utilizzare Easy Annual Review e ottieni il massimo dalla tua revisione annuale.
 
 Provalo ora e trasforma la tua revisione annuale in un processo semplice e organizzato.
 
-
+\</br>
 
 PS:
 
@@ -87,4 +87,3 @@ PS:
 tu che leggi Kit di Sopravvivenza per Creator potrai inserirti nella waiting-list (inserendo il tuo indirizzo e-mail nel form qui sotto o sopra) e quando lancerò il template nei prossimi giorni, lo saprai subito.
 
 **I primi 10 a iscriversi, riceveranno il template GRATIS.**
-
